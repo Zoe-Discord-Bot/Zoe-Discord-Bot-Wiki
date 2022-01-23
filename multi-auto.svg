@@ -1,0 +1,453 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="300" xml:lang="en">
+<defs>
+
+
+  <style type="text/css">@import url(https://translate.zoe-discord-bot.ch/static/font-source/source-sans-pro.css);</style>
+
+
+</defs>
+<g id="layer1">
+
+
+<a xlink:href="https://translate.zoe-discord-bot.ch/languages/ar/zoe-discord-bot/" xlink:title="Arabic">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080;text-anchor:end;"
+   x="190"
+   y="20"
+   id="text20">Arabic</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080"
+   x="360"
+   y="20"
+   id="percent20">77%</text>
+<rect
+   style="fill:#38f;fill-opacity:1;stroke:none"
+   id="rect20"
+   width="115"
+   height="6"
+   x="200"
+   rx="2"
+   y="14" />
+</a>
+
+<a xlink:href="https://translate.zoe-discord-bot.ch/languages/zh_Hans/zoe-discord-bot/" xlink:title="Chinese (Simplified)">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080;text-anchor:end;"
+   x="190"
+   y="35"
+   id="text35">Chinese (Simplified)</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080"
+   x="360"
+   y="35"
+   id="percent35">8%</text>
+<rect
+   style="fill:#f6664c;fill-opacity:1;stroke:none"
+   id="rect35"
+   width="12"
+   height="6"
+   x="200"
+   rx="2"
+   y="29" />
+</a>
+
+<a xlink:href="https://translate.zoe-discord-bot.ch/languages/nl/zoe-discord-bot/" xlink:title="Dutch">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080;text-anchor:end;"
+   x="190"
+   y="50"
+   id="text50">Dutch</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080"
+   x="360"
+   y="50"
+   id="percent50">7%</text>
+<rect
+   style="fill:#f6664c;fill-opacity:1;stroke:none"
+   id="rect50"
+   width="10"
+   height="6"
+   x="200"
+   rx="2"
+   y="44" />
+</a>
+
+<a xlink:href="https://translate.zoe-discord-bot.ch/languages/en/zoe-discord-bot/" xlink:title="English">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080;text-anchor:end;"
+   x="190"
+   y="65"
+   id="text65">English</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080"
+   x="360"
+   y="65"
+   id="percent65">100%</text>
+<rect
+   style="fill:#2eccaa;fill-opacity:1;stroke:none"
+   id="rect65"
+   width="150"
+   height="6"
+   x="200"
+   rx="2"
+   y="59" />
+</a>
+
+<a xlink:href="https://translate.zoe-discord-bot.ch/languages/fr/zoe-discord-bot/" xlink:title="French">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080;text-anchor:end;"
+   x="190"
+   y="80"
+   id="text80">French</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080"
+   x="360"
+   y="80"
+   id="percent80">89%</text>
+<rect
+   style="fill:#2eccaa;fill-opacity:1;stroke:none"
+   id="rect80"
+   width="134"
+   height="6"
+   x="200"
+   rx="2"
+   y="74" />
+</a>
+
+<a xlink:href="https://translate.zoe-discord-bot.ch/languages/ka/zoe-discord-bot/" xlink:title="Georgian">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080;text-anchor:end;"
+   x="190"
+   y="95"
+   id="text95">Georgian</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080"
+   x="360"
+   y="95"
+   id="percent95">2%</text>
+<rect
+   style="fill:#f6664c;fill-opacity:1;stroke:none"
+   id="rect95"
+   width="4"
+   height="6"
+   x="200"
+   rx="2"
+   y="89" />
+</a>
+
+<a xlink:href="https://translate.zoe-discord-bot.ch/languages/de/zoe-discord-bot/" xlink:title="German">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080;text-anchor:end;"
+   x="190"
+   y="110"
+   id="text110">German</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080"
+   x="360"
+   y="110"
+   id="percent110">100%</text>
+<rect
+   style="fill:#2eccaa;fill-opacity:1;stroke:none"
+   id="rect110"
+   width="150"
+   height="6"
+   x="200"
+   rx="2"
+   y="104" />
+</a>
+
+<a xlink:href="https://translate.zoe-discord-bot.ch/languages/he/zoe-discord-bot/" xlink:title="Hebrew">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080;text-anchor:end;"
+   x="190"
+   y="125"
+   id="text125">Hebrew</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080"
+   x="360"
+   y="125"
+   id="percent125">0%</text>
+<rect
+   style="fill:#f6664c;fill-opacity:1;stroke:none"
+   id="rect125"
+   width="0"
+   height="6"
+   x="200"
+   rx="2"
+   y="119" />
+</a>
+
+<a xlink:href="https://translate.zoe-discord-bot.ch/languages/it/zoe-discord-bot/" xlink:title="Italian">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080;text-anchor:end;"
+   x="190"
+   y="140"
+   id="text140">Italian</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080"
+   x="360"
+   y="140"
+   id="percent140">92%</text>
+<rect
+   style="fill:#2eccaa;fill-opacity:1;stroke:none"
+   id="rect140"
+   width="138"
+   height="6"
+   x="200"
+   rx="2"
+   y="134" />
+</a>
+
+<a xlink:href="https://translate.zoe-discord-bot.ch/languages/lv/zoe-discord-bot/" xlink:title="Latvian">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080;text-anchor:end;"
+   x="190"
+   y="155"
+   id="text155">Latvian</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080"
+   x="360"
+   y="155"
+   id="percent155">0%</text>
+<rect
+   style="fill:#f6664c;fill-opacity:1;stroke:none"
+   id="rect155"
+   width="1"
+   height="6"
+   x="200"
+   rx="2"
+   y="149" />
+</a>
+
+<a xlink:href="https://translate.zoe-discord-bot.ch/languages/fa/zoe-discord-bot/" xlink:title="Persian">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080;text-anchor:end;"
+   x="190"
+   y="170"
+   id="text170">Persian</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080"
+   x="360"
+   y="170"
+   id="percent170">10%</text>
+<rect
+   style="fill:#f6664c;fill-opacity:1;stroke:none"
+   id="rect170"
+   width="15"
+   height="6"
+   x="200"
+   rx="2"
+   y="164" />
+</a>
+
+<a xlink:href="https://translate.zoe-discord-bot.ch/languages/pl/zoe-discord-bot/" xlink:title="Polish">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080;text-anchor:end;"
+   x="190"
+   y="185"
+   id="text185">Polish</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080"
+   x="360"
+   y="185"
+   id="percent185">48%</text>
+<rect
+   style="fill:#f6664c;fill-opacity:1;stroke:none"
+   id="rect185"
+   width="73"
+   height="6"
+   x="200"
+   rx="2"
+   y="179" />
+</a>
+
+<a xlink:href="https://translate.zoe-discord-bot.ch/languages/pt/zoe-discord-bot/" xlink:title="Portuguese">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080;text-anchor:end;"
+   x="190"
+   y="200"
+   id="text200">Portuguese</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080"
+   x="360"
+   y="200"
+   id="percent200">89%</text>
+<rect
+   style="fill:#2eccaa;fill-opacity:1;stroke:none"
+   id="rect200"
+   width="134"
+   height="6"
+   x="200"
+   rx="2"
+   y="194" />
+</a>
+
+<a xlink:href="https://translate.zoe-discord-bot.ch/languages/pt_BR/zoe-discord-bot/" xlink:title="Portuguese (Brazil)">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080;text-anchor:end;"
+   x="190"
+   y="215"
+   id="text215">Portuguese (Brazil)</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080"
+   x="360"
+   y="215"
+   id="percent215">19%</text>
+<rect
+   style="fill:#f6664c;fill-opacity:1;stroke:none"
+   id="rect215"
+   width="29"
+   height="6"
+   x="200"
+   rx="2"
+   y="209" />
+</a>
+
+<a xlink:href="https://translate.zoe-discord-bot.ch/languages/pt_PT/zoe-discord-bot/" xlink:title="Portuguese (Portugal)">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080;text-anchor:end;"
+   x="190"
+   y="230"
+   id="text230">Portuguese (Portugal)</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080"
+   x="360"
+   y="230"
+   id="percent230">0%</text>
+<rect
+   style="fill:#f6664c;fill-opacity:1;stroke:none"
+   id="rect230"
+   width="1"
+   height="6"
+   x="200"
+   rx="2"
+   y="224" />
+</a>
+
+<a xlink:href="https://translate.zoe-discord-bot.ch/languages/ro/zoe-discord-bot/" xlink:title="Romanian">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080;text-anchor:end;"
+   x="190"
+   y="245"
+   id="text245">Romanian</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080"
+   x="360"
+   y="245"
+   id="percent245">15%</text>
+<rect
+   style="fill:#f6664c;fill-opacity:1;stroke:none"
+   id="rect245"
+   width="22"
+   height="6"
+   x="200"
+   rx="2"
+   y="239" />
+</a>
+
+<a xlink:href="https://translate.zoe-discord-bot.ch/languages/ru/zoe-discord-bot/" xlink:title="Russian">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080;text-anchor:end;"
+   x="190"
+   y="260"
+   id="text260">Russian</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080"
+   x="360"
+   y="260"
+   id="percent260">55%</text>
+<rect
+   style="fill:#38f;fill-opacity:1;stroke:none"
+   id="rect260"
+   width="82"
+   height="6"
+   x="200"
+   rx="2"
+   y="254" />
+</a>
+
+<a xlink:href="https://translate.zoe-discord-bot.ch/languages/es/zoe-discord-bot/" xlink:title="Spanish">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080;text-anchor:end;"
+   x="190"
+   y="275"
+   id="text275">Spanish</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080"
+   x="360"
+   y="275"
+   id="percent275">91%</text>
+<rect
+   style="fill:#2eccaa;fill-opacity:1;stroke:none"
+   id="rect275"
+   width="136"
+   height="6"
+   x="200"
+   rx="2"
+   y="269" />
+</a>
+
+<a xlink:href="https://translate.zoe-discord-bot.ch/languages/tr/zoe-discord-bot/" xlink:title="Turkish">
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080;text-anchor:end;"
+   x="190"
+   y="290"
+   id="text290">Turkish</text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:11px;font-family:'Source Sans 3',Sans;fill:#808080"
+   x="360"
+   y="290"
+   id="percent290">41%</text>
+<rect
+   style="fill:#f6664c;fill-opacity:1;stroke:none"
+   id="rect290"
+   width="62"
+   height="6"
+   x="200"
+   rx="2"
+   y="284" />
+</a>
+
+
+</g>
+</svg>
+
+
