@@ -2,7 +2,7 @@
 title: Zoe Patch Notes
 description: Here you can have a look at Zoe's patch notes.
 published: true
-date: 2021-09-14T05:00:44.373Z
+date: 2022-02-03T13:19:09.083Z
 tags: patch, patch notes, version, patch note
 editor: ckeditor
 dateCreated: 2021-07-13T11:20:02.526Z
@@ -16,15 +16,15 @@ dateCreated: 2021-07-13T11:20:02.526Z
     <tbody>
       <tr>
         <td><strong>Current version:</strong></td>
-        <td><strong>v1.11.0.2.2</strong></td>
+        <td><strong>v1.11.1</strong></td>
       </tr>
       <tr>
         <td><strong>Main novelty(s):</strong></td>
-        <td>Match-V5 update</td>
+        <td>Optimization patches</td>
       </tr>
       <tr>
         <td><strong>Date of update:</strong></td>
-        <td><strong>09/13/2021</strong></td>
+        <td><strong>02/03/2022</strong></td>
       </tr>
       <tr>
         <td>&nbsp;</td>
@@ -32,11 +32,11 @@ dateCreated: 2021-07-13T11:20:02.526Z
       </tr>
       <tr>
         <td>Next update:</td>
-        <td>v1.11.0.2.3</td>
+        <td>v1.11.2</td>
       </tr>
       <tr>
         <td>Last update:</td>
-        <td>v1.11.0.2.1 - 08/09/2021</td>
+        <td>v1.11.0.2.2 - 09/13/2021</td>
       </tr>
     </tbody>
   </table>
@@ -46,11 +46,33 @@ dateCreated: 2021-07-13T11:20:02.526Z
 <p>&nbsp;</p>
 <figure class="table">
   <table>
+    <thead>
+      <tr>
+        <th><strong>Version</strong></th>
+        <th><strong>Patch date&nbsp;</strong></th>
+        <th><strong>Patch note</strong></th>
+      </tr>
+    </thead>
     <tbody>
       <tr>
-        <td><strong>Version</strong></td>
-        <td><strong>Patch date&nbsp;</strong></td>
-        <td><strong>Patch note &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></td>
+        <td>v1.11.1</td>
+        <td>02/03/2022</td>
+        <td>
+          <h1>Pre-Subscription Update</h1>
+          <h3>V1.11.0.2.2 -&gt; V1.11.1</h3>
+          <p>This patch note contains all the changes that have been made since November. I'll probably forget some things as there were a lot of them, but here are the main additions:</p>
+          <p>- <strong>Optimization</strong> New analytics tools for developers. Allows for better optimization of the use of the Riot API.</p>
+          <p>- <strong>Optimization</strong> Added a cache for the match history.</p>
+          <p>- <strong>Rework</strong> Redesign of the match sending system. Zoe should no longer have an overload problem. This is a massive step.</p>
+          <p>- <strong>QOL</strong> added a "generated x minutes ago" section to the leaderboards, infochannel and clash channel.</p>
+          <p>- <strong>New Beta testing</strong> of new features on some servers.</p>
+          <p>- Many<strong> bug fixes</strong></p>
+          <p>&nbsp;</p>
+          <p>And that's about it! I'm really excited to show you the new features I've been working on for the last 4 months.</p>
+          <p>As always, if you have any bugs, feedback or requests, don't hesitate to report them in the appropriate channels.</p>
+          <p>If you want to help me cover the costs of Zoe's server, you can do so here: <a href="https://bit.ly/support-zoe">https://bit.ly/support-zoe</a> (Thanks a lot!)</p>
+          <p>Thanks to sileNtF1, ninjoi, Deamon, SebastienNoll for their big contribution to Zoe! It really helps a lot.</p>
+        </td>
       </tr>
       <tr>
         <td>v1.11.0.2.2</td>
@@ -60,12 +82,12 @@ dateCreated: 2021-07-13T11:20:02.526Z
           <h3>V1.11.0.2.1 -&gt; V1.11.0.2.2</h3>
           <p>Hello everyone! This update allows Zoe to use the new Riot api for matches (also called Match-V5). In addition to this simple update, the entire Riot server calling system has been updated with the migration to the R4J library. And not least, the entire caching system has been redone with a dedicated MongoDB database. The update caused some problems. The winrates for infocards are temporarily disabled to compensate for the overload.</p>
           <p>&nbsp;</p>
-          <p>-Update Zoe can now use the new match api (Match-V5)</p>
-          <p>-Migration The entire system of calls to Riot servers has been updated.</p>
-          <p>-Rework The data cache system has been migrated to a dedicated database to avoid performance problems.</p>
-          <p>-Temporary issue Winrates in infocards have been disabled due to the limited access to Riot's servers (new access limit with this new system). I work on it.</p>
+          <p>-<strong>Update</strong> Zoe can now use the new match api (Match-V5)</p>
+          <p>-<strong>Migration</strong> The entire system of calls to Riot servers has been updated.</p>
+          <p>-<strong>Rework</strong> The data cache system has been migrated to a dedicated database to avoid performance problems.</p>
+          <p>-<strong>Temporary issue</strong> Winrates in infocards have been disabled due to the limited access to Riot's servers (new access limit with this new system). I work on it.</p>
           <p>&nbsp;</p>
-          <p>Next patch: Features asked by users (For more information, please check #dev-status)</p>
+          <p><strong>Next patch</strong>: Features asked by users (For more information, please check #dev-status)</p>
           <p>&nbsp;</p>
           <p>Disclaimer: You may not realise it but the scale of this update is very large. There is a higher probability of new bugs in already existent features than in other updates. Please report them so I can fix them quickly.</p>
           <p>&nbsp;</p>
