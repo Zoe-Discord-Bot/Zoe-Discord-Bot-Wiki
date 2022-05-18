@@ -2,15 +2,18 @@
 title: Refresh mode
 description: Explains what a refresh mode is.
 published: true
-date: 2021-07-08T04:26:23.281Z
+date: 2022-05-18T15:09:56.514Z
 tags: update, refreh, mode, refresh mode, zoe mode
 editor: ckeditor
 dateCreated: 2021-07-07T19:15:54.142Z
 -->
 
-<h1>Refresh mode</h1>
+<h1>Refresh &amp; Refresh mode</h1>
 <h2>Information</h2>
-<p>The refresh mode is set automatically by Zoe, depending on how Zoe is loaded. When Zoe is in classic mode, the showed refresh rate is an estimation since she doesn't work technically with a refresh rate. Zoe refreshes each servers as fast as she can.</p>
+<p>&nbsp;All servers are updated at least once an hour. Unfortunately, there is currently no way to increase this in a stable way.</p>
+<p>What you can do is be online and activate Discord presence, Zoe will detect the start and end of your game and update directly at the right time. This is sufficient for most cases.</p>
+<p>&nbsp;</p>
+<p>There are plans to rework the refresh system to make it smarter, with a system that detects the hours of activity per account and refreshes them more frequently during those periods. But this isnt implemented yet.</p>
 <p>&nbsp;</p>
 <h3>Related commands/pages:</h3>
 <ul>
@@ -18,11 +21,13 @@ dateCreated: 2021-07-07T19:15:54.142Z
 </ul>
 <p>&nbsp;</p>
 <h2>Refresh With Game Detection (smart mode)</h2>
-<p>When a registered user has Discord Presence enabled, Zoe can see the start of a game and will trigger a refresh. This increases the reactivity of Zoe by a ton. This is why it is highly recommended to have Discord Presence enabled if you want to have a good result from Zoe.</p>
-<p>Note : If you are sharing your screen with the built-in Stream feature of Discord, the game won't be detected. (Because it's showing “Currently streaming League of Legends” instead of “In game”).</p>
+<p>If a registered user has activated the Discord presence, Zoe can see the start and end of a game and will trigger an update. This increases Zoe's responsiveness many times over. Therefore, it is highly recommended to activate the Discord presence if you want to get good &amp; fast results with Zoe.</p>
+<p>&nbsp;</p>
+<p>Note: If you share your screen with Discord's built-in stream function, the game will not be detected. (This is because "Currently streaming League of Legends" is displayed instead of "In game").</p>
 <p>&nbsp;</p>
 <h2>Refresh Command</h2>
-<p>This is a command that triggers a refresh of the whole server (infochannel, rank channel and leaderboards / Not Clash Channel).</p>
+<p>This is a command that triggers a refresh manually for one server.</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2>Passive Refresh (classic mode)</h2>
 <p>Zoe refreshs each server one by one. The refresh rate is an estimation of how many time this will take to refresh all servers. When the refresh rate is higher than 60 minutes, smart mode is triggered.</p>
