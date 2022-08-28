@@ -2,7 +2,7 @@
 title: Zoe Patch Notes
 description: Here you can have a look at Zoe's patch notes.
 published: true
-date: 2022-02-03T17:54:07.601Z
+date: 2022-08-28T14:22:46.750Z
 tags: patch, patch notes, version, patch note
 editor: ckeditor
 dateCreated: 2021-07-13T11:20:02.526Z
@@ -59,6 +59,67 @@ dateCreated: 2021-07-13T11:20:02.526Z
       </tr>
     </thead>
     <tbody>
+      <tr>
+        <td>V1.12</td>
+        <td>14/08/2022</td>
+        <td>
+          <h2><strong>Subscription Update V2, new features and adaptation for slash commands | Version 1.12</strong></h2>
+          <h3><strong>V1.11.1 → V1.12</strong></h3>
+          <p>Let's start right away with the core piece of this update: <strong>The new Premium subscription.</strong> Before this update, Zoe's premium subscription was mainly cosmetic and not very attractive. As it is important to be able to finance Zoe in the long term, a solution had to be found. So it was decided to create some premium features. I'll say it again because I don't want to scare you. All the features currently available for free will of course remain free. This subscription will have access to some exclusive features, but the development of the free features will of course not stop (and you will see it here).</p>
+          <p><strong>To gain access to these new features, a new premium server system has been created.</strong> As a subscriber, you can "boost" a server with "Zoe points" to give it access to premium features. The number of points depends on the particular subscription you have taken out. Here you can see how many points each subscription gives:</p>
+          <p>- Platinum (2 €) : 1 Zoe Point</p>
+          <p>- Diamond (5 €) : 3 Zoe Points</p>
+          <p>- Master (formerly Challenger) (10 €) : 6 Zoe Points</p>
+          <p>- Grandmaster (20 €) : 12 Zoe Points</p>
+          <p>- Challenger (30 €) : 18 Zoe Points</p>
+          <p>&nbsp;</p>
+          <p>The number of points needed to boost a server depends on the number of League of Legends accounts registered on the server. Here is a list of the different sizes:</p>
+          <p>- Small server / 1 Zoe Point: 0-30 League accounts</p>
+          <p>- Medium Server / 3 Zoe Points: 31-120 League accounts</p>
+          <p>- Large Server / 6 Zoe Points: 121-Infinite League accounts</p>
+          <p>&nbsp;</p>
+          <p>Every time you boost a server, points are taken away from it. However, you can cancel the boost at any time to get your points back.</p>
+          <p>For more information about this point system. Use the commands ``/subscription`` and ``/boost`` in Discord and read this article &lt;https://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting&gt;</p>
+          <p><strong>To subscribe: </strong><a href="https://ko-fi.com/kalunight/tiers"><strong>https://ko-fi.com/kalunight/tiers</strong></a></p>
+          <p>&nbsp;</p>
+          <p>Now, let's move on to the new features!</p>
+          <h4><strong>1. Premium Server | Improved Rank Role Feature (/config -&gt; Additional Features)</strong></h4>
+          <p>As you probably know, Zoe already has an automatic role system based on League of Legends rank. This option is good, but too simple. This new option should allow you to configure your roles down to the smallest detail. Whether by queue (Soloq, Flex and TFT), by division or rank, or by server, anything works! This is the most complex option I have had to develop so far, and by a large margin.</p>
+          <p>Here are some screenshots of the menus of the option:</p>
+          <p><i>The option allows you to make a pre-configuration</i></p>
+          <p><a href="https://zoe-discord-bot.ch/img/ImprovedRankRoleMenu1.png">https://zoe-discord-bot.ch/img/ImprovedRankRoleMenu1.png</a></p>
+          <p><a href="https://zoe-discord-bot.ch/img/ImprovedRankRoleMenu2.png">https://zoe-discord-bot.ch/img/ImprovedRankRoleMenu2.png</a></p>
+          <p><i>You can then modify each role in detail</i></p>
+          <p><a href="https://zoe-discord-bot.ch/img/ImprovedRankRoleMenu3.png">https://zoe-discord-bot.ch/img/ImprovedRankRoleMenu3.png</a></p>
+          <p><a href="https://zoe-discord-bot.ch/img/ImprovedRankRoleMenu4.png">https://zoe-discord-bot.ch/img/ImprovedRankRoleMenu4.png</a></p>
+          <p>&nbsp;</p>
+          <h4><strong>2. Premium Server | Bigger Leaderboard</strong></h4>
+          <p>This highly anticipated feature allows you to increase the size of the leaderboards to the maximum size of 100 players displayed. You can change the size of the leaderboards with the new button below the leaderboards or during creation.</p>
+          <p>&nbsp;</p>
+          <h4>3. Early access for Premium Server and Premium User | Infocards Champions Stats</h4>
+          <p>This option allows you to get information about a champion. Spell to max or items, you have quick and easy access to this information. You can access this information directly from the info cards by pressing the new button below. <i>There are plans to add rune stats at a later date.</i></p>
+          <p><strong>This option will be free on 31 August</strong>!</p>
+          <p>Here is an example: <a href="https://zoe-discord-bot.ch/img/InfoCardsChampionStats.png">https://zoe-discord-bot.ch/img/InfoCardsChampionStats.png</a></p>
+          <p><i>Will be available only after a few hours the patch note</i></p>
+          <p>&nbsp;</p>
+          <h4>4. Free | Disable auto-remove players Option (/config -&gt; User Management)</h4>
+          <p>When a player leaves a server, they are automatically deleted. This new option allows you to remove this behaviour if you wish.</p>
+          <p>&nbsp;</p>
+          <h4>5. Premium Server | Filter Infocards by Game type - Option (/config -&gt; Info Channel Settings)</h4>
+          <p>This option allows you to filter the type of info cards generated according to the type of game being played. Perfect for large servers that want to filter what is displayed (e.g. Solo/DuoQ only).</p>
+          <p>&nbsp;</p>
+          <p><strong>I have prepared Zoe for the end of the classic commands.</strong> Zoe will no longer be usable with "&gt;" as of August 31th. I recommend you to use slash commands which works with "/". If you have problems with slash commands, you can use this command format after August 31 only: "@Zoe#7767 example command".</p>
+          <p>&nbsp;</p>
+          <p><strong>Other small changes include:</strong></p>
+          <p>- The addition of the ``/help``, ``/define`` and ``/undefine`` commands to the slash commands. I had forgotten them when I updated the slash commands :')</p>
+          <p>- Adjustment of some commands to the new Discord operation from 31 August.</p>
+          <p>&nbsp;</p>
+          <p>As always with this type of large update, unexpected errors may occur. I invite you to report them on the server in the #report-issue channel. If you have any comments, suggestions for improvement or other feedback, I invite you to talk about it under #feedback. I am still looking forward to your comments :ZoeJoy:.</p>
+          <p><strong>I sincerely hope that you will enjoy this update. I have been working on it for a long time and I hope it will not disappoint you.</strong></p>
+          <p><strong>A big thank you to everyone who has supported me financially to date, including aclcdarktronic, SUNBOOP, SebastianNoll, Deamon, sileNtF1, ninjoi as well as all the other people with lower tiers! Thank you all from the bottom of my heart. I also have a thought for my moderators who provide me with valuable help! I really thank you guys!</strong></p>
+          <p>And thank you to everyone who uses Zoe! It's a pleasure to see you using the fruits of my labour ! &lt;3</p>
+        </td>
+      </tr>
       <tr>
         <td>
           <p style="text-align:center;">v1.11.1</p>
