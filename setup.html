@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2023-04-09T12:14:27.720Z
+date: 2023-04-10T12:55:55.093Z
 tags: setup, initialise, set up
 editor: ckeditor
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -19,38 +19,113 @@ dateCreated: 2021-07-05T11:16:55.742Z
 <p>Be aware that to set up and use Zoe you need the "manage channels" permission on your server (if you are not the administrator anyway).</p>
 <p>&nbsp;</p>
 <h2>Adding Zoe</h2>
-<p>You can add Zoe to your server by clicking on "Add the bot" on the homepage, on sites like top.gg or bots.ondiscord.xyz and here on the Wiki in the bottom left in the menu bar.</p>
+<p>You can add Zoe to your server by clicking on "Add the bot" on the homepage, on sites like <a href="https://top.gg/de/bot/550737379460382752">top.gg </a>or <a href="https://bots.ondiscord.xyz/bots/550737379460382752">bots.ondiscord.xyz</a> and here on the Wiki in the bottom left in the menu bar.</p>
 <p>&nbsp;</p>
 <h2>Authorizing Zoe</h2>
-<p>Now you have to log in to Discord if necessary, then select the server you want to add Zoe to and confirm Zoe's permissions. You may still have to solve a captcha and then you can start.</p>
-<figure class="image"><img src="/en-auth-zoe-1.png"></figure>
+<p>Now you may have to log in to Discord, then select the server you want to add Zoe to and confirm Zoe's permissions. You may have to solve a captcha and then you can start.</p>
+<figure class="image"><img src="/new_setup1-3.png"></figure>
 <h2>Setup</h2>
-<p>When Zoe is added for the first time, she sends a short message to the server's default channel.</p>
-<p>Then the first setting follows. You should select the language that Zoe should speak on your server. (For more information see &gt;language). You can navigate with the reactions and thrn confirm the language you want Zoe zo speak.</p>
-<figure class="image"><img src="/en-auth-setup-1.png"></figure>
-<p>Directly after that, you have to select the standard League of Legends server region. Available are:</p>
+<p>When Zoe is added for the first time, it sends a short message to the default channel of the server.</p>
+<p>Then follows the first setting. You should select the language you want Zoe to speak on your server. (For more information, see <a href="https://wiki.zoe-discord-bot.ch/en/commands/important/language"><code>/language</code></a>). You can navigate with the reactions and then confirm the language you want Zoe to speak.</p>
+<figure class="image"><img src="/new_setup5.png"></figure>
+<p>&nbsp;</p>
+<p>Directly after that, you have to select the standard League of Legends server region. Available are the following tags:</p>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Tag</th>
+        <th>BR</th>
+        <th>EUNE&nbsp;</th>
+        <th>EUW&nbsp;</th>
+        <th>LAN</th>
+        <th>LAS&nbsp;</th>
+        <th>NA&nbsp;</th>
+        <th>OCE&nbsp;</th>
+        <th>RU&nbsp;</th>
+        <th>TR&nbsp;</th>
+        <th>JP&nbsp;</th>
+        <th>KR&nbsp;</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>Region</th>
+        <td>Brazil</td>
+        <td>Europe Nordic &amp; East</td>
+        <td>Europe West</td>
+        <td>Latin America North</td>
+        <td>Latin America South</td>
+        <td>North America</td>
+        <td>Oceania</td>
+        <td>Russia</td>
+        <td>Turkey</td>
+        <td>Japan</td>
+        <td>Republic of Korea</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>You can change this setting later in the configuration if you wish (see <a href="https://wiki.zoe-discord-bot.ch/en/commands/important/config"><code>/config</code></a>).</p>
+<figure class="image"><img src="/new_setup4.png"></figure>
+<p>Now Zoe sends another message about what you can do next. Read more in the next section.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>1. Adding data (aka registering players)</h2>
+<p>To use Zoe, you must first register players. A player consists of a Discord account and one or more League accounts and will be displayed in the various features you will use. You can create them with the commands <a href="https://wiki.zoe-discord-bot.ch/en/commands/create/player"><code>/create player</code></a> (allows you to register a discord account with a League account) and <a href="https://wiki.zoe-discord-bot.ch/en/commands/add/account"><code>/add account</code></a> (allows you to add a League account to an already registered discord account). To delete them, use the commands <a href="https://wiki.zoe-discord-bot.ch/en/commands/delete/player"><code>/delete player</code></a> (delete the player) and <a href="https://wiki.zoe-discord-bot.ch/en/commands/remove/account"><code>/remove account</code></a> (delete a player's League account). You can display the registered players with the <a href="https://wiki.zoe-discord-bot.ch/en/commands/important/show-players"><code>/show players</code></a> command if you wish.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>2. Show players (aka use features)</h2>
+<h3>InfoChannel (read-only channel recommended)</h3>
+<p>The infoChannel contains stats on players as well as stats on games currently in progress.</p>
+<figure class="image"><img src="/new_infochannel.png"></figure>
+<p>[NEW GameCard.png]</p>
+<p>For more information about the infoChannel click HERE.</p>
+<p>&nbsp;</p>
+<h3>RankChannel (read-only channel recommended)</h3>
+<p>The rankChannel is, where a message will be sent after each ranked game of the registered players. These messages contain the amount of won&nbsp; LP and some stats of the player ingame like K/DA, duration of the game and itembuild.&nbsp;</p>
+<figure class="image"><img src="/new_rankchannel_message.png"></figure>
+<p>For more information about the rankChannel click HERE.</p>
+<h3><br>ClashChannel</h3>
+<p>This channel will send stats about an account in relation to Clash. It will contain schedules of future clashes in your timezone as well as stats about your team. You will also be able to do an detailed analysis of enemy teams with ban recommendations.&nbsp;</p>
+<figure class="image"><img src="/teamanalysisexample.png"></figure>
+<p><i>(Images will get updated with next Clash).</i></p>
+<p>For more information about the clashChannel click HERE.</p>
+<p>&nbsp;</p>
+<h3>Leaderboards (a dedicated channel with several leaderboards&nbsp;within is recommended)</h3>
+<p>This feature allows you to create leaderboards that refresh automatically. Several types are available to you:&nbsp;</p>
 <ul>
-  <li>BR - Brazil</li>
-  <li>EUNE - Europe Nordic &amp; East</li>
-  <li>EUW - Europe West</li>
-  <li>LAN - Latin America North</li>
-  <li>LAS - Latin America South</li>
-  <li>NA - North America</li>
-  <li>OCE - Oceania</li>
-  <li>RU - Russia</li>
-  <li>TR - Turkey</li>
-  <li>JP - Japan</li>
-  <li>KR - Republic of Korea</li>
+  <li>Total Mastery Points</li>
+  <li>Mastery Points on a champion</li>
+  <li>Rank in a Queue (Solo/DuoQ, Flex, etc)</li>
+  <li>All Queue Rank</li>
+  <li>Average KDA</li>
+  <li>Average KDA on a champion</li>
+  <li>Best Champion ("OTP")</li>
+  <li>Account Level</li>
 </ul>
-<p>You can change this setting later in the cofiguration if you wish (see &gt;config).</p>
-<figure class="image"><img src="/en-auth-setup-region-1.png"></figure>
-<p>Now Zoe sends another message about what happens next. More on this in the next section.</p>
-<figure class="image"><img src="/en-auth-setup-msg-1.png"></figure>
 <p>&nbsp;</p>
-<h2>Creating an infoPanel and adding players</h2>
+<p>For more information about leaderboards click HERE.</p>
 <p>&nbsp;</p>
-<p>Now we are ready to go. First of all, you create an infochannel or infopanel that is located in this channel. All the players you are about to create will be listed here with all their accounts.</p>
-<p>To do this, use the command <a href="/en/commands/create/infoChannel/"><code>&gt;create infoChannel nameOfTheChannel</code></a>. For <code>nameOfTheChannel</code>, enter a name for the channel you want.</p>
-<p>To create players you can use the command <a href="/en/commands/create/player/"><code>&gt;create player @DiscordMentionPlayer (Region) (SummonerName)</code></a> and to add your secondary account <a href="/en/commands/add/account/"><code>&gt;add accountToPlayer (Region) (SummonerName)</code></a>. If the option is activated in the configuration, players can also add themselves with the command <a href="/en/commands/important/register/"><code>&gt;register</code></a>.</p>
-<p>Aaaand you are good to go! For the other features you can click here: <a href="/en/features/">core features</a></p>
+<h3>Automated Discord roles by League rank</h3>
+<p>You can set up an automatic rank system with Zoe easily. The roles will be refreshed regularly automatically. The premium version of this feature offers more options (filter by server region, display of each division, full control over each role and more).&nbsp;</p>
+<figure class="image"><img src="/new_rankroles_adv.png"></figure>
+<p>For more information about rank roles click HERE.</p>
+<p>&nbsp;</p>
+<p>Once your features are set up correctly, they will update automatically as soon as a game is detected via the Discord presence of registered players or once an hour at least. You can also refresh your server with the command <a href="https://wiki.zoe-discord-bot.ch/en/commands/important/refresh"><code>/refresh</code></a>.</p>
+<p>&nbsp;</p>
+<h2>3. Customize these features (because every server is different)</h2>
+<p>To manage Zoe and all the different settings it offers, use this command: <a href="https://wiki.zoe-discord-bot.ch/en/commands/important/config"><code>/config</code></a>.</p>
+<p>&nbsp;</p>
+<h2>4. Going further (We never stop!)</h2>
+<p>Zoe has many more features. You can have at all commands if you click HERE.</p>
+<p>One example being <a href="https://wiki.zoe-discord-bot.ch/en/commands/stats/profile"><code>/stats profile</code></a> letting you view a players profile:</p>
+<figure class="image"><img src="/new_statsprofile.png"></figure>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Zoe is an actively developed bot that offers a premium subscription to support its development. This subscription offers some additional options but is by far not mandatory. For more information: <a href="https://wiki.zoe-discord-bot.ch/en/commands/important/subscription"><code>/subscription</code></a> <a href="https://wiki.zoe-discord-bot.ch/en/commands/important/boost"><code>/boost</code></a>&nbsp;</p>
+<p>If you want to see the list of commands: <a href="https://wiki.zoe-discord-bot.ch/en/commands/important/help"><code>/help</code></a>&nbsp;</p>
+<p>&nbsp;</p>
+<p>If you have any questions, suggestions or need help, please come here: <a href="https://discord.gg/whc5PrC">https://discord.gg/whc5PrC</a>&nbsp;</p>
+<p><i>To review the help message, do the command: </i><a href="https://wiki.zoe-discord-bot.ch/en/commands/important/setup"><code>/setup</code></a><br><br>&nbsp;</p>
 <p>&nbsp;</p>
