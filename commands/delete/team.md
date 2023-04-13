@@ -2,26 +2,27 @@
 title: /delete team - Command
 description: Information about the /delete team command
 published: true
-date: 2023-04-13T18:02:14.003Z
-tags: delete team, team, teams, delete
+date: 2023-04-13T18:06:39.587Z
+tags: team, teams, delete, delete team
 editor: markdown
 dateCreated: 2021-07-13T06:54:17.477Z
 ---
 
-# /delete team teamName
+# /delete team team-name
 
-## Information
+>### Information
+>**This command deletes the mentioned team from the system in your server.**
+>{.is-info}
 
-**This command deletes the mentioned team from the system in your server.**
+>### Permissions needed: 
+>Manage channels
+>{.is-success}
 
-### Permissions needed: 
+>### Related commands:
+>-   [/create team](/en/commands/create/team/)
 
-Manage channels
-
-### Related commands:
-
--   [/create team](/en/commands/create/team/)
+<br>
 
 ## Usage
 
-![](/en-delete-team-command.gif)
+![](/new_delete_team.gif)
