@@ -1,16 +1,16 @@
 ---
-title: /create infoChannel - Command
-description: Information about the /create infoChannel command
+title: /create infochannel - Command
+description: Information about the /create infochannel command
 published: true
-date: 2023-04-13T17:31:33.057Z
+date: 2023-04-13T17:49:19.018Z
 tags: create, info, infochannel, info panel, panel
 editor: markdown
 dateCreated: 2021-07-05T16:24:57.599Z
 ---
 
-# /create infoChannel infochannel-name
+# /create infochannel infochannel-name
 
->## Information
+>### Information
 >**This command creates a new infoChannel with the name you choose for the parameter `infochannel-name`. In there Zoe sends information about the registered players, their accounts and (if enabled) their last rank update.**
 >{.is-info}
 
