@@ -1,27 +1,28 @@
 ---
 title: /undefine infoChannel  - Command
-description: Information about the /undefine infoChannel command
+description: Information about the /undefine infochannel command
 published: true
-date: 2023-04-13T19:07:08.665Z
-tags: undefine infochannel, infochannel, undefine
+date: 2023-04-13T19:09:04.220Z
+tags: infochannel, undefine, undefine infochannel
 editor: markdown
 dateCreated: 2021-07-13T09:25:51.188Z
 ---
 
-# /undefine infoChannel
+# /undefine infochannel
 
-## Information
+>### Information
+>**This command undefines the current infoChannel. This does not delete the text channel, Zoe will just not send anything in it anymore.**
+>{.is-info}
 
-**This command undefines the current infoChannel. This does not delete the text channel, Zoe will just not send anything in it anymore.**
+>### Permissions needed: 
+>Manage channels 
+>{.is-success}
 
-### Permissions needed: 
+>### Related commands:
+>-   [/create infoChannel](/en/commands/create/infoChannel/)
+>-   [/define infoChannel](/en/commands/define/infoChannel/)
 
-Manage channels 
-
-### Related commands:
-
--   [/create infoChannel](/en/commands/create/infoChannel/)
--   [/define infoChannel](/en/commands/define/infoChannel/)
+<br>
 
 ## Usage
 
