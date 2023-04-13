@@ -1,26 +1,27 @@
 ---
-title: /delete clashChannel - Command
-description: Information about the /delete clashChannel command
+title: /delete clashchannel - Command
+description: Information about the /delete clashchannel command
 published: true
-date: 2023-04-13T17:53:49.960Z
-tags: delete clashchannel, clashchannel, delete
+date: 2023-04-13T17:54:49.188Z
+tags: clashchannel, delete, delete clashchannel
 editor: markdown
 dateCreated: 2021-07-13T07:07:52.151Z
 ---
 
-# /delete clashChannel
+# /delete clashchannel
 
-## Information
+>### Information
+>**This command deletes the existing clashChannel on your server.**
+>{.is-info}
 
-**This command deletes the existing clashChannel on your server.**
+>### Permissions needed: 
+>Manage channels
+>{.is-success}
 
-### Permissions needed: 
+>### Related commands:
+>-   [/create team](/en/commands/create/team/)
 
-Manage channels
-
-### Related commands:
-
--   [/create team](/en/commands/create/team/)
+<br>
 
 ## Usage
 
