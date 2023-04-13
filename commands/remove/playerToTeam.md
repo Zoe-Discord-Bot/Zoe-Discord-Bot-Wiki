@@ -1,27 +1,28 @@
 ---
-title: /remove playerFromTeam - Command
-description: Information about the /remove playerToTeam command
+title: /remove playerfromteam - Command
+description: Information about the /remove playerfromteam command
 published: true
-date: 2023-04-13T18:49:11.168Z
-tags: remove player from team, remove player to team, remove playertoteam, remove playerfromteam, player, team, remove
+date: 2023-04-13T18:51:25.085Z
+tags: player, team, remove, remove player from team, remove player to team, remove playertoteam, remove playerfromteam
 editor: markdown
 dateCreated: 2021-07-13T07:42:09.426Z
 ---
 
-# /remove playerFromTeam @DiscordMention 
+# /remove playerfromteam @DiscordUser
 
-## Information
+>### Information
+>**This command removes the mentioned player from every team.**
+>{.is-info}
 
-**This command removes the mentioned player from the named team.**
+>### Permissions needed: 
+>Manage channels
+>{.is-success}
 
-### Permissions needed: 
-
-*Manage channels*
-
-### Related commands:
-
--   [/add playerToTeam](/en/commands/add/playerToTeam/)  
-     
+>### Related commands:
+>-   [/add playerToTeam](/en/commands/add/playerToTeam/)  
+    
+    
+<br>
 
 ## Usage
 
