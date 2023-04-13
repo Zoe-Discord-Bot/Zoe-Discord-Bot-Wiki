@@ -2,18 +2,17 @@
 title: /config - Command
 description: Information about the /config command
 published: true
-date: 2023-04-13T18:08:20.708Z
-tags: config, configuration
+date: 2023-04-13T18:11:24.142Z
+tags: config, configuration, setting, settings, option, options
 editor: markdown
 dateCreated: 2021-07-05T18:08:13.504Z
 ---
 
 # /config
 
-## Information
-
-This command opens an interactive message where you can navigate with reactions to adjust your server settings. These are:
-
+>### Information
+>**This command opens an interactive message where you can navigate with reactions to adjust your server settings. These are:**
+>{.is-info}
 -   Set the **default (lol-) server region**
 -   Set whether the **infochannel should be invisible for players without a role** created by Zoe
 -   **Create a clean channel** in which all commands or messages are deleted after 3 seconds
@@ -22,15 +21,17 @@ This command opens an interactive message where you can navigate with reactions 
 -   Set if **ranked stats** should appear **in the infopanel**
 -   Set **which messages** should appear **in the rankchannel** (All, LoL or TFT)
 
-### Permissions needed:
 
-*none*
+>### Permissions needed:
+>*none*
+>{.is-success}
 
-### Related commands/pages:
+>### Related commands/pages:
+>-   [Zoe Setup](/en/setup/)
+>-   [/language](/en/commands/important/language/)
+>-   [/reset](/en/commands/important/reset/)
 
--   [Zoe Setup](/en/setup/)
--   [/language](/en/commands/important/language/)
--   [/reset](/en/commands/important/reset/)
+<br>
 
 ## Usage
 
