@@ -2,7 +2,7 @@
 title: Game Cards - Feature
 description: Information about the game cards.
 published: true
-date: 2023-04-13T13:07:56.331Z
+date: 2023-04-13T13:15:44.335Z
 tags: game, ingame, game card, game cards, card, cards, game info, live game
 editor: markdown
 dateCreated: 2021-07-06T09:45:33.563Z
@@ -10,15 +10,17 @@ dateCreated: 2021-07-06T09:45:33.563Z
 
 # infoChannel / Game Cards
 
-## Information
+<br>
 
-**In a live game, a game card shows the players and champions of your own and the opposing team together with their ranks, mastery and the mindset (winning-/losingstreak).**
+>**When a match is started and a player is in a live match, Zoe sends a gamecard to the infoChannel. There, the players and champions of the own and the opposing team are displayed with their ranks, their mastery and their attitude (win/loss series).**
+>{.is-info}
 
-### Related commands/pages:
+>### Related commands/pages:
+>-   [infoChannel](/en/features/infoChannel/)
+>-   [/create infoChannel](/en/commands/create/infoChannel/)
 
--   [infoChannel](/en/features/infoChannel/)
--   [/create infoChannel](/en/commands/create/infoChannel/)
+<br>
 
-## Example of a Game Card
+## Example of a game card
 
 ![](/new_gamecard.png)
