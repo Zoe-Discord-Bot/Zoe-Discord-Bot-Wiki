@@ -1,8 +1,8 @@
 ---
-title: /banAccount - Command
-description: Information about the /banAccountl command
+title: /banaccount - Command
+description: Information about the /banaccount command
 published: true
-date: 2023-04-13T18:43:18.988Z
+date: 2023-04-13T18:43:32.773Z
 tags: account, ban, banaccount, ban account
 editor: markdown
 dateCreated: 2021-07-13T09:52:24.528Z
