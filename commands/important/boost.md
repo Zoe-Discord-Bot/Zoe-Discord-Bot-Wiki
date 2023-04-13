@@ -2,7 +2,7 @@
 title: /boost - Command
 description: Information about the /boost command
 published: true
-date: 2023-04-13T18:07:01.158Z
+date: 2023-04-13T18:08:09.434Z
 tags: subscription, premium, boost
 editor: markdown
 dateCreated: 2023-04-10T12:48:20.068Z
@@ -10,18 +10,19 @@ dateCreated: 2023-04-10T12:48:20.068Z
 
 # /boost
 
-## Information
+>### Information
+>**This command lets you boost the server you're using the command on to a premium server. This will allow the server to use all premium features.**
+>{.is-info}
 
-This command lets you boost the server you're using the command on to a premium server. This will allow the server to use all premium features.
+>### Permissions needed:
+>*none*
+>{.is-success}
 
-### Permissions needed:
+>### Related commands/pages:
+>-   [Support Zoe](https://wiki.zoe-discord-bot.ch/en/support)
+>-   [Zoe Points & Boosting](https://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting)
 
-*none*
-
-### Related commands/pages:
-
--   [Support Zoe](https://wiki.zoe-discord-bot.ch/en/support)
--   [Zoe Points & Boosting](https://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting)
+<br>
 
 ## Usage
 
