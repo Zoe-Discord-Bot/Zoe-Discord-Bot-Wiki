@@ -2,25 +2,26 @@
 title: /clash refresh - Command
 description: Information about the /clash refresh command
 published: true
-date: 2023-04-13T17:15:51.808Z
-tags: clash, clash refresh, refresh
+date: 2023-04-13T17:18:46.618Z
+tags: clash, refresh, clash refresh
 editor: markdown
 dateCreated: 2021-07-13T09:39:28.513Z
 ---
 
 # /clash refresh
 
-## Information
+>### Information
+>**This command must be sent within a clashChannel in order for it to be updated. The message gets automatically deleted.**
+>{.is-info}
 
-**This command must be sent within a clashChannel in order for it to be updated. The message gets automatically deleted.**
+>### Permissions needed: 
+>Manage Channels
+>{.is-success}
 
-### Permissions needed: 
+>### Related commands:
+>-   [/create clashChannel](/en/commands/create/clashChannel/)
 
-*none*
-
-### Related commands:
-
--   [/create clashChannel](/en/commands/create/clashChannel/)
+<br>
 
 ## Usage
 
