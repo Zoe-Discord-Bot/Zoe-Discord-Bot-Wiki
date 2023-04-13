@@ -2,27 +2,36 @@
 title: /create player - Command
 description: Information about the /create player command
 published: true
-date: 2023-04-13T17:36:27.350Z
+date: 2023-04-13T17:39:56.196Z
 tags: create, player, create player
 editor: markdown
 dateCreated: 2021-07-12T08:32:54.760Z
 ---
 
-# /create player @DiscordMention (Region) (Summonername)
+# /create player @DiscordUser region summonername
 
-## Information
+>## Information
+>**This command is used to create a player.  To do this, you must enter the appropriate data for `@DiscordUser`, `region` and `summonername` to link a League of Legends account. <br>
+>Available Server Tags:
+>{.is-info}
 
-**This command is used to create a player.  To do this, you must enter the appropriate data to link a League account. Insert the tag for your region and the summonername of the account.**
-
-Available Server Tags: 
 
 | Tag | BR  | EUNE | EUW | LAN | LAS | NA  | OCE | RU  | TR  | JP  | KR  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Region | Brazil | Europe Nordic & East | Europe West | Latin America North | Latin America South | North America | Oceania | Russia | Turkey | Japan | Republic of Korea |
 
-### Related commands:
+<br>
 
--   [/delete player](/en/commands/delete/player/)
+>## Permissions needed:
+> Manage channels
+>{.is-success}
+
+
+
+>### Related commands:
+>-   [/delete player](/en/commands/delete/player/)
+
+<br>
 
 ## Usage
 
