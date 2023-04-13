@@ -1,8 +1,8 @@
 ---
-title: /patchNotes  - Command
-description: Information about the /patchNotes command
+title: /patchnotes  - Command
+description: Information about the /patchnotes command
 published: true
-date: 2023-04-13T18:43:41.713Z
+date: 2023-04-13T18:45:12.388Z
 tags: patches, patch, patch notes, patchnotes, patchnotes command
 editor: markdown
 dateCreated: 2021-07-13T10:24:40.712Z
@@ -10,21 +10,24 @@ dateCreated: 2021-07-13T10:24:40.712Z
 
 # /patchnotes
 
-## Information
+>### Information
+>**This command sends you the link to the current patchnotes and patchnote history page in the wiki which are  in English.**
+>{.is-info}
 
-**This command sends you the link to the current patchnotes and patchnote history page in the wiki which is in English.**
+>### Permissions needed: 
+>*none*
+>{.is-success}
 
-### Permissions needed: 
+>### Related commands/pages:
+>-   [Patchnotes](/en/patchnotes/)
 
-*none*
-
-### Related commands/pages:
-
--   [Patchnotes](/en/patchnotes/)
+<br>
 
 ## Usage
 
 ![](/patchnotes-command.gif)
+
+<br>
 
 ## Example patch note (v1.10.3)
 
