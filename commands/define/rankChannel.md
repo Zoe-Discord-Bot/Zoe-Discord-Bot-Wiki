@@ -1,27 +1,28 @@
 ---
-title: /define rankChannel  - Command
-description: Information about the /define rankChannel command
+title: /define rankchannel  - Command
+description: Information about the /define rankchannel command
 published: true
-date: 2023-04-13T17:51:49.147Z
-tags: define rankchannel, rankchannel, define
+date: 2023-04-13T17:53:32.580Z
+tags: rankchannel, define, define rankchannel
 editor: markdown
 dateCreated: 2021-07-13T09:21:45.667Z
 ---
 
-# /define rankChannel #channelMention
+# /define rankchannel #channelselected
 
-## Information
+>### Information
+>**Creates an rankChannel like the create command, except that the text channel already exists and is only defined.**
+>{.is-info}
 
-**Creates an rankChannel like the create command, except that the text channel already exists and is only defined.**
+>### Permissions needed: 
+>Manage channels 
+>{.is-success}
 
-### Permissions needed: 
+>### Related commands:
+>-   [/create rankChannel](/en/commands/create/rankChannel/)  
 
-Manage channels 
-
-### Related commands:
-
--   [/create rankChannel](/en/commands/create/rankChannel/)  
-     
+ 
+<br>
 
 ## Usage
 
