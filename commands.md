@@ -2,7 +2,7 @@
 title: Zoe Commands
 description: In here you find all commands listed.
 published: true
-date: 2023-04-13T12:05:16.576Z
+date: 2023-04-13T12:05:57.124Z
 tags: commands, cmd, cmds, order, orders, command
 editor: markdown
 dateCreated: 2021-07-05T11:30:13.397Z
@@ -10,7 +10,10 @@ dateCreated: 2021-07-05T11:30:13.397Z
 
 # Zoe Commands - List
 
-### This list contains all commands you can use. Click on any link on the right to look at a more detailed site about a command.
+>  This list contains all commands you can use. Click on any link on the right to look at a more detailed site about a command.
+>{.is-info}
+
+<br>
 
 ## Important Commands
 
