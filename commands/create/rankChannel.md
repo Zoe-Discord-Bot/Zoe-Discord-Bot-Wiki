@@ -1,14 +1,14 @@
 ---
-title: /create rankChannel - Command
-description: Information about the /create rankChannel command
+title: /create rankchannel - Command
+description: Information about the /create rankchannel command
 published: true
-date: 2023-04-13T17:44:27.343Z
+date: 2023-04-13T17:50:08.074Z
 tags: create, rankchannel, ranks, rank, channel
 editor: markdown
 dateCreated: 2021-07-12T08:48:44.161Z
 ---
 
-# /create rankChannel rankchannel-name
+# /create rankchannel rankchannel-name
 
 >### Information
 >**With this command you create a channel in which Zoe sends an message after each ranked match of a registered player. This message contains information about the KDA, the played champion, if the match is won or lost, how much LP won/lost, the match length and the cs.**
