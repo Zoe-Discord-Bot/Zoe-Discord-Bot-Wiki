@@ -2,7 +2,7 @@
 title: /show players - Command
 description: Information about the /show players command
 published: true
-date: 2023-04-13T18:35:35.112Z
+date: 2023-04-13T18:36:47.626Z
 tags: show-players, players, player, account, accounts, show
 editor: markdown
 dateCreated: 2021-07-05T18:18:52.421Z
@@ -10,18 +10,19 @@ dateCreated: 2021-07-05T18:18:52.421Z
 
 # /show players
 
-## Information
+>### Information
+>**With this command you will get all players on your server with all added accounts displayed in one message.**
+>{.is-info}
 
-With this command you will get all players on your server with all added accounts displayed in one message.
+>### Permissions needed:
+>*none*
+>{.is-success}
 
-### Permissions needed:
+>### Related commands/pages:
+>*none*
 
-*none*
-
-### Related commands/pages:
-
-*none*
+<br>
 
 ## Usage
 
-![](/en-show-players.gif)
+![](/new_show_players.gif)
