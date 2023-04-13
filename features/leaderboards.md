@@ -1,14 +1,14 @@
 ---
 title: Leaderboards - Feature
-description: Information about the leaderboards.
+description: Information about all leaderboards.
 published: true
-date: 2023-04-13T13:27:16.263Z
-tags: leaderboard, leader, leaderboards, top 10
+date: 2023-04-13T13:28:23.618Z
+tags: leaderboard, leader, leaderboards, top 10, top 20, top 50, top 100, best player
 editor: markdown
 dateCreated: 2021-07-06T10:11:35.527Z
 ---
 
-# leaderboards
+# Leaderboards
 
 <br>
 
