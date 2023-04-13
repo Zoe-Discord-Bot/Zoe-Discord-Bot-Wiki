@@ -1,26 +1,27 @@
 ---
-title: /delete rankChannel - Command
-description: Information about the /delete rankChannel command
+title: /delete rankchannel - Command
+description: Information about the /delete rankchannel command
 published: true
-date: 2023-04-13T18:01:12.972Z
-tags: delete rankchannel, rankchannel, delete
+date: 2023-04-13T18:02:03.529Z
+tags: rankchannel, delete, delete rankchannel
 editor: markdown
 dateCreated: 2021-07-13T06:58:05.754Z
 ---
 
-# /delete rankChannel
+# /delete rankchannel
 
-## Information
+>### Information
+>**This command deletes the rankChannel of your server.**
+>{.is-info}
 
-**This command deletes the rankChannel of your server.**
+>### Permissions needed: 
+>Manage channels
+>{.is-success}
 
-### Permissions needed: 
+>### Related commands:
+>-   [/create rankChannel](/en/commands/create/rankChannel/)
 
-Manage channels
-
-### Related commands:
-
--   [/create rankChannel](/en/commands/create/rankChannel/)
+<br>
 
 ## Usage
 
