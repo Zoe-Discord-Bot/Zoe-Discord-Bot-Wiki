@@ -2,7 +2,7 @@
 title: /create rankChannel - Command
 description: Information about the /create rankChannel command
 published: true
-date: 2023-04-13T17:42:30.977Z
+date: 2023-04-13T17:44:27.343Z
 tags: create, rankchannel, ranks, rank, channel
 editor: markdown
 dateCreated: 2021-07-12T08:48:44.161Z
@@ -15,7 +15,7 @@ dateCreated: 2021-07-12T08:48:44.161Z
 >{.is-info}
 
 >### Permissions needed: 
->*Manage channels*
+>Manage channels
 >{.is-success}
 
 >### Related commands:
