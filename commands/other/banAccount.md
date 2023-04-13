@@ -2,22 +2,26 @@
 title: /banAccount - Command
 description: Information about the /banAccountl command
 published: true
-date: 2023-04-13T18:39:55.651Z
-tags: ban, banaccount, ban account, account
+date: 2023-04-13T18:43:18.988Z
+tags: account, ban, banaccount, ban account
 editor: markdown
 dateCreated: 2021-07-13T09:52:24.528Z
 ---
 
 # /banAccount
 
-## Information
+>### Information
+>**Launches the ban list wizard. This allows you (an account owner) to delete their account from other servers and add it to the ban list to make it impossible for others to add.**
+>{.is-info}
 
-**Launches the Banned List Wizard. This Allows you (an account owner) to delete their account from other servers and add it to the banned list to make it impossible for others to add it.**
+>### Permissions needed: 
+>*none*
+>{.is-success}
 
-### Permissions needed: 
+>### Related commands:
+>*none*
 
-*none*
+<br>
 
-### Related commands:
-
-*none*
+## Usage
+Coming soon!
