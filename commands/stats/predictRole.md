@@ -1,8 +1,8 @@
 ---
-title: /stats predictRole  - Command
-description: Information about the /stats predictRole command
+title: /stats predictrole  - Command
+description: Information about the /stats predictrole command
 published: true
-date: 2023-04-13T18:59:22.776Z
+date: 2023-04-13T18:59:32.987Z
 tags: prediction, predict role, predictrole, stats predictrole, predict, role
 editor: markdown
 dateCreated: 2021-07-13T10:51:09.340Z
