@@ -1,27 +1,28 @@
 ---
-title: /delete infoChannel - Command
-description: Information about the /delete infoChannel command
+title: /delete infochannel - Command
+description: Information about the /delete infochannel command
 published: true
-date: 2023-04-13T17:55:57.354Z
-tags: delete infochannel, infochannel, delete
+date: 2023-04-13T17:56:59.749Z
+tags: infochannel, delete, delete infochannel
 editor: markdown
 dateCreated: 2021-07-13T06:50:11.570Z
 ---
 
-# /delete infoChannel
+# /delete infochannel
 
-## Information
+>### Information
+>**This command deletes the infoChannel of your server after a refresh.**
+>{.is-info}
 
-**This command deletes the infoChannel of your server after a refresh.**
+>### Permissions needed: 
+>Manage channels
+>{.is-success}
 
-### Permissions needed: 
+>### Related commands:
+>-   [/create infoChannel](/en/commands/create/infoChannel/)
+>-   [infoChannel (feature)](/en/features/infoChannel/)
 
-Manage channels
-
-### Related commands:
-
--   [/create infoChannel](/en/commands/create/infoChannel/)
--   [infoChannel (feature)](/en/features/infoChannel/)
+<br>
 
 ## Usage
 
