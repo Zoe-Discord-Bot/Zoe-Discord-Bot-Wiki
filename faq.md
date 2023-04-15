@@ -2,7 +2,7 @@
 title: FAQ
 description: Find answers to frequently asked questions here.
 published: true
-date: 2023-04-13T12:02:41.366Z
+date: 2023-04-15T15:15:14.502Z
 tags: faq, frequently, asked, questions
 editor: markdown
 dateCreated: 2021-09-30T16:47:28.465Z
@@ -43,6 +43,12 @@ dateCreated: 2021-09-30T16:47:28.465Z
 ## How can I support Zoe?
 
 > You can support us monthly with a small amount and get some cool features on top. Find out more [here (support article)](/en/support/). Or visit the donation website [here (donation website)](https://zoe-discord-bot.ch/donate.html).
+
+<br>
+
+## How can I stop others from tracking my account with Zoe?
+
+> There is a banlist that you can put yourself on. This allows you (an account owner) to delete your account from other servers and make it impossible for others to add. More info for the command: [/banaccount](/en/commands/other/banAccount).
 
 <br>
 
