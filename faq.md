@@ -2,7 +2,7 @@
 title: FAQ
 description: Find answers to frequently asked questions here.
 published: true
-date: 2023-04-15T15:21:43.586Z
+date: 2023-04-15T15:23:35.027Z
 tags: faq, frequently, asked, questions
 editor: markdown
 dateCreated: 2021-09-30T16:47:28.465Z
@@ -24,7 +24,7 @@ dateCreated: 2021-09-30T16:47:28.465Z
 
 ## Can I define several channels (Info & RankChannel) in one text channel?
 
-> Yes and no. This basically works, but not really, because all messages in Zoe's info channel that do not belong there are deleted, including those from the RankChannel.  If you have the problem that the messages are deleted, you can undefine one of the two channels and define it again in another text channel.
+> Yes and no. This basically works, but not really, because all messages in Zoe's infoChannel that do not belong there are deleted, including those from the rankChannel.  If you have the problem that the messages are deleted, you can undefine one of the two channels and define it again in another text channel.
 
 > Please try to not mix these channels.
 >{.is-warning}
