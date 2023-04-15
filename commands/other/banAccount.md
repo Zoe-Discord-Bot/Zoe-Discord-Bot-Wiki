@@ -2,7 +2,7 @@
 title: /banaccount - Command
 description: Information about the /banaccount command
 published: true
-date: 2023-04-13T18:43:32.773Z
+date: 2023-04-15T15:39:12.219Z
 tags: account, ban, banaccount, ban account
 editor: markdown
 dateCreated: 2021-07-13T09:52:24.528Z
@@ -24,4 +24,3 @@ dateCreated: 2021-07-13T09:52:24.528Z
 <br>
 
 ## Usage
-Coming soon!
