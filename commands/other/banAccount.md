@@ -2,13 +2,13 @@
 title: /banaccount - Command
 description: Information about the /banaccount command
 published: true
-date: 2023-04-15T15:48:15.956Z
-tags: ban, banaccount, ban account, account
+date: 2023-04-15T15:53:57.914Z
+tags: account, ban, banaccount, ban account
 editor: markdown
 dateCreated: 2021-07-13T09:52:24.528Z
 ---
 
-# /banAccount
+[ban_account_(720p).mp4](/ban_account_(720p).mp4)# /banAccount
 
 > ### Information
 > 
@@ -22,6 +22,10 @@ dateCreated: 2021-07-13T09:52:24.528Z
 > 
 > *none*
 
-  
+<br>
 
 ## Usage
+
+<video width="1280" height="720" controls>
+ <source src="/ban_account_(720p).mp4" type="video/mp4">
+</video>
