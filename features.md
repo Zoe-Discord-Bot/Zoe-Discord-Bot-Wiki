@@ -2,7 +2,7 @@
 title: Zoe Features
 description: In here you find all core features explained.
 published: true
-date: 2023-04-17T14:09:29.376Z
+date: 2023-04-17T14:10:03.051Z
 tags: features, core, core features
 editor: markdown
 dateCreated: 2021-07-06T09:25:25.035Z
@@ -79,7 +79,7 @@ In the matchhistory channel you can browse all played games of all players with 
 Zoe creates discord roles for every rank or division (premium) for all registered players.
 ## Example
 ![](/improved_rankroles_5.png)
-## [Link to Wikipage](http://wiki.zoe-discord-bot.ch/en/features/rankroles)  
+## [Link to Wikipage](https://wiki.zoe-discord-bot.ch/en/features/rankroles)  
   
  # There is more!
   
