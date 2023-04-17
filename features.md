@@ -2,7 +2,7 @@
 title: Zoe Features
 description: In here you find all core features explained.
 published: true
-date: 2023-04-17T14:10:03.051Z
+date: 2023-04-17T14:12:00.592Z
 tags: features, core, core features
 editor: markdown
 dateCreated: 2021-07-06T09:25:25.035Z
@@ -12,8 +12,8 @@ dateCreated: 2021-07-06T09:25:25.035Z
 > This list contains all core features of Zoe. You can click on `Example` for an example of every feature and on the `Link to Wikipage` tab to get more information.
 >{.is-info}
 
->*If the buttons do not work for you when you click on the text, try clicking next to the text in the field*
->{.is-danger}
+>*If the buttons do not work for you when you click on the text, try clicking next to the text in the field. The link must be clicked directly.*
+>{.is-warning}
 <p>
  
 
