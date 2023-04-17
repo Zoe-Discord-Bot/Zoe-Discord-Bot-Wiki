@@ -2,7 +2,7 @@
 title: Rank roles - Feature
 description: Information about the automated rank roles.
 published: false
-date: 2023-04-17T14:01:47.798Z
+date: 2023-04-17T14:02:19.437Z
 tags: ranks, rank, role, roles
 editor: markdown
 dateCreated: 2023-04-13T08:11:20.807Z
@@ -47,7 +47,7 @@ dateCreated: 2023-04-13T08:11:20.807Z
 >This feature is only available for [boosted](http://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting) servers.
 >{.is-success}
 
->To activate rank roles use the command [`/config`](/en/commands/important/config) and select the option `Automated rank-role features` in the dropdown menu.
+>To activate improved rank roles use the command [`/config`](/en/commands/important/config) and select the option `Automated rank-role features` in the dropdown menu.
 <img src="/basic_rankroles_1.png" width="40%"  />
 >{.is-info}
 
