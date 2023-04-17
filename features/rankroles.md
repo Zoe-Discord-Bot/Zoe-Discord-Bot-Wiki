@@ -2,8 +2,8 @@
 title: Rank roles - Feature
 description: Information about the automated rank roles.
 published: true
-date: 2023-04-17T14:04:21.412Z
-tags: ranks, rank, role, roles
+date: 2023-04-17T14:13:27.773Z
+tags: ranks, rank, role, roles, improved, improved rank roles, peak elo
 editor: markdown
 dateCreated: 2023-04-13T08:11:20.807Z
 ---
