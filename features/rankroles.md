@@ -2,7 +2,7 @@
 title: Rank roles - Feature
 description: Information about the automated rank roles.
 published: false
-date: 2023-04-17T14:00:41.068Z
+date: 2023-04-17T14:01:07.765Z
 tags: ranks, rank, role, roles
 editor: markdown
 dateCreated: 2023-04-13T08:11:20.807Z
@@ -17,8 +17,6 @@ dateCreated: 2023-04-13T08:11:20.807Z
 >There are two instances of rank roles. You need a premium server to access improved rank roles. Therefore, this page is divided into two parts. **If you want to learn more about improved rank roles click on the right tab**.
 >{.is-warning}
 
-<br>
----
 <br>
 
 ## Rank roles {.tabset}
