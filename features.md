@@ -2,7 +2,7 @@
 title: Zoe Features
 description: In here you find all core features explained.
 published: true
-date: 2023-04-17T14:12:00.592Z
+date: 2023-04-17T20:16:23.925Z
 tags: features, core, core features
 editor: markdown
 dateCreated: 2021-07-06T09:25:25.035Z
@@ -64,6 +64,15 @@ When you execute this command Zoe starts an analysis. Zoe evaluates who could pl
 ## Example
 ![](/new_statsteamanalysis.png)
 ## [Link to Wikipage](https://wiki.zoe-discord-bot.ch/en/commands/stats/teamAnalysis)
+
+# stats rankupdate Command
+  # Tabs {.tabset}
+## Explanation
+Zoe provides information about top LP-winning and LP-losing registered players in a specific time. You can choose between one day, one week or one month.
+This is a message that automatically appears in the rankChannel after the respective time after activation (so after one day, one week and one month).
+## Example
+![](/stats_rankupdate.png)
+## [Link to Wikipage](https://wiki.zoe-discord-bot.ch/en/commands/stats/rankupdate)
 
 # matchhistoryChannel
   # Tabs {.tabset}
