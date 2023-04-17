@@ -2,7 +2,7 @@
 title: Rank roles - Feature
 description: Information about the automated rank roles.
 published: false
-date: 2023-04-17T13:57:12.761Z
+date: 2023-04-17T13:57:59.855Z
 tags: ranks, rank, role, roles
 editor: markdown
 dateCreated: 2023-04-13T08:11:20.807Z
@@ -118,6 +118,3 @@ After that the creation is the same as for improved rank roles.
 ---
 >To change your chosen  configuration head back to the same config option and simply update it using the buttons. 
 >{.is-info}
-
-
-
