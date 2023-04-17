@@ -2,7 +2,7 @@
 title: Zoe Translation
 description: Here you can learn about how Zoe is translated.
 published: true
-date: 2023-04-17T12:47:06.385Z
+date: 2023-04-17T12:47:24.215Z
 tags: translation, language, weblate, community, help
 editor: markdown
 dateCreated: 2021-07-05T13:12:06.399Z
@@ -34,4 +34,5 @@ The translation website can be found here: [Translation Website.](https://transl
 ## Tutorial
 
 There is also a tutorial on YouTube if you need help creating your account: [Accountcreation Tutorial](https://youtu.be/t3AgkHMJLok)
-  https://youtu.be/t3AgkHMJLok
+
+  
