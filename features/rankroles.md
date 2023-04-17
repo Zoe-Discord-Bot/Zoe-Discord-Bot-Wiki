@@ -2,7 +2,7 @@
 title: Rank roles - Feature
 description: Information about the automated rank roles.
 published: false
-date: 2023-04-17T12:58:06.311Z
+date: 2023-04-17T13:48:35.245Z
 tags: ranks, rank, role, roles
 editor: markdown
 dateCreated: 2023-04-13T08:11:20.807Z
@@ -27,11 +27,11 @@ dateCreated: 2023-04-13T08:11:20.807Z
 >{.is-success}
 
 >To activate rank roles use the command [`/config`](/en/commands/important/config) and select the option `Automated rank-role features` in the dropdown menu.
-<img src="/basic_rankroles_1.png" width="60%"  />
+<img src="/basic_rankroles_1.png" width="50%"  />
 >{.is-info}
 
 >In the next menu select Option :one:`Rank Role Feature`.
-<img src="/basic_rankroles_2.png" width="60%"  />
+<img src="/basic_rankroles_2.png" width="50%"  />
 >{.is-info}
 
 >If necessary, read the description and confirm the activation with :white_check_mark:and then select for which queues/modes the roles should count. Use the buttons to activate or deactivate the categories. You have the choice between Solo/DuoQ, Flex and TFT. Then confirm this selection with `Activate`.
@@ -50,45 +50,67 @@ dateCreated: 2023-04-13T08:11:20.807Z
 >{.is-success}
 
 >To activate rank roles use the command [`/config`](/en/commands/important/config) and select the option `Automated rank-role features` in the dropdown menu.
-<img src="/basic_rankroles_1.png" width="60%"  />
+<img src="/basic_rankroles_1.png" width="50%"  />
 >{.is-info}
 
 >In the next menu select Option :two:`Rank Role Improved`.
-<img src="/improved_rankroles_1.png" width="60%"  />
+<img src="/improved_rankroles_1.png" width="50%"  />
 >{.is-info}
 
 >You can also assign the improved rank roles by **peak elo**. Choose :three:`Peak Elo Rank Role` in this menu. One more step is required for peak elo rank roles: select the season/split. 
-<img src="/improved_rankroles_peakelo_1.png" width="60%"  />
-<img src="/improved_rankroles_peakelo_2.png" width="60%"  />
+<img src="/improved_rankroles_peakelo_1.png" width="50%"  />
+<img src="/improved_rankroles_peakelo_2.png" width="80%"  />
 After that the creation is the same as for improved rank roles.
 >{.is-warning}
 
 >If necessary, read the description and confirm the creation with `Continue to the settings` 
-<img src="/improved_rankroles_2.png" width="60%"  />
+<img src="/improved_rankroles_2.png" width="80%"  />
 >{.is-info}
 
 >Now for the settings. On the top of the message you can see the current configuration.
-><img src="/improved_rankroles_settings_1.png" width="60%"  />
+><img src="/improved_rankroles_settings_1.png" width="50%"  />
 >Right below that you can find examples of the roles that will be created.
-><img src="/improved_rankroles_settings_2.png" width="60%"  />
->---
->And on the bottom you can change the settings with the dropdown lists:
-> 
->- Change between every rank (Iron, Bronze, Silver,...)
->- Every second division (Iron IV-III, Iron II-I, Bronze IV-III,...) 
->- Or every division (Iron IV, Iron III, Iron II,...)
+><img src="/improved_rankroles_settings_2.png" width="50%"  />
+>{.is-info}
 
+> ### On the bottom you can change the following settings with the **4 dropdown lists**: <br>
+>_**Rank scale** *(single selection)*_
+>Every rank (Iron, Bronze, Silver,...)
+>Every second division (Iron IV-III, Iron II-I, Bronze IV-III,...) 
+>Or every division (Iron IV, Iron III, Iron II,...) 
+><br>
+>_**Queue** *(multiple selection possible)*_
+>Solo/Duo
+>Flex
+>TFT
+><br>
+>_**Minimum rank** *(single selection)*_
+>Select the lowest rank to create here (for all ranks put Iron IV (standard))
+><br>
+>_**Maximum rank** *(single selection)*_
+>Select the highest rank to create here (for all ranks put Challenger (standard))
+><br>
+> ### And with the **2 buttons** at the end of the message the following settings can be made: <br>
+>_**Server specific roles** *(Yes/No)*_
+>Yes: Creates every role for every server region (NA, EUNE, EUW, KR, etc.)
+>No (standard): All server regions are treated the same, no extra roles per server region
+><br>
+>_**Queue specific roles** *(Yes/No)*_
+>Yes: Creates every role for every queue/gamemode (Solo/Duo, Flex and TFT)
+>No (standard): All queue/gamemodes are treated the same, no extra roles per queue/gamemodes
+><br>
+><img src="/improved_rankroles_settings_3.png" width="80%"  />
+><br>
+>With the other buttons you can `Cancel the creation` and close the configuration or
+>`Continue to the next step` after you made all changes you wanted and finalize the improved rankroles.
+>{.is-info}
 
+>Please note that a discord server can hav a maximum of 250 slots for roles. Therefore its not possible to create a role for every division for every server region and queue/gamemode etc.
+>{.is-danger}
 
-
-
-
-><img src="/improved_rankroles_settings_3.png" width="60%"  />
-
-
-<img src="/improved_rankroles_4.png" width="60%"  />
-<img src="/improved_rankroles_5.png" width="60%"  />
-<img src="/improved_rankroles_edit.png" width="60%"  />
+<img src="/improved_rankroles_4.png" width="50%"  />
+<img src="/improved_rankroles_5.png" width="30%"  />
+<img src="/improved_rankroles_edit.png" width="50%"  />
 
 
 
