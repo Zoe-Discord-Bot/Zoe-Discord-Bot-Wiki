@@ -2,7 +2,7 @@
 title: Zoe Translation
 description: Here you can learn about how Zoe is translated.
 published: true
-date: 2023-04-17T18:59:24.154Z
+date: 2023-04-17T18:59:59.698Z
 tags: translation, language, weblate, community, help
 editor: markdown
 dateCreated: 2021-07-05T13:12:06.399Z
@@ -13,7 +13,7 @@ dateCreated: 2021-07-05T13:12:06.399Z
 
 
 > Translation status:
-> <img src="https://translate.zoe-discord-bot.ch/widgets/zoe-discord-bot/en/zoe-discord-bot/multi-auto.svg" style="" />
+> <img src="https://translate.zoe-discord-bot.ch/widgets/zoe-discord-bot/en/zoe-discord-bot/multi-auto.svg" width="60%" />
 > {.is-info}
 
 Zoe is available in several languages. These are: **English and German** (complete). Aswell as **French, Arabic, Russian, Turkish, Italian, Portuguese and Spanish** (partially).
