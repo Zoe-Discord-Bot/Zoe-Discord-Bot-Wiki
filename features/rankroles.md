@@ -2,7 +2,7 @@
 title: Rank roles - Feature
 description: Information about the automated rank roles.
 published: false
-date: 2023-04-17T14:01:07.765Z
+date: 2023-04-17T14:01:47.798Z
 tags: ranks, rank, role, roles
 editor: markdown
 dateCreated: 2023-04-13T08:11:20.807Z
@@ -21,7 +21,7 @@ dateCreated: 2023-04-13T08:11:20.807Z
 
 ## Rank roles {.tabset}
 ### **Basic rank roles**
->This feature is available on all servers.
+>This feature is available for all servers.
 >{.is-success}
 
 >To activate rank roles use the command [`/config`](/en/commands/important/config) and select the option `Automated rank-role features` in the dropdown menu.
