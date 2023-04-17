@@ -2,7 +2,7 @@
 title: Rank roles - Feature
 description: Information about the automated rank roles.
 published: false
-date: 2023-04-17T13:57:59.855Z
+date: 2023-04-17T13:59:06.060Z
 tags: ranks, rank, role, roles
 editor: markdown
 dateCreated: 2023-04-13T08:11:20.807Z
@@ -27,11 +27,11 @@ dateCreated: 2023-04-13T08:11:20.807Z
 >{.is-success}
 
 >To activate rank roles use the command [`/config`](/en/commands/important/config) and select the option `Automated rank-role features` in the dropdown menu.
-<img src="/basic_rankroles_1.png" width="50%"  />
+<img src="/basic_rankroles_1.png" width="40%"  />
 >{.is-info}
 
 >In the next menu select Option :one:`Rank Role Feature`.
-<img src="/basic_rankroles_2.png" width="50%"  />
+<img src="/basic_rankroles_2.png" width="40%"  />
 >{.is-info}
 
 >If necessary, read the description and confirm the activation with :white_check_mark:and then select for which queues/modes the roles should count. Use the buttons to activate or deactivate the categories. You have the choice between Solo/DuoQ, Flex and TFT. Then confirm this selection with `Activate`.
@@ -50,21 +50,21 @@ dateCreated: 2023-04-13T08:11:20.807Z
 >{.is-success}
 
 >To activate rank roles use the command [`/config`](/en/commands/important/config) and select the option `Automated rank-role features` in the dropdown menu.
-<img src="/basic_rankroles_1.png" width="50%"  />
+<img src="/basic_rankroles_1.png" width="40%"  />
 >{.is-info}
 
 >In the next menu select Option :two:`Rank Role Improved`.
-<img src="/improved_rankroles_1.png" width="50%"  />
+<img src="/improved_rankroles_1.png" width="40%"  />
 >{.is-info}
 
 >You can also assign the improved rank roles by **peak elo**. Choose :three:`Peak Elo Rank Role` in this menu. One more step is required for peak elo rank roles: select the season/split. 
-<img src="/improved_rankroles_peakelo_1.png" width="50%"  />
+<img src="/improved_rankroles_peakelo_1.png" width="40%"  />
 <img src="/improved_rankroles_peakelo_2.png" width="80%"  />
 After that the creation is the same as for improved rank roles.
 >{.is-warning}
 
 >If necessary, read the description and confirm the creation with `Continue to the settings` 
-<img src="/improved_rankroles_2.png" width="80%"  />
+<img src="/improved_rankroles_2.png" width="70%"  />
 >{.is-info}
 
 >Now for the settings. On the top of the message you can see the current configuration.
