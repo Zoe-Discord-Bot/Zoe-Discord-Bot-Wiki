@@ -2,7 +2,7 @@
 title: Refresh & Refresh mode
 description: Learn about how Zoe's refresh works.
 published: true
-date: 2023-04-17T06:28:23.353Z
+date: 2023-04-17T06:31:59.759Z
 tags: update, refreh, mode, refresh mode, zoe mode
 editor: markdown
 dateCreated: 2021-07-07T19:15:54.142Z
@@ -30,8 +30,9 @@ dateCreated: 2021-07-07T19:15:54.142Z
 Please end your stream or turn off the Discord Presence of the program so that `Playing League of Legends` is visible, only then will you receive all the information directly (This is because `Streaming League of Legends` or `Clipping League of Legends` is displayed instead of `Playing League of Legends`).
 >{.is-warning}
 
-<br>
+![](/discord_presence.png)
 
+<br>
 
 ## Refresh command
 
