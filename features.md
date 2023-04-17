@@ -2,7 +2,7 @@
 title: Zoe Features
 description: In here you find all core features explained.
 published: true
-date: 2023-04-17T14:09:19.109Z
+date: 2023-04-17T14:09:29.376Z
 tags: features, core, core features
 editor: markdown
 dateCreated: 2021-07-06T09:25:25.035Z
@@ -72,7 +72,6 @@ In the matchhistory channel you can browse all played games of all players with 
 ## Example
 ![](/new_matchhistorychannel.png)
 ## [Link to Wikipage](https://wiki.zoe-discord-bot.ch/en/features/matchhistoryChannel)
-  
  
 # rankRoles
   # Tabs {.tabset}
