@@ -2,7 +2,7 @@
 title: Rank roles - Feature
 description: Information about the automated rank roles.
 published: false
-date: 2023-04-17T14:02:19.437Z
+date: 2023-04-17T14:04:02.429Z
 tags: ranks, rank, role, roles
 editor: markdown
 dateCreated: 2023-04-13T08:11:20.807Z
@@ -65,10 +65,10 @@ After that the creation is the same as for improved rank roles.
 <img src="/improved_rankroles_2.png" width="70%"  />
 >{.is-info}
 
->Now for the settings. On the top of the message you can see the current configuration.
-><img src="/improved_rankroles_settings_1.png" width="50%"  />
->Right below that you can find examples of the roles that will be created.
-><img src="/improved_rankroles_settings_2.png" width="50%"  />
+>### Now for the settings. On the top of the message you can see the current configuration.
+><img src="/improved_rankroles_settings_1.png" width="50%"  /> <br>
+>### Right below that you can find examples of the roles that will be created.
+><img src="/improved_rankroles_settings_2.png" width="50%"  /> <br>
 >{.is-info}
 
 > ### On the bottom you can change the following settings with the **4 dropdown lists**: <br>
