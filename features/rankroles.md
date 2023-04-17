@@ -2,7 +2,7 @@
 title: Rank roles - Feature
 description: Information about the automated rank roles.
 published: false
-date: 2023-04-17T13:48:35.245Z
+date: 2023-04-17T13:57:12.761Z
 tags: ranks, rank, role, roles
 editor: markdown
 dateCreated: 2023-04-13T08:11:20.807Z
@@ -98,9 +98,7 @@ After that the creation is the same as for improved rank roles.
 >_**Queue specific roles** *(Yes/No)*_
 >Yes: Creates every role for every queue/gamemode (Solo/Duo, Flex and TFT)
 >No (standard): All queue/gamemodes are treated the same, no extra roles per queue/gamemodes
-><br>
 ><img src="/improved_rankroles_settings_3.png" width="80%"  />
-><br>
 >With the other buttons you can `Cancel the creation` and close the configuration or
 >`Continue to the next step` after you made all changes you wanted and finalize the improved rankroles.
 >{.is-info}
@@ -108,9 +106,18 @@ After that the creation is the same as for improved rank roles.
 >Please note that a discord server can hav a maximum of 250 slots for roles. Therefore its not possible to create a role for every division for every server region and queue/gamemode etc.
 >{.is-danger}
 
-<img src="/improved_rankroles_4.png" width="50%"  />
-<img src="/improved_rankroles_5.png" width="30%"  />
-<img src="/improved_rankroles_edit.png" width="50%"  />
+> With the next menu you can change, update oder delete every role seperately if you wish to do that. You can navigate up and down with the buttons. If you are finished or want to skip this step click on `Create the option with these settings`.
+><img src="/improved_rankroles_4.png" width="80%"  />
+>Updating a role looks like this:
+><img src="/improved_rankroles_edit.png" width="70%"  />
+>{.is-info}
+
+>This takes a short moment, because Zoe has to create a role for each League of Legends rank or division etc.
+><img src="/improved_rankroles_5.png" width="30%"  />
+>{.is-info}
+---
+>To change your chosen  configuration head back to the same config option and simply update it using the buttons. 
+>{.is-info}
 
 
 
