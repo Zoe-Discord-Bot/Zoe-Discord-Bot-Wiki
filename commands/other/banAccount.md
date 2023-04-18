@@ -2,7 +2,7 @@
 title: /banaccount - Command
 description: Information about the /banaccount command
 published: true
-date: 2023-04-15T21:51:04.305Z
+date: 2023-04-18T12:55:58.628Z
 tags: account, ban, banaccount, ban account
 editor: markdown
 dateCreated: 2021-07-13T09:52:24.528Z
@@ -27,7 +27,7 @@ dateCreated: 2021-07-13T09:52:24.528Z
 >In this video, the account is only "banned" to prevent the possibility of adding it to a new server. To see every option in detail, scroll down.
 >{.is-warning}
 
-<video width="720" height="420" autoplay muted loop>
+<video width="900" height="600" autoplay muted loop>
  <source src="/ban_account_(720p).mp4" type="video/mp4">
 </video>
 
