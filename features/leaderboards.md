@@ -2,7 +2,7 @@
 title: Leaderboards - Feature
 description: Information about all leaderboards.
 published: true
-date: 2023-04-18T13:21:53.323Z
+date: 2023-04-18T13:22:10.955Z
 tags: leaderboard, leader, leaderboards, top 10, top 20, top 50, top 100, best player
 editor: markdown
 dateCreated: 2021-07-06T10:11:35.527Z
@@ -30,7 +30,7 @@ The following goals can be aimed at: Total Mastery Points, Mastery Points on a c
 |     |     |
 | --- | --- |
 | Leaderboard | Example |
-| Total Mastey Points | ![](/new_leaderboard_total_mastery_points.png) |
+| Total Mastery Points | ![](/new_leaderboard_total_mastery_points.png) |
 | Mastery Points (Champion) | ![](/new_leaderboard_mastery_points_champion.png) |
 | Rank in Queue (Solo/DuoQ) | ![](/new_leaderboard_rank.png) |
 | Average KDA | ![](/new_leaderboard_kda.png) |
