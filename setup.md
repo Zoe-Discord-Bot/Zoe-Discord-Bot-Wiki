@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2023-04-18T12:34:10.811Z
+date: 2023-04-18T12:34:31.028Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -73,7 +73,7 @@ To delete a player, use the commands [`/delete player`](/en/commands/delete/play
 The infoChannel contains stats on players as well as stats on games currently in progress.
 
 ![](/new_infopanel.png)
-<img src="/new_gamecard.png" width="60%" />
+<img src="/new_gamecard.png" width="50%" />
 
 > For more information about the infoChannel click [HERE](/en/features/infoChannel).
   >{.is-info}
