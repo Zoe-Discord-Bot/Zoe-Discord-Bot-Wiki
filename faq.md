@@ -2,7 +2,7 @@
 title: FAQ
 description: Find answers to frequently asked questions here.
 published: true
-date: 2023-04-18T12:53:12.819Z
+date: 2023-04-18T13:00:51.909Z
 tags: faq, frequently, asked, questions
 editor: markdown
 dateCreated: 2021-09-30T16:47:28.465Z
@@ -66,7 +66,7 @@ dateCreated: 2021-09-30T16:47:28.465Z
 
 ## Where can I see what will be developed next?
 
-> On the dev discord server you can check out what great features are planned next and in the future. If you have suggestions that don't exist yet, you can let us know on the server.
+> On the dev discord server you can check out what great features are planned next and in the future. If you have suggestions that don't exist yet, you can let us know on the [discord server](https://discord.gg/4Rxrzsxb7d).
 
 <br>
 
@@ -77,5 +77,5 @@ dateCreated: 2021-09-30T16:47:28.465Z
 <br><br><br>
 
 
-> If you have a problem or any open questions you can tell us on the discord server.
+> If you have a problem or any open questions you can tell us on the [discord server](https://discord.gg/4Rxrzsxb7d).
 >{.is-info}
