@@ -2,7 +2,7 @@
 title: FAQ
 description: Find answers to frequently asked questions here.
 published: true
-date: 2023-04-15T15:23:35.027Z
+date: 2023-04-18T12:53:12.819Z
 tags: faq, frequently, asked, questions
 editor: markdown
 dateCreated: 2021-09-30T16:47:28.465Z
@@ -15,7 +15,10 @@ dateCreated: 2021-09-30T16:47:28.465Z
 
 ## In which languages is Zoe available ?
 
->Zoe is currently fully translated into English and German and partially translated into French, Italian, Portuguese and Spanish, Russian and Arabic as well as Turkish. These translations are done by the community. Learn more [here (Translation article)](/en/translation/).
+>Zoe is currently fully translated into English and German and partially translated into French, Italian, Portuguese and Spanish, Russian and Arabic as well as Turkish.  Learn more here: [Translations](https://wiki.zoe-discord-bot.ch/en/translation).
+
+>Please bear in mind that we cannot offer all languages and are dependent on the community for complete translations. Thanks!
+>{.is-warning}
 
 > We are happy about anyone who wants to help us with the translation because in that way we can make it so more people can use Zoe.
 >{.is-info}
