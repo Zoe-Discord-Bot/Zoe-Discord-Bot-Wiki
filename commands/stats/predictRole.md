@@ -2,7 +2,7 @@
 title: /stats predictrole  - Command
 description: Information about the /stats predictrole command
 published: true
-date: 2023-04-13T18:59:32.987Z
+date: 2023-04-18T13:26:10.547Z
 tags: prediction, predict role, predictrole, stats predictrole, predict, role
 editor: markdown
 dateCreated: 2021-07-13T10:51:09.340Z
@@ -25,7 +25,7 @@ dateCreated: 2021-07-13T10:51:09.340Z
 
 ## Usage
 
-Repeat the process of adding accounts (`@Zoe region) summonername`) shown in the gif another 4 times to continue.
+Repeat the process of adding accounts (`@Zoe region summonername`) shown in the gif another 4 times to continue.
 
 ![](/new_stats_predictrole.gif)
 <br>
