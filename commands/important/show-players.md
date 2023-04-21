@@ -2,7 +2,7 @@
 title: /show players - Command
 description: Information about the /show players command
 published: true
-date: 2023-04-13T18:36:47.626Z
+date: 2023-04-21T09:26:29.362Z
 tags: show-players, players, player, account, accounts, show
 editor: markdown
 dateCreated: 2021-07-05T18:18:52.421Z
@@ -24,5 +24,9 @@ dateCreated: 2021-07-05T18:18:52.421Z
 <br>
 
 ## Usage
-
 ![](/new_show_players.gif)
+
+<br>
+
+## Example
+![](/new_show_players.jpg)
