@@ -2,7 +2,7 @@
 title: /boost - Command
 description: Information about the /boost command
 published: true
-date: 2023-04-18T12:49:00.783Z
+date: 2023-04-21T09:46:05.810Z
 tags: subscription, premium, boost
 editor: markdown
 dateCreated: 2023-04-10T12:48:20.068Z
@@ -26,4 +26,4 @@ dateCreated: 2023-04-10T12:48:20.068Z
 
 ## Usage
 
-<img src="/new_boost.gif" width="100%" />
+<img src="" width="100%" />
