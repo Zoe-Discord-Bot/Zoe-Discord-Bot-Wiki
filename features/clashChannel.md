@@ -2,7 +2,7 @@
 title: clashChannel - Feature
 description: Information about the clashChannel
 published: true
-date: 2023-04-13T13:32:29.552Z
+date: 2023-04-22T18:17:23.110Z
 tags: clashchannel, clash, analysis, tournament
 editor: markdown
 dateCreated: 2021-07-06T10:25:54.954Z
@@ -30,4 +30,5 @@ dateCreated: 2021-07-06T10:25:54.954Z
 
 ## Example of an active clashChannel
 
-![](/teamanalysisexample.png)
+![new_clash_analysis.png](/new_clash_analysis.png)
+![new_clash_analysis_bans.png](/new_clash_analysis_bans.png)
