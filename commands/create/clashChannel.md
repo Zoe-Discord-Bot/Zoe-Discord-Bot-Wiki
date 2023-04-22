@@ -2,7 +2,7 @@
 title: /create clashchannel - Command
 description: Information about the /create clashchannel command
 published: true
-date: 2023-04-13T17:47:40.572Z
+date: 2023-04-22T17:26:56.702Z
 tags: create, clashchannel, clash
 editor: markdown
 dateCreated: 2021-07-13T05:46:23.942Z
@@ -33,4 +33,4 @@ dateCreated: 2021-07-13T05:46:23.942Z
 
 ## Example of an active clashChannel
 
-![](/en-active-clashchannel.png)
+![new_clash_analysis.png](/new_clash_analysis.png)
