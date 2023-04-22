@@ -2,7 +2,7 @@
 title: /clash analysis - Command
 description: Information about the /clash analysis command
 published: true
-date: 2023-04-13T17:15:38.334Z
+date: 2023-04-22T17:26:15.503Z
 tags: clash, analysis, team, clash analysis, team analysis
 editor: markdown
 dateCreated: 2021-07-13T09:46:41.507Z
@@ -31,11 +31,12 @@ If you want to analyse an opposing team, you need a summonername of a player of 
 
 ### Example
 
- `/clash analysis (EUW) (theflamehd)`
+![new_clash_analysis.gif](/new_clash_analysis.gif)
+
  <br>
 
 ## Example of an analysis
 
-![](/en-active-clashchannel.png)
+![new_clash_analysis.png](/new_clash_analysis.png)
 
 
