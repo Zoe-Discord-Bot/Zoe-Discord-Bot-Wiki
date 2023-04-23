@@ -1,8 +1,8 @@
 ---
 title: Info Channel - Feature
-description: Information about theinfoChannel
+description: Information about the infochannel
 published: true
-date: 2023-04-13T13:06:13.729Z
+date: 2023-04-23T14:49:25.700Z
 tags: info, infochannel, info panel, infopanel, info channel
 editor: markdown
 dateCreated: 2021-07-06T09:41:09.360Z
