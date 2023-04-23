@@ -2,7 +2,7 @@
 title: Zoe Discord Bot Wiki Homepage
 description: Homepage of Zoe's Wiki
 published: true
-date: 2023-04-17T08:07:37.213Z
+date: 2023-04-23T09:19:53.754Z
 tags: info, start, home
 editor: markdown
 dateCreated: 2021-07-05T10:17:27.255Z
@@ -27,7 +27,7 @@ _**How to set up Zoe for your server:**_
 > [Setup](/en/setup)
  >{.is-info}
  
- >[Configuration](/en/config) *(Coming soon!)*
+ >[Configuration](/en/Zoe_Configuration) *(Coming soon!)*
   >{.is-info}
 
 
