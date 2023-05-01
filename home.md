@@ -2,7 +2,7 @@
 title: Zoe Discord Bot Wiki Homepage
 description: Homepage of Zoes Wiki
 published: true
-date: 2023-05-01T10:20:16.541Z
+date: 2023-05-01T10:20:36.161Z
 tags: info, start, home
 editor: markdown
 dateCreated: 2021-07-05T10:17:27.255Z
@@ -10,7 +10,7 @@ dateCreated: 2021-07-05T10:17:27.255Z
 
 
 
-# Zoe Discord Bot - Wiki 
+
 
 > **Welcome to the official wiki for Zoe!  - [**Add Zoe**](https://zoe-discord-bot.ch/invite.html)** 
 
