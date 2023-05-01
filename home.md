@@ -1,8 +1,8 @@
 ---
 title: Zoe Discord Bot Wiki Homepage
-description: Homepage of Zoe's Wiki
+description: Homepage of Zoes Wiki
 published: true
-date: 2023-04-23T13:59:12.430Z
+date: 2023-05-01T10:20:16.541Z
 tags: info, start, home
 editor: markdown
 dateCreated: 2021-07-05T10:17:27.255Z
@@ -10,7 +10,7 @@ dateCreated: 2021-07-05T10:17:27.255Z
 
 
 
-# <img src="/zoe_logo.png" width = "2.5%" /> Zoe Discord Bot - Wiki 
+# Zoe Discord Bot - Wiki 
 
 > **Welcome to the official wiki for Zoe!  - [**Add Zoe**](https://zoe-discord-bot.ch/invite.html)** 
 
