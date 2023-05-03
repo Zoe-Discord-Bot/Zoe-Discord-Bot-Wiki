@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2023-04-23T14:00:59.053Z
+date: 2023-05-03T07:30:51.695Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -133,7 +133,7 @@ Once your features are set up correctly, they will update automatically as soon 
 # 3\. Customize these features (because every server is different)
 
 > To manage Zoe and all the different settings it offers, use this command: [`/config`](/en/commands/important/config). 
- Read everything about he configuration here: [**Configuration**](/en/Zoe-Configuration/).
+ Read everything about the configuration here: [**Configuration**](/en/Zoe-Configuration/).
 >{.is-info}
 <p>
   
@@ -153,5 +153,5 @@ One example being [`/stats profile`](/en/commands/stats/profile) letting you vie
 
 > If you want to see the list of commands: [`/help`](/en/commands/important/help) or click [HERE](/en/commands/).
 > If you have any questions, suggestions or need help, please come here: [https://discord.gg/whc5PrC](https://discord.gg/whc5PrC)   
-> *To review the help message, do the command:* [`/setup`](/en/commands/important/setup)
+> *To review the setup help message, do the command:* [`/setup`](/en/commands/important/setup)
   >{.is-info}
