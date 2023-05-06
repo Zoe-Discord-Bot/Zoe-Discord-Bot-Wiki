@@ -1,8 +1,8 @@
 ---
 title: Zoe Discord Bot Wiki Homepage
-description: Homepage of Zoes Wiki
+description: Learn everything about Zoe, the League of Legends Discord bot.
 published: true
-date: 2023-05-01T10:20:36.161Z
+date: 2023-05-06T22:43:20.640Z
 tags: info, start, home
 editor: markdown
 dateCreated: 2021-07-05T10:17:27.255Z
