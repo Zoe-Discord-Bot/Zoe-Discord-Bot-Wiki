@@ -2,7 +2,7 @@
 title: Zoe Troubleshooting
 description: With this guide you can try to solve minor issues yourself.
 published: false
-date: 2023-05-07T10:43:48.074Z
+date: 2023-05-07T10:46:54.198Z
 tags: help, troubleshooting, quickhelp, problem solving, online status, permissions
 editor: markdown
 dateCreated: 2023-05-07T09:24:15.617Z
@@ -61,3 +61,10 @@ To fix this, you can kick Zoe and add it again with the new and correct invitati
 > >Dont worry, your configuration is saved. {.is-warning} 
 >
 >{.is-info}
+ 
+  <br>
+  
+## Still not working?
+>If it still does not work, please ask your question / express your problem in a support post on the Zoe Discord server. You can find an invite on the bottom left.
+>{.is-success}
+
