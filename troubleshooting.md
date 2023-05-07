@@ -1,8 +1,8 @@
 ---
 title: Zoe Troubleshooting
 description: With this guide you can try to solve minor issues yourself.
-published: false
-date: 2023-05-07T10:48:59.476Z
+published: true
+date: 2023-05-07T10:49:07.528Z
 tags: help, troubleshooting, quickhelp, problem solving, online status, permissions
 editor: markdown
 dateCreated: 2023-05-07T09:24:15.617Z
