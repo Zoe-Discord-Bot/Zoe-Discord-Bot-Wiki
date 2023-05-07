@@ -2,7 +2,7 @@
 title: Zoe Troubleshooting
 description: With this guide you can try to solve minor issues yourself.
 published: false
-date: 2023-05-07T10:46:54.198Z
+date: 2023-05-07T10:48:59.476Z
 tags: help, troubleshooting, quickhelp, problem solving, online status, permissions
 editor: markdown
 dateCreated: 2023-05-07T09:24:15.617Z
@@ -45,6 +45,8 @@ dateCreated: 2023-05-07T09:24:15.617Z
 >`MANAGE_GUILD_EXPRESSIONS` - Allows management and editing of emojis
 >`MANAGE_ROLES` - Allows management and editing of roles
 >`USE_APPLICATION_COMMANDS` - Allows to use application commands, slash commands and context menu commands.
+> > If roles dont work for you, also check that Zoe is above all other roles in the server settings.{.is-warning}
+>
 >{.is-info}
   
 <br>
