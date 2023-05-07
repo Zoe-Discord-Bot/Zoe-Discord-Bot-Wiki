@@ -2,7 +2,7 @@
 title: Zoe Troubleshooting
 description: With this guide you can try to solve minor issues yourself.
 published: false
-date: 2023-05-07T10:25:46.786Z
+date: 2023-05-07T10:43:48.074Z
 tags: help, troubleshooting, quickhelp, problem solving, online status, permissions
 editor: markdown
 dateCreated: 2023-05-07T09:24:15.617Z
@@ -50,3 +50,14 @@ dateCreated: 2023-05-07T09:24:15.617Z
 <br>
 
 ## 3. Additional information
+> ### Discord presence issue
+>If you are **streaming via Discord** or using a **recording/clipping program** that changes the Discord Rich Presence (like MedalTV or similar), Zoe will not be able to perceive the current game and will not send an gamecard or update the infopanel.
+Please **end your stream or turn off the Discord Presence of the program** so that `Playing League of Legends` is visible, only then will you receive all the information directly, as the passive refresh takes longer.
+>{.is-info}
+  
+> ### Slash commands issue
+>If the slash comands do not work for you, first check if Zoe has the permission to `USE_APPLICATION_COMMANDS`. If Zoe has this permission but it still doesn't work, it's probably because you invited Zoe via an outdated link that didn't have the `application.commands` invite-option enabled. This must be done by the developer when inviting Zoe and is done in all new invitation links. 
+To fix this, you can kick Zoe and add it again with the new and correct invitation link. 
+> >Dont worry, your configuration is saved. {.is-warning} 
+>
+>{.is-info}
