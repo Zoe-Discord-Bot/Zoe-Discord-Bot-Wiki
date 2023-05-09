@@ -2,7 +2,7 @@
 title: Zoe Translation
 description: Here you can learn about how Zoe is translated.
 published: true
-date: 2023-05-09T09:07:19.020Z
+date: 2023-05-09T09:08:19.913Z
 tags: translation, language, weblate, community, help
 editor: markdown
 dateCreated: 2021-07-05T13:12:06.399Z
@@ -13,9 +13,11 @@ dateCreated: 2021-07-05T13:12:06.399Z
 
 
 ## Translation status
-<img src="https://translate.zoe-discord-bot.ch/widgets/zoe-discord-bot/en/zoe-discord-bot/multi-auto.svg" width="50%" />
 <a href="https://translate.zoe-discord-bot.ch/engage/zoe-discord-bot/">
-  
+<img src="https://translate.zoe-discord-bot.ch/widgets/zoe-discord-bot/-/zoe-discord-bot/multi-auto.svg" alt="Translation status" />
+</a>
+
+<a href="https://translate.zoe-discord-bot.ch/engage/zoe-discord-bot/">
 <img src="https://translate.zoe-discord-bot.ch/widgets/zoe-discord-bot/-/zoe-discord-bot/287x66-black.png" alt="Translation status" />
 </a>
 
