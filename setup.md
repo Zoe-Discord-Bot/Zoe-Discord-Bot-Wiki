@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2023-05-03T07:30:51.695Z
+date: 2023-05-12T20:47:15.991Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -68,34 +68,34 @@ To delete a player, use the commands [`/delete player`](/en/commands/delete/play
   
 # 2\. Show players (aka use features)
 
-## InfoChannel (read-only channel recommended)
+## Infochannel (read-only channel recommended)
 
-The infoChannel contains stats on players as well as stats on games currently in progress.
+The infochannel contains stats on players as well as stats on games currently in progress.
 
 ![](/new_infopanel.png)
 <img src="/new_gamecard.png" width="50%" />
 
-> For more information about the infoChannel click [HERE](/en/features/infoChannel).
+> For more information about the infochannel click [HERE](/en/features/infoChannel).
   >{.is-info}
 <p>
   
-## RankChannel (read-only channel recommended)
+## Rankchannel (read-only channel recommended)
 
-The rankChannel is, where a message will be sent after each ranked game of the registered players. These messages contain the amount of won or lost LP and some stats on the player ingame performance like KDA, duration of the game and itembuild.
+The rankchannel is, where a message will be sent after each ranked game of the registered players. These messages contain the amount of won or lost LP and some stats on the player ingame performance like KDA, duration of the game and itembuild.
 
 ![](/new_rankchannel_message.png)
 
-> For more information about the rankChannel click [HERE](/en/features/rankChannel).
+> For more information about the rankchannel click [HERE](/en/features/rankChannel).
   >{.is-info}
 <p>
   
-## ClashChannel
+## Clashchannel
 
-This channel will send stats about an account in relation to Clash. It will contain schedules of future clashes in your timezone as well as stats about your team. You will also be able to do an detailed analysis of enemy teams with ban recommendations.
+This channel will send stats about an account in relation to clash. It will contain schedules of future clashes in your timezone as well as stats about your team. You will also be able to do an detailed analysis of enemy teams with ban recommendations.
 
 ![](/new_statsteamanalysis.png)
 
-> For more information about the clashChannel click [HERE](/en/features/clashChannel).
+> For more information about the clashchannel click [HERE](/en/features/clashChannel).
   >{.is-info}
 <p>
   
