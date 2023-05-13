@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2023-05-13T20:34:25.390Z
+date: 2023-05-13T22:03:36.917Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -67,6 +67,8 @@ To delete a player, use the commands [`/delete player`](/en/commands/delete/play
 <p>
   
 # 2\. Show players (aka use features)
+>You don't have to set up any of these features, this is just a suggestion-list. If you want to look around all features, [here is a link to all the features](/en/features) and [here to all commands](/en/commands/).
+>{.is-info}
 
 ## Infochannel (read-only channel recommended)
 
