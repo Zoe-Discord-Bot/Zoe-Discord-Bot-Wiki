@@ -2,7 +2,7 @@
 title: Zoe Features
 description: In here you find all core features explained.
 published: true
-date: 2023-05-13T20:04:44.148Z
+date: 2023-05-13T20:05:55.517Z
 tags: features, core, core features
 editor: markdown
 dateCreated: 2021-07-06T09:25:25.035Z
@@ -16,7 +16,7 @@ dateCreated: 2021-07-06T09:25:25.035Z
 # Infochannel
 
 >  [**Link to Wikipage**](https://wiki.zoe-discord-bot.ch/en/features/infoChannel/)
-> Zoe provides an information panel in a text channel with information about the players in a game, >optionally displaying their rank. Zoe also sends game cards information about current games such as >champions played, SoloQ rank or winrate with a champion played.  
+> Zoe provides an information panel in a text channel with information about the players in a game, optionally displaying their rank. Zoe also sends game cards information about current games such as champions played, SoloQ rank or winrate with a champion played.  
 >{.is-info}
   
 ![](/new_infopanel.png)
@@ -88,9 +88,9 @@ This is a message that automatically appears in the rankchannel after the respec
 
 <br>
  
-# rankRoles
+# Rankroles
 > [**Link to Wikipage**](https://wiki.zoe-discord-bot.ch/en/features/rankroles)
->Zoe creates discord roles for every rank or division (premium) for all registered players.
+>Zoe creates Discord roles for every rank or division (premium) for all registered players.
 >{.is-info}
 
 ![](/improved_rankroles_5.png)
@@ -100,4 +100,5 @@ This is a message that automatically appears in the rankchannel after the respec
  # There is more!
   
 > **There are many more things, so check out all [commands](https://wiki.zoe-discord-bot.ch/en/commands) and the [configuration](https://wiki.zoe-discord-bot.ch/en/Zoe-Configuration/)!**
+>{.is-warning}
 
