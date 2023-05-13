@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2023-05-13T20:02:52.788Z
+date: 2023-05-13T20:34:25.390Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -148,7 +148,8 @@ One example being [`/stats profile`](/en/commands/stats/profile) letting you vie
   
 # Setup - Final words
 
-> Zoe is an actively developed bot that offers a premium subscription to support its development. This subscription offers some additional options but is by far not mandatory. For more information: [`/subscription`](/en/commands/important/subscription) [`/boost`](/en/commands/important/boost)
+> Zoe is an actively developed bot that offers a ⭐premium subscription⭐ to support its development. This subscription offers some additional options but is by far not mandatory. 
+For more information: [Subscription Wiki page](https://wiki.zoe-discord-bot.ch/en/support), [Boosting](https://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting), [`/subscription`](/en/commands/important/subscription) & [`/boost`](/en/commands/important/boost)
   
 
 > If you want to see the list of commands: [`/help`](/en/commands/important/help) or click [HERE](/en/commands/).
