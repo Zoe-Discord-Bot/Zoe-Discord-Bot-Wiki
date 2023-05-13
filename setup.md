@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2023-05-12T20:47:15.991Z
+date: 2023-05-13T20:02:52.788Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -122,7 +122,7 @@ This feature allows you to create leaderboards that refresh automatically. Sever
 
 You can set up an automatic rank system with Zoe easily. The roles will be refreshed regularly automatically. The premium version of this feature offers more options (filter by server region, display of each division, full control over each role and more).
 
-![](/new_rankroles_adv.png)
+![](/improved_rankroles_5.png)
 
 Once your features are set up correctly, they will update automatically as soon as a game is detected via the Discord presence of registered players or once an hour at least. You can also refresh your server with the command [`/refresh`](/en/commands/important/refresh).
 
