@@ -2,94 +2,103 @@
 title: Zoe Features
 description: In here you find all core features explained.
 published: true
-date: 2023-04-17T20:16:23.925Z
+date: 2023-05-13T20:03:43.461Z
 tags: features, core, core features
 editor: markdown
 dateCreated: 2021-07-06T09:25:25.035Z
 ---
 
 
-> This list contains all core features of Zoe. You can click on `Example` for an example of every feature and on the `Link to Wikipage` tab to get more information.
+> This list contains all core features of Zoe. You can clickon the `Link to Wikipage` tab to get more information.
 >{.is-info}
 
->*If the buttons do not work for you when you click on the text, try clicking next to the text in the field. The link must be clicked directly.*
->{.is-warning}
-<p>
- 
+<br> 
 
-# infoChannel
-  # Tabs {.tabset}
-## Explanation
-Zoe provides an information panel in a text channel with information about the players in a game, optionally displaying their rank. Zoe also sends game cards information about current games such as champions played, SoloQ rank or winrate with a champion played.  
-## Example  
+# Infochannel
+
+>  [**Link to Wikipage**](https://wiki.zoe-discord-bot.ch/en/features/infoChannel/)
+> Zoe provides an information panel in a text channel with information about the players in a game, >optionally displaying their rank. Zoe also sends game cards information about current games such as >champions played, SoloQ rank or winrate with a champion played.  
+>{.is-info}
+  
 ![](/new_infopanel.png)
-## [Link to Wikipage](https://wiki.zoe-discord-bot.ch/en/features/infoChannel/)
- 
-# rankChannel
-  # Tabs {.tabset}
-## Explanation
-In the rankChannel it is possible to track the players' ranked progress. 
-## Example  
+
+<br> 
+  
+# Rankchannel
+
+> [**Link to Wikipage**](https://wiki.zoe-discord-bot.ch/en/features/rankChannel/)
+>In the rankchannel it is possible to track the players' ranked progress. 
+>{.is-info}
+
 ![](/new_rankchannel_message.png)
-## [Link to Wikipage](https://wiki.zoe-discord-bot.ch/en/features/rankChannel/)
+
+<br>
     
 # Leaderboards
-  # Tabs {.tabset}
-## Explanation
+> [**Link to Wikipage**](https://wiki.zoe-discord-bot.ch/en/features/leaderboards/)
 With leaderboards up to 100 players (boosted server, otherwise 10) can compare themselves in a selected category.  
-## Example
+>{.is-info}
+
 ![](/new_leaderboard_mastery_points_champion.png) 
-## [Link to Wikipage](https://wiki.zoe-discord-bot.ch/en/features/leaderboards/)
+
+<br>
     
-# clashChannel
-  # Tabs {.tabset}
-## Explanation
-Zoe can perform an analysis of your own and opposing clash teams to help with pick and ban decisions. 
-## Example
+# Clashchannel
+> [**Link to Wikipage**](https://wiki.zoe-discord-bot.ch/en/features/clashChannel/)
+>Zoe can perform an analysis of your own and opposing clash teams to help with pick and ban decisions. 
+>{.is-info}
+
 ![](/new_clashinactive.png)
-## [Link to Wikipage](https://wiki.zoe-discord-bot.ch/en/features/clashChannel/)
+
+<br>
    
 # stats profile Command
-  # Tabs {.tabset}
-## Explanation
-Zoe provides information about the selected profile, including the top 3 highest champions, a summary of all masteries, the last 3 games played, ranking statistics of the player and a chart with the 6 highest mastery champs.
-## Example 
+> [**Link to Wikipage**](https://wiki.zoe-discord-bot.ch/en/commands/stats/profile)
+>Zoe provides information about the selected profile, including the top 3 highest champions, a summary of all masteries, the last 3 games played, ranking statistics of the player and a chart with the 6 highest mastery champs.
+>{.is-info}
+ 
 ![](/new_statsprofile.png)
-## [Link to Wikipage](https://wiki.zoe-discord-bot.ch/en/commands/stats/profile)
+
+<br>
     
 # stats teamAnalysis Command
-  # Tabs {.tabset}
-## Explanation
-When you execute this command Zoe starts an analysis. Zoe evaluates who could play what on which position and gives ban recommendations.
-## Example
+> [**Link to Wikipage**](https://wiki.zoe-discord-bot.ch/en/commands/stats/teamAnalysis)
+>When you execute this command Zoe starts an analysis. Zoe evaluates who could play what on which position and gives ban recommendations.
+>{.is-info}
+
 ![](/new_statsteamanalysis.png)
-## [Link to Wikipage](https://wiki.zoe-discord-bot.ch/en/commands/stats/teamAnalysis)
+
+<br>
 
 # stats rankupdate Command
-  # Tabs {.tabset}
-## Explanation
-Zoe provides information about top LP-winning and LP-losing registered players in a specific time. You can choose between one day, one week or one month.
-This is a message that automatically appears in the rankChannel after the respective time after activation (so after one day, one week and one month).
-## Example
-![](/stats_rankupdate.png)
-## [Link to Wikipage](https://wiki.zoe-discord-bot.ch/en/commands/stats/rankupdate)
+> [**Link to Wikipage**](https://wiki.zoe-discord-bot.ch/en/commands/stats/rankupdate)
+>Zoe provides information about top LP-winning and LP-losing registered players in a specific time. You can choose between one day, one week or one month.
+This is a message that automatically appears in the rankchannel after the respective time after activation (so after one day, one week and one month).
+>{.is-info}
 
-# matchhistoryChannel
-  # Tabs {.tabset}
-## Explanation
-In the matchhistory channel you can browse all played games of all players with detailed information about every game.
-## Example
+![](/stats_rankupdate.png)
+
+<br>
+
+# Matchhistorychannel
+> [**Link to Wikipage**](https://wiki.zoe-discord-bot.ch/en/features/matchhistoryChannel)
+>In the matchhistorychannel you can browse all played games of all players with detailed information about every game.
+>{.is-info}
+
 ![](/new_matchhistorychannel.png)
-## [Link to Wikipage](https://wiki.zoe-discord-bot.ch/en/features/matchhistoryChannel)
+
+<br>
  
 # rankRoles
-  # Tabs {.tabset}
-## Explanation
-Zoe creates discord roles for every rank or division (premium) for all registered players.
-## Example
+> [**Link to Wikipage**](https://wiki.zoe-discord-bot.ch/en/features/rankroles)
+>Zoe creates discord roles for every rank or division (premium) for all registered players.
+>{.is-info}
+
 ![](/improved_rankroles_5.png)
-## [Link to Wikipage](https://wiki.zoe-discord-bot.ch/en/features/rankroles)  
+
+<br>
   
  # There is more!
   
-> **There are many more things, so check out all [commands](https://wiki.zoe-discord-bot.ch/en/commands)!**
+> **There are many more things, so check out all [commands](https://wiki.zoe-discord-bot.ch/en/commands) and the [configuration](https://wiki.zoe-discord-bot.ch/en/Zoe-Configuration/)!**
+
