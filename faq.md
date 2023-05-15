@@ -2,7 +2,7 @@
 title: FAQ - Frequently asked questions
 description: Find answers to frequently asked questions here.
 published: true
-date: 2023-05-15T07:24:06.440Z
+date: 2023-05-15T08:54:29.832Z
 tags: faq, frequently, asked, questions
 editor: markdown
 dateCreated: 2021-09-30T16:47:28.465Z
@@ -33,7 +33,7 @@ dateCreated: 2021-09-30T16:47:28.465Z
 
 ## Which games are / why is flex/TFT displayed in infopanel?
 
-> The infopanel  shows the last update of the rank by default. If your last game was a flex game, this change is shown. You can change this behavior in Zoes config (see [/config](/en/commands/important/config)).
+> The infopanel  shows the last update of the rank by default. If your last game was a flex game, this change is shown. You can change this behavior in Zoes config (see the [configuration](http://wiki.zoe-discord-bot.ch/en/Zoe-Configuration/Infochannel/Infochannel-Rankfilter) or [this guide](http://wiki.zoe-discord-bot.ch/en/Guides/SoloQ-Infopanel)).
 
 <br>
 
