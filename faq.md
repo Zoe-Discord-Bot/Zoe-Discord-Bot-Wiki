@@ -1,17 +1,14 @@
 ---
-title: FAQ
+title: FAQ - Frequently asked questions
 description: Find answers to frequently asked questions here.
 published: true
-date: 2023-05-12T20:43:07.828Z
+date: 2023-05-15T07:24:06.440Z
 tags: faq, frequently, asked, questions
 editor: markdown
 dateCreated: 2021-09-30T16:47:28.465Z
 ---
 
-# FAQ
 
-### Frequently Asked Questions
-<br>
 
 ## In which languages is Zoe available ?
 
