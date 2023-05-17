@@ -2,8 +2,8 @@
 title: /patchnotes  - Command
 description: Information about the /patchnotes command
 published: true
-date: 2023-05-17T11:17:35.654Z
-tags: patches, patch, patch notes, patchnotes, patchnotes command
+date: 2023-05-17T11:17:57.035Z
+tags: update, patches, patch, patch notes, patchnotes, patchnotes command, zoe patch, zoe update
 editor: markdown
 dateCreated: 2021-07-13T10:24:40.712Z
 ---
