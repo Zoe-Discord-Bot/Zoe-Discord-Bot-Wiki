@@ -2,7 +2,7 @@
 title: How to setup Zoe for a League of Legends community Discord server?
 description: This is a suggestion on how to set up a League of Legends community Discord server.
 published: false
-date: 2023-05-17T14:01:05.882Z
+date: 2023-05-17T16:25:37.156Z
 tags: community, server, community server, guide
 editor: markdown
 dateCreated: 2023-05-17T12:49:04.078Z
@@ -10,31 +10,38 @@ dateCreated: 2023-05-17T12:49:04.078Z
 
 >**You want to use Zoe on a community Discord server?** 
 We are talking about a server that is not just a team or a group of friends. Here you can find a "template" on how to set up Zoe for this use.
-The (current) _starting state_ should be that you have **invited Zoe** and have done the first two steps: **set the language and the default region** (see [Zoe Setup](/en/setup)).
+The (current) _starting state_ should be that you have **invited Zoe** and have done the first two steps: **set the language and the default region** (see [Zoe Setup](/en/setup)). 
+:one::two::three::four::five::six::seven::eight::nine:
+<br>
 
-> ### :one: **Discord channels** <br>
->If you haven't already, create a Discord channel for bot commands that only your server staff (moderators, administrators, etc.) can see for commands like /config and one command channel for everyone for them to register or using commands like /stats profile. They can look like this for example: 
+## **1. Discord channels** <br>
+> :one:If you haven't already, create a Discord channel for bot commands that only your server staff (moderators, administrators, etc.) can see for commands like `/config`, and a command channel for everyone to register or use commands like `/stats profile`. They can look like this for example: 
 ><img src="" width="45%" /> <br>
->If you want to use leaderboards (which will be created in the next step) please create a dedicated channel for all leaderboards. We recommand making this a read-only channel, so only Zoe can send messages in the channel.
+> :two:If you want to use leaderboards (which will be created in the next step), please create a separate channel for all leaderboards. We recommand making this a read-only channel, so only Zoe can send messages in the channel.
 >{.is-info}
 
-> ### :two: **Zoe features** <br>
->In your staff command channel you can now go ahead and create an infochannel for a general overview over all players. You can do this with the command /create infochannel. After you are done it should look something like this:
+<br>
+
+## **2. Zoe features** <br>
+>:one:In your command channel you can now create an infochannel to get a general overview of all players. You can do this with the command `/create infochannel`. Afterwards it should look something like this:
 ><img src="" width="35%" /> <br>
->Next would be a channel to log played matches. You can now choose between the rankchannel if you would like to focus on players ranks and won/lost LP and the matchhistorychannel if you would like to focus on a more general matchhistory with detailed statistics.
->For the rankchannel use the command /create rankchannel and for the matchhistorychannel /create matchhistorychannel
+> :two:Next is a channel for logging the matches played. You can now choose between the rankchannel, if you want to focus on players' ranks and LP won/lost, and the matchhistorychannel, if you want to focus on a general match history with detailed statistics.
+>For the rankchannel use the command `/create rankchannel` and for the matchhistorychannel use `/create matchhistorychannel`. <br>
+> :three:Next come the leaderboards. You can choose from different goals, but here are some recommendations: Solo/duo rank, OTP (most champion mastery points) or total mastery points. You can create leaderboards with the command `/create leaderboard`. Select the previously created channel in the channel selection.
+>>We recommend making all these channels **read-only** (for others), that only Zoe can send messages into them.{.is-warning}
 >
->Next up are leaderboards. You can pick from various goals but here are some recommendations: Solo/Duo rank, OTP (most mastery points on one champion) or total mastery points. You can create leaderboards with the command /create leaderboard. Choose the earlier created channel in channel selection.
-WARN: We recommand making all of these read-only channels, so only Zoe can send messages in the channel.
-If youre finished it could look like this:
+>When you are done, it might look like this:
 ><img src="" width="35%" /> 
+> :four: Let's move on to the rankroles.  These are Discord roles for each player based on the rank of the connected League of Legends account and are updated regularly by Zoe. You can customise the name, color and permissions of these roles after they have been created. For that you need to head into the configuration. [Click here for intructions.](/en/features/rankroles)
 >{.is-info}
 
-> ### :three: **Zoe configuration** <br>
+<br>
+
+## **3. Zoe configuration** <br>
 ><img src="" width="35%" /> <br>
 >{.is-info}
 
-> ### :four: **Final words**
+## **4. Final words**
 >{.is-info}
 
 >Please note that not all of Zoes features are listed here. Feel free to check out all the other [features](/en/features), [commands](/en/commands/) and [Zoes configuration](/en/Zoe-Configuration).
