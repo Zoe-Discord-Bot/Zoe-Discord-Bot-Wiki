@@ -2,14 +2,14 @@
 title: Zoe Features
 description: In here you find all core features explained.
 published: true
-date: 2023-05-13T20:05:55.517Z
+date: 2023-05-17T09:00:39.557Z
 tags: features, core, core features
 editor: markdown
 dateCreated: 2021-07-06T09:25:25.035Z
 ---
 
 
-> This list contains all core features of Zoe. You can click on the `Link to Wikipage` tab to get more information.
+> This list contains all core features of Zoe. You can click on the `Link to Wikipage`  to get more information.
 
 <br> 
 
