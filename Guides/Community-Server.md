@@ -2,7 +2,7 @@
 title: How to setup Zoe for a League of Legends community Discord server?
 description: This is a suggestion on how to set up a League of Legends community Discord server.
 published: false
-date: 2023-05-17T16:31:06.922Z
+date: 2023-05-17T16:45:25.035Z
 tags: community, server, community server, guide
 editor: markdown
 dateCreated: 2023-05-17T12:49:04.078Z
@@ -38,11 +38,17 @@ The (current) _starting state_ should be that you have **invited Zoe** and have 
 <br>
 
 ## **3. Zoe configuration** <br>
-><img src="" width="35%" /> <br>
+>**You can/should activate the following options in the cofiguration ([`/config`](https://wiki.zoe-discord-bot.ch/en/commands/important/config)).** 
+:one:In order for all members to have to register themselves on your server in Zoe, you must activate the command beforehand. You can find instructions on how to do this here: [Enable register command](https://wiki.zoe-discord-bot.ch/en/Zoe-Configuration/Usermanagment/Register) <br>
+> :two:If you want to make sure that members only add accounts to Zoe that they own, you can turn on owner verification. See the instructions here: [Account owner verification](/en/Zoe-Configuration/Usermanagment/Verification) <br>
+> :three:Optionally, you can set that only members who have registered can view the infochannel. To do that, have a look here: [Hide infochannel](/en/Zoe-Configuration/Infochannel/Hide-Infochannel)
 >{.is-info}
+
+<br>
 
 ## **4. Final words**
+>Please note that not all of Zoes features are listed here. as this is only a suggestion. Ultimately, you decide which features you use and how you use them.
 >{.is-info}
 
->Please note that not all of Zoes features are listed here. Feel free to check out all the other [features](/en/features), [commands](/en/commands/) and [Zoes configuration](/en/Zoe-Configuration).
->{.is-warning}
+> Feel free to check out all the other [features](/en/features), [commands](/en/commands/) and [Zoes configuration](/en/Zoe-Configuration).
+>{.is-success}
