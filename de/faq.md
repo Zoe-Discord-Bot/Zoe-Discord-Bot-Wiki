@@ -1,8 +1,8 @@
 ---
 title: FAQ - Häufig gestellte Fragen
 description: Hier findest du Antworten auf häufig gestellte Fragen.
-published: false
-date: 2023-05-19T13:32:10.522Z
+published: true
+date: 2023-05-19T13:34:24.563Z
 tags: faq, häufig, gestellte, fragen
 editor: markdown
 dateCreated: 2023-05-19T09:56:31.780Z
