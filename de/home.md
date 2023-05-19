@@ -2,7 +2,7 @@
 title: Zoe Discord Bot Wiki Homepage - Deutsch
 description: Erfahre alles über Zoe, den League of Legends Discord-Bot.
 published: true
-date: 2023-05-19T13:40:21.361Z
+date: 2023-05-19T16:13:39.831Z
 tags: startseite, start, home
 editor: markdown
 dateCreated: 2021-07-14T09:13:23.860Z
@@ -31,7 +31,7 @@ dateCreated: 2021-07-14T09:13:23.860Z
 ## Über Zoe
 
 
-Zoe ist ein Dicord Bot für League of Legends und TFT der, sobald er konfiguriert ist, automatisch Statistiken für jeden registrierten Spieler erstellt. <br> <br> Mit Zoe erhältst du Statistiken wie gespielte Champions, Rang und Siegquote über [aktuell laufende Spiele](/de/features/infoChannel), [gewertete Spiele](/en/features/rankChannel) mit Promotion-Tracking,  [einen Spielverlauf](/en/features/matchhistoryChannel) für Spieler und Teams, [Leaderboards](/en/features/leaderboards) um sich mit Anderen in verschiedenen Kategorien, wie Gesamtmeisterschaftspunkten oder durchschnittlicher KDA auch für bestimmte Champions und mehr zu vergleichen, Pick- und Bannvorschläge durch [eine Analyse des eigenen und des gegnerischen Clashteams](/en/features/clashChannel), [Rangrollen](/en/features/rankroles) und vieles mehr.
+Zoe ist ein Dicord Bot für League of Legends und TFT der, sobald er konfiguriert ist, automatisch Statistiken für jeden registrierten Spieler erstellt. <br> <br> Mit Zoe erhältst du Statistiken wie gespielte Champions, Rang und Siegquote über [aktuell laufende Spiele](/en/features/infoChannel), [gewertete Spiele](/en/features/rankChannel) mit Promotion-Tracking,  [einen Spielverlauf](/en/features/matchhistoryChannel) für Spieler und Teams, [Leaderboards](/en/features/leaderboards) um sich mit Anderen in verschiedenen Kategorien, wie Gesamtmeisterschaftspunkten oder durchschnittlicher KDA auch für bestimmte Champions und mehr zu vergleichen, Pick- und Bannvorschläge durch [eine Analyse des eigenen und des gegnerischen Clashteams](/en/features/clashChannel), [Rangrollen](/en/features/rankroles) und vieles mehr.
 
 <br>
 
