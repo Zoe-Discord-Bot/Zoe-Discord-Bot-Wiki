@@ -1,14 +1,14 @@
 ---
-title: Zoe Setup
+title: Zoe Einrichtung
 description: Auf dieser Seite erfährst du, wie du Zoe auf deinem Discord-Server einrichten kannst.
 published: true
-date: 2023-05-19T13:39:09.064Z
+date: 2023-05-19T13:40:06.868Z
 tags: setup, einrichten, einrichtung, start
 editor: markdown
 dateCreated: 2021-08-16T13:05:23.601Z
 ---
 
-# Zoe Discord Bot Setup
+# Zoe Discord Bot Einrichtung
 
 ### Hier findest du alles über Zoes Einrichtung.
 
