@@ -2,7 +2,7 @@
 title: FAQ - Häufig gestellte Fragen
 description: Hier findest du Antworten auf häufig gestellte Fragen.
 published: false
-date: 2023-05-19T09:56:31.780Z
+date: 2023-05-19T13:31:54.874Z
 tags: faq, häufig, gestellte, fragen
 editor: markdown
 dateCreated: 2023-05-19T09:56:31.780Z
@@ -49,31 +49,31 @@ dateCreated: 2023-05-19T09:56:31.780Z
 
 ## Wie kann ich Zoe unterstützen?
 
-> Du kannst uns monatlich mit einem kleinen Betrag unterstützen und bekommst einige coole Features obendrauf. Finde [hier (Englisch)](/en/support/) mehr heraus. Or visit the donation website [here (donation website)](https://zoe-discord-bot.ch/donate.html).
+> Du kannst uns monatlich mit einem kleinen Betrag unterstützen und bekommst einige coole Features obendrauf. Finde [hier (Englisch)](/en/support/) mehr heraus. Oder besuche die Spendenseite [hier](https://zoe-discord-bot.ch/donate.html).
 
 <br>
 
-## How can I stop others from tracking my account with Zoe?
+## Wie kann ich andere davon abhalten, mein Konto bei Zoe zu überwachen?
 
-> There is a banlist that you can put yourself on. This allows you (an account owner) to delete your account from other servers and make it impossible for others to add. More info for the command: [/banaccount](/en/commands/other/banAccount).
+> Es gibt eine Bannliste, auf die du dich selbst setzen kannst. Damit kannst du (als Kontobesitzer) dein Konto von anderen Servern löschen und es für andere unmöglich machen, es hinzuzufügen. Mehr Informationen zu diesem Befehl: [/banaccount](/en/commands/other/banAccount).
 
->To do this, you must verify that you are the owner of the account. To do so you need to have access to it in the game client.
+>Dazu müssen wir überprüfen, ob du der Besitzer des Kontos bist. Dazu musst du im League of Legends-Client Zugang zu diesem Konto haben.
 >{.is-warning}
 
 <br>
 
-## Where can I see what will be developed next?
+## Wo kann ich sehen, was als nächstes entwickelt wird?
 
-> On the dev discord server you can check out what great features are planned next and in the future. If you have suggestions that don't exist yet, you can let us know on the [discord server](https://discord.gg/4Rxrzsxb7d).
+> Auf dem Dev-Discord-Server könnt ihr sehen, welche großartigen Features als nächstes und in Zukunft geplant sind. Wenn du Vorschläge hast, die es noch nicht gibt, kannst du sie uns auf dem [Discord Server](https://discord.gg/4Rxrzsxb7d) mitteilen.
 
 <br>
 
-## Do I need to do anything to get Zoe to update the infoboard or gamecards etc.?
+## Muss ich irgendetwas tun, damit Zoe die Infotafel oder die Spielkarten usw. aktualisiert?
 
-> No you don't have to do anything, but if you want to force a manual refresh you can use the [/refresh command](/en/commands/important/refresh/).
+> Nein, du musst nichts tun, aber wenn du eine manuelle Aktualisierung erzwingen willst, kannst du den [Befehl /refresh](/en/commands/important/refresh/) benutzen.
 
 <br><br><br>
 
 
-> If you have a problem or any open questions you can tell us on the [discord server](https://discord.gg/4Rxrzsxb7d).
+> Wenn du ein Problem oder eine offene Frage hast, kannst du uns dies auf dem [Discord Server](https://discord.gg/4Rxrzsxb7d) mitteilen und wir kümmern uns darum.
 >{.is-info}
