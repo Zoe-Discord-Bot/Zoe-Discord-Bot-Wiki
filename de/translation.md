@@ -1,8 +1,8 @@
 ---
 title: Zoe Übersetzung
 description: Hier kannst du herausfinden, wie Zoe übersetzt wird.
-published: false
-date: 2023-05-19T16:31:33.847Z
+published: true
+date: 2023-05-19T16:36:30.883Z
 tags: translation, language, übersetzung, languages
 editor: markdown
 dateCreated: 2023-05-19T16:31:33.847Z
