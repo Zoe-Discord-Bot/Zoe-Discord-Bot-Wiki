@@ -1,16 +1,12 @@
 ---
-title: página de inicio
-description: Página principal de la wiki de zoe
+title: Zoe Discord Bot Wiki Homepage - Español
+description: Descúbrelo todo sobre Zoe, el bot de discordia de League of Legends.
 published: true
-date: 2023-05-19T12:03:01.685Z
-tags: página de inicio
+date: 2023-05-19T12:04:50.679Z
+tags: página de inicio, start, home, inicio
 editor: markdown
 dateCreated: 2021-07-14T09:17:41.607Z
 ---
-
-# Bienvenidos!
-
-### A la wiki oficial de Zoe!
 
 > ## Indicación:
 >Hola!
