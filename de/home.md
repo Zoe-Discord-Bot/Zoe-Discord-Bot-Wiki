@@ -1,9 +1,9 @@
 ---
-title: Willkommen
-description: Willkommen im Wiki für Zoe.
+title: Zoe Discord Bot Wiki Homepage - Deutsch
+description: Erfahre alles über Zoe, den League of Legends Discord-Bot.
 published: true
-date: 2023-05-19T09:29:32.111Z
-tags: startseite
+date: 2023-05-19T09:30:58.729Z
+tags: startseite, start, home
 editor: markdown
 dateCreated: 2021-07-14T09:13:23.860Z
 ---
