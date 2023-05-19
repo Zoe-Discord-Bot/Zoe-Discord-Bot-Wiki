@@ -2,7 +2,7 @@
 title: FAQ - Häufig gestellte Fragen
 description: Hier findest du Antworten auf häufig gestellte Fragen.
 published: false
-date: 2023-05-19T13:31:54.874Z
+date: 2023-05-19T13:32:10.522Z
 tags: faq, häufig, gestellte, fragen
 editor: markdown
 dateCreated: 2023-05-19T09:56:31.780Z
@@ -10,7 +10,7 @@ dateCreated: 2023-05-19T09:56:31.780Z
 
 ## In welchen Sprachen ist Zoe verfügbar?
 
->Zoe ist derzeit vollständig in Englisch und Deutsch und teilweise in Französisch, Italienisch, Portugiesisch und Spanisch, Russisch und Arabisch sowie Türkisch übersetzt.  Weitere Informationen findest du hier: [Übersetzungen (Englisch)](https://wiki.zoe-discord-bot.ch/de/translation).
+>Zoe ist derzeit vollständig in Englisch und Deutsch und teilweise in Französisch, Italienisch, Portugiesisch und Spanisch, Russisch und Arabisch sowie Türkisch übersetzt.  Weitere Informationen findest du hier: [Übersetzungen](https://wiki.zoe-discord-bot.ch/de/translation).
 
 >Bitte bedenke, dass wir nicht alle Sprachen anbieten können und für vollständige Übersetzungen auf die Community angewiesen sind. Vielen Dank!
 >{.is-warning}
@@ -33,7 +33,7 @@ dateCreated: 2023-05-19T09:56:31.780Z
 ## Welche Spiele werden / warum wird Flex/TFT in der Infotafel angezeigt?
 
 
-> Die Infotafel zeigt standardmäßig die letzte Aktualisierung des Ranges an. Wenn dein letztes Spiel ein Flex-Spiel war, wird diese Änderung angezeigt. Du kannst dieses Verhalten in Zoes Konfiguration ändern ([Konfiguration (Englisch)](http://wiki.zoe-discord-bot.ch/en/Zoe-Configuration/Infochannel/Infochannel-Rankfilter) oder [dieser Guide (Englisch)](http://wiki.zoe-discord-bot.ch/en/Guides/SoloQ-Infopanel)).
+> Die Infotafel zeigt standardmäßig die letzte Aktualisierung des Ranges an. Wenn dein letztes Spiel ein Flex-Spiel war, wird diese Änderung angezeigt. Du kannst dieses Verhalten in Zoes Konfiguration ändern ([Konfiguration](http://wiki.zoe-discord-bot.ch/en/Zoe-Configuration/Infochannel/Infochannel-Rankfilter) oder [dieser Guide](http://wiki.zoe-discord-bot.ch/en/Guides/SoloQ-Infopanel)).
 
 <br>
 
