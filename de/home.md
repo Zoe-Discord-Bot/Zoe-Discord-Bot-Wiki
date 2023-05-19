@@ -2,7 +2,7 @@
 title: Zoe Discord Bot Wiki Homepage - Deutsch
 description: Erfahre alles über Zoe, den League of Legends Discord-Bot.
 published: true
-date: 2023-05-19T11:33:16.387Z
+date: 2023-05-19T11:46:54.322Z
 tags: startseite, start, home
 editor: markdown
 dateCreated: 2021-07-14T09:13:23.860Z
@@ -14,46 +14,46 @@ dateCreated: 2021-07-14T09:13:23.860Z
 >Euer Zoe Team
 >{.is-warning}
 
->Während der Übersetzung des Wikis werden einige Links direkt auf englische Seiten verweisen während die jeweils deutschen Seiten erstellt werden. Danke für euer Verständnis.
+>Während der Übersetzung des Wikis werden einige Links direkt auf englische Seiten verweisen oder nicht funktionieren während die jeweils deutschen Seiten erstellt werden. Danke für euer Verständnis.
 >{.is-danger}
 
+<br><br>
 
-# Willkommen!
+> **Willkommen im offiziellen Wiki für Zoe!  - [**Zoe hinzufügen**](https://zoe-discord-bot.ch/invite.html)** 
 
-### Im Wiki für Zoe!
+> **Du brauchst Hilfe für Zoe?**  Schau dich hier um: [FAQ](/en/faq), [Troubleshooting](/en/troubleshooting) oder tritt unserem [Discord server](https://discord.gg/4Rxrzsxb7d) bei und öffne einen Support post!
+> {.is-warning}
 
-_Zoe ist ein Discord-Bot_, der eine Informationstafel in einem Textkanal mit **Informationen über die Spieler in einem Spiel bereitstellt**, sodass du sofort sehen kannst, wer für ein Spiel verfügbar ist.  (infoChannel)
+<br>
 
-Zoe liefert auch Informationen über aktuelle Spiele wie gespielte **Champions, SoloQ-Rang oder Winrate mit einem gespielten Champion**.  (gameCard)
+## Über Zoe
 
-Es ist auch möglich, den R**anglistenfortschritt der Spieler** in einem Textkanal zu **verfolgen**. (rankChannel)
 
-Eine weitere Funktion sind Leaderboards, in denen sich (derzeit) bis zu 10 Spieler in einer ausgewählten Kategorie vergleichen können. (leaderboards)
+Zoe ist ein Dicord Bot für League of Legends und TFT der, sobald er konfiguriert ist, automatisch Statistiken für jeden registrierten Spieler erstellt. <br> <br> Mit Zoe erhältst du Statistiken wie gespielte Champions, Rang und Siegquote über [aktuell laufende Spiele](/de/features/infoChannel), [gewertete Spiele](/en/features/rankChannel) mit Promotion-Tracking,  [einen Spielverlauf](/en/features/matchhistoryChannel) für Spieler und Teams, [Leaderboards](/en/features/leaderboards) um sich mit Anderen in verschiedenen Kategorien, wie Gesamtmeisterschaftspunkten oder durchschnittlicher KDA auch für bestimmte Champions und mehr zu vergleichen, Pick- und Bannvorschläge durch [eine Analyse des eigenen und des gegnerischen Clashteams](/en/features/clashChannel), [Rangrollen](/en/features/rankroles) und vieles mehr.
 
-Zoe kann auch eine **Analyse der eigenen und gegnerischen Clash-Teams** durchführen, um bei Pick- und Ban-Entscheidungen zu helfen. (clashChannel)
+<br>
 
-⇠ Du kannst hier im Menü auf der linken Seite navigieren oder in der Suchleiste am oberen Rand suchen. ⇡
+_**Wie du Zoe für deinen Server einrichtest:**_
+> [Setup](/en/setup)
+ >{.is-info}
+ 
+ >[Konfiguration](/en/Zoe-Configuration)
+  >{.is-info}
 
----
 
-# FAQ
+_**Erfahre mehr über alle Funktionen, die Zoe zu bieten hat:**_
+> [Zentrale Features](/en/features)
+ >{.is-info}
+ 
+ >[Alle Befehle](/en/commands)
+  >{.is-info}
+  
+*Alternativ kannst du dir alle wichtigen Seiten im linken Menü ansehen oder in der Suchleiste oben suchen!*
 
-### Häufig gestellte Fragen
+<br>
 
-## Wie kann ich den Smart-Modus deaktivieren bzw. den Modus ändern?
 
-Als Benutzer kannst du den Smart-Modus nicht deaktivieren oder den Modus selbst ändern. Zoe entscheidet automatisch anhand der aktuellen Last, in welchem Modus sie läuft. Wenn du mehr über die Aktualisierung erfahren möchtest, klicke [hier](/de/terms/refresh-mode/).
 
-## In welchen Sprachen ist Zoe verfügbar?
+>**[Terms of Service](https://zoe-discord-bot.ch/terms-of-service.html) & [Privacy Policy](https://zoe-discord-bot.ch/privacy-policy.html)**
+>{.is-success}
 
-Zoe ist derzeit **vollständig** ins Englische, Deutsche, Französische, Italienische, Portugiesische und Spanische und **teilweise** ins Russische und Arabische sowie ins Türkische übersetzt. Diese Übersetzungen werden von der Community gemacht.
-
-## Kann ich mehrere Kanäle (Info & RankChannel) in einem Textkanal definieren?
-
-Ja, das funktioniert an sich, aber nicht wirklich, denn alle Nachrichten in Zoes Infokanal, die dort nicht hingehören, werden gelöscht, auch die aus dem Rangkanal. Bitte versuche, diese Kanäle nicht zu vermischen.
-
-Wenn du das Problem hast, dass die Nachrichten gelöscht werden, kannst du einen der beiden Kanäle undefinieren und ihn in einem anderen Textkanal neu definieren.
-
-## Welche Spiele werden / Warum wird flex im Infopanel angezeigt?
-
-Das InfoPanel zeigt immer die letzte Aktualisierung des Ranges an. Wenn dein letztes Spiel ein Flex-Spiel war, wird diese Änderung angezeigt.
