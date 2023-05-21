@@ -1,8 +1,8 @@
 ---
 title: How to setup Zoe for a friends/team Discord server?
 description: This is a suggestion on how to set up a friends/team Discord server.
-published: false
-date: 2023-05-17T20:26:16.992Z
+published: true
+date: 2023-05-21T14:01:58.930Z
 tags: team, server, guide, friends, team server, friends server
 editor: markdown
 dateCreated: 2023-05-17T20:26:16.992Z
