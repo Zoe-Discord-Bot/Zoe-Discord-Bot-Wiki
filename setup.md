@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2023-05-13T22:03:36.917Z
+date: 2023-05-21T14:41:18.872Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -10,16 +10,18 @@ dateCreated: 2021-07-05T11:16:55.742Z
 
 # Zoe Discord Bot Setup
 
-<p>
+<br>
 
 > Be aware that to set up and use Zoe you need the `Manage channels` permission on your server (if you are not the administrator anyway).
 {.is-warning}
-<p>
+
+<br>
 
 ## Adding Zoe
 
 You can add Zoe to your server by clicking on `Add the bot` on the homepage, on sites like [top.gg](https://top.gg/de/bot/550737379460382752) or [bots.ondiscord.xyz](https://bots.ondiscord.xyz/bots/550737379460382752) and here on the Wiki in the bottom left in the menu bar.
-<p>
+
+<br>
   
 ## Authorizing Zoe
 
@@ -47,7 +49,11 @@ Directly after that, you have to select the standard League of Legends server re
 ![](/new_setup4.png)
 
 > Now Zoe sends another message about what you can do next. Read more in the next section.
-<p>
+
+> **You can now _follow this page_ if you are not sure what you want and want to get an overview or continue with the [guide for a server with friends or for a team](https://wiki.zoe-discord-bot.ch/en/Guides/Team-Server) or the [guide for a  community server](https://wiki.zoe-discord-bot.ch/en/Guides/Community-Server).**
+>{.is-warning}  
+  
+<br>
 
 # 1\. Adding data (aka registering players)
 
