@@ -2,7 +2,7 @@
 title: Zoe Einrichtung
 description: Auf dieser Seite erfährst du, wie du Zoe auf deinem Discord-Server einrichten kannst.
 published: true
-date: 2023-05-21T18:00:35.791Z
+date: 2023-05-21T18:03:17.484Z
 tags: setup, einrichten, einrichtung, start
 editor: markdown
 dateCreated: 2021-08-16T13:05:23.601Z
@@ -142,7 +142,7 @@ Sobald deine Rollen korrekt eingerichtet sind, werden sie automatisch aktualisie
 # 3\. Anpassung der Features (denn jeder Server ist anders)
 
 > Um Zoe und seine verschiedenen Einstellungen zu verwalten, verwenden diesen Befehl: [`/config`](/en/commands/important/config). 
- Lese hier alles über die Konfiguration: [**Configuration**](/en/Zoe-Configuration/).
+ Lese hier alles über die Konfiguration: [**Konfiguration**](/en/Zoe-Configuration/).
 >{.is-info}
 
 <br>
