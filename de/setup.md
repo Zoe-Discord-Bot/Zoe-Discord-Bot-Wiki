@@ -2,7 +2,7 @@
 title: Zoe Einrichtung
 description: Auf dieser Seite erfährst du, wie du Zoe auf deinem Discord-Server einrichten kannst.
 published: false
-date: 2023-05-19T21:46:22.233Z
+date: 2023-05-21T18:00:07.147Z
 tags: setup, einrichten, einrichtung, start
 editor: markdown
 dateCreated: 2021-08-16T13:05:23.601Z
@@ -10,16 +10,17 @@ dateCreated: 2021-08-16T13:05:23.601Z
 
 # Zoe Discord Bot Einrichtung
 
-<p>
+<br>
 
 > Um Zoe einzurichten und zu nutzen, benötigst du die Berechtigung "Kanäle verwalten" auf deinem Server (falls du nicht ohnehin der Administrator bist).
 {.is-warning}
-<p>
+
+<br>
 
 ## Zoe hinzufügen
 
 Du kannst Zoe zu deinem Server hinzufügen, indem du auf der Homepage auf `Add bot` klickst, auf Seiten wie [top.gg](https://top.gg/de/bot/550737379460382752) oder [bots.ondiscord.xyz](https://bots.ondiscord.xyz/bots/550737379460382752) und hier im Wiki unten links im Menü.
-<p>
+<br>
   
 ## Zoe authorisieren
 
@@ -47,7 +48,8 @@ Direkt danach musst du die standard League of Legends Serverregion auswählen. D
 ![](/new_setup4.png)
 
 > Jetzt sendet Zoe eine neue Nachricht über das nächste Vorgehen. Lies dazu mehr in der nächsten Sektion.
-<p>
+
+<br>
 
 # 1\. Daten hinzufügen (aka Spieler registrieren)
 
@@ -62,99 +64,106 @@ Um Zoe nutzen zu können musst du zuerst Spieler registrieren/erstellen. Ein Spi
 
 Um einen Spieler zu löschen, benutze den Befehl [`/delete player`](/en/commands/delete/player) (löscht den Spieler) und [`/remove account`](/en/commands/remove/account) (löscht das jeweilig verbundene Leaguekonto).
 
-> Du kannst dir alle registrierten Spieler anzeigen lassen mit dem befehl [`/show players`](/en/commands/important/show-players).
+> Du kannst dir alle registrierten Spieler anzeigen lassen mit dem Befehl [`/show players`](/en/commands/important/show-players).
 >{.is-info}
-<p>
+
+<br>
   
-# 2\. Show players (aka use features)
->You don't have to set up any of these features, this is just a suggestion-list. If you want to look around all features, [here is a link to all the features](/en/features) and [here to all commands](/en/commands/).
+# 2\. Spieler anzeigen (aka Features benutzen)
+>Du musst keine dieser Funktionen einrichten, dies ist nur eine Vorschlagsliste. Wenn du dir alle Funktionen ansehen möchtest, [ist hier ein Link zu allen Funktionen](/en/features) and [hier zu allen Befehlen](/en/commands/).
 >{.is-info}
 
-## Infochannel (read-only channel recommended)
+## Infokanal (schreibgeschützter Kanal empfohlen)
 
-The infochannel contains stats on players as well as stats on games currently in progress.
+Der Infokanal enthält Statistiken zu Spielern sowie Statistiken zu laufenden Spielen.
 
 ![](/new_infopanel.png)
 <img src="/new_gamecard.png" width="50%" />
 
-> For more information about the infochannel click [HERE](/en/features/infoChannel).
+> Für mehr Informationen zum Infokanal klicke [HIER](/en/features/infoChannel).
   >{.is-info}
-<p>
+
+<br>
   
-## Rankchannel (read-only channel recommended)
+## Rangkanal (schreibgeschützter Kanal empfohlen)
 
-The rankchannel is, where a message will be sent after each ranked game of the registered players. These messages contain the amount of won or lost LP and some stats on the player ingame performance like KDA, duration of the game and itembuild.
-
+Der Rangkanal ist der Kanal, in dem nach jedem Ranglistenspiel der registrierten Spieler eine Nachricht verschickt wird. Diese Nachrichten enthalten die Anzahl der gewonnenen oder verlorenen LP und einige Statistiken über die Leistung des Spielers im Spiel wie KDA, Dauer des Spiels und Itembuild.
 ![](/new_rankchannel_message.png)
 
-> For more information about the rankchannel click [HERE](/en/features/rankChannel).
+>Für mehr Informationen zum Rangkanal klicke [HIER](/en/features/rankChannel).
   >{.is-info}
-<p>
-  
-## Clashchannel
 
-This channel will send stats about an account in relation to clash. It will contain schedules of future clashes in your timezone as well as stats about your team. You will also be able to do an detailed analysis of enemy teams with ban recommendations.
+<br>
+  
+## Clashkanal
+
+Dieser Kanal sendet Statistiken über ein Konto in Bezug auf Clash. Er enthält Pläne für zukünftige Kämpfe in deiner Zeitzone sowie Statistiken über dein Team. Du kannst auch eine detaillierte Analyse des gegnerischen Teams mit Bannempfehlungen durchführen.
 
 ![](/new_statsteamanalysis.png)
 
-> For more information about the clashchannel click [HERE](/en/features/clashChannel).
+> Für mehr Informationen zum Clashkanal klicke [HIER](/en/features/clashChannel).
   >{.is-info}
-<p>
+
+<br>
   
-## Leaderboards (a dedicated channel with several leaderboards within is recommended)
+## Leaderboards (ein eigener Kanal mit mehreren Leaderboards wird empfohlen)
 
-This feature allows you to create leaderboards that refresh automatically. Several types are available to you:
+Mit dieser Funktion kannst du Leaderboards erstellen, die automatisch aktualisiert werden. Es stehen dir mehrere Arten zur Verfügung:
 
--   Total Mastery Points
--   **Mastery Points on a champion**
--   Rank in a Queue (Solo/DuoQ, Flex, etc)
--   All Queue Rank
--   Average KDA
--   Average KDA on a champion
--   Best Champion ("OTP")
--   Account Level
+- Gesamtmeisterschaftspunkte
+- **Meisterschaftspunkte auf einem Champion**
+- Rang in einer Warteschlange (Solo/DuoQ, Flex, etc.)
+- Bester Rang in der allen Warteschlange
+- Durchschnittliche KDA
+- Durchschnittliche KDA auf einem Champion
+- Bester Champion ("OTP")
+- Account-Level
 
 ![](/new_leaderboard_mastery_points_champion.png)
 
-> For more information about leaderboards click [HERE](/en/features/leaderboards).
+> Für mehr Informationen zu Leaderboards klicke [HIER](/en/features/leaderboards).
   >{.is-info}
-<p>
-  
-## Automated Discord roles by League rank
 
-You can set up an automatic rank system with Zoe easily. The roles will be refreshed regularly automatically. The premium version of this feature offers more options (filter by server region, display of each division, full control over each role and more).
+<br>
+  
+## Automatisierte Discord-Rollen nach League-Rang
+
+Du kannst mit Zoe ganz einfach ein automatisches Rollensystem einrichten. Die Rollen werden regelmäßig automatisch aktualisiert. Die Premium-Version dieses Features bietet mehr Optionen (Filter nach Serverregion, Anzeige jeder Division, volle Kontrolle über jede Rolle und mehr).
 
 ![](/improved_rankroles_5.png)
 
-Once your features are set up correctly, they will update automatically as soon as a game is detected via the Discord presence of registered players or once an hour at least. You can also refresh your server with the command [`/refresh`](/en/commands/important/refresh).
+Sobald deine Rollen korrekt eingerichtet sind, werden sie automatisch aktualisiert, sobald ein Spiel über die Discord-Präsenz der registrierten Spieler erkannt wird, mindestens jedoch einmal pro Stunde. Du kannst deinen Server auch mit dem Befehl [`/refresh`](/en/commands/important/refresh) aktualisieren.
 
-> For more information about rankroles click [HERE](/en/features/rankroles).
+> Für mehr Informationen zu Rangrollen klicke [HIER](/en/features/rankroles).
   >{.is-info}
-<p>
-  
-# 3\. Customize these features (because every server is different)
 
-> To manage Zoe and all the different settings it offers, use this command: [`/config`](/en/commands/important/config). 
- Read everything about the configuration here: [**Configuration**](/en/Zoe-Configuration/).
+<br>  
+
+# 3\. Anpassung der Features (denn jeder Server ist anders)
+
+> Um Zoe und seine verschiedenen Einstellungen zu verwalten, verwenden diesen Befehl: [`/config`](/en/commands/important/config). 
+ Lese hier alles über die Konfiguration: [**Configuration**](/en/Zoe-Configuration/).
 >{.is-info}
-<p>
+
+<br>
   
-# 4\. Going further (We never stop!)
+# 4\. Wir machen immer weiter
 
-Zoe has many more features. You can have a look at all commands if you click [HERE](http://wiki.zoe-discord-bot.ch/en/commands).
+Zoe hat viele weitere Funktionen. Du kannst dir alle Befehle ansehen, wenn du [HIER](http://wiki.zoe-discord-bot.ch/en/commands) klickst.
 
-One example being [`/stats profile`](/en/commands/stats/profile) letting you view a players profile:
+Ein Beispiel wäre [`/stats profile`](/en/commands/stats/profile), dass es dir erlaubt ein Profil eines Spielers anzusehen.
 
 ![](/new_statsprofile.png)
-<p>
-  
-# Setup - Final words
 
-> Zoe is an actively developed bot that offers a ⭐premium subscription⭐ to support its development. This subscription offers some additional options but is by far not mandatory. 
-For more information: [Subscription Wiki page](https://wiki.zoe-discord-bot.ch/en/support), [Boosting](https://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting), [`/subscription`](/en/commands/important/subscription) & [`/boost`](/en/commands/important/boost)
+<br>
+  
+# Einrichtung - Schlusswort
+
+> Zoe ist ein aktiv entwickelter Bot, der ein ⭐Premium-Abonnement⭐ zur Unterstützung seiner Entwicklung anbietet. Dieses Abonnement bietet einige zusätzliche Optionen, ist aber bei weitem nicht obligatorisch. 
+Für weitere Informationen: [Abonnement Wikiseite](https://wiki.zoe-discord-bot.ch/en/support), [Boosting](https://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting), [`/subscription`](/en/commands/important/subscription) & [`/boost`](/en/commands/important/boost)
   
 
-> If you want to see the list of commands: [`/help`](/en/commands/important/help) or click [HERE](/en/commands/).
-> If you have any questions, suggestions or need help, please come here: [https://discord.gg/whc5PrC](https://discord.gg/whc5PrC)   
-> *To review the setup help message, do the command:* [`/setup`](/en/commands/important/setup)
+> Wenn du die Liste mit allen Befehlen sehen willst: [`/help`](/en/commands/important/help) oder klicke [HIER](/en/commands/).
+> Wenn du Fragen oder Anregungen hast oder Hilfe brauchst, komm bitte hierher: [https://discord.gg/whc5PrC](https://discord.gg/whc5PrC)   
+> *Führen den Befehl aus, um die Hilfemeldung für die Einrichtung zu lesen:* [`/setup`](/en/commands/important/setup)
   >{.is-info}
