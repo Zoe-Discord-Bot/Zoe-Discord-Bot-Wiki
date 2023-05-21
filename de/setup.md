@@ -1,8 +1,8 @@
 ---
 title: Zoe Einrichtung
 description: Auf dieser Seite erfährst du, wie du Zoe auf deinem Discord-Server einrichten kannst.
-published: false
-date: 2023-05-21T18:00:07.147Z
+published: true
+date: 2023-05-21T18:00:35.791Z
 tags: setup, einrichten, einrichtung, start
 editor: markdown
 dateCreated: 2021-08-16T13:05:23.601Z
