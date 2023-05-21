@@ -1,8 +1,8 @@
 ---
 title: How to setup Zoe for a League of Legends community Discord server?
 description: This is a suggestion on how to set up a League of Legends community Discord server.
-published: false
-date: 2023-05-17T16:55:34.201Z
+published: true
+date: 2023-05-21T14:01:16.672Z
 tags: community, server, community server, guide
 editor: markdown
 dateCreated: 2023-05-17T12:49:04.078Z
