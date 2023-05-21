@@ -2,7 +2,7 @@
 title: FAQ - Frequently asked questions
 description: Find answers to frequently asked questions here.
 published: true
-date: 2023-05-15T08:54:29.832Z
+date: 2023-05-21T13:56:49.465Z
 tags: faq, frequently, asked, questions
 editor: markdown
 dateCreated: 2021-09-30T16:47:28.465Z
@@ -63,7 +63,7 @@ dateCreated: 2021-09-30T16:47:28.465Z
 
 ## Where can I see what will be developed next?
 
-> On the dev discord server you can check out what great features are planned next and in the future. If you have suggestions that don't exist yet, you can let us know on the [discord server](https://discord.gg/4Rxrzsxb7d).
+> We have set up a special page to inform you about upcoming features. Feel free to have a look there: [Develepment Status](https://wiki.zoe-discord-bot.ch/en/Development-Status).
 
 <br>
 
