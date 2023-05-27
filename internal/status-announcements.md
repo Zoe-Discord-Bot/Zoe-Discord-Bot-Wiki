@@ -2,7 +2,7 @@
 title: Zoe Status Announcements
 description: Here you can find templates for the Zoe status announcements.
 published: false
-date: 2023-05-27T21:24:56.228Z
+date: 2023-05-27T21:35:45.806Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T21:18:31.663Z
@@ -10,6 +10,14 @@ dateCreated: 2023-05-27T21:18:31.663Z
 
 > To get the current unix epoch time: <https://www.epochconverter.com/>
 >{.is-info}
+
+<br>
+
+## <img src="https://cdn.discordapp.com/attachments/1112117606191734786/1112130533133127710/ZoeInfo.png" width="1.5%"> Information
+
+```
+:ZoeInfo: | **Information** | <t:timestamp:T> | We are aware that a problem has occurred with Zoe.
+```
 
 <br>
 
