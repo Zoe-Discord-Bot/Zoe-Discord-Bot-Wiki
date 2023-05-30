@@ -2,7 +2,7 @@
 title: Zoe Status Announcements
 description: Here you can find templates for the Zoe status announcements.
 published: false
-date: 2023-05-27T21:35:45.806Z
+date: 2023-05-30T06:35:17.754Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T21:18:31.663Z
@@ -27,7 +27,7 @@ dateCreated: 2023-05-27T21:18:31.663Z
 Hello @Status User 
 
 :ZoeUpdate: | **Reboot** | <t:timestamp:T>
-:ZoeShutdown: | Zoe is rebooting. It will be back online in about 5 minutes!
+:ZoeShutdown: | Zoe is rebooting. It will be back online in about 5-10 minutes!
 
 :ZoeBoot: | **Edit** | Zoe is back online | <t:timestamp:T>
 ```
@@ -38,7 +38,7 @@ Hello @Status User
 Hello @Status User 
 
 :ZoePatch: |  **Patch** | <t:timestamp:T>
-:ZoeShutdown: | Zoe is going offline for 5 minutes to deploy a patch!
+:ZoeShutdown: | Zoe is going offline for 5-10 minutes to deploy a patch!
 
 :ZoeBoot: | **Edit** | Zoe is back online | <t:timestamp:T>
 ```
@@ -49,7 +49,7 @@ Hello @Status User
 Hello @Status User 
 
 :ZoeIssue: | **Issue** | <t:timestamp:T>
-:ZoeShutdown: | A problem has occurred with Zoe! Zoe will now reboot. It should be back in 5 minutes!
+:ZoeShutdown: | A problem has occurred with Zoe! Zoe will now reboot. It should be back in 5-10 minutes!
 
 :ZoeBoot: | **Edit** | Zoe is back online | <t:timestamp:T>
 ```
@@ -60,7 +60,7 @@ Hello @Status User
 Hello @Status User 
 
 :ZoeIssue: | **Slowdown** | <t:timestamp:T>
-:ZoeShutdown: | Zoe currently experiences a slowdown. Zoe will reboot now! That should fix the issue. Zoe will be back online in 5 minutes! 
+:ZoeShutdown: | Zoe currently experiences a slowdown. Zoe will reboot now! That should fix the issue. Zoe will be back online in 5-10 minutes! 
 
 :ZoeBoot: | **Edit** | Zoe is back online | <t:timestamp:T>
 ```
