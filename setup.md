@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2023-05-21T14:41:18.872Z
+date: 2023-06-09T08:23:23.752Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -164,3 +164,4 @@ For more information: [Subscription Wiki page](https://wiki.zoe-discord-bot.ch/e
 > If you have any questions, suggestions or need help, please come here: [https://discord.gg/whc5PrC](https://discord.gg/whc5PrC)   
 > *To review the setup help message, do the command:* [`/setup`](/en/commands/important/setup)
   >{.is-info}
+  
