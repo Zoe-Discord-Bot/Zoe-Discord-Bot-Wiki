@@ -2,7 +2,7 @@
 title: Zoe Features
 description: In here you find all core features explained.
 published: true
-date: 2023-05-17T09:00:39.557Z
+date: 2023-06-09T08:24:57.286Z
 tags: features, core, core features
 editor: markdown
 dateCreated: 2021-07-06T09:25:25.035Z
@@ -101,4 +101,5 @@ This is a message that automatically appears in the rankchannel after the respec
   
 > **There are many more things, so check out all [commands](https://wiki.zoe-discord-bot.ch/en/commands) and the [configuration](https://wiki.zoe-discord-bot.ch/en/Zoe-Configuration/)!**
 >{.is-warning}
+
 
