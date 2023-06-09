@@ -2,7 +2,7 @@
 title: Zoe Troubleshooting
 description: With this guide you can try to solve minor issues yourself.
 published: true
-date: 2023-05-07T10:49:07.528Z
+date: 2023-06-09T08:24:32.902Z
 tags: help, troubleshooting, quickhelp, problem solving, online status, permissions
 editor: markdown
 dateCreated: 2023-05-07T09:24:15.617Z
@@ -69,4 +69,5 @@ To fix this, you can kick Zoe and add it again with the new and correct invitati
 ## Still not working?
 >If it still does not work, please ask your question / express your problem in a support post on the Zoe Discord server. You can find an invite on the bottom left.
 >{.is-success}
+
 
