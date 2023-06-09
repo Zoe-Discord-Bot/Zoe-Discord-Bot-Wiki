@@ -1,27 +1,27 @@
 ---
-title: Rank Channel - Feature
-description: Information about the rankChannel
+title: Rankchannel - Feature
+description: Information about the rankchannel
 published: true
-date: 2023-04-18T13:20:15.934Z
+date: 2023-06-09T09:44:44.418Z
 tags: rankchannel, ranks, rank, channel, ranked
 editor: markdown
 dateCreated: 2021-07-06T10:00:19.466Z
 ---
 
-# Rank Channel
+# Rankchannel
 
 <br>
 
->**In the Rank Channel, it is possible to follow the players' progress in the ranked climb. Zoe sends a short summary of the game after each ranked game of a registered player. In the promotions to a higher rank, this is also displayed and you can follow how things are going. Daily, weekly and monthly [rankupdates](/en/commands/stats/rankupdate) are also sent in here.**
+>**In the rankchannel, it is possible to follow the players' progress in the ranked climb. Zoe sends a short summary of the game after each ranked game of a registered player. In the promotions to a higher rank, this is also displayed and you can follow how things are going. Daily, weekly and monthly [rankupdates](/en/commands/stats/rankupdate) are also sent in here.**
 >{.is-info}
 
 >### Related commands/pages:
->-   [/create rankChannel](/en/commands/create/rankChannel/)
->-   [/delete rankChannel](/en/commands/delete/rankChannel/)
+>-   [/create rankchannel](/en/commands/create/rankChannel/)
+>-   [/delete rankchannel](/en/commands/delete/rankChannel/)
 >-   [/stats rankupdate](/en/commands/stats/rankupdate/)
 
 <br>
 
-## Example of an rankChannel message
+## Example of an rankchannel message
 
 ![](/new_rankchannel_message.png)
