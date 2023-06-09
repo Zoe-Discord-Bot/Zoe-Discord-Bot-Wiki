@@ -2,7 +2,7 @@
 title: Rank roles - Feature
 description: Information about the automated rank roles.
 published: true
-date: 2023-04-17T14:13:27.773Z
+date: 2023-06-09T09:49:26.202Z
 tags: ranks, rank, role, roles, improved, improved rank roles, peak elo
 editor: markdown
 dateCreated: 2023-04-13T08:11:20.807Z
@@ -17,7 +17,7 @@ dateCreated: 2023-04-13T08:11:20.807Z
 >There are two instances of rank roles. You need a premium server to access improved rank roles. Therefore, this page is divided into two parts. **If you want to learn more about improved rank roles click on the right tab**.
 >{.is-warning}
 
-<br>
+<br><br>
 
 ## Rank roles {.tabset}
 ### **Basic rank roles**
