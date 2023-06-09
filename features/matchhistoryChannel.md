@@ -2,13 +2,13 @@
 title: Matchhistory Channel - Feature
 description: Information about the Matchhistory Channel
 published: true
-date: 2023-04-13T13:37:02.677Z
+date: 2023-06-09T09:47:54.844Z
 tags: channel, matchhistory, ranked, normals, aram, matches
 editor: markdown
 dateCreated: 2023-04-09T10:10:59.349Z
 ---
 
-# Matchhistory Channel
+# Matchhistorychannel
 
 <br>
 
@@ -22,9 +22,9 @@ dateCreated: 2023-04-09T10:10:59.349Z
 
 <br>
 
-## Example of a game in matchhistory channel
+## Example of a game in matchhistorychannel
 
-|     |     |
+| **View** | **Example** |
 | --- | --- |
 | Standard | ![](/new_matchhistorychannel.png) |
 | Detailed | ![](/new_matchhistorychannel_detailed.png) |
