@@ -2,7 +2,7 @@
 title: Support Zoe
 description: On this site you can learn about how you can support the project.
 published: true
-date: 2023-04-18T13:10:42.108Z
+date: 2023-06-09T09:37:57.665Z
 tags: support, membership, tier, tiers, subscription, abonnement
 editor: markdown
 dateCreated: 2021-08-07T08:35:31.575Z
@@ -97,5 +97,4 @@ dateCreated: 2021-08-07T08:35:31.575Z
 
 >**Cost:** 30 € / month
 >{.is-info}
-
 
