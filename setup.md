@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2023-06-09T08:23:23.752Z
+date: 2023-07-23T21:12:44.599Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -46,12 +46,10 @@ Directly after that, you have to select the standard League of Legends server re
 > You can change this setting later in the configuration if you wish (see [`/config`](/en/commands/important/config)).
 >{.is-info}
   
-![](/new_setup4.png)
-
-> Now Zoe sends another message about what you can do next. Read more in the next section.
+![](/new_setup4.png)> Now Zoe sends another message about what you can do next. Read more in the next section.
 
 > **You can now _follow this page_ if you are not sure what you want and want to get an overview or continue with the [guide for a server with friends or for a team](https://wiki.zoe-discord-bot.ch/en/Guides/Team-Server) or the [guide for a  community server](https://wiki.zoe-discord-bot.ch/en/Guides/Community-Server).**
->{.is-warning}  
+>{.is-info}  
   
 <br>
 
