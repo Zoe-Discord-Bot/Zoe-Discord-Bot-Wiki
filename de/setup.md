@@ -2,7 +2,7 @@
 title: Zoe Einrichtung
 description: Auf dieser Seite erfährst du, wie du Zoe auf deinem Discord-Server einrichten kannst.
 published: true
-date: 2023-05-21T18:03:17.484Z
+date: 2023-08-11T12:31:45.853Z
 tags: setup, einrichten, einrichtung, start
 editor: markdown
 dateCreated: 2021-08-16T13:05:23.601Z
@@ -12,14 +12,14 @@ dateCreated: 2021-08-16T13:05:23.601Z
 
 <br>
 
-> Um Zoe einzurichten und zu nutzen, benötigst du die Berechtigung "Kanäle verwalten" auf deinem Server (falls du nicht ohnehin der Administrator bist).
+> Um Zoe einzurichten und zu nutzen, benötigst du die Berechtigung `Kanäle verwalten` auf deinem Server (falls du nicht ohnehin der Administrator bist).
 {.is-warning}
 
 <br>
 
 ## Zoe hinzufügen
 
-Du kannst Zoe zu deinem Server hinzufügen, indem du auf der Homepage auf `Add bot` klickst, auf Seiten wie [top.gg](https://top.gg/de/bot/550737379460382752) oder [bots.ondiscord.xyz](https://bots.ondiscord.xyz/bots/550737379460382752) und hier im Wiki unten links im Menü.
+Du kannst Zoe zu deinem Server hinzufügen, indem du auf der Homepage auf `Add the bot` klickst, auf Seiten wie [top.gg](https://top.gg/de/bot/550737379460382752) oder [bots.ondiscord.xyz](https://bots.ondiscord.xyz/bots/550737379460382752) und hier im Wiki unten links im Menü.
 <br>
   
 ## Zoe authorisieren
@@ -38,9 +38,9 @@ Dann folgt die erste Einstellung. Du solltest die Sprache wählen, die Zoe auf d
 
 Direkt danach musst du die standard League of Legends Serverregion auswählen. Die verfügbaren Tags sind:
 
-| Tag | BR  | EUNE | EUW | LAN | LAS | NA  | OCE | RU  | TR  | JP  | KR  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Region | Brazil | Europe Nordic & East | Europe West | Latin America North | Latin America South | North America | Oceania | Russia | Turkey | Japan | Republic of Korea |
+| Tag | BR  | EUNE | EUW | LAN | LAS | NA  | OCE | RU  | TR  | JP  | KR  | PH  | SG  | TW  | TH  | VN  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Region | Brazilien | Nord- und Osteuropa | Westeuropa | Lateinamerika Nord | Lateinamerika Süd | Nordamerika | Ozeanien | Russland | Türkei | Japan | Republik Korea | Die Philippinen | Singapur, Malaysia & Indonesien | Taiwan, Hongkong & Macao | Thailand | Vietnam |
 
 > Du kannst diese Einstellung später in der Konfiguration ändern wenn du willst. (Siehe dazu: [`/config`](/en/commands/important/config)).
 >{.is-info}
