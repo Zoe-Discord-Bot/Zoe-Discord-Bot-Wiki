@@ -2,7 +2,7 @@
 title: Support Zoe
 description: On this site you can learn about how you can support the project.
 published: true
-date: 2023-06-09T09:37:57.665Z
+date: 2023-08-11T12:18:29.883Z
 tags: support, membership, tier, tiers, subscription, abonnement
 editor: markdown
 dateCreated: 2021-08-07T08:35:31.575Z
@@ -17,6 +17,10 @@ dateCreated: 2021-08-07T08:35:31.575Z
 
 >You can watch this video to assist you if you want to support Zoe's developement: [Kofi Donation Tutorial](https://www.youtube.com/watch?v=9DSwPOWHDd8)
 >{.is-info}
+
+>Please note that you must remain on the Zoe Support & Development discord server to take benefit of your premium subscription.
+>{.is-warning}
+
 
 <br>
 
