@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2023-08-10T13:12:12.762Z
+date: 2023-08-11T12:31:46.540Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -41,7 +41,7 @@ Directly after that, you have to select the standard League of Legends server re
 
 | Tag | BR  | EUNE | EUW | LAN | LAS | NA  | OCE | RU  | TR  | JP  | KR  | PH  | SG  | TW  | TH  | VN  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Region | Brazil | Europe Nordic & East | Europe West | Latin America North | Latin America South | North America | Oceania | Russia | Turkey | Japan | Republic of Korea | The Philippines | Singapore, Malaysia & Indonesia | Taiwan, Hong Kong & Macao | Thailand | Vietnam|
+| Region | Brazil | Europe Nordic & East | Europe West | Latin America North | Latin America South | North America | Oceania | Russia | Turkey | Japan | Republic of Korea | The Philippines | Singapore, Malaysia & Indonesia | Taiwan, Hong Kong & Macao | Thailand | Vietnam |
 
 > You can change this setting later in the configuration if you wish (see [`/config`](/en/commands/important/config)).
 >{.is-info}
