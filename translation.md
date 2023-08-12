@@ -2,16 +2,13 @@
 title: Zoe Translation
 description: Here you can learn about how Zoe is translated.
 published: true
-date: 2023-08-12T12:50:39.129Z
+date: 2023-08-12T16:56:28.366Z
 tags: translation, language, weblate, community, help
 editor: markdown
 dateCreated: 2021-07-05T13:12:06.399Z
 ---
 
 # Zoe Translation
-
-
-
 ## Translation status
 
 <br>
