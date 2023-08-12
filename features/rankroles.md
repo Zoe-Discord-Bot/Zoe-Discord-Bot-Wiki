@@ -2,7 +2,7 @@
 title: Rank roles - Feature
 description: Information about the automated rank roles.
 published: true
-date: 2023-06-09T09:49:26.202Z
+date: 2023-08-12T19:13:14.864Z
 tags: ranks, rank, role, roles, improved, improved rank roles, peak elo
 editor: markdown
 dateCreated: 2023-04-13T08:11:20.807Z
@@ -83,10 +83,10 @@ After that the creation is the same as for improved rank roles.
 >TFT
 ><br>
 >_**Minimum rank** *(single selection)*_
->Select the lowest rank to create here (for all ranks put Iron IV (standard))
+>Select the lowest rank to create here (for all ranks put Iron IV *(standard)*)
 ><br>
 >_**Maximum rank** *(single selection)*_
->Select the highest rank to create here (for all ranks put Challenger (standard))
+>Select the highest rank to create here (for all ranks put Challenger *(standard)*)
 ><br>
 > ### And with the **2 buttons** at the end of the message the following settings can be made: <br>
 >_**Server specific roles** *(Yes/No)*_
