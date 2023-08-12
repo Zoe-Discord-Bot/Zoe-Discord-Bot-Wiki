@@ -2,7 +2,7 @@
 title: Zoe Features
 description: Hier findest du alle Kernfeatures erklärt.
 published: true
-date: 2023-08-12T13:34:41.466Z
+date: 2023-08-12T18:21:31.412Z
 tags: features, feature, funktion, funktionen
 editor: markdown
 dateCreated: 2023-08-12T13:31:29.800Z
@@ -10,9 +10,6 @@ dateCreated: 2023-08-12T13:31:29.800Z
 
 
 > Diese Liste enthält alle Hauptfeatures von Zoe. Du kannst auf den `Link zur Wikiseite` klicken, um weitere Informationen zu erhalten.
-
-> Bitte entschuldigt, dass die Bilder jeweils die englische Versionen der Features zeigt.
->{.is-info}
 
 <br>
 
