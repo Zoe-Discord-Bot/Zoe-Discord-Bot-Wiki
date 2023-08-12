@@ -2,7 +2,7 @@
 title: Zoe Übersetzung
 description: Hier kannst du herausfinden, wie Zoe übersetzt wird.
 published: true
-date: 2023-08-12T17:08:15.038Z
+date: 2023-08-12T17:08:26.383Z
 tags: translation, language, übersetzung, languages
 editor: markdown
 dateCreated: 2023-05-19T16:31:33.847Z
@@ -32,7 +32,7 @@ Alle Übersetzungen wurden von der Community gemacht. Wenn du einen **Fehler** b
 Wenn du uns helfen möchtest **eine Übersetzung abzuschließen** die noch nicht fertig ist oder **eine neue Sprache hinzufügen** möchtest (die du übersetzen kannst) klicke auf den Link zum Discord Server und benachrichtige das Team in `#translation-info` oder `#contributions`.
 <p>
 
-> Wenn du uns bei den Übersetzungen helfen willst, folge bitte unseren [Guidelines zum Übersetzen](/de/translation/guideline)
+> Wenn du uns bei den Übersetzungen helfen willst, folge bitte unseren [Guidelines zum Übersetzen](/de/translation/guidelines)
 >{.is-warning}
 <p>
 
