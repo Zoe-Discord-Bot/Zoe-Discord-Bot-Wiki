@@ -2,7 +2,7 @@
 title: Support Zoe
 description: On this site you can learn about how you can support the project.
 published: true
-date: 2023-08-11T12:18:29.883Z
+date: 2023-08-12T17:55:06.586Z
 tags: support, membership, tier, tiers, subscription, abonnement
 editor: markdown
 dateCreated: 2021-08-07T08:35:31.575Z
@@ -76,7 +76,7 @@ dateCreated: 2021-08-07T08:35:31.575Z
 ## **Master subscription** {.active}
 >If you have a really big server with a lot of registered league accounts, this subscription is made for you! <br>This allows you to boost 1 large server without size limit! [More info](/en/Zoe-Points-And-Boosting) 
 
->**Benefits:** <br> - *All lower benefits*<br>-   **One large premium server: 6 Zoe Points (**[**More info**](/en/Zoe-Points-And-Boosting)**)**<br>-   Your name / Pseudo in the release note
+>**Benefits:** <br> - *All lower benefits*<br>-   **One large premium server: 6 Zoe Points (**[**More info**](/en/Zoe-Points-And-Boosting)**)**<br>-   Your name / Pseudo in the patchnotes.
 > {.is-success}
 
 >**Cost:** 10 € / month
