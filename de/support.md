@@ -2,7 +2,7 @@
 title: Zoe unterstützen
 description: Auf dieser Seite kannst du dich darüber informieren, wie du das Projekt unterstützen kannst.
 published: true
-date: 2023-08-12T17:55:07.501Z
+date: 2023-08-12T17:56:22.746Z
 tags: support, abonnement, mitgliedschaft, level
 editor: markdown
 dateCreated: 2023-08-12T17:55:07.501Z
@@ -95,7 +95,7 @@ dateCreated: 2023-08-12T17:55:07.501Z
 ## **Herausforderer-Abonnement** {.active}
 >Dieses Abonnement ist für große Serveradministratoren oder gönnerhafte Menschen gedacht, die Zoe maximal helfen wollen.<br>Da du damit 18 Zoe Punkte erhältst, kannst du 3 große Server oder viele kleinere boosten.
 
->**Vorteile:** <br> - *All lower benefits*<br>-   **Three large premium servers: 18 Zoe Points (**[**More info**](/en/Zoe-Points-And-Boosting)**)**
+>**Vorteile:** <br> - *Alle niedrigeren Vorteile*<br>-   **Drei große Premium-Server: 18 Zoe Punkte (**[**Mehr Informationen**](/de/Zoe-Points-And-Boosting)**)**
 > {.is-success}
 
 >**Kosten:** 30 € / Monat
