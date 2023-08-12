@@ -2,7 +2,7 @@
 title: Zoe unterstützen
 description: Auf dieser Seite kannst du dich darüber informieren, wie du das Projekt unterstützen kannst.
 published: true
-date: 2023-08-12T17:56:22.746Z
+date: 2023-08-12T18:10:48.399Z
 tags: support, abonnement, mitgliedschaft, level
 editor: markdown
 dateCreated: 2023-08-12T17:55:07.501Z
@@ -100,4 +100,3 @@ dateCreated: 2023-08-12T17:55:07.501Z
 
 >**Kosten:** 30 € / Monat
 >{.is-info}
-
