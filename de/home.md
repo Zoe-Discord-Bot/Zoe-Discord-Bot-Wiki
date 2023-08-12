@@ -2,7 +2,7 @@
 title: Zoe Discord Bot Wiki Homepage - Deutsch
 description: Erfahre alles über Zoe, den League of Legends Discord-Bot.
 published: true
-date: 2023-08-11T12:32:16.698Z
+date: 2023-08-12T11:52:28.774Z
 tags: startseite, start, home
 editor: markdown
 dateCreated: 2021-07-14T09:13:23.860Z
@@ -36,18 +36,18 @@ Zoe ist ein Dicord Bot für League of Legends und TFT der, sobald er konfigurier
 <br>
 
 _**Wie du Zoe für deinen Server einrichtest:**_
-> [Einrichtung](/de/setup)
+> [**Einrichtung**](/de/setup)
  >{.is-info}
  
- >[Konfiguration](/en/Zoe-Configuration)
+ >[**Konfiguration**](/en/Zoe-Configuration)
   >{.is-info}
 
 
 _**Erfahre mehr über alle Funktionen, die Zoe zu bieten hat:**_
-> [Zentrale Features](/en/features)
+> [**Zentrale Features**](/en/features)
  >{.is-info}
  
- >[Alle Befehle](/en/commands)
+ >[**Alle Befehle**](/en/commands)
   >{.is-info}
   
 *Alternativ kannst du dir alle wichtigen Seiten im linken Menü ansehen oder in der Suchleiste oben suchen!*
@@ -56,6 +56,6 @@ _**Erfahre mehr über alle Funktionen, die Zoe zu bieten hat:**_
 
 
 
->**[Terms of Service](https://zoe-discord-bot.ch/terms-of-service.html) & [Privacy Policy](https://zoe-discord-bot.ch/privacy-policy.html)**
+>[Terms of Service](https://zoe-discord-bot.ch/terms-of-service.html) & [Privacy Policy](https://zoe-discord-bot.ch/privacy-policy.html)
 >{.is-success}
 
