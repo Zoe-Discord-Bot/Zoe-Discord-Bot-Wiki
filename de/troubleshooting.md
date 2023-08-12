@@ -2,7 +2,7 @@
 title: Zoe Fehlersuche
 description: Mit Hilfe dieses Schemas kannst du selbst kleinere Fehler beheben.
 published: true
-date: 2023-08-12T12:15:30.198Z
+date: 2023-08-12T12:15:45.155Z
 tags: troubleshooting, fehlersuche, fehler, suche
 editor: markdown
 dateCreated: 2023-08-12T12:15:30.198Z
@@ -57,7 +57,7 @@ Bitte **beenden deinen Stream oder schalte die Discord-Präsenz des Programms au
 >{.is-info}  
   
 > ### Schrägstrich-Befehl Problem
->Wenn die Schrägstrich-Befehle bei dir nicht funktionieren, überprüfe zunächst, ob Zoe die Berechtigung `USE_APPLICATION_COMMANDS` hat. Wenn Zoe diese Berechtigung hat und es trotzdem nicht funktioniert, liegt es wahrscheinlich daran, dass du Zoe über einen veralteten Link eingeladen hast, bei dem die Option "application.commands" nicht aktiviert war. Dies muss vom Entwickler beim Einladen von Zoe geschehen und wurde bei allen neuen Einladungslinks durchgeführt. 
+>Wenn die Schrägstrich-Befehle bei dir nicht funktionieren, überprüfe zunächst, ob Zoe die Berechtigung `USE_APPLICATION_COMMANDS` hat. Wenn Zoe diese Berechtigung hat und es trotzdem nicht funktioniert, liegt es wahrscheinlich daran, dass du Zoe über einen veralteten Link eingeladen hast, bei dem die Option `application.commands` nicht aktiviert war. Dies muss vom Entwickler beim Einladen von Zoe geschehen und wurde bei allen neuen Einladungslinks durchgeführt. 
 Um das Problem zu beheben, kannst du Zoe vom Server entfernen und mit dem neuen und korrekten Einladungslink erneut einladen. 
 > > Keine Sorge, deine Konfiguration bleibt gespeichert. {.is-warning} 
 >
