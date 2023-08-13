@@ -2,7 +2,7 @@
 title: Zoe Status Announcements
 description: Here you can find templates for the Zoe status announcements.
 published: false
-date: 2023-05-30T06:35:17.754Z
+date: 2023-08-13T15:06:37.484Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T21:18:31.663Z
@@ -77,5 +77,9 @@ Hello @Status User
 ```
 <br>
 
+
+Test
+
+<iframe src="https://discord.com/widget?id=589838475553931264&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 
