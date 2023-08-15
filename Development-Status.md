@@ -2,7 +2,7 @@
 title: Zoe Development Status
 description: If you are interested in what features await you in the future, you can get an insight here.
 published: true
-date: 2023-08-15T12:55:37.021Z
+date: 2023-08-15T13:01:54.303Z
 tags: dev, status, dev status, development, development status, future, next features
 editor: markdown
 dateCreated: 2023-05-11T20:07:22.784Z
@@ -19,7 +19,7 @@ dateCreated: 2023-05-11T20:07:22.784Z
 | 🔵  | **In Testing** | The feature/change is currently being tested for bugs and functionality. |
 | 🟢  | **Done** | The feature/change is ready for use and we are preparing for the patch. |
 | ⭐   | **Early Access** | The feature/change is currently only available for early access servers/users. |
-| 🏁  | **Deployed** | The feature/change is made available to all Zoe users. |~
+| 🏁  | **Deployed** | The feature/change is made available to all Zoe users. |
 
 <br>
 
