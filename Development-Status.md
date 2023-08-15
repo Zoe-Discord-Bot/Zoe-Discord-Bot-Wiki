@@ -2,13 +2,13 @@
 title: Zoe Development Status
 description: If you are interested in what features await you in the future, you can get an insight here.
 published: true
-date: 2023-08-15T11:49:50.130Z
+date: 2023-08-15T12:03:38.669Z
 tags: dev, status, dev status, development, development status, future, next features
 editor: markdown
 dateCreated: 2023-05-11T20:07:22.784Z
 ---
 
-## **Indicators**
+# Indicators
 
 | Indicator | Meaning | Description |
 | --- | --- | --- |
@@ -19,13 +19,23 @@ dateCreated: 2023-05-11T20:07:22.784Z
 | 🔵  | **In Testing** | The feature/change is currently being tested for bugs and functionality. |
 | 🟢  | **Done** | The feature/change is ready for use and we are preparing for the patch. |
 | ⭐   | **Early Access** | The feature/change is currently only available for early access servers/users. |
-| 🏁  | **Deployed** | The feature/change is made available to all Zoe users. |
+| 🏁  | **Deployed** | The feature/change is made available to all Zoe users. |~
+
+<br>
 
 # Scheduled future changes
 
 > Generally, the changes listed on this page are implemented. However, we do not guarantee that this is always the case. We would also like to point out that we reserve the right to make small changes to the schedule. Thank you for your understanding.
+>{.is-warning}
 
-### 1.13.3 / Fixes
+> Here are ideas listed which we have already been planned for a patch.
+>{.is-info}
+
+<br>
+
+
+
+### <span style="color:white">1.13.3</span> / Fixes
 
 -   🏁 **Internal**: Optimise database usage to avoid slowdowns (Will continue even after being deployed)
 -   🏁 **Fix**: Champion analysis
@@ -34,6 +44,8 @@ dateCreated: 2023-05-11T20:07:22.784Z
 -   🏁 **Fix**: Add option to disable rank update or select in which interval it is sent in the rankchannel
 -   🏁 **Fix:** fix discord markdown issues on leaderboards
 -   🏁 **Fix**: Correct period strings when using the rankupdate command
+
+<br>
 
 ### 1.14 / AI Match Summary & Quality of Life
 
@@ -45,11 +57,15 @@ dateCreated: 2023-05-11T20:07:22.784Z
 -   ⚪ **QoL**: Small change to matchhistorychannel and command to increase visibility of KDA
 -   ⚪ **QoL**: Auto refresh after /register was done to instantly add the registered player to infopanel and give their rank.
 
+<br>
+
 ### 1.14.1 / Lane icons and automated Roles
 
 -   ⚪ **QoL**: Add lane icons to clashchannel and team-analysis.
 -   ⚪ **Feature**: Lane roles: roles that are assigned to registered players based on what lanes they played in recent games.
 -   ⚪ **Feature**: Rank Roles (Free, Premium and Peak-Elo): Add a "unranked/In Placements" role to the bottom of ranks that shows at season start & unranked players
+
+<br>
 
 ### 1.14.2 / More & better leaderboards
 
@@ -59,14 +75,20 @@ dateCreated: 2023-05-11T20:07:22.784Z
 -   ⚪ **Feature**: New way to create leaderboards for teams
 -   ⚪ **QoL**: Add Mastery emotes and new filter option to mastery leaderboards
 
+<br>
+
 ### 1.14.3 / Patchnotes
 
 -   ⚪ **Feature**: League of Legends or/and TFT patchnotes are provided in a channel of your choice.
+
+<br>
 
 ### 1.14.4 / Matchhistorychannel
 
 -   ⚪ **QoL**: Display mhc runes only in detailed view
 -   ⚪ **Config**: create a setting to choose which view is displayed by default
+
+<br>
 
 ### 1.15 / More and better advice & analysis
 
@@ -74,10 +96,19 @@ dateCreated: 2023-05-11T20:07:22.784Z
 -   ⚪ **Feature**: team- and clashanalysis of possible matchups, advantages and disadvantages
 -   ⚪ **QoL**: Automatically analyse enemies in clashchannel
 
+<br>
+
 # Recorded future changes
 
 > Here are ideas listed which we have already recorded but which are not yet planned for a patch.
+>{.is-info}
 
--   ⚫ Feature: Allow Zoe to give your server members nicknames based on their summonername (main account)
--   ⚫ QoL: Add a filter to rankupdate messages to select queues
--   ⚫ QoL: Add a filter to the rankchannel to select queues
+-   ⚫ **Feature**: Allow Zoe to give your server members nicknames based on their summonername (main account)
+-   ⚫ **QoL**: Add a filter to rankupdate messages to select queues
+-   ⚫ **QoL**: Add a filter to the rankchannel to select queues
+
+<br>
+
+>That's it for now. 
+If you have ideas for new features or suggestions for improvements, please let us know on the Discord server in the `#requests-feedback` channel.
+>{.is-success}
