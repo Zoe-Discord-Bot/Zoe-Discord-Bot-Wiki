@@ -2,7 +2,7 @@
 title: Zoe Development Status
 description: If you are interested in what features await you in the future, you can get an insight here.
 published: true
-date: 2023-08-15T12:36:16.918Z
+date: 2023-08-15T12:55:37.021Z
 tags: dev, status, dev status, development, development status, future, next features
 editor: markdown
 dateCreated: 2023-05-11T20:07:22.784Z
@@ -35,7 +35,7 @@ dateCreated: 2023-05-11T20:07:22.784Z
 
 
 
-### <span style="color:#1565c0">1.13.3</span> <span style="color:#757575"> / Fixes</span>
+### <span style="color:#1565c0">1.13.3</span> &nbsp; <span style="color:#757575"> Fixes</span>
 
 -   🏁 **Internal**: Optimise database usage to avoid slowdowns (Will continue even after being deployed)
 -   🏁 **Fix**: Champion analysis
@@ -47,7 +47,7 @@ dateCreated: 2023-05-11T20:07:22.784Z
 
 <br>
 
-### 1.14 / AI Match Summary & Quality of Life
+### <span style="color:#1565c0">1.14</span> &nbsp; <span style="color:#757575"> AI Match Summary and Quality of Life</span>
 
 -   🟡 **Feature**: AI Match Summary (summarizes a game in text in a way that you can choose)
 -   ⚪ **Feature**: Adding Champion analysis as seperate command
@@ -59,7 +59,7 @@ dateCreated: 2023-05-11T20:07:22.784Z
 
 <br>
 
-### 1.14.1 / Lane icons and automated Roles
+### <span style="color:#1565c0">1.14.1</span> &nbsp; <span style="color:#757575">  Lane icons and automated Roles</span>
 
 -   ⚪ **QoL**: Add lane icons to clashchannel and team-analysis.
 -   ⚪ **Feature**: Lane roles: roles that are assigned to registered players based on what lanes they played in recent games.
@@ -67,8 +67,7 @@ dateCreated: 2023-05-11T20:07:22.784Z
 
 <br>
 
-### 1.14.2 / More & better leaderboards
-
+### <span style="color:#1565c0">1.14.2</span> &nbsp; <span style="color:#757575"> More and better leaderboards</span> 
 -   ⚪ **Feature**: Winrate leaderboard for winrate in general, per champion or per queue (Solo/Duo, Flex) in the last 30 days.
 -   ⚪ **Feature**: Recent playtime leaderboard for playtime in general, per champion or per queue (Solo/Duo, Flex (TFT tbt.)) in the last 30 days.
 -   ⚪ **Feature**: Average KDA leaderboard per queue (Solo/Duo, Flex (TFT tbt.))
@@ -77,20 +76,20 @@ dateCreated: 2023-05-11T20:07:22.784Z
 
 <br>
 
-### 1.14.3 / Patchnotes
+### <span style="color:#1565c0">1.14.3</span> &nbsp; <span style="color:#757575"> Patchnotes</span>
 
 -   ⚪ **Feature**: League of Legends or/and TFT patchnotes are provided in a channel of your choice.
 
 <br>
 
-### 1.14.4 / Matchhistorychannel
+### <span style="color:#1565c0">1.14.4</span> &nbsp; <span style="color:#757575"> Matchhistorychannel</span>
 
--   ⚪ **QoL**: Display mhc runes only in detailed view
+-   ⚪ **QoL**: Display MHC runes only in detailed view
 -   ⚪ **Config**: create a setting to choose which view is displayed by default
 
 <br>
 
-### 1.15 / More and better advice & analysis
+### <span style="color:#1565c0">1.15</span> &nbsp; <span style="color:#757575"> More and better advice and analysis</span>
 
 -   ⚪ **Feature**: Early game advice
 -   ⚪ **Feature**: team- and clashanalysis of possible matchups, advantages and disadvantages
