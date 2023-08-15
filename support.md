@@ -2,7 +2,7 @@
 title: Support Zoe
 description: On this site you can learn about how you can support the project.
 published: true
-date: 2023-08-12T17:55:06.586Z
+date: 2023-08-15T11:30:48.268Z
 tags: support, membership, tier, tiers, subscription, abonnement
 editor: markdown
 dateCreated: 2021-08-07T08:35:31.575Z
@@ -12,7 +12,7 @@ dateCreated: 2021-08-07T08:35:31.575Z
 
 <br>
 
-> Zoe is currently funded partly by the developer (KaluNight) and partly by the great people who donated before the Kofi page existed and [those who do so now](https://zoe-discord-bot.ch/donate.html) (Leaderboard: [Top 10](https://ko-fi.com/kalunight/leaderboard)).
+> Zoe is currently funded by [the subscribers to a premium subscription at Ko-fi](https://zoe-discord-bot.ch/donate.html) (Leaderboard: [Top 10](https://ko-fi.com/kalunight/leaderboard)).
 >{.is-info}
 
 >You can watch this video to assist you if you want to support Zoe's developement: [Kofi Donation Tutorial](https://www.youtube.com/watch?v=9DSwPOWHDd8)
