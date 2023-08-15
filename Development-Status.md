@@ -2,7 +2,7 @@
 title: Zoe Development Status
 description: If you are interested in what features await you in the future, you can get an insight here.
 published: true
-date: 2023-08-15T12:03:38.669Z
+date: 2023-08-15T12:17:56.509Z
 tags: dev, status, dev status, development, development status, future, next features
 editor: markdown
 dateCreated: 2023-05-11T20:07:22.784Z
@@ -35,7 +35,7 @@ dateCreated: 2023-05-11T20:07:22.784Z
 
 
 
-### <span style="color:white">1.13.3</span> / Fixes
+### <span style="color:#1976d2">1.13.3</span> / Fixes
 
 -   🏁 **Internal**: Optimise database usage to avoid slowdowns (Will continue even after being deployed)
 -   🏁 **Fix**: Champion analysis
