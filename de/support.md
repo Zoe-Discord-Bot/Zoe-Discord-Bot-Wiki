@@ -2,7 +2,7 @@
 title: Zoe unterstützen
 description: Auf dieser Seite kannst du dich darüber informieren, wie du das Projekt unterstützen kannst.
 published: true
-date: 2023-08-12T18:10:48.399Z
+date: 2023-08-15T11:31:58.664Z
 tags: support, abonnement, mitgliedschaft, level
 editor: markdown
 dateCreated: 2023-08-12T17:55:07.501Z
@@ -11,7 +11,7 @@ dateCreated: 2023-08-12T17:55:07.501Z
 # Zoe unterstützen - Premium Abonnement
 <br>
 
-> Zoe wird derzeit zum Teil vom Entwickler (KaluNight) und zum Teil von den großartigen Menschen finanziert, die gespendet haben, bevor die Kofi-Seite existierte, und [denen, die es jetzt tun](https://zoe-discord-bot.ch/donate.html) (Rangliste: [Top 10](https://ko-fi.com/kalunight/leaderboard)).
+> Zoe wird derzeit finanziert durch [die Abonnenten eines Premium-Abonnements bei Ko-fi](https://zoe-discord-bot.ch/donate.html) (Rangliste: [Top 10](https://ko-fi.com/kalunight/leaderboard)).
 >{.is-info}
 
 >Wenn du Zoes Entwicklung unterstützen möchtest, kannst du dir dieses Video ansehen: [Kofi Donation Tutorial](https://www.youtube.com/watch?v=9DSwPOWHDd8)
