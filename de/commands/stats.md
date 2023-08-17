@@ -2,7 +2,7 @@
 title: Stats Befehle
 description: Erfahre, was du mit den /stats-Befehlen tun kannst.
 published: true
-date: 2023-08-17T12:38:11.930Z
+date: 2023-08-17T12:40:05.828Z
 tags: stats, stats befehl, stats befehle
 editor: markdown
 dateCreated: 2023-08-12T18:52:29.166Z
@@ -16,7 +16,7 @@ dateCreated: 2023-08-12T18:52:29.166Z
 
 #  /stats profile
 
->  [**`Link to Wikipage`**](/de/commands/stats/profile/)
+>  [**`Link zur Wikiseite`**](/de/commands/stats/profile/)
 > Zoe liefert einige Informationen über das ausgewählte Profil.  
 >{.is-info}
   
@@ -26,7 +26,7 @@ dateCreated: 2023-08-12T18:52:29.166Z
   
 #  /stats predictrole
 
->  [**`Link to Wikipage`**](/de/commands/stats/predictRole/)
+>  [**`Link zur Wikiseite`**](/de/commands/stats/predictRole/)
 >  Zoe sagt die Rolle von 5 bestimmten Konten voraus, wenn sie zusammen spielen.
 >{.is-info}
   
@@ -36,7 +36,7 @@ dateCreated: 2023-08-12T18:52:29.166Z
 
 #  /stats teamanalysis
 
->  [**`Link to Wikipage`**](/de/commands/stats/teamAnalysis/)
+>  [**`Link zur Wikiseite`**](/de/commands/stats/teamAnalysis/)
 >  Zoe sagt die Rolle von 5 bestimmten Konten voraus, wenn sie zusammen spielen, mit möglichen Tipps und Bannempfehlungen.
 >{.is-info}
   
@@ -46,7 +46,7 @@ dateCreated: 2023-08-12T18:52:29.166Z
 
 #  /stats matchhistory
 
->  [**`Link to Wikipage`**](/de/commands/stats/matchhistory/)
+>  [**`Link zur Wikiseite`**](/de/commands/stats/matchhistory/)
 >  Ermöglicht es, den Spielverlauf von LoL-Accounts zu durchsuchen und Spielstatistiken anzuzeigen. 
 >{.is-info}
   
@@ -56,7 +56,7 @@ dateCreated: 2023-08-12T18:52:29.166Z
 
 #  /stats rankupdate
 
->  [**`Link to Wikipage`**](/de/commands/stats/rankupdate/)
+>  [**`Link zur Wikiseite`**](/de/commands/stats/rankupdate/)
 >  Zoe liefert Informationen über die besten LP-Gewinner und LP-Verlierer an einem Tag, in einer Woche oder in einem Monat. 
 >{.is-info}
   
