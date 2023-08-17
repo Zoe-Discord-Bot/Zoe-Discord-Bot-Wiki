@@ -2,7 +2,7 @@
 title: Zoe Features
 description: Hier findest du alle Kernfeatures erklärt.
 published: true
-date: 2023-08-13T12:47:12.150Z
+date: 2023-08-17T09:27:53.939Z
 tags: features, feature, funktion, funktionen
 editor: markdown
 dateCreated: 2023-08-12T13:31:29.800Z
@@ -15,7 +15,7 @@ dateCreated: 2023-08-12T13:31:29.800Z
 
 # Infokanal
 
->  [**`Link zur Wikiseite`**](https://wiki.zoe-discord-bot.ch/en/features/infoChannel/)
+>  [**`Link zur Wikiseite`**](https://wiki.zoe-discord-bot.ch/de/features/infoChannel/)
 > Zoe zeigt eine Informationstafel in einem Textkanal mit Informationen über die Spieler in einem Spiel, optional mit Anzeige ihres Rangs. Zoe sendet auch Spielkarten mit Informationen über laufende Partien, mit z. B. gespielte Champions, den SoloQ-Rang oder die Siegquote mit einem gespielten Champion. Du kannst auch Champion-Tipps für jeden Champion erhalten, der in einem Spiel gespielt wird. Lese hier mehr: [Champion-Analyse](/de/features/champion-analysis).  
 >{.is-info}
   
@@ -25,7 +25,7 @@ dateCreated: 2023-08-12T13:31:29.800Z
   
 # Rangkanal
 
-> [**`Link zur Wikiseite`**](https://wiki.zoe-discord-bot.ch/en/features/rankChannel/)
+> [**`Link zur Wikiseite`**](https://wiki.zoe-discord-bot.ch/de/features/rankChannel/)
 >Im Rangkanal kann man den Fortschritt der Spieler in der Rangliste verfolgen. Die Nachrichten zeigen das Konto des Spielers, gewonnene oder verlorene LP, Champion und vieles mehr.
 >{.is-info}
 
@@ -34,7 +34,7 @@ dateCreated: 2023-08-12T13:31:29.800Z
 <br>
     
 # Bestenlisten
-> [**`Link zur Wikiseite`**](https://wiki.zoe-discord-bot.ch/en/features/leaderboards/)
+> [**`Link zur Wikiseite`**](https://wiki.zoe-discord-bot.ch/de/features/leaderboards/)
 Mit Bestenlisten können sich bis zu 100 Spieler (geboosteter Server, sonst 10) in einer ausgewählten Kategorie vergleichen. 
 >{.is-info}
 
@@ -43,7 +43,7 @@ Mit Bestenlisten können sich bis zu 100 Spieler (geboosteter Server, sonst 10) 
 <br>
     
 # Clashkanal
-> [**`Link zur Wikiseite`**](https://wiki.zoe-discord-bot.ch/en/features/clashChannel/)
+> [**`Link zur Wikiseite`**](https://wiki.zoe-discord-bot.ch/de/features/clashChannel/)
 >Zoe kann eine Analyse deines eigenen und gegnerischen Clash-Teams durchführen, um dir bei Auswahl- und Bannentscheidung zu helfen. Wenn kein Clash stattfindet, werden die nächsten Termine angezeigt.
 >{.is-info}
 
@@ -80,7 +80,7 @@ Dies ist eine Meldung, die nach der jeweiligen Zeit nach der Aktivierung (also n
 <br>
 
 # Spielverlaufskanal
-> [**`Link zur Wikiseite`**](https://wiki.zoe-discord-bot.ch/en/features/matchhistoryChannel)
+> [**`Link zur Wikiseite`**](https://wiki.zoe-discord-bot.ch/de/features/matchhistoryChannel)
 >Im Spielverlaufskanal kannst du alle gespielten Partien aller Spieler mit detaillierten Informationen zu jeder Partie einsehen.
 >{.is-info}
 
@@ -89,7 +89,7 @@ Dies ist eine Meldung, die nach der jeweiligen Zeit nach der Aktivierung (also n
 <br>
  
 # Rangrollen
-> [**`Link zur Wikiseite`**](https://wiki.zoe-discord-bot.ch/en/features/rankroles)
+> [**`Link zur Wikiseite`**](https://wiki.zoe-discord-bot.ch/de/features/rankroles)
 >Zoe erstellt Discord-Rollen für jeden Rang oder Bereich (Premium) für alle registrierten Spieler und weist sie ihnen automatisch zu.
 >{.is-info}
 
@@ -99,7 +99,7 @@ Dies ist eine Meldung, die nach der jeweiligen Zeit nach der Aktivierung (also n
   
  # Da ist noch mehr!
   
-> **Es gibt noch viele andere Dinge, also sieh dir zum Beispiel [alle Befehle](https://wiki.zoe-discord-bot.ch/en/commands) oder die [Konfiguration](https://wiki.zoe-discord-bot.ch/en/Zoe-Configuration/) an!**
+> **Es gibt noch viele andere Dinge, also sieh dir zum Beispiel [alle Befehle](https://wiki.zoe-discord-bot.ch/de/commands) oder die [Konfiguration](https://wiki.zoe-discord-bot.ch/en/Zoe-Configuration/) an!**
 >{.is-warning}
 
 
