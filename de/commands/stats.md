@@ -2,16 +2,65 @@
 title: Stats Befehle
 description: Erfahre, was du mit den /stats-Befehlen tun kannst.
 published: true
-date: 2023-08-17T12:21:42.241Z
+date: 2023-08-17T12:38:11.930Z
 tags: stats, stats befehl, stats befehle
 editor: markdown
 dateCreated: 2023-08-12T18:52:29.166Z
 ---
 
-## Stats Befehle - Übersicht
 
-| Befehl | `/stats profile` | `/stats predictrole` | `/stats teamanalysis` | `/stats matchhistory` | `/stats rankupdate` |
-| --- | --- | --- | --- | --- | --- |
-| Erklärung | Zoe liefert einige Informationen über das ausgewählte Profil. | Zoe sagt die Rolle von 5 bestimmten Konten voraus, wenn sie zusammen spielen. | Zoe sagt die Rolle von 5 bestimmten Konten voraus, wenn sie zusammen spielen, mit möglichen Tipps und Bannempfehlungen. | Ermöglicht es, den Spielverlauf von LoL-Accounts zu durchsuchen und Spielstatistiken anzuzeigen. | Zoe liefert Informationen über die besten LP-Gewinner und LP-Verlierer an einem Tag, in einer Woche oder in einem Monat. |
-| Bild | ![](/new_statsprofile_cropped.png) | ![](/new_stats_predictrole.png) | ![](/new_statsteamanalysis.png) | ![](/new_stats_matchhistory_cropped.png) | ![](/stats_rankupdate.png) |
-| Link | [`**_Hier klicken_**`](https://wiki.zoe-discord-bot.ch/de/commands/stats/profile/) | [`**_Hier klicken_**`](https://wiki.zoe-discord-bot.ch/de/commands/stats/predictRole/) | [`**_Hier klicken_**`](https://wiki.zoe-discord-bot.ch/de/commands/stats/teamAnalysis/) | [`**Hier klicken**`](https://wiki.zoe-discord-bot.ch/de/commands/stats/matchhistory) | [`**Hier klicken**`](https://wiki.zoe-discord-bot.ch/de/commands/stats/rankupdate) |
+
+> Diese Liste enthält alle Statistik-Befehle von Zoe. Du kannst auf den jeweiligen `Link zur Wikiseite` klicken, um weitere Informationen zu erhalten.
+
+<br> 
+
+#  /stats profile
+
+>  [**`Link to Wikipage`**](/de/commands/stats/profile/)
+> Zoe liefert einige Informationen über das ausgewählte Profil.  
+>{.is-info}
+  
+![](/new_statsprofile_cropped.png)
+
+<br> 
+  
+#  /stats predictrole
+
+>  [**`Link to Wikipage`**](/de/commands/stats/predictRole/)
+>  Zoe sagt die Rolle von 5 bestimmten Konten voraus, wenn sie zusammen spielen.
+>{.is-info}
+  
+![](/new_stats_predictrole.png)
+
+<br> 
+
+#  /stats teamanalysis
+
+>  [**`Link to Wikipage`**](/de/commands/stats/teamAnalysis/)
+>  Zoe sagt die Rolle von 5 bestimmten Konten voraus, wenn sie zusammen spielen, mit möglichen Tipps und Bannempfehlungen.
+>{.is-info}
+  
+![](/new_statsteamanalysis.png)
+
+<br> 
+
+#  /stats matchhistory
+
+>  [**`Link to Wikipage`**](/de/commands/stats/matchhistory/)
+>  Ermöglicht es, den Spielverlauf von LoL-Accounts zu durchsuchen und Spielstatistiken anzuzeigen. 
+>{.is-info}
+  
+![](/new_stats_matchhistory_cropped.png)
+
+<br> 
+
+#  /stats rankupdate
+
+>  [**`Link to Wikipage`**](/de/commands/stats/rankupdate/)
+>  Zoe liefert Informationen über die besten LP-Gewinner und LP-Verlierer an einem Tag, in einer Woche oder in einem Monat. 
+>{.is-info}
+  
+![](/stats_rankupdate.png)
+
+<br> 
+  
