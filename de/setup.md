@@ -2,7 +2,7 @@
 title: Zoe Einrichtung
 description: Auf dieser Seite erfährst du, wie du Zoe auf deinem Discord-Server einrichten kannst.
 published: true
-date: 2023-08-17T09:24:29.085Z
+date: 2023-08-17T09:24:46.568Z
 tags: setup, einrichten, einrichtung, start
 editor: markdown
 dateCreated: 2021-08-16T13:05:23.601Z
@@ -17,7 +17,7 @@ dateCreated: 2021-08-16T13:05:23.601Z
 
 <br>
 
-Zoe hinzufügen 
+## Zoe hinzufügen 
 
 Du kannst Zoe zu deinem Server hinzufügen, indem du auf der Homepage auf `Add the bot` klickst, auf Seiten wie [top.gg](https://top.gg/de/bot/550737379460382752) oder [bots.ondiscord.xyz](https://bots.ondiscord.xyz/bots/550737379460382752) und hier im Wiki unten links im Menü.
 <br>
