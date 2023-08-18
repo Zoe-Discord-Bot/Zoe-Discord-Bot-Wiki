@@ -2,7 +2,7 @@
 title: Player
 description: Find out what a player is.
 published: true
-date: 2023-08-18T07:02:31.331Z
+date: 2023-08-18T07:17:15.294Z
 tags: players, player
 editor: markdown
 dateCreated: 2023-08-18T07:02:31.331Z
@@ -22,6 +22,6 @@ To add more League of Legend accounts to your player, use the command [`/add acc
 >-   [`/register`](/en/commands/important/register)
 >-   [`/add account`](/en/commands/add/account)
 >-   [`/delete player`](/en/commands/delete/player)
->-   
+>-   [Region](/en/terms/region)
 >-   
 <br>
