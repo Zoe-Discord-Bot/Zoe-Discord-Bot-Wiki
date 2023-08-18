@@ -2,7 +2,7 @@
 title: Zoe Troubleshooting
 description: With this guide you can try to solve minor issues yourself.
 published: true
-date: 2023-08-12T12:15:33.485Z
+date: 2023-08-18T08:21:13.468Z
 tags: help, troubleshooting, quickhelp, problem solving, online status, permissions
 editor: markdown
 dateCreated: 2023-05-07T09:24:15.617Z
@@ -10,19 +10,19 @@ dateCreated: 2023-05-07T09:24:15.617Z
 
 # Troubleshooting
 
-> *Zoe is not responding to my commands/not updating the infoboard or leaderboard/not sending gamecards,  rankchannel/matchhistorychannel-messages. What's wrong with it?*
+> *Zoe is not responding to my commands/not updating the [infoboard](/en/feature/infoChannel) or [leaderboard](/en/features/leaderboards)/not sending [gamecards](/en/features/gamecards), [rankchannel](/en/features/rankChannel)/[matchhistorychannel](/en/features/matchhistoryChannel)-messages. What's wrong with it?*
 > **Here is what you can check now!**
 
 <br>
 
-## 1. Check Discord status
-> First, check Zoe's Discord status. If it is not green (online) but red (do not disturb) or greyed out (offline), it is most likely because an update to a newer version is in progress or we are investigating an issue.
+## 1. Check Discord status & Zoe status
+> First, check that Discord has no issues currently: https://discordstatus.com/. After that check Zoe's Discord status. If it is not green (online) but red (do not disturb) or greyed out (offline), it is most likely because an update to a newer version is in progress or we are investigating an issue.
 > >🟢 **Online:** Zoe is functional
 > >🔴 **Do not disturb:** Zoe is booting/shutting down
 > >⚫ **Offline:** Zoe is currently offline because of an update or issue
 ><pr>
 >
-> For more information you can check out the announcement channel on our Discord server. You find an invite on the bottom left.
+> For more information you can check out the [announcement channel on our Discord server](https://discord.gg/meg4Reea6Q).
 >{.is-info}
   
 <br>
@@ -67,7 +67,7 @@ To fix this, you can kick Zoe and add it again with the new and correct invitati
 <br>
   
 ## Still not working?
->If it still does not work, please ask your question / express your problem in a support post on the Zoe Discord server. You can find an invite on the bottom left.
+>If it still does not work, please ask your question / express your problem in a support post on the [Zoe Discord server](https://discord.gg/4Rxrzsxb7d).
 >{.is-success}
 
 
