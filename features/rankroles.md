@@ -2,7 +2,7 @@
 title: Rank roles - Feature
 description: Information about the automated rank roles.
 published: true
-date: 2023-08-12T19:13:14.864Z
+date: 2023-08-18T08:38:58.618Z
 tags: ranks, rank, role, roles, improved, improved rank roles, peak elo
 editor: markdown
 dateCreated: 2023-04-13T08:11:20.807Z
@@ -10,7 +10,7 @@ dateCreated: 2023-04-13T08:11:20.807Z
 
 # Rank roles 
 
->**Discord roles for users of a Discord server are a great thing. Zoe provides rank roles based on the rank of the connected League of Legends account for every player and updates them regularly. You can still customise these roles in their name, color and permissions after they have been created. Keep in mind that Zoe needs to have the permissions to assign them still. <br>
+>**Discord roles for users of a Discord server are a great thing. Zoe provides rank roles based on the rank of the connected League of Legends account for every [player](/en/terms/player) and updates them regularly. You can still customise these roles in their name, color and permissions after they have been created. Keep in mind that Zoe needs to have the permissions to assign them still. <br>
 > If a role is deleted, the feature still works with the remaining roles (you can use this to show only a specific ranks if you wish).**
 >{.is-info}
 
@@ -36,7 +36,7 @@ dateCreated: 2023-04-13T08:11:20.807Z
 ![basic_rankroles_3-4.png](/basic_rankroles_3-4.png)
 >{.is-info}
 
->This takes a short moment, because Zoe has to create a role for each League of Legends rank. After a refresh the roles are then assigned to all registered players.
+>This takes a short moment, because Zoe has to create a role for each League of Legends rank. After a refresh the roles are then assigned to all [registered players](/en/terms/player).
 ![basic_rankroles_6.png](/basic_rankroles_6.png)
 >{.is-info}
 ---
@@ -90,8 +90,8 @@ After that the creation is the same as for improved rank roles.
 ><br>
 > ### And with the **2 buttons** at the end of the message the following settings can be made: <br>
 >_**Server specific roles** *(Yes/No)*_
->Yes: Creates every role for every server region (NA, EUNE, EUW, KR, etc.)
->No (standard): All server regions are treated the same, no extra roles per server region
+>Yes: Creates every role for every [server region](/en/terms/region) (NA, EUNE, EUW, KR, etc.)
+>No (standard): All [server regions](/en/terms/region) are treated the same, no extra roles per [server region](/en/terms/region)
 ><br>
 >_**Queue specific roles** *(Yes/No)*_
 >Yes: Creates every role for every queue/gamemode (Solo/Duo, Flex and TFT)
@@ -101,7 +101,7 @@ After that the creation is the same as for improved rank roles.
 >`Continue to the next step` after you made all changes you wanted and finalize the improved rankroles.
 >{.is-info}
 
->Please note that a discord server can hav a maximum of 250 slots for roles. Therefore its not possible to create a role for every division for every server region and queue/gamemode etc.
+>Please note that a discord server can hav a maximum of 250 slots for roles. Therefore its not possible to create a role for every division for every [server region](/en/terms/region) and queue/gamemode etc.
 >{.is-danger}
 
 > With the next menu you can change, update oder delete every role seperately if you wish to do that. You can navigate up and down with the buttons. If you are finished or want to skip this step click on `Create the option with these settings`.
