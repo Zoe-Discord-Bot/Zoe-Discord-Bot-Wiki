@@ -2,7 +2,7 @@
 title: /create player - Command
 description: Information about the /create player command
 published: true
-date: 2023-04-13T17:44:49.430Z
+date: 2023-08-18T06:54:43.051Z
 tags: create, player, create player
 editor: markdown
 dateCreated: 2021-07-12T08:32:54.760Z
@@ -16,9 +16,9 @@ dateCreated: 2021-07-12T08:32:54.760Z
 >{.is-info}
 
 
-| Tag | BR  | EUNE | EUW | LAN | LAS | NA  | OCE | RU  | TR  | JP  | KR  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Region | Brazil | Europe Nordic & East | Europe West | Latin America North | Latin America South | North America | Oceania | Russia | Turkey | Japan | Republic of Korea |
+| Tag | BR  | EUNE | EUW | LAN | LAS | NA  | OCE | RU  | TR  | JP  | KR  | PH  | SG  | TW  | TH  | VN  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Region | Brazil | Europe Nordic & East | Europe West | Latin America North | Latin America South | North America | Oceania | Russia | Turkey | Japan | Republic of Korea | The Philippines | Singapore, Malaysia & Indonesia | Taiwan, Hong Kong & Macao | Thailand | Vietnam |
 
 <br>
 
