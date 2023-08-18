@@ -2,7 +2,7 @@
 title: Zoe Features
 description: In here you find all core features explained.
 published: true
-date: 2023-08-13T12:46:19.289Z
+date: 2023-08-18T08:25:55.643Z
 tags: features, core, core features, feature
 editor: markdown
 dateCreated: 2021-07-06T09:25:25.035Z
@@ -16,7 +16,7 @@ dateCreated: 2021-07-06T09:25:25.035Z
 # Infochannel
 
 >  [**`Link to Wikipage`**](https://wiki.zoe-discord-bot.ch/en/features/infoChannel/)
-> Zoe provides an information panel in a text channel with information about the players in a game, optionally displaying their rank. Zoe also sends game cards information about current games such as champions played, SoloQ rank or winrate with a champion played. You can also get champion tips for every champion played in a game. Read more here: [Champion analysis](/en/features/champion-analysis).  
+> Zoe provides an [information panel](/en/features/infoChannel) in a text channel with information about the [players](/en/terms/player) in a game, optionally displaying their rank. Zoe also sends [gamecards](/en/features/gamecards) information about current games such as champions played, SoloQ rank or winrate with a champion played. You can also get champion tips for every champion played in a game. Read more here: [Champion analysis](/en/features/champion-analysis).  
 >{.is-info}
   
 ![](/new_infopanel.png)
@@ -26,7 +26,7 @@ dateCreated: 2021-07-06T09:25:25.035Z
 # Rankchannel
 
 > [**`Link to Wikipage`**](https://wiki.zoe-discord-bot.ch/en/features/rankChannel/)
->In the rankchannel it is possible to track the players' ranked progress. 
+>In the [rankchannel](/en/features/rankChannel) it is possible to track the [players'](/en/terms/player) ranked progress. 
 >{.is-info}
 
 ![](/new_rankchannel_message.png)
@@ -35,7 +35,7 @@ dateCreated: 2021-07-06T09:25:25.035Z
     
 # Leaderboards
 > [**`Link to Wikipage`**](https://wiki.zoe-discord-bot.ch/en/features/leaderboards/)
-With leaderboards up to 100 players (boosted server, otherwise 10) can compare themselves in a selected category.  
+With [leaderboards](/en/features/leaderboards) up to 100 [players](/en/terms/player) ([boosted server](/en/http://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting), otherwise 10) can compare themselves in a selected category.  
 >{.is-info}
 
 ![](/new_leaderboard_mastery_points_champion.png) 
@@ -53,7 +53,7 @@ With leaderboards up to 100 players (boosted server, otherwise 10) can compare t
    
 # stats profile Command
 > [**`Link to Wikipage`**](https://wiki.zoe-discord-bot.ch/en/commands/stats/profile)
->Zoe provides information about the selected profile, including the top 3 highest champions, a summary of all masteries, the last 3 games played, ranking statistics of the player and a chart with the 6 highest mastery champs.
+>Zoe provides information about the selected profile, including the top 3 highest champions, a summary of all masteries, the last 3 games played, ranking statistics of the [player](/en/terms/player) and a chart with the 6 highest mastery champions.
 >{.is-info}
  
 ![](/new_statsprofile.png)
@@ -72,7 +72,7 @@ With leaderboards up to 100 players (boosted server, otherwise 10) can compare t
 # stats rankupdate Command
 > [**`Link to Wikipage`**](https://wiki.zoe-discord-bot.ch/en/commands/stats/rankupdate)
 >Zoe provides information about top LP-winning and LP-losing registered players in a specific time. You can choose between one day, one week or one month.
-This is a message that automatically appears in the rankchannel after the respective time after activation (so after one day, one week and one month).
+This is a message that automatically appears in the [rankchannel](/en/features/rankChannel) after the respective time after activation (so after one day, one week and one month).
 >{.is-info}
 
 ![](/stats_rankupdate.png)
@@ -81,7 +81,7 @@ This is a message that automatically appears in the rankchannel after the respec
 
 # Matchhistorychannel
 > [**`Link to Wikipage`**](https://wiki.zoe-discord-bot.ch/en/features/matchhistoryChannel)
->In the matchhistorychannel you can browse all played games of all players with detailed information about every game.
+>In the [matchhistorychannel](/en/features/matchhistoryChannel) you can browse all played games of all [players](/en/terms/player) with detailed information about every game.
 >{.is-info}
 
 ![](/new_matchhistorychannel.png)
@@ -90,7 +90,7 @@ This is a message that automatically appears in the rankchannel after the respec
  
 # Rankroles
 > [**`Link to Wikipage`**](https://wiki.zoe-discord-bot.ch/en/features/rankroles)
->Zoe creates Discord roles for every rank or division (premium) for all registered players.
+>Zoe creates Discord roles for every rank or division (premium) for all [registered players](/en/terms/player).
 >{.is-info}
 
 ![](/improved_rankroles_5.png)
