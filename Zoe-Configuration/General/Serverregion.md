@@ -2,7 +2,7 @@
 title: Zoe Configuration - Default Server Region
 description: Learn more about configuring the default server region.
 published: true
-date: 2023-08-18T08:40:36.983Z
+date: 2023-08-18T08:40:43.109Z
 tags: config, default, server, region, server region, default server region
 editor: markdown
 dateCreated: 2023-04-23T14:46:17.067Z
@@ -10,10 +10,10 @@ dateCreated: 2023-04-23T14:46:17.067Z
 
 # Default Server Region
 
->With this setting you can set the default [server region]](/en/terms/region) which will be used by Zoe for your server.
+>With this setting you can set the default [server region](/en/terms/region) which will be used by Zoe for your server.
 >{.is-info}
 
->You can always specify the [server region]](/en/terms/region) in commands to overwrite this setting.
+>You can always specify the [server region](/en/terms/region) in commands to overwrite this setting.
 >{.is-warning}
 
 > Click on the corresponding setting in the configuration menu.
