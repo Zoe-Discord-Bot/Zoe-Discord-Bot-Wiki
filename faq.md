@@ -2,7 +2,7 @@
 title: FAQ - Frequently asked questions
 description: Find answers to frequently asked questions here.
 published: true
-date: 2023-06-09T08:13:44.126Z
+date: 2023-08-18T07:32:05.210Z
 tags: faq, frequently, asked, questions
 editor: markdown
 dateCreated: 2021-09-30T16:47:28.465Z
@@ -22,18 +22,18 @@ dateCreated: 2021-09-30T16:47:28.465Z
 
 <br>
 
-## Can I define several channels (Infochannel & Rankchannel) in one text channel?
+## Can I define several channels ([Infochannel](/en/features/infoChannel) & [Rankchannel](/en/features/rankChannel)) in one text channel?
 
-> Yes and no. This basically works, but not really, because all messages in Zoe's infochannel that do not belong there are deleted, including those from the rankchannel.  If you have the problem that the messages are deleted, you can undefine one of the two channels and define it again in another text channel.
+> Yes and no. This basically works, but not really, because all messages in Zoe's [infochannel](/en/features/infoChannel) that do not belong there are deleted, including those from the [rankchannel](/en/features/rankChannel).  If you have the problem that the messages are deleted, you can undefine one of the two channels and define it again in another text channel.
 
 > Please try to not mix these channels.
 >{.is-warning}
 
 <br>
 
-## Which games are / why is flex / TFT displayed in infopanel?
+## Which games are / why is flex / TFT displayed in [infopanel](/en/features/infoChannel)?
 
-> The infopanel  shows the last update of the rank by default. If your last game was a flex game, this change is shown. You can change this behavior in Zoes config (see the [configuration](http://wiki.zoe-discord-bot.ch/en/Zoe-Configuration/Infochannel/Infochannel-Rankfilter) or [this guide](http://wiki.zoe-discord-bot.ch/en/Guides/SoloQ-Infopanel)).
+> The [infopanel](/en/features/infoChannel) shows the last update of the rank by default. If your last game was a flex game, this change is shown. You can change this behavior in Zoes config (see the [configuration](http://wiki.zoe-discord-bot.ch/en/Zoe-Configuration/Infochannel/Infochannel-Rankfilter) or [this guide](http://wiki.zoe-discord-bot.ch/en/Guides/SoloQ-Infopanel)).
 
 <br>
 
@@ -41,7 +41,7 @@ dateCreated: 2021-09-30T16:47:28.465Z
 
 > This can have 2 possible causes. First, you have not given Zoe permission to use the commands on your server. Please go into Zoe's role permissions and enable them. If it still does not work, it is most likely because you invited Zoe with the old invitation link that did not have a setting enabled that allows Zoe to use the commands. Since these links should be updated, you can kick Zoe and invite her again using a new link, then the slash-commands should work. 
 
->Don't worry, kicking Zoe from your server does not delete your configuration.
+>Don't worry, kicking Zoe from your server does not delete your [configuration](/en/Zoe-Configuration).
 >{.is-info}
 
 <br>
