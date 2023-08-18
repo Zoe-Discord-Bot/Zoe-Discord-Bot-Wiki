@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2023-08-18T08:07:08.091Z
+date: 2023-08-18T08:08:04.229Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -155,7 +155,7 @@ Zoe has many more features. You can have a look at all commands if you click [HE
 
 One example being [`/stats profile`](/en/commands/stats/profile) letting you view a players profile:
 
-![](/new_statsprofile.png)
+![](/new_statsprofile_cropped.png)
 <p>
   
 # Setup - Final words
