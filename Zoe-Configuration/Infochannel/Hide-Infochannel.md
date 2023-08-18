@@ -2,7 +2,7 @@
 title: Zoe Configuration - Hide Infochannel
 description: Learn more about configuring the hidden infochannel.
 published: true
-date: 2023-08-18T08:41:57.249Z
+date: 2023-08-18T08:42:11.113Z
 tags: infochannel, config, hide, hide infochannel
 editor: markdown
 dateCreated: 2023-04-23T15:25:56.478Z
