@@ -2,7 +2,7 @@
 title: Zoe Development Status
 description: If you are interested in what features await you in the future, you can get an insight here.
 published: true
-date: 2023-08-19T13:13:34.208Z
+date: 2023-08-19T16:26:00.875Z
 tags: dev, status, dev status, development, development status, future, next features
 editor: markdown
 dateCreated: 2023-05-11T20:07:22.784Z
@@ -50,7 +50,7 @@ dateCreated: 2023-05-11T20:07:22.784Z
 
 -   🟡 **Feature**: AI Match Summary (summarizes a game in text in a way that you can choose)
 -   ⚪ **Feature**: Adding Champion analysis as seperate command
--   ⚪ **QoL**: Add recent playtime. recent played champions and total, normal and soloQ winrate to /stats profile command
+-   ⚪ **QoL**: Add recent playtime. recent most played champions and total, normal and soloQ winrate to /stats profile command
 -   ⚪ **QoL**: Add another digit to make average KDA more detailed
 -   ⚪ **QoL**: Improve team-analysis to add several players in one command
 -   ⚪ **QoL**: Increase listed matches in matchhistory command (5 > 10)
