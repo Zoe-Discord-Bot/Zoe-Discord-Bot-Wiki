@@ -2,7 +2,7 @@
 title: Zoe Development Status
 description: If you are interested in what features await you in the future, you can get an insight here.
 published: true
-date: 2023-08-18T12:06:39.786Z
+date: 2023-08-19T11:51:22.705Z
 tags: dev, status, dev status, development, development status, future, next features
 editor: markdown
 dateCreated: 2023-05-11T20:07:22.784Z
@@ -12,7 +12,6 @@ dateCreated: 2023-05-11T20:07:22.784Z
 
 | Indicator | Meaning | Description |
 | --- | --- | --- |
-| ⚫   | **Recorded** | We are aware of this feature/change, but do not have a patch planned yet. |
 | ⚪   | **Scheduled** | We are aware of this feature/change and have it planned for a patch. |
 | 🔴  | **Delayed** | We have determined that we need to delay this feature/change until a later date. |
 | 🟡  | **In Development** | The feature/change is currently being worked on. |
@@ -100,17 +99,7 @@ dateCreated: 2023-05-11T20:07:22.784Z
 
 <br>
 
-# Recorded future changes
 
-> Here are ideas listed which we have already recorded but which are not yet planned for a patch.
->{.is-info}
-
--   ⚫ **Feature**: Allow Zoe to give your server members nicknames based on their summonername (main account)
--   ⚫ **QoL**: Add a filter to rankupdate messages to select queues
--   ⚫ **QoL**: Add a filter to the rankchannel to select queues
--   ⚫ **Feature**: Add a version of /stats profile for TFT statistics
-
-<br>
 
 >That's it for now. 
 If you have ideas for new features or suggestions for improvements, please let us know on the Discord server in the `#requests-feedback` channel.
