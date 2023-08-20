@@ -2,7 +2,7 @@
 title: Zoe Development Status
 description: If you are interested in what features await you in the future, you can get an insight here.
 published: true
-date: 2023-08-20T16:29:47.967Z
+date: 2023-08-20T16:30:43.637Z
 tags: dev, status, dev status, development, development status, future, next features
 editor: markdown
 dateCreated: 2023-05-11T20:07:22.784Z
@@ -103,5 +103,5 @@ dateCreated: 2023-05-11T20:07:22.784Z
 
 
 >That's it for now. 
-If you have ideas for new features or suggestions for improvements, please let us know on the Discord server in the `#requests-feedback` channel.
+If you have ideas for new features or suggestions for improvements, please let us know on the [Discord server](https://discord.gg/4Rxrzsxb7d) in the `#requests-feedback` channel.
 >{.is-success}
