@@ -2,7 +2,7 @@
 title: /config - Befehl
 description: Informationen über den /config Befehl 
 published: true
-date: 2023-08-21T09:54:27.300Z
+date: 2023-08-21T11:12:40.062Z
 tags: config, konfiguration, konfigurieren
 editor: markdown
 dateCreated: 2023-08-21T09:54:27.300Z
@@ -21,7 +21,7 @@ dateCreated: 2023-08-21T09:54:27.300Z
 >### Verwandte Befehle/Seiten:
 >-   [Zoe Einrichtung](/de/setup/)
 >-   [/language](/de/commands/important/language/)
->-   [/reset](/de/commands/important/reset/)
+>-   [/reset](/en/commands/important/reset/)
 
 >Wenn du mehr darüber erfahren möchtest, was du konfigurieren kannst, besuche diese Wiki-Seite: [Konfiguration](/de/Zoe-Configuration/)
 >{.is-warning}
