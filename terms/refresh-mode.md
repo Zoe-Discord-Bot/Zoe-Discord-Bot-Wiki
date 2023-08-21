@@ -2,7 +2,7 @@
 title: Refresh & Refresh mode
 description: Learn about how Zoe's refresh works.
 published: true
-date: 2023-04-17T06:31:59.759Z
+date: 2023-08-21T11:38:08.690Z
 tags: update, refreh, mode, refresh mode, zoe mode
 editor: markdown
 dateCreated: 2021-07-07T19:15:54.142Z
@@ -37,5 +37,5 @@ Please end your stream or turn off the Discord Presence of the program so that `
 ## Refresh command
 
 > The [`/refresh`](/en/commands/important/refresh) command triggers a refresh manually for the server you use it on. 
->Every feature is refreshed with this command besides the clashChannel. The clashChannel can be refreshed with the command [`>clash refresh`](/en/commands/clash/refresh/).
+>Every feature is refreshed with this command besides the clashChannel. The Clashchannel can be refreshed with the command [`/clash refresh`](/en/commands/clash/refresh/).
 >{.is-info}
