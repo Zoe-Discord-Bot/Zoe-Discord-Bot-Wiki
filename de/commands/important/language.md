@@ -2,7 +2,7 @@
 title: /language - Befehl
 description: Informationen zum /language Befehl
 published: true
-date: 2023-08-21T09:46:11.496Z
+date: 2023-08-21T09:46:23.154Z
 tags: language, sprache, sprachauswahl, sprachen
 editor: markdown
 dateCreated: 2023-08-21T09:46:11.496Z
@@ -19,7 +19,7 @@ Derzeit sind Englisch und Deutsch (vollständig) sowie Französisch, Russisch, T
 >{.is-warning}
 
 >### Erforderliche Berechtigungen:
->*none*
+>*keine*
 >{.is-success}
 
 >### Verwandte Befehle/Seiten:
