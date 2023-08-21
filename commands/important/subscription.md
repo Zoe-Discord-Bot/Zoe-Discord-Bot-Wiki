@@ -1,8 +1,8 @@
 ---
-title: /subscription- Command
+title: /subscription - Command
 description: Information about the /subscription command
 published: true
-date: 2023-04-13T18:39:09.303Z
+date: 2023-08-21T13:07:07.325Z
 tags: subscription, sub, boost
 editor: markdown
 dateCreated: 2023-04-10T12:51:50.798Z
