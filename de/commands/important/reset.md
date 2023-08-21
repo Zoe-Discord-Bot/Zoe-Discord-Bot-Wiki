@@ -2,7 +2,7 @@
 title: /reset - Befehl
 description: Informationen über den /reset Befehl
 published: true
-date: 2023-08-21T12:56:24.150Z
+date: 2023-08-21T12:56:50.029Z
 tags: reset, zurücksetzen
 editor: markdown
 dateCreated: 2023-08-21T12:56:24.150Z
@@ -16,7 +16,7 @@ Versuche, diesen Befehl zu verwenden, wenn etwas nicht richtig funktioniert.**
 >{.is-info}
 
 >### Erforderliche Berechtigungen:
-> *Manage channels*
+> Kanäle verwalten
 >{.is-success}
 
 >### Verwandte Befehle/Seiten:
