@@ -2,7 +2,7 @@
 title: /setup - Befehl
 description: Informationen über den /setup Befehl.
 published: true
-date: 2023-08-21T09:38:33.870Z
+date: 2023-08-21T09:46:53.932Z
 tags: setup, einrichten, einrichtung
 editor: markdown
 dateCreated: 2023-08-21T09:38:33.870Z
@@ -15,7 +15,7 @@ dateCreated: 2023-08-21T09:38:33.870Z
 >{.is-info}
 
 >### Erforderliche Berechtigungen:
->Manage channels
+>Kanäle verwalten
 >{.is-success}
 
 
