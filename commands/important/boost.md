@@ -2,8 +2,8 @@
 title: /boost - Command
 description: Information about the /boost command
 published: true
-date: 2023-04-21T09:48:23.971Z
-tags: subscription, premium, boost
+date: 2023-08-21T13:03:21.244Z
+tags: subscription, premium, boost, server boost
 editor: markdown
 dateCreated: 2023-04-10T12:48:20.068Z
 ---
