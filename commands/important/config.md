@@ -2,7 +2,7 @@
 title: /config - Command
 description: Information about the /config command
 published: true
-date: 2023-04-23T13:58:42.857Z
+date: 2023-08-21T09:54:43.584Z
 tags: config, configuration, setting, settings, option, options
 editor: markdown
 dateCreated: 2021-07-05T18:08:13.504Z
@@ -15,7 +15,7 @@ dateCreated: 2021-07-05T18:08:13.504Z
 >{.is-info}
 
 >### Permissions needed:
->*none*
+>Manage channels
 >{.is-success}
 
 >### Related commands/pages:
