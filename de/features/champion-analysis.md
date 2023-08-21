@@ -2,7 +2,7 @@
 title: Champion Analyse - Feature
 description: Erfahre mehr über die Champion-Analyse.
 published: true
-date: 2023-08-21T08:30:00.197Z
+date: 2023-08-21T09:36:19.290Z
 tags: analyse, spielkarte, champ, champion, champion analyse
 editor: markdown
 dateCreated: 2023-08-13T12:44:18.376Z
@@ -27,5 +27,5 @@ dateCreated: 2023-08-13T12:44:18.376Z
 
 <br>
 
-## Benutzung
+## Nutzung
 ![](/champion_analysis.gif)
