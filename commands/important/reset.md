@@ -2,7 +2,7 @@
 title: /reset - Command
 description: Information about the /reset command
 published: true
-date: 2023-04-13T18:32:38.516Z
+date: 2023-08-21T12:56:33.316Z
 tags: reset
 editor: markdown
 dateCreated: 2021-07-12T08:17:30.555Z
@@ -16,7 +16,7 @@ Try to use this command if something is not working properly.**
 >{.is-info}
 
 >### Permissions needed:
-> *none*
+> *Manage channels*
 >{.is-success}
 
 >### Related commands/pages:
