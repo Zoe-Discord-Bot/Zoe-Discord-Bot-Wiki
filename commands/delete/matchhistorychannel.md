@@ -2,7 +2,7 @@
 title: /delete matchhistorychannel - Command
 description: Information about the /delete matchhistorychannel command
 published: true
-date: 2023-08-22T07:17:31.785Z
+date: 2023-08-22T07:18:31.875Z
 tags: channel, delete, matchhistory
 editor: markdown
 dateCreated: 2023-04-09T11:46:56.203Z
@@ -19,7 +19,7 @@ dateCreated: 2023-04-09T11:46:56.203Z
 >{.is-success}
 
 >### Related commands:
->-   [/create matchhistorychannel](https://wiki.zoe-discord-bot.ch/en/commands/create/matchhistorychannel)
+>-   [/create matchhistorychannel](/en/commands/create/matchhistorychannel)
 
 <br>
 
