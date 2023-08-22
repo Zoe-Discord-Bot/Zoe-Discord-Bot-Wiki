@@ -2,7 +2,7 @@
 title: Registrierung mit Verifikation
 description: Hier siehst du beschrieben, wie man sich bei aktivierter Kontoverifikation auf einem Server registriert.
 published: true
-date: 2023-08-22T16:58:57.166Z
+date: 2023-08-22T17:00:33.208Z
 tags: registration, verifikation
 editor: markdown
 dateCreated: 2023-08-22T16:48:01.909Z
@@ -34,3 +34,7 @@ dateCreated: 2023-08-22T16:48:01.909Z
 
 > :five:Schließe dann das Beschwörersymbol-Auswahlfenster, damit das Symbol gespeichert wird und klicke bei Zoes Nachricht auf den grünen `Fertig` Button. Damit sollte dein Konto verbunden sein.
 >{.is-success}
+
+
+>### <span style="color:#ffffff"> Test </span>
+>{.is-info}
