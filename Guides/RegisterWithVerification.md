@@ -2,13 +2,13 @@
 title: Registration with verification
 description: 
 published: true
-date: 2023-08-22T18:53:52.267Z
+date: 2023-08-22T18:54:36.760Z
 tags: registration, verification
 editor: markdown
 dateCreated: 2023-08-22T16:32:51.912Z
 ---
 
->   <span style="font-size:15pt">:one:Start by entering the command ([`/register region summonername`](/en/commands/important/register/)), as shown below. <br> Simply fill in the appropriate details for region and summonername: </span>
+>   <span style="font-size:15pt">:one:Start by entering the command ([`/register region summonername`](/en/commands/important/register/)), as shown below. <br> Simply fill in the appropriate details for `region` and `summonername`: </span>
 <img src="/register.png" width="50%" img>
 >{.is-info}
 
@@ -40,7 +40,7 @@ dateCreated: 2023-08-22T16:32:51.912Z
 
 > <span style="font-size:15pt"> :six:Now click on the green `Done` button on Zoe's message. <br> This should link your account.
 <img src="/en_/en_register_verification_5.png" width="50%" img> <br> <br>
-> >Danach kannst du dein Beschwörersymbol wieder zurückändern. {.is-info}
+> >After that, you can change your summoner symbol back. {.is-info}
 >  
 >{.is-success}
 
