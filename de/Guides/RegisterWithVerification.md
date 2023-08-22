@@ -2,7 +2,7 @@
 title: Registrierung mit Verifikation
 description: Hier siehst du beschrieben, wie man sich bei aktivierter Kontoverifikation auf einem Server registriert.
 published: true
-date: 2023-08-22T18:40:04.933Z
+date: 2023-08-22T18:42:00.708Z
 tags: registration, verifikation
 editor: markdown
 dateCreated: 2023-08-22T16:48:01.909Z
@@ -20,7 +20,7 @@ dateCreated: 2023-08-22T16:48:01.909Z
 
 <br>
 
-> <span style="font-size:15pt"> :three:Öffne den League of Legends-Client und logge dich ein, falls nötig. <br> Klicken auf dein Profil und dann auf dein Beschwörersymbol. </span>
+> <span style="font-size:15pt"> :three:Öffne den League of Legends-Client und logge dich ein, falls nötig. <br> Klicke auf das Profil-Icon und dann auf dein Beschwörersymbol. </span>
 <img src="/en_/en_register_verification_2.png" width="50%" img> 
 >{.is-info}
 
@@ -39,6 +39,8 @@ dateCreated: 2023-08-22T16:48:01.909Z
 <br>
 
 > <span style="font-size:15pt"> :six:Klicke nun bei Zoes Nachricht auf den grünen `Fertig` Button. <br> Damit sollte dein Konto verbunden sein.
-<img src="/de_/de_register_verification_5.png" width="60%" img>
+<img src="/de_/de_register_verification_5.png" width="60%" img> <br> <br>
+> >Danach kannst du dein Beschwörersymbol wieder zurückändern. {.is-info}
+>  
 >{.is-success}
 
