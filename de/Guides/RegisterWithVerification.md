@@ -2,13 +2,13 @@
 title: Registrierung mit Verifikation
 description: Hier siehst du beschrieben, wie man sich bei aktivierter Kontoverifikation auf einem Server registriert.
 published: true
-date: 2023-08-22T18:44:19.716Z
+date: 2023-08-22T18:54:55.310Z
 tags: registration, verifikation
 editor: markdown
 dateCreated: 2023-08-22T16:48:01.909Z
 ---
 
->   <span style="font-size:15pt">:one:Beginne mit der Eingabe des Befehls ([`/register Region Beschwörername`](/de/commands/important/register/)), wie unten gezeigt. <br> Fülle einfach die entsprechenden Angaben für Region und Beschwörername ein: </span>
+>   <span style="font-size:15pt">:one:Beginne mit der Eingabe des Befehls ([`/register Region Beschwörername`](/de/commands/important/register/)), wie unten gezeigt. <br> Fülle einfach die entsprechenden Angaben für `Region` und `Beschwörername` ein: </span>
 <img src="/register.png" width="50%" img>
 >{.is-info}
 
