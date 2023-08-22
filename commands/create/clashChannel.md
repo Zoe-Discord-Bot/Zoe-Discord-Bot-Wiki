@@ -2,7 +2,7 @@
 title: /create clashchannel - Command
 description: Information about the /create clashchannel command
 published: true
-date: 2023-04-22T17:26:56.702Z
+date: 2023-08-22T06:50:51.971Z
 tags: create, clashchannel, clash
 editor: markdown
 dateCreated: 2021-07-13T05:46:23.942Z
@@ -11,7 +11,7 @@ dateCreated: 2021-07-13T05:46:23.942Z
 # /create clashchannel clashchannel-name
 
 >### Information
->**If you want to create a clashChannel, use this command and select a name you like for `clashchannel-name`, you still have to specify a player for the clashChanel and select the appropriate time zone. To do this, you have to navigate through the pages or send Zoe the fitting details. The clash channel is now created and the next clash dates are displayed. If a clash takes place, you can start a team analysis here, for more information see [/clash analysis](/en/commands/clash/analysis).**
+>**If you want to create a clashchannel, use this command and select a name you like for `clashchannel-name`, you still have to specify a player for the clashchannel and select the appropriate time zone. To do this, you have to navigate through the pages or send Zoe the fitting details. The clashchannel is now created and the next clash dates are displayed. If a clash takes place, you can start a team analysis here, for more information see [/clash analysis](/en/commands/clash/analysis).**
 >{.is-info}
 
 >### Permissions needed: 
@@ -27,10 +27,10 @@ dateCreated: 2021-07-13T05:46:23.942Z
 
 ![](/new_create_clashchannel.gif)
 
-## Example of an inactive clashChannel
+## Example of an inactive clashchannel
 
 ![](/new_clashinactive.png)
 
-## Example of an active clashChannel
+## Example of an active clashchannel
 
 ![new_clash_analysis.png](/new_clash_analysis.png)
