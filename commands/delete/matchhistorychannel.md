@@ -2,7 +2,7 @@
 title: /delete matchhistorychannel - Command
 description: Information about the /delete matchhistorychannel command
 published: true
-date: 2023-04-13T17:58:55.530Z
+date: 2023-08-22T07:17:31.785Z
 tags: channel, delete, matchhistory
 editor: markdown
 dateCreated: 2023-04-09T11:46:56.203Z
@@ -11,7 +11,7 @@ dateCreated: 2023-04-09T11:46:56.203Z
 # /delete matchhistorychannel
 
 >### Information
->**This command deletes the matchhistoryChannel of your server.**
+>**This command deletes the matchhistorychannel of your server.**
 >{.is-info}
 
 >### Permissions needed: 
@@ -19,8 +19,7 @@ dateCreated: 2023-04-09T11:46:56.203Z
 >{.is-success}
 
 >### Related commands:
->-   [`Matchhistory Channel`](https://wiki.zoe-discord-bot.ch/e/en/features/matchhistoryChannel)
->-   [`/create matchhistorychannel`](https://wiki.zoe-discord-bot.ch/en/commands/create/matchhistorychannel)
+>-   [/create matchhistorychannel](https://wiki.zoe-discord-bot.ch/en/commands/create/matchhistorychannel)
 
 <br>
 
