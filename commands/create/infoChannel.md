@@ -2,7 +2,7 @@
 title: /create infochannel - Command
 description: Information about the /create infochannel command
 published: true
-date: 2023-04-13T17:49:19.018Z
+date: 2023-08-22T06:08:18.660Z
 tags: create, info, infochannel, info panel, panel
 editor: markdown
 dateCreated: 2021-07-05T16:24:57.599Z
@@ -11,7 +11,7 @@ dateCreated: 2021-07-05T16:24:57.599Z
 # /create infochannel infochannel-name
 
 >### Information
->**This command creates a new infoChannel with the name you choose for the parameter `infochannel-name`. In there Zoe sends information about the registered players, their accounts and (if enabled) their last rank update.**
+>**This command creates a new infochannel with the name you choose for the parameter `infochannel-name`. In there Zoe sends information about the registered players, their accounts and (if enabled) their last rank update.**
 >{.is-info}
 
 >### Permissions needed: 
@@ -20,7 +20,7 @@ dateCreated: 2021-07-05T16:24:57.599Z
 
 >### Related commands:
 >-   [/create player](/en/commands/create/player/)
->-   [/delete infoChannel](/en/commands/delete/infoChannel/)
+>-   [/delete infochannel](/en/commands/delete/infoChannel/)
 
 <br>
 
@@ -30,6 +30,6 @@ dateCreated: 2021-07-05T16:24:57.599Z
 
 <br>
 
-## Example of an infoChannel
+## Example of an infochannel
 
 ![](/new_infopanel.png)
