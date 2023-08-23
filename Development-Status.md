@@ -2,7 +2,7 @@
 title: Zoe Development Status
 description: If you are interested in what features await you in the future, you can get an insight here.
 published: true
-date: 2023-08-20T16:30:43.637Z
+date: 2023-08-23T16:08:48.695Z
 tags: dev, status, dev status, development, development status, future, next features
 editor: markdown
 dateCreated: 2023-05-11T20:07:22.784Z
@@ -50,12 +50,12 @@ dateCreated: 2023-05-11T20:07:22.784Z
 
 -   🟡 **Feature**: AI Match Summary (summarizes a game in text in a way that you can choose)
 -   ⚪ **Feature**: Adding Champion analysis as seperate command
--   ⚪ **QoL**: Add recent playtime, recent most played champions and total, normal and soloQ winrate to /stats profile command
+-   ⚪ **QoL**: Add recent playtime, recent most played champions and total, normal and soloQ winrate to `/stats profile` command
 -   ⚪ **QoL**: Add another digit to make average KDA more detailed
 -   ⚪ **QoL**: Improve team-analysis to add several players in one command
 -   ⚪ **QoL**: Increase listed matches in matchhistory command (5 > 10)
 -   ⚪ **QoL**: Small change to matchhistorychannel and command to increase visibility of KDA
--   ⚪ **QoL**: Auto refresh after /register was done to instantly add the registered player to infopanel and give their rank.
+-   ⚪ **QoL**: Auto refresh after `/register` was done to instantly add the registered player to infopanel and give their rank.
 -   ⚪ **QoL**: Add a setting that allows to enable the command to add a player to a team for everyone
 
 <br>
@@ -63,7 +63,7 @@ dateCreated: 2023-05-11T20:07:22.784Z
 ### <span style="color:#1565c0">1.14.1</span> &nbsp; <span style="color:#757575">  Lane icons and automated Roles</span>
 
 -   ⚪ **QoL**: Add lane icons to clashchannel, predictrole and team-analysis.
--   ⚪ **QoL**: New layout for /stats predictrole
+-   ⚪ **QoL**: New layout for `/stats predictrole`
 -   ⚪ **Feature**: Lane roles: roles that are assigned to registered players based on what lanes they played in recent games.
 -   ⚪ **Feature**: Rank Roles (Free, Premium and Peak-Elo): Add a "unranked/In Placements" role to the bottom of ranks that shows at season start & unranked players
 
