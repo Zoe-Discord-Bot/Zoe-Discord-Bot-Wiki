@@ -1,8 +1,8 @@
 ---
 title: Registration with verification
-description: 
+description: Here you can see how to register on a server with account verification enabled.
 published: true
-date: 2023-08-22T18:54:36.760Z
+date: 2023-08-23T06:28:07.354Z
 tags: registration, verification
 editor: markdown
 dateCreated: 2023-08-22T16:32:51.912Z
