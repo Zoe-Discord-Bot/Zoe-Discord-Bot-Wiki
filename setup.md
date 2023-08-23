@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2023-08-18T08:08:04.229Z
+date: 2023-08-23T09:24:33.524Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -19,7 +19,7 @@ dateCreated: 2021-07-05T11:16:55.742Z
 
 ## Adding Zoe 
 
-You can add Zoe to your server by clicking on `Add the bot` on the homepage, on sites like [top.gg](https://top.gg/de/bot/550737379460382752) or [bots.ondiscord.xyz](https://bots.ondiscord.xyz/bots/550737379460382752) and here on the Wiki in the bottom left in the menu bar.
+You can add Zoe to your server by clicking on [`Add the bot`](https://zoe-discord-bot.ch/invite.html) on the homepage, on sites like [top.gg](https://top.gg/de/bot/550737379460382752) or [bots.ondiscord.xyz](https://bots.ondiscord.xyz/bots/550737379460382752) and here on the Wiki in the bottom left in the menu bar.
 
 <br>
   
