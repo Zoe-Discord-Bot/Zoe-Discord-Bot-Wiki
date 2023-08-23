@@ -2,7 +2,7 @@
 title: /language - Command
 description: Information about the /language command
 published: true
-date: 2023-04-18T12:25:43.626Z
+date: 2023-08-23T10:00:19.227Z
 tags: language
 editor: markdown
 dateCreated: 2021-07-05T17:35:00.494Z
@@ -11,7 +11,7 @@ dateCreated: 2021-07-05T17:35:00.494Z
 # /language
 
 >### Information
->**This command allows you to select the language Zoe speaks on your Discord server. This affects all messages except the help command and the patchnotes.
+>**This command allows you to select the language Zoe speaks on your Discord server. This affects all messages except the [help command](/en/commands/important/help) and the [patchnotes](/en/commands/other/patchNotes).
 Currently available are English and German (completely) aswell as French, Russian, Turkish, Italian, Portuguese and Spanish (partially).**
 >{.is-info}
 
