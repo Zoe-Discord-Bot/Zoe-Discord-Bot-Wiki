@@ -2,7 +2,7 @@
 title: Clashchannel - Feature
 description: Information about the clashchannel
 published: true
-date: 2023-06-09T09:46:31.136Z
+date: 2023-08-23T17:19:27.603Z
 tags: clashchannel, clash, analysis, tournament, team, inactive, active
 editor: markdown
 dateCreated: 2021-07-06T10:25:54.954Z
@@ -12,7 +12,7 @@ dateCreated: 2021-07-06T10:25:54.954Z
 
 <br>
 
->**In clashchannel, Zoe gives information about when the next clash will take place for an account that you hand in at the beginning. When the clash takes place you can start an analysis of your team and the opposing team, which gives you pick and ban suggestions for each player of the team. To analyse the opposing team you need the summonername of an opposing player.** 
+>**In clashchannel, Zoe gives information about when the next clash will take place for an account that you hand in at the creation. When the clash takes place you can start an analysis of your team and the opposing team, which gives you pick and ban suggestions for each player of the team. To analyse the opposing team you need the summonername of an opposing player.** 
 >{.is-info}
 
 
