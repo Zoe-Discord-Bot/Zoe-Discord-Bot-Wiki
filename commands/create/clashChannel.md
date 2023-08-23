@@ -2,7 +2,7 @@
 title: /create clashchannel - Command
 description: Information about the /create clashchannel command
 published: true
-date: 2023-08-22T06:50:51.971Z
+date: 2023-08-23T18:40:11.846Z
 tags: create, clashchannel, clash
 editor: markdown
 dateCreated: 2021-07-13T05:46:23.942Z
@@ -11,7 +11,7 @@ dateCreated: 2021-07-13T05:46:23.942Z
 # /create clashchannel clashchannel-name
 
 >### Information
->**If you want to create a clashchannel, use this command and select a name you like for `clashchannel-name`, you still have to specify a player for the clashchannel and select the appropriate time zone. To do this, you have to navigate through the pages or send Zoe the fitting details. The clashchannel is now created and the next clash dates are displayed. If a clash takes place, you can start a team analysis here, for more information see [/clash analysis](/en/commands/clash/analysis).**
+>**If you want to create a [clashchannel](/en/features/clashChannel), use this command and select a name you like for `clashchannel-name`, you still have to specify a [player](/en/terms/player) for the [clashchannel](/en/features/clashChannel) and select the appropriate time zone. To do this, you have to navigate through the pages or send Zoe the fitting details. The [clashchannel](/en/features/clashChannel) is now created and the next clash dates are displayed. If a clash takes place, you can start a team analysis here, for more information see [/clash analysis](/en/commands/clash/analysis).**
 >{.is-info}
 
 >### Permissions needed: 
