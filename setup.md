@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2023-08-23T09:24:33.524Z
+date: 2023-08-23T09:43:57.814Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -58,26 +58,28 @@ Directly after that, you have to select the standard [League of Legends server r
   
 <br>
 
-# 1\. Adding data (aka registering [players](/en/terms/player)
+# 1\. Adding data (aka registering [players](/en/terms/player))
 
-To use Zoe, you must first register/create [players](/en/terms/player). A [player](/en/terms/player) consists of a Discord account and one or more League of Legends accounts and will be displayed in the various features you will use.
+To use Zoe, you must first [register](/en/commands/important/register)/[create](/en/commands/create/player) [players](/en/terms/player). A [player](/en/terms/player) consists of a Discord account and one or more League of Legends accounts and will be displayed in the various [features](/en/features) you will use.
 
 **There are two ways of doing so:**
 
 1.  You can create them with the commands [`/create player`](/en/commands/create/player) (allows you to create a discord account with a League account for everyone/someone else)
-2.  Also, you can enable the option in the configuration that any Discord user on your server can use the [`/register`](https://wiki.zoe-discord-bot.ch/en/commands/important/register) command to connect their own account (See more under [`/register`](https://wiki.zoe-discord-bot.ch/en/commands/important/register) and [`/config`](https://wiki.zoe-discord-bot.ch/en/commands/important/config)).
+2.  Also, you can enable the option in the [configuration](/en/Zoe-Configuration) that any Discord user on your server can use the [`/register`](https://wiki.zoe-discord-bot.ch/en/commands/important/register) command to connect their own account (See more under [`/register`](https://wiki.zoe-discord-bot.ch/en/commands/important/register) and [`/config`](https://wiki.zoe-discord-bot.ch/en/commands/important/config)).
 
-[`/add account`](/en/commands/add/account) allows you to add a League of Legends account to an already registered/created player.
+[`/add account`](/en/commands/add/account) allows you to add a League of Legends account to an already registered/created [player](/en/terms/player).
 
-To delete a player, use the commands [`/delete player`](/en/commands/delete/player) (delete the player) and [`/remove account`](/en/commands/remove/account) (delete a player's League account).
+To delete a [player](/en/terms/player), use the commands [`/delete player`](/en/commands/delete/player) (delete the player) and [`/remove account`](/en/commands/remove/account) (delete a player's League account).
 
-> You can display all registered players with the [`/show players`](/en/commands/important/show-players) command if you wish.
+> You can display all registered [players](/en/terms/player) with the [`/show players`](/en/commands/important/show-players) command if you wish.
 >{.is-info}
 <p>
   
-# 2\. Show players (aka use features)
->You don't have to set up any of these features, this is just a suggestion-list. If you want to look around all features, [here is a link to all the features](/en/features) and [here to all commands](/en/commands/).
+# 2\. Show players (aka use [features](/en/features))
+>You don't have to set up any of these [features](/en/features), this is just a suggestion-list. If you want to look around all features, [here is a link to all the features](/en/features) and [here to all commands](/en/commands/).
 >{.is-info}
+  
+  <br>
 
 ## Infochannel (read-only channel recommended)
 
