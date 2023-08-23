@@ -2,7 +2,7 @@
 title: /create infochannel - Command
 description: Information about the /create infochannel command
 published: true
-date: 2023-08-22T06:08:18.660Z
+date: 2023-08-23T09:58:15.842Z
 tags: create, info, infochannel, info panel, panel
 editor: markdown
 dateCreated: 2021-07-05T16:24:57.599Z
@@ -11,7 +11,7 @@ dateCreated: 2021-07-05T16:24:57.599Z
 # /create infochannel infochannel-name
 
 >### Information
->**This command creates a new infochannel with the name you choose for the parameter `infochannel-name`. In there Zoe sends information about the registered players, their accounts and (if enabled) their last rank update.**
+>**This command creates a new [infochannel](/en/features/infoChannel) with the name you choose for the parameter `infochannel-name`. In this channel, Zoe sends the so-called [infopanel](/en/features/infoChannel) in which information about the registered [players](/en/terms/player), their accounts and (if enabled) their rank of a certain queue or the last game played is shown. Zoe also sends the [gamecards](/en/features/gamecards) to this channel (if enabled). You can also get [champion tips](/en/features/champion-analysis) for every champion played in a game.**  
 >{.is-info}
 
 >### Permissions needed: 
