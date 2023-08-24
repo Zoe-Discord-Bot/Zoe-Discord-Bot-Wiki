@@ -2,7 +2,7 @@
 title: Zoe Troubleshooting
 description: With this guide you can try to solve minor issues yourself.
 published: true
-date: 2023-08-18T08:21:13.468Z
+date: 2023-08-24T14:20:31.774Z
 tags: help, troubleshooting, quickhelp, problem solving, online status, permissions
 editor: markdown
 dateCreated: 2023-05-07T09:24:15.617Z
@@ -10,7 +10,7 @@ dateCreated: 2023-05-07T09:24:15.617Z
 
 # Troubleshooting
 
-> *Zoe is not responding to my commands/not updating the [infoboard](/en/feature/infoChannel) or [leaderboard](/en/features/leaderboards)/not sending [gamecards](/en/features/gamecards), [rankchannel](/en/features/rankChannel)/[matchhistorychannel](/en/features/matchhistoryChannel)-messages. What's wrong with it?*
+> *Zoe is not responding to my commands/not updating the [infoboard](/en/features/infoChannel) or [leaderboard](/en/features/leaderboards)/not sending [gamecards](/en/features/gamecards), [rankchannel](/en/features/rankChannel)/[matchhistorychannel](/en/features/matchhistoryChannel)-messages. What's wrong with it?*
 > **Here is what you can check now!**
 
 <br>
