@@ -2,7 +2,7 @@
 title: /undefine rankchannel  - Command
 description: Information about the /undefine rankchannel command
 published: true
-date: 2023-08-22T06:50:01.081Z
+date: 2023-08-24T06:35:06.476Z
 tags: rankchannel, undefine, undefine rankchannel
 editor: markdown
 dateCreated: 2021-07-13T09:28:00.070Z
@@ -11,7 +11,7 @@ dateCreated: 2021-07-13T09:28:00.070Z
 # /undefine rankchannel
 
 >### Information
->**This command undefines the current rankchannel. This does not delete the text channel, Zoe will just not send anything in it anymore.**
+>**This command undefines the current [rankchannel](/en/features/rankChannel). This does not delete the text channel, Zoe will just not send anything in it anymore.**
 >{.is-info}
 
 >### Permissions needed: 
