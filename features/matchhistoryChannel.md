@@ -2,7 +2,7 @@
 title: Matchhistory Channel - Feature
 description: Information about the Matchhistory Channel
 published: true
-date: 2023-07-09T19:56:36.685Z
+date: 2023-08-24T07:32:15.132Z
 tags: channel, matchhistory, ranked, normals, aram, matches
 editor: markdown
 dateCreated: 2023-04-09T10:10:59.349Z
@@ -12,13 +12,13 @@ dateCreated: 2023-04-09T10:10:59.349Z
 
 <br>
 
->**The match history channel displays players' matches with statistics and graphs. You can create multiple channels per team, player or for the entire server. In the match history channel you can see all games played by selected or all LoL accounts and view match statistics.** 
+>**The [matchhistorychannel](/en/features/matchhistoryChannel) displays [players'](/en/terms/player) matches with statistics and graphs. You can create multiple channels per team, [player](/en/terms/player) or for the entire server. In the matchhistorychannel you can see all games played by selected or all League of Legends accounts and view match statistics.** 
 >{.is-info}
 
 >### Related commands/pages:
->-    [/create matchhistorychannel](https://wiki.zoe-discord-bot.ch/en/commands/create/matchhistorychannel)
->-   [/delete matchhistorychannel](https://wiki.zoe-discord-bot.ch/en/commands/delete/matchhistorychannel) [](https://wiki.zoe-discord-bot.ch/en/commands/stats/matchhistory) 
->-   [/stats matchhistory](https://wiki.zoe-discord-bot.ch/en/commands/stats/matchhistory)
+>-    [/create matchhistorychannel](/en/commands/create/matchhistorychannel)
+>-   [/delete matchhistorychannel](/en/commands/delete/matchhistorychannel) 
+>-   [/stats matchhistory](/en/commands/stats/matchhistory)
 
 <br>
 
