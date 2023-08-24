@@ -2,7 +2,7 @@
 title: /stats matchhistory - Command
 description: Information about the /stats matchhistory command
 published: true
-date: 2023-08-17T11:51:54.408Z
+date: 2023-08-24T07:11:13.953Z
 tags: command, stats, statistics, matchhistory
 editor: markdown
 dateCreated: 2023-04-09T12:03:20.071Z
@@ -30,6 +30,11 @@ dateCreated: 2023-04-09T12:03:20.071Z
 ![](/new_stats_matchhistory.gif)
 <br>
 
-## Example of matchhistory stats
+## Example of the stats matchhistory overview
 
-![](/new_stats_matchhistory_standard_cropped.png)
+![](/en_/en_stats_matchhistory_overview.png)
+<br>
+
+## Example of a stats matchhistory game 
+
+![en_stats_matchhistory_game.png](/en_/en_stats_matchhistory_game.png)
