@@ -2,7 +2,7 @@
 title: /delete rankchannel - Command
 description: Information about the /delete rankchannel command
 published: true
-date: 2023-04-13T18:02:03.529Z
+date: 2023-08-24T06:10:14.148Z
 tags: rankchannel, delete, delete rankchannel
 editor: markdown
 dateCreated: 2021-07-13T06:58:05.754Z
@@ -11,7 +11,7 @@ dateCreated: 2021-07-13T06:58:05.754Z
 # /delete rankchannel
 
 >### Information
->**This command deletes the rankChannel of your server.**
+>**This command deletes the [rankchannel](/en/features/rankChannel) of your server.**
 >{.is-info}
 
 >### Permissions needed: 
@@ -19,7 +19,7 @@ dateCreated: 2021-07-13T06:58:05.754Z
 >{.is-success}
 
 >### Related commands:
->-   [/create rankChannel](/en/commands/create/rankChannel/)
+>-   [/create rankchannel](/en/commands/create/rankChannel/)
 
 <br>
 
