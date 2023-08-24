@@ -2,7 +2,7 @@
 title: /create matchhistorychannel - Command
 description: Information about the /create matchhistorychannel command
 published: true
-date: 2023-08-22T07:13:47.291Z
+date: 2023-08-24T07:32:53.685Z
 tags: channel, matchhistory, matches, games, history
 editor: markdown
 dateCreated: 2023-04-09T11:44:11.412Z
@@ -11,7 +11,7 @@ dateCreated: 2023-04-09T11:44:11.412Z
 # /create matchhistorychannel
 
 >### Information
->**Creates a matchhistory channel to display players' games with stats and graphs. You can create several channels per team, players or for the whole server.**
+>**Creates a [matchhistorychannel](/en/features/matchhistoryChannel) to display [players'](/en/terms/player) games with stats and graphs. You can create several channels per team, [player](/en/terms/player) or for the whole server.**
 >{.is-info}
 
 >### Permissions needed:
@@ -19,7 +19,7 @@ dateCreated: 2023-04-09T11:44:11.412Z
 >{.is-success}
 
 >### Related commands:
->-   [/delete matchhistorychannel](https://wiki.zoe-discord-bot.ch/en/commands/delete/matchhistorychannel)
+>-   [/delete matchhistorychannel](/en/commands/delete/matchhistorychannel)
 
 <br>
 
