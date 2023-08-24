@@ -2,7 +2,7 @@
 title: Zoe Development Status
 description: If you are interested in what features await you in the future, you can get an insight here.
 published: true
-date: 2023-08-23T16:08:48.695Z
+date: 2023-08-24T18:44:44.593Z
 tags: dev, status, dev status, development, development status, future, next features
 editor: markdown
 dateCreated: 2023-05-11T20:07:22.784Z
@@ -57,6 +57,7 @@ dateCreated: 2023-05-11T20:07:22.784Z
 -   ⚪ **QoL**: Small change to matchhistorychannel and command to increase visibility of KDA
 -   ⚪ **QoL**: Auto refresh after `/register` was done to instantly add the registered player to infopanel and give their rank.
 -   ⚪ **QoL**: Add a setting that allows to enable the command to add a player to a team for everyone
+-   ⚪ **QoL**: Leaderboards will stop showing calls for action in the middle of larger leaderboards.
 
 <br>
 
