@@ -2,7 +2,7 @@
 title: /stats teamanalysis - Command
 description: Information about the /stats teamanalysis command
 published: true
-date: 2023-04-18T13:33:01.305Z
+date: 2023-08-24T07:20:14.948Z
 tags: stats, analysis, team, team analysis, team stats, teamanalysis, stats teamanalysis
 editor: markdown
 dateCreated: 2021-07-13T11:00:45.454Z
@@ -11,7 +11,7 @@ dateCreated: 2021-07-13T11:00:45.454Z
 # /stats teamanalysis
 
 >### Information
->**When you execute this command you have to specify 5 accounts with region and optionally add a lane so that Zoe can start an analysis. It evaluates who could play what on which position (if not already defined).** <br>
+>**When you execute this command you have to specify 5 accounts with [region](/en/terms/region) and optionally add a lane so that Zoe can start an analysis. Zoe evaluates who could play what on which position (if not already defined).** <br>
 >**Works similar to [`/clash analysis`](https://wiki.zoe-discord-bot.ch/en/commands/clash/analysis) but without the clash team.**
 >{.is-info}
 
@@ -21,6 +21,7 @@ dateCreated: 2021-07-13T11:00:45.454Z
 
 >### Related pages:
 >- [/clash analysis](https://wiki.zoe-discord-bot.ch/en/commands/clash/analysis)
+>- [stats (feature)](https://wiki.zoe-discord-bot.ch/en/commands/stats)
 
 <br>
 
