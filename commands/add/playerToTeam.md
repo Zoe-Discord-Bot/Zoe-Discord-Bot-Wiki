@@ -2,7 +2,7 @@
 title: /add playerToTeam - Command
 description: Information about the /add playerToTeam command
 published: true
-date: 2023-04-13T14:20:51.641Z
+date: 2023-08-24T06:12:27.277Z
 tags: player, team, add, add player to team, add playertoteam, team add player
 editor: markdown
 dateCreated: 2021-07-13T07:22:14.935Z
@@ -12,7 +12,7 @@ dateCreated: 2021-07-13T07:22:14.935Z
 
 
 >### Information: 
->**This command adds the mentioned player to the named team. For this, it must first be created and an infoPanel must exist on your server.**
+>**This command adds the mentioned [player](/en/terms/player) to the named team. For this, it must first be [created](/en/commands/create/team) and an [infopanel](/en/features/infoChannel) must exist on your server.**
 >{.is-info}
 
 >### Permissions needed: 
@@ -21,7 +21,7 @@ dateCreated: 2021-07-13T07:22:14.935Z
 
 >### Related commands:
 >-   [/create team](/en/commands/create/team/)
->-   [/create infoChannel](/en/commands/create/infoChannel/)
+>-   [/create infochannel](/en/commands/create/infoChannel/)
 
 <br>
 
