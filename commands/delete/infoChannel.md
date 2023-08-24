@@ -2,7 +2,7 @@
 title: /delete infochannel - Command
 description: Information about the /delete infochannel command
 published: true
-date: 2023-08-22T06:14:57.590Z
+date: 2023-08-24T06:08:39.993Z
 tags: infochannel, delete, delete infochannel
 editor: markdown
 dateCreated: 2021-07-13T06:50:11.570Z
@@ -11,7 +11,7 @@ dateCreated: 2021-07-13T06:50:11.570Z
 # /delete infochannel
 
 >### Information
->**This command deletes the infochannel of your server after a refresh.**
+>**This command deletes the [infochannel](/en/features/infoChannel) of your server after a refresh.**
 >{.is-info}
 
 >### Permissions needed: 
