@@ -2,7 +2,7 @@
 title: Support Zoe
 description: On this site you can learn about how you can support the project.
 published: true
-date: 2023-08-18T09:48:14.789Z
+date: 2023-08-24T07:25:40.356Z
 tags: support, membership, tier, tiers, subscription, abonnement
 editor: markdown
 dateCreated: 2021-08-07T08:35:31.575Z
@@ -26,7 +26,7 @@ dateCreated: 2021-08-07T08:35:31.575Z
 
 ## The premium subscription offers:
 
--   **[In-deepth rank role Discord system](/en/features/rankroles)**: Allows you to assign discord roles to LoL ranks. Zoe will assign them automatically. You can create your discord roles as you want with a lot of options (Filtering by server, by rank, by LP, etc.)
+-   **[In-deepth rank role Discord system](/en/features/rankroles)**: Allows you to assign discord roles to LoL ranks. Zoe will assign them automatically. You can create your discord roles as you want with a lot of options (Filtering by [server region](/en/terms/region), by rank, by LP, etc.)
 -   Increase the **size of [leaderboards](/en/features/leaderboards)** up to max. 100 players
 -   **Filter [leaderboards](/en/features/leaderboards)** by server (EUW, NA, KR, …)
 -   **Filter [gamecards](/en/features/gamecards)** by game type in the [infochannel](/en/features/infoChannel)
