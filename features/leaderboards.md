@@ -2,7 +2,7 @@
 title: Leaderboards - Feature
 description: Information about all leaderboards.
 published: true
-date: 2023-08-23T17:18:25.507Z
+date: 2023-08-26T19:21:09.490Z
 tags: leaderboard, leader, leaderboards, top 10, top 20, top 50, top 100, best player
 editor: markdown
 dateCreated: 2021-07-06T10:11:35.527Z
@@ -33,6 +33,6 @@ The following goals can be aimed at: Total Mastery Points, Mastery Points on a c
 | **Total Mastery Points** | Account with highest total mastery points is shown. The mastery points are not summarised. | ![](/new_leaderboard_total_mastery_points.png) |
 | **Mastery Points (Champion)** | Account with highest mastery points on the champion is shown. The mastery points are not summarised. | ![](/new_leaderboard_mastery_points_champion.png) |
 | **Rank in Queue (Solo/DuoQ)** | Account with highest rank is shown. | ![](/new_leaderboard_rank.png) |
-| **Average KDA** | All games/all gametypes in the last month are taken into account. | ![](/new_leaderboard_kda.png) |
+| **Average KDA** | All summoners rift games in the last month are taken into account. | ![](/new_leaderboard_kda.png) |
 | **Best Champion** | Account and champion with highest mastery points on the champion is shown is shown. The mastery points are not summarised. | ![](/new_leaderboard_otp.png) |
 | **Account Level** | Account with highest level is shown. The levels are not summarised. | ![](/new_leaderboard_account_level.png) |
