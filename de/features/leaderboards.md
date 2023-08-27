@@ -2,7 +2,7 @@
 title: Bestenlisten - Feature
 description: Informationen über alle Bestenlisten.
 published: true
-date: 2023-08-22T15:48:14.437Z
+date: 2023-08-27T12:23:41.656Z
 tags: top 10, top 20, top 50, top 100, ränge, bestenlisten, ranglisten, listen, bester spieler, beste spieler
 editor: markdown
 dateCreated: 2023-08-12T18:42:13.942Z
@@ -34,7 +34,7 @@ Die folgenden Ziele können angestrebt werden: Gesamtmeisterschaftspunkte, Meist
 | **Gesamtmeisterschaftspunkte** | Das Konto mit der höchsten Gesamtpunktzahl wird angezeigt. Die Meisterschaftspunkte werden nicht zusammengefasst. | ![](/new_leaderboard_total_mastery_points.png) |
 | **Meisterschaftspunkte (Champion)** | Das Konto mit den höchsten Meisterschaftspunkten des Champions wird angezeigt. Die Meisterschaftspunkte werden nicht zusammengefasst. | ![](/new_leaderboard_mastery_points_champion.png) |
 | **Rang in Warteschlange (Solo/DuoQ)** | Das Konto mit dem höchsten Rang wird angezeigt. | ![](/new_leaderboard_rank.png) |
-| **Durchschnittliche KDA** | Berücksichtigt werden alle Spiele/alle Spieltypen des letzten Monats. | ![](/new_leaderboard_kda.png) |
+| **Durchschnittliche KDA** | Berücksichtigt werden alle Spiele in der Kluft der Beschwörer (Freie Wahl, Abwechselnde Wahl, Solo/Duo (Rangliste) und Flexi (Rangliste)) des letzten Monats. | ![](/new_leaderboard_kda.png) |
 | **Bester Champion** | Das Konto und der Champion mit den höchsten Meisterschaftspunkten auf dem Champion wird angezeigt. Die Meisterschaftspunkte werden nicht zusammengefasst. | ![](/new_leaderboard_otp.png) |
 | **Kontolevel** | Das Konto mit der höchsten Stufe wird angezeigt. Die Stufen werden nicht zusammengefasst. | ![](/new_leaderboard_account_level.png) |
 
