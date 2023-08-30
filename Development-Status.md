@@ -2,7 +2,7 @@
 title: Zoe Development Status
 description: If you are interested in what features await you in the future, you can get an insight here.
 published: true
-date: 2023-08-24T18:44:44.593Z
+date: 2023-08-30T14:16:32.919Z
 tags: dev, status, dev status, development, development status, future, next features
 editor: markdown
 dateCreated: 2023-05-11T20:07:22.784Z
@@ -37,36 +37,37 @@ dateCreated: 2023-05-11T20:07:22.784Z
 ### <span style="color:#1565c0">1.13.3</span> &nbsp; <span style="color:#757575"> Fixes</span>
 
 -   🏁 **Internal**: Optimise database usage to avoid slowdowns (Will continue even after being deployed)
--   🏁 **Fix**: Champion analysis
--   🏁 **Fix**: Simplify subscription embed to make it more clear overall
+-   🏁 **Fix (Feature)**: Champion analysis
+-   🏁 **Fix (Command)**: Simplify subscription embed to make it more clear overall
 -   🏁 **QoL**: Discord namechange > display usernames correctly
--   🏁 **Fix**: Add option to disable rank update or select in which interval it is sent in the rankchannel
--   🏁 **Fix:** fix discord markdown issues on leaderboards
--   🏁 **Fix**: Correct period strings when using the rankupdate command
+-   🏁 **Fix (Feature)**: Add option to disable rank update or select in which interval it is sent in the rankchannel
+-   🏁 **Fix (Feature):** fix discord markdown issues on leaderboards
+-   🏁 **Fix (Command)**: Correct period strings when using the rankupdate command
 
 <br>
 
 ### <span style="color:#1565c0">1.14</span> &nbsp; <span style="color:#757575"> AI Match Summary and Quality of Life</span>
 
 -   🟡 **Feature**: AI Match Summary (summarizes a game in text in a way that you can choose)
--   ⚪ **Feature**: Adding Champion analysis as seperate command
--   ⚪ **QoL**: Add recent playtime, recent most played champions and total, normal and soloQ winrate to `/stats profile` command
--   ⚪ **QoL**: Add another digit to make average KDA more detailed
--   ⚪ **QoL**: Improve team-analysis to add several players in one command
--   ⚪ **QoL**: Increase listed matches in matchhistory command (5 > 10)
--   ⚪ **QoL**: Small change to matchhistorychannel and command to increase visibility of KDA
--   ⚪ **QoL**: Auto refresh after `/register` was done to instantly add the registered player to infopanel and give their rank.
--   ⚪ **QoL**: Add a setting that allows to enable the command to add a player to a team for everyone
--   ⚪ **QoL**: Leaderboards will stop showing calls for action in the middle of larger leaderboards.
+-   ⚪ **Command**: Adding Champion analysis as seperate command
+-   ⚪ **QoL (Feature)**: Add recent playtime, recent most played champions and total, normal and soloQ winrate to `/stats profile` command
+-   ⚪ **QoL (Feature)**: Add another digit to make average KDA more detailed
+-   ⚪ **QoL (Feature)**: Improve team-analysis to add several players in one command
+-   ⚪ **QoL (Feature)**: Increase listed matches in matchhistory command (5 > 10)
+-   ⚪ **QoL (Feature)**: Small change to matchhistorychannel and command to increase visibility of KDA
+-   ⚪ **QoL (Command)**: Auto refresh after `/register` was done to instantly add the registered player to infopanel and give their rank.
+-   ⚪ **QoL (Config)**: Add a setting that allows to enable the command to add a player to a team for everyone
+-   🟢 **QoL (Feature)**: Leaderboards will stop showing calls for action in the middle of larger leaderboards.
+-   ⚪ **QoL (Feature)**: All Mastery Leaderboards (Total Mastery Points, Mastery Points on a specific champion & OTP (Best champion) Leaderboard) will now show the total amount of Mastery points of all account of a player instead of the highest amount of one account.
 
 <br>
 
 ### <span style="color:#1565c0">1.14.1</span> &nbsp; <span style="color:#757575">  Lane icons and automated Roles</span>
 
--   ⚪ **QoL**: Add lane icons to clashchannel, predictrole and team-analysis.
--   ⚪ **QoL**: New layout for `/stats predictrole`
+-   ⚪ **QoL (Feature)**: Add lane icons to clashchannel, predictrole and team-analysis.
+-   ⚪ **QoL (Feature)**: New layout for `/stats predictrole`
 -   ⚪ **Feature**: Lane roles: roles that are assigned to registered players based on what lanes they played in recent games.
--   ⚪ **Feature**: Rank Roles (Free, Premium and Peak-Elo): Add a "unranked/In Placements" role to the bottom of ranks that shows at season start & unranked players
+-   ⚪ **QoL (Feature)**: Rank Roles (Free, Premium and Peak-Elo): Add a "unranked/In Placements" role to the bottom of ranks that shows at season start & unranked players
 
 <br>
 
@@ -74,8 +75,8 @@ dateCreated: 2023-05-11T20:07:22.784Z
 -   ⚪ **Feature**: Winrate leaderboard for winrate in general, per champion or per queue (Solo/Duo, Flex) in the last 30 days.
 -   ⚪ **Feature**: Recent playtime leaderboard for playtime in general, per champion or per queue (Solo/Duo, Flex (TFT tbt.)) in the last 30 days.
 -   ⚪ **Feature**: Average KDA leaderboard per queue (Solo/Duo, Flex (TFT tbt.))
--   ⚪ **Feature**: New way to create leaderboards for teams
--   ⚪ **QoL**: Add Mastery emotes and new filter option to mastery leaderboards
+-   ⚪ **QoL (Feature)**: New way to create leaderboards for teams
+-   ⚪ **QoL (Config)**: Add Mastery emotes and new filter option to mastery leaderboards
 
 <br>
 
@@ -87,8 +88,8 @@ dateCreated: 2023-05-11T20:07:22.784Z
 
 ### <span style="color:#1565c0">1.14.4</span> &nbsp; <span style="color:#757575"> Matchhistorychannel</span>
 
--   ⚪ **QoL**: Display MHC runes only in detailed view
--   ⚪ **Config**: create a setting to choose which view is displayed by default
+-   ⚪ **QoL (Feature)**: Display MHC runes only in detailed view
+-   ⚪ **Config (Feature)**: create a setting to choose which view is displayed by default
 
 <br>
 
@@ -97,7 +98,7 @@ dateCreated: 2023-05-11T20:07:22.784Z
 -   ⚪ **Feature**: Early game advice
 -   ⚪ **Feature**: team- and clashanalysis of possible matchups, advantages and disadvantages
 -   ⚪ **Feature**: Include counters & full item builds to champion analysis
--   ⚪ **QoL**: Automatically analyse enemies in clashchannel
+-   ⚪ **QoL (Feature)**: Automatically analyse enemies in clashchannel
 
 <br>
 
