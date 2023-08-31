@@ -2,7 +2,7 @@
 title: /subscription - Command
 description: Information about the /subscription command
 published: true
-date: 2023-08-21T13:07:07.325Z
+date: 2023-08-31T19:24:38.940Z
 tags: subscription, sub, boost
 editor: markdown
 dateCreated: 2023-04-10T12:51:50.798Z
@@ -11,7 +11,7 @@ dateCreated: 2023-04-10T12:51:50.798Z
 # /subscription
 
 >### Information
->**This command shows you your current Zoe subscription status, roles, used and free Zoe points and your benefits.**
+>**This command shows you your current Zoe subscription status, roles, used and available Zoe points and your benefits.**
 >{.is-info}
 
 >### Permissions needed:
