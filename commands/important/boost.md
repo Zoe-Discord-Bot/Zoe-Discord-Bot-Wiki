@@ -2,7 +2,7 @@
 title: /boost - Command
 description: Information about the /boost command
 published: true
-date: 2023-08-21T13:03:21.244Z
+date: 2023-08-31T19:22:34.673Z
 tags: subscription, premium, boost, server boost
 editor: markdown
 dateCreated: 2023-04-10T12:48:20.068Z
@@ -11,7 +11,7 @@ dateCreated: 2023-04-10T12:48:20.068Z
 # /boost
 
 >### Information
->**This command lets you boost the server you're using the command on to a premium server. This will allow the server to use all premium features.**
+>**This command lets you boost the server you're using the command on to a premium server. This will allow the server to use all [premium features](/en/support).**
 >{.is-info}
 
 >### Permissions needed:
