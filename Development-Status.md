@@ -2,7 +2,7 @@
 title: Zoe Development Status
 description: If you are interested in what features await you in the future, you can get an insight here.
 published: true
-date: 2023-08-31T07:34:03.207Z
+date: 2023-08-31T10:23:07.312Z
 tags: dev, status, dev status, development, development status, future, next features
 editor: markdown
 dateCreated: 2023-05-11T20:07:22.784Z
@@ -59,6 +59,7 @@ dateCreated: 2023-05-11T20:07:22.784Z
 -   ⚪ **QoL (Config)**: Add a setting that allows to enable the command to add a player to a team for everyone
 -   🟢 **QoL (Feature)**: Leaderboards will stop showing calls for action in the middle of larger leaderboards.
 -   ⚪ **QoL (Feature)**: All Mastery Leaderboards (Total Mastery Points, Mastery Points on a specific champion & OTP (Best champion) Leaderboard) will now show the total amount of Mastery points of all account of a player instead of the highest amount of one account.
+-   ⚪ **QoL (Feature)**: Show killparticipation in rankchannel messages
 
 <br>
 
@@ -68,7 +69,6 @@ dateCreated: 2023-05-11T20:07:22.784Z
 -   ⚪ **QoL (Feature)**: New layout for `/stats predictrole`
 -   ⚪ **Feature**: Lane roles: roles that are assigned to registered players based on what lanes they played in recent games.
 -   ⚪ **QoL (Feature)**: Rank Roles (Free, Premium and Peak-Elo): Add a "unranked/In Placements" role to the bottom of ranks that shows at season start & unranked players
--   ⚪ **QoL (Feature)**: Show killparticipation in rankchannel messages
 
 <br>
 
