@@ -2,18 +2,18 @@
 title: Zoe Configuration - Delete Leavers
 description: Learn more about configuring the deletion of leavers.
 published: true
-date: 2023-08-18T08:36:22.524Z
+date: 2023-08-31T19:36:21.888Z
 tags: config, delete, leavers, leaving player, delete leavers
 editor: markdown
 dateCreated: 2023-04-23T19:41:55.797Z
 ---
 
-# Delete Players that left
+# Delete players that left
 
 >Here you can select whether [players](/en/terms/player) that left the Discord server should be deleted automatically 
 >{.is-info}
 
->If you  want to delete [players](/en/terms/player) after you disabled the automatic deletion, you need to do it manually with the command `/delete player`.
+>If you  want to delete [players](/en/terms/player) after you disabled the automatic deletion, you need to do it manually with the command [`/delete player`](/en/commands/delete/player).
 >{.is-warning}
 
 > Click on the corresponding setting :three:in the configuration menu.
