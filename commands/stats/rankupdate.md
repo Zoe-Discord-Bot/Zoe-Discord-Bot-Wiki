@@ -2,7 +2,7 @@
 title: /stats rankupdate - Command
 description: Information about the /stats rankupdate command
 published: true
-date: 2023-08-17T11:59:00.296Z
+date: 2023-08-31T19:29:04.758Z
 tags: ranks, update, rank update, lps, lp gain, lp loss
 editor: markdown
 dateCreated: 2023-04-17T20:03:00.828Z
@@ -11,8 +11,8 @@ dateCreated: 2023-04-17T20:03:00.828Z
 # /stats rankupdate
 
 >### Information
->**Zoe provides information about top LP-winning and LP-losing registered players in a specific time. You can choose between one day, one week or one month.** <br>
->**This is a message that automatically appears in the rankChannel after the respective time after activation (so after one day, one week and one month).** <br>
+>**Zoe provides information about top LP-winning and LP-losing registered [players](/en/terms/player) in a specific time. You can choose between one day, one week or one month.** <br>
+>**This is a message that automatically appears in the rankchannel after the respective time after activation (so after one day, one week and one month).** <br>
 >**Usage: `/stats rankupdate daily`,  `/stats rankupdate weekly` or  `/stats rankupdate monthly`**. 
 >{.is-info}
 
@@ -32,6 +32,6 @@ dateCreated: 2023-04-17T20:03:00.828Z
 
 <br>
 
-## Example of the rank update of a server
+## Example of the rankupdate of a server
 
 <img src="/stats_rankupdate.png" width="70%" />
