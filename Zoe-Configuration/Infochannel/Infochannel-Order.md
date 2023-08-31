@@ -2,7 +2,7 @@
 title: Zoe Configuration - Infochannel Order
 description: Learn more about configuring the ordered infochannel.
 published: true
-date: 2023-08-18T09:01:27.763Z
+date: 2023-08-31T19:41:17.175Z
 tags: order, infochannel, config, infochannel order
 editor: markdown
 dateCreated: 2023-04-23T17:42:31.727Z
@@ -10,7 +10,7 @@ dateCreated: 2023-04-23T17:42:31.727Z
 
 # Infochannel Player Order
 
->With this setting you can order the [players](/en/terms/player) in the [infochannel](/en/features/infoChannel) by addition (default),alphabetical or by rank in a queue of your choice.
+>With this setting you can order the [players](/en/terms/player) in the [infochannel](/en/features/infoChannel) by addition (default), alphabetical or by rank in a queue of your choice.
 >{.is-info}
 
 >Keep in mind that you need a [premium server](/en/Zoe-Points-And-Boosting) to order  [players](/en/terms/player) in the [infochannel](/en/features/infoChannel) by rank.
