@@ -2,7 +2,7 @@
 title: Zoe Configuration - Hide Infochannel
 description: Learn more about configuring the hidden infochannel.
 published: true
-date: 2023-08-18T08:42:11.113Z
+date: 2023-08-31T19:38:26.585Z
 tags: infochannel, config, hide, hide infochannel
 editor: markdown
 dateCreated: 2023-04-23T15:25:56.478Z
@@ -13,7 +13,7 @@ dateCreated: 2023-04-23T15:25:56.478Z
 >With this setting you can hide the [infochannel](/en/features/infoChannel) from not [registered/created players](/en/terms/player) with a role. Zoe will assign this role to every [registered/created player](/en/terms/player) and set the channels permissions accordingly. If you delete the role the option will be deactivated automatically.
 >{.is-info}
 
->Keep in mind that you change the role permissions, but Zoe needs to have the permission to assign it !
+>Keep in mind that you change the role permissions, but Zoe needs to have the permission to assign it!
 >{.is-warning}
 
 > Click on the corresponding setting :one:in the configuration menu.
