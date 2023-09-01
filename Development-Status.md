@@ -2,7 +2,7 @@
 title: Zoe Development Status
 description: If you are interested in what features await you in the future, you can get an insight here.
 published: true
-date: 2023-08-31T10:23:07.312Z
+date: 2023-09-01T13:25:59.145Z
 tags: dev, status, dev status, development, development status, future, next features
 editor: markdown
 dateCreated: 2023-05-11T20:07:22.784Z
@@ -68,7 +68,7 @@ dateCreated: 2023-05-11T20:07:22.784Z
 -   ⚪ **QoL (Feature)**: Add lane icons to clashchannel, predictrole and team-analysis.
 -   ⚪ **QoL (Feature)**: New layout for `/stats predictrole`
 -   ⚪ **Feature**: Lane roles: roles that are assigned to registered players based on what lanes they played in recent games.
--   ⚪ **QoL (Feature)**: Rank Roles (Free, Premium and Peak-Elo): Add a "unranked/In Placements" role to the bottom of ranks that shows at season start & unranked players
+-   ⚪ **QoL (Feature)**: Rank Roles (Free & Premium): Add a "unranked/In Placements" role to the bottom of ranks that shows at season start & unranked players
 
 <br>
 
