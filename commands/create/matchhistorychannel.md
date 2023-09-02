@@ -2,7 +2,7 @@
 title: /create matchhistorychannel - Command
 description: Information about the /create matchhistorychannel command
 published: true
-date: 2023-08-24T07:32:53.685Z
+date: 2023-09-02T16:31:23.482Z
 tags: channel, matchhistory, matches, games, history
 editor: markdown
 dateCreated: 2023-04-09T11:44:11.412Z
@@ -25,4 +25,4 @@ dateCreated: 2023-04-09T11:44:11.412Z
 
 ## Usage
 
-![](/new_create_matchhistorychannel.gif)
+![](/en_/en_create_matchhistorychannel.gif)
