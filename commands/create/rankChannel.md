@@ -2,7 +2,7 @@
 title: /create rankchannel - Command
 description: Information about the /create rankchannel command
 published: true
-date: 2023-08-23T18:50:03.903Z
+date: 2023-09-02T16:30:59.271Z
 tags: create, rankchannel, ranks, rank, channel
 editor: markdown
 dateCreated: 2021-07-12T08:48:44.161Z
@@ -26,4 +26,4 @@ dateCreated: 2021-07-12T08:48:44.161Z
 
 ## Usage
 
-![](/new_create_rankchannel.gif)
+![](/en_/en_create_rankchannel.gif)
