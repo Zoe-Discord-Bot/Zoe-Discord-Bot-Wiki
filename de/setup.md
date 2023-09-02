@@ -2,7 +2,7 @@
 title: Zoe Einrichtung
 description: Auf dieser Seite erfährst du, wie du Zoe auf deinem Discord-Server einrichten kannst.
 published: true
-date: 2023-08-17T09:25:31.084Z
+date: 2023-09-02T14:25:10.290Z
 tags: setup, einrichten, einrichtung, start
 editor: markdown
 dateCreated: 2021-08-16T13:05:23.601Z
@@ -27,7 +27,7 @@ Du kannst Zoe zu deinem Server hinzufügen, indem du auf der Homepage auf `Add t
 
 Jetzt musst du dich mit deinem Discordkonto anmelden und den Server aussuchen, auf dem du Zoe hinzufügen willst. Bestätige dann noch Zoes Berechtigungen und löse gegebenenfalls ein Captcha. Danach ist Zoe auf deinem gewählten Server.
 
-![](/new_setup1-3.png)
+![](/de_/de_add_zoe_full.jpg)
 
 ## Einrichtung
 
