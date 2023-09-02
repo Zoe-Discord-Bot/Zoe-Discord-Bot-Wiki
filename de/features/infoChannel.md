@@ -2,7 +2,7 @@
 title: Infokanal - Feature
 description: Informationen über den Infokanal
 published: true
-date: 2023-08-12T18:27:13.433Z
+date: 2023-09-02T17:05:34.474Z
 tags: info, infokanal, kanal, infotafel
 editor: markdown
 dateCreated: 2023-08-12T18:27:13.433Z
@@ -26,7 +26,4 @@ dateCreated: 2023-08-12T18:27:13.433Z
 
 ## Beispiel einer Infotafel
 
-![](/new_infopanel.png)
-
-## Beispiel einer Spielkarte
-![](/new_gamecard.png)
+![](/de_/de_infochannel.png)
