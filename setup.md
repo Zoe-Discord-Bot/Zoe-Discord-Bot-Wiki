@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2023-09-02T14:24:28.684Z
+date: 2023-09-02T15:05:52.498Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -35,7 +35,7 @@ When Zoe is added for the first time, it sends a short message to the default ch
 
 Then follows the first setting. You should select the language you want Zoe to speak on your server. (For more information, see [`/language`](/en/commands/important/language)). You can navigate with the reactions and then confirm the language you want Zoe to speak.
 
-![](/new_setup5.png)
+![](/en_/en_setup_language.png)
 
 Directly after that, you have to select the standard [League of Legends server region](/en/terms/region). Available are the following tags:
 
@@ -49,11 +49,11 @@ Directly after that, you have to select the standard [League of Legends server r
 > You can change this setting later in the configuration if you wish (see [`/config`](/en/commands/important/config)).
 >{.is-info}
   
-![](/new_setup4.png)
+![](/en_/en_setup_region.png) 
 > Now Zoe sends another message about what you can do next. Read more in the next section.
 >{.is-info}
 
-> **You can now _follow this page_ if you are not sure what you want and want to get an overview or continue with the [guide for a server with friends or for a team](https://wiki.zoe-discord-bot.ch/en/Guides/Team-Server) or the [guide for a  community server](https://wiki.zoe-discord-bot.ch/en/Guides/Community-Server).**
+> **You can now _follow this page_ (recommended) if you are not sure what you want and want to get an overview or continue with the [guide for a server with friends or for a team](https://wiki.zoe-discord-bot.ch/en/Guides/Team-Server) or the [guide for a  community server](https://wiki.zoe-discord-bot.ch/en/Guides/Community-Server) to see differentiated lists.**
 
   
 <br>
