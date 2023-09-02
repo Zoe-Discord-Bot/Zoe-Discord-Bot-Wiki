@@ -2,7 +2,7 @@
 title: /create infochannel - Command
 description: Information about the /create infochannel command
 published: true
-date: 2023-08-23T09:58:15.842Z
+date: 2023-09-02T16:30:30.283Z
 tags: create, info, infochannel, info panel, panel
 editor: markdown
 dateCreated: 2021-07-05T16:24:57.599Z
@@ -26,7 +26,7 @@ dateCreated: 2021-07-05T16:24:57.599Z
 
 ## Usage
 
-![](/new_create_infochannel.gif)
+![](/en_/en_create_infochannel.gif)
 
 <br>
 
