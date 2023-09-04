@@ -2,13 +2,13 @@
 title: How to select that the Solo/Duo rank is displayed in the infopanel?
 description: Follow these steps to show Solo/Duo rank in the infopanel.
 published: true
-date: 2023-05-15T08:51:57.117Z
+date: 2023-09-04T14:13:14.740Z
 tags: infopanel, solo/duo rank
 editor: markdown
 dateCreated: 2023-05-15T07:23:20.287Z
 ---
 
->**By default, Zoe displays the rank of the last game queue per player. This means that if their last game was a ranked flex, this change will be displayed.**
+>**By default, Zoe displays the rank of the last game queue per [player](/en/terms/player). This means that if their last game was a ranked flex, this change will be displayed.**
 >You can change this behaviour in Zoe's configuration as follows:
 
 
