@@ -2,7 +2,7 @@
 title: Rankchannel - Feature
 description: Information about the rankchannel
 published: true
-date: 2023-08-23T17:16:44.916Z
+date: 2023-09-04T09:25:52.259Z
 tags: rankchannel, ranks, rank, channel, ranked
 editor: markdown
 dateCreated: 2021-07-06T10:00:19.466Z
@@ -24,4 +24,4 @@ dateCreated: 2021-07-06T10:00:19.466Z
 
 ## Example of an rankchannel message
 
-![](/new_rankchannel_message.png)
+![](/en_/en_rankchannel_message.png)
