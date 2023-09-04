@@ -2,7 +2,7 @@
 title: Registration with verification
 description: Here you can see how to register on a server with account verification enabled.
 published: true
-date: 2023-08-23T06:28:07.354Z
+date: 2023-09-04T13:20:01.911Z
 tags: registration, verification
 editor: markdown
 dateCreated: 2023-08-22T16:32:51.912Z
@@ -40,7 +40,7 @@ dateCreated: 2023-08-22T16:32:51.912Z
 
 > <span style="font-size:15pt"> :six:Now click on the green `Done` button on Zoe's message. <br> This should link your account.
 <img src="/en_/en_register_verification_5.png" width="50%" img> <br> <br>
-> >After that, you can change your summoner symbol back. {.is-info}
+> >After that, you can change your summoner profile icon back. {.is-info}
 >  
 >{.is-success}
 
