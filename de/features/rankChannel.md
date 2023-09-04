@@ -2,7 +2,7 @@
 title: Rangkanal - Feature
 description: Informationen über den Rangkanal
 published: true
-date: 2023-08-12T18:35:58.064Z
+date: 2023-09-04T09:37:34.217Z
 tags: kanal, rangkanal, rang, ränge
 editor: markdown
 dateCreated: 2023-08-12T18:35:58.064Z
@@ -24,4 +24,4 @@ dateCreated: 2023-08-12T18:35:58.064Z
 
 ## Beispiel einer Rangkanalnachricht
 
-![](/new_rankchannel_message.png)
+![](/de_/de_rankchannel_message.png)
