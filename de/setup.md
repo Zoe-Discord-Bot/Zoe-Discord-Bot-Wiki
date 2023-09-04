@@ -2,7 +2,7 @@
 title: Zoe Einrichtung
 description: Auf dieser Seite erfährst du, wie du Zoe auf deinem Discord-Server einrichten kannst.
 published: true
-date: 2023-09-02T14:25:10.290Z
+date: 2023-09-04T13:07:13.751Z
 tags: setup, einrichten, einrichtung, start
 editor: markdown
 dateCreated: 2021-08-16T13:05:23.601Z
@@ -78,7 +78,7 @@ Um einen Spieler zu löschen, benutze den Befehl [`/delete player`](/en/commands
 
 Der Infokanal enthält Statistiken zu Spielern sowie Statistiken zu laufenden Spielen.
 
-![](/new_infopanel.png)
+![](/de_/de_infochannel.png)
 <img src="/new_gamecard.png" width="50%" />
 
 > Für mehr Informationen zum Infokanal klicke [HIER](/en/features/infoChannel).
