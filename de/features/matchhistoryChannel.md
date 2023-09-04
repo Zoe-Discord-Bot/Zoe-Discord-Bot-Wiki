@@ -2,7 +2,7 @@
 title: Spielverlaufskanal - Feature
 description: Informationen über den Spielverlaufskanal 
 published: true
-date: 2023-09-04T11:04:55.123Z
+date: 2023-09-04T11:15:30.539Z
 tags: aram, spiel, rang, spielverlauf, spielverlaufskanal, normal, spiele
 editor: markdown
 dateCreated: 2023-08-12T18:49:35.956Z
@@ -31,5 +31,3 @@ dateCreated: 2023-08-12T18:49:35.956Z
 | **Gold** | ![](/de_/de_matchhistorychannel_message_gold.png) |
 | **Schaden** | ![](/de_/de_matchhistorychannel_message_damage.png) |
 | **Items** | ![](/de_/de_matchhistorychannel_message_items.png) |
-
-as
