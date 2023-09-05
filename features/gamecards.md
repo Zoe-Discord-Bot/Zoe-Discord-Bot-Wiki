@@ -2,7 +2,7 @@
 title: Gamecards - Feature
 description: Information about the gamecards.
 published: true
-date: 2023-08-23T17:14:31.719Z
+date: 2023-09-05T19:51:07.791Z
 tags: game, ingame, game card, game cards, card, cards, game info, live game, match, live
 editor: markdown
 dateCreated: 2021-07-06T09:45:33.563Z
@@ -26,4 +26,4 @@ dateCreated: 2021-07-06T09:45:33.563Z
 
 ## Example of a gamecard
 
-![](/new_gamecard.png)
+![](/en_/en_gamecard.png)
