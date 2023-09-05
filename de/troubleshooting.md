@@ -2,7 +2,7 @@
 title: Zoe Fehlersuche
 description: Mit Hilfe dieses Schemas kannst du selbst kleinere Fehler beheben.
 published: true
-date: 2023-08-12T12:15:45.155Z
+date: 2023-09-05T05:46:09.256Z
 tags: troubleshooting, fehlersuche, fehler, suche
 editor: markdown
 dateCreated: 2023-08-12T12:15:30.198Z
@@ -44,7 +44,7 @@ dateCreated: 2023-08-12T12:15:30.198Z
 >
 >`MANAGE_GUILD_EXPRESSIONS` - Ermöglicht die Verwaltung und Bearbeitung von Emojis
 >`MANAGE_ROLES` - Ermöglicht die Verwaltung und Bearbeitung von Rollen
->`USE_APPLICATION_COMMANDS` - Allows to use application commands, slash commands and context menu commandsErmöglicht die Verwendung von Anwendungsbefehlen, Schrägstrichbefehlen und Kontextmenübefehlen
+>`USE_APPLICATION_COMMANDS` - Ermöglicht die Verwendung von Anwendungsbefehlen, Schrägstrichbefehlen und Kontextmenübefehlen
 >
 > > Wenn die Rollen bei dir nicht funktionieren, überprüfe auch, ob Zoe in den Servereinstellungen über allen anderen Rollen steht.{.is-warning}
 >
