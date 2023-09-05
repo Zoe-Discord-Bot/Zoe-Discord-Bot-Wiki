@@ -2,7 +2,7 @@
 title: Übersetzungsrichtlinien
 description: Wenn du Zoe übersetzen möchtest, lese bitte zuerst die Richtlinien hier.
 published: true
-date: 2023-08-12T17:06:14.470Z
+date: 2023-09-05T05:48:30.775Z
 tags: übersetzung, übersetzungsrichtlinien, richtlinien
 editor: markdown
 dateCreated: 2023-08-12T17:06:14.470Z
@@ -27,6 +27,13 @@ Nachdem du deine Sprache gewählt hast, erhältst du nach und nach Sätze und l�
 >
 >Du wirst auch Schlüsselwörter wie `YES` oder `OK` finden, die du ebenfalls beibehalten musst. Du darfst sie nicht übersetzen!
 >{.is-info}
+
+<br>
+
+> Was ist, wenn meine Sprache von rechts nach links gelesen und geschrieben wird?
+
+> Dann schreibst du von rechts nach links. Achte aber darauf, dass Befehle und die Variablen wie `%s` immer noch `%s` sein müssen. Es ist nicht erlaubt, die Zeichen umzudrehen (~~s%~~).
+> {.is-success}
 
 <br>
 
