@@ -2,7 +2,7 @@
 title: FAQ - Häufig gestellte Fragen
 description: Hier findest du Antworten auf häufig gestellte Fragen.
 published: true
-date: 2023-05-19T16:37:33.347Z
+date: 2023-09-05T05:42:33.070Z
 tags: faq, häufig, gestellte, fragen
 editor: markdown
 dateCreated: 2023-05-19T09:56:31.780Z
@@ -30,7 +30,7 @@ dateCreated: 2023-05-19T09:56:31.780Z
 
 <br>
 
-## Welche Spiele werden / warum wird Flex/TFT in der Infotafel angezeigt?
+## Welche Spiele werden / warum wird Flex / TFT in der Infotafel angezeigt?
 
 
 > Die Infotafel zeigt standardmäßig die letzte Aktualisierung des Ranges an. Wenn dein letztes Spiel ein Flex-Spiel war, wird diese Änderung angezeigt. Du kannst dieses Verhalten in Zoes Konfiguration ändern ([Konfiguration](http://wiki.zoe-discord-bot.ch/en/Zoe-Configuration/Infochannel/Infochannel-Rankfilter) oder [dieser Guide](http://wiki.zoe-discord-bot.ch/en/Guides/SoloQ-Infopanel)).
@@ -53,7 +53,7 @@ dateCreated: 2023-05-19T09:56:31.780Z
 
 <br>
 
-## Wie kann ich andere davon abhalten, mein Konto bei Zoe zu überwachen?
+## Wie kann ich andere davon abhalten, mein Konto mit Zoe zu überwachen?
 
 > Es gibt eine Bannliste, auf die du dich selbst setzen kannst. Damit kannst du (als Kontobesitzer) dein Konto von anderen Servern löschen und es für andere unmöglich machen, es hinzuzufügen. Mehr Informationen zu diesem Befehl: [/banaccount](/en/commands/other/banAccount).
 
