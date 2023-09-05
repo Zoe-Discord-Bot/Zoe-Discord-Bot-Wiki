@@ -2,7 +2,7 @@
 title: Spielkarten - Feature
 description: Informationen über die Spielkarten.
 published: true
-date: 2023-08-12T18:30:02.592Z
+date: 2023-09-05T19:52:38.031Z
 tags: spiel, im spiel, spielkarte, spielkarten, karte, karten, spiel info, aktuelles spiel
 editor: markdown
 dateCreated: 2023-08-12T18:30:02.592Z
@@ -23,4 +23,4 @@ dateCreated: 2023-08-12T18:30:02.592Z
 
 ## Beispiel einer Spielkarte
 
-![](/new_gamecard.png)
+![](/en_/en_gamecard.png)
