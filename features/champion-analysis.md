@@ -2,7 +2,7 @@
 title: Champion Analysis - Feature
 description: Learn more about the champion analysis.
 published: true
-date: 2023-08-13T12:35:28.190Z
+date: 2023-09-08T16:45:49.048Z
 tags: game, card, analysis, gamecard, champ, champion, champion analysis
 editor: markdown
 dateCreated: 2023-08-13T12:35:28.190Z
@@ -27,6 +27,3 @@ Start spell, first max spell, builds and boots each filtered by most common and 
 ![](/champion_analysis.png)
 
 <br>
-
-## Usage
-![](/champion_analysis.gif)
