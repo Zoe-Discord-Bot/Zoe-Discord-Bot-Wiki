@@ -2,7 +2,7 @@
 title: /stats profile - Command
 description: Information about the /stats profile command
 published: true
-date: 2023-09-08T17:14:43.778Z
+date: 2023-09-08T17:15:31.765Z
 tags: stats, stats profile, player stats, profile
 editor: markdown
 dateCreated: 2021-07-13T10:38:02.384Z
@@ -11,7 +11,7 @@ dateCreated: 2021-07-13T10:38:02.384Z
 # /stats profile
 
 >### Information
->**Zoe provides information about the selected profile, including the top 3 highest champions, a summary of all masteries, the last 3 games played, ranking statistics of the profile and a chart with the 6 highest mastery champions.**
+>**Zoe provides information about the selected profile, including the top 3 highest champions, a summary of all masteries, the last 3 games played, ranking statistics of the profile and a chart with the 6 highest mastery champions.** <br>
 **For your own profile you can simply use the command without parameters.
 **Usage: `/stats profile` <br>
 >**For [players](/en/terms/player) that are registered on your server you can simply mention them.**
