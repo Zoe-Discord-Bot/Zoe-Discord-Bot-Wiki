@@ -2,7 +2,7 @@
 title: /stats profile - Befehl
 description: Informationen über den Befehl /stats profile
 published: true
-date: 2023-08-17T11:53:34.347Z
+date: 2023-09-08T17:19:47.621Z
 tags: stats, stats profile, profile, profil, spieler, spielerstatistiken
 editor: markdown
 dateCreated: 2023-08-17T11:20:29.143Z
@@ -10,10 +10,13 @@ dateCreated: 2023-08-17T11:20:29.143Z
 
 # /stats profile
 
->### Informationen
 >**Zoe liefert Informationen über das ausgewählte Profil, einschließlich der 3 höchsten Champions nach Meisterschaften, eine Zusammenfassung aller Meisterschaften, die letzten 3 gespielten Partien, Ranglistenstatistiken des Spielers und eine Tabelle mit den 6 höchsten Meisterschaften.** <br>
->**Nutzung: `/stats player @DiscordBenutzer` oder `/stats player Region Beschwörername`** <br>
->**Für Spieler, die auf deinem Server registriert sind, kannst du sie einfach erwähnen. Für alle anderen Spieler gib ihre Region und ihren Beschwörername an.**
+**Für dein eigenes Profil kannst du den Befehl ohne Parameter benutzen.
+**Nutzung: `/stats profile` <br>
+>**Für [Spieler](/en/terms/player) die auf deinem Server registriert sind kannst du sie erwähnen.**
+Nutzung: `/stats profile @DiscordUser`** <br>
+Für alle anderen Profile fülle die [Region](/en/terms/region) und den [Beschwörernamen](/en/terms/summonername) ein.**
+>**Nutzung: `/stats profile region summonername`** <br>
 >{.is-info}
 
 >### Erforderliche Berechtigungen:
@@ -25,13 +28,17 @@ dateCreated: 2023-08-17T11:20:29.143Z
 
 <br>
 
-
 ## Nutzung
+#### Für dich selbst
+![](/en_/en_stats_profile_self.gif)
 
-![](/new_stats_profile.gif)
+#### Für registrierte Spieler deines Servers
+![](/en_/en_stats_profile_user.gif)
 
+#### Für alle anderen Konten
+![](/en_/en_stats_profile_account.gif)
 <br>
 
 ## Beispiel für ein Spielerprofil
 
-![](/new_statsprofile_cropped.png)
+![](/de_/de_stats_profile.png)
