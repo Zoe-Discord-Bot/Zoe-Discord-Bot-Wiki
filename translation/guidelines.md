@@ -2,7 +2,7 @@
 title: Translation Guidelines
 description: If you want to translate Zoe, check the guidelines here first.
 published: true
-date: 2023-08-12T12:49:38.125Z
+date: 2023-09-08T16:30:45.365Z
 tags: translation, guide, guidelines
 editor: markdown
 dateCreated: 2023-08-12T12:23:14.846Z
@@ -13,7 +13,7 @@ dateCreated: 2023-08-12T12:23:14.846Z
 <br>
 
 - Understanding of the English language
-- Good understanding of the target language (preferabky mother tongue)
+- Good understanding of the target language (preferably mother tongue)
 - Some time
 <br>
 
