@@ -2,7 +2,7 @@
 title: Stats commands
 description: Learn about what you can do with the /stats commands.
 published: true
-date: 2023-09-08T18:56:05.906Z
+date: 2023-09-08T18:56:18.742Z
 tags: stats, stats command, stats cmd, stats cmds, stats commands
 editor: markdown
 dateCreated: 2021-07-13T10:30:33.475Z
@@ -18,7 +18,7 @@ dateCreated: 2021-07-13T10:30:33.475Z
 > Zoe provides some information about the selected profile.  
 >{.is-info}
 
-<img src="/en_/en_stats_profile.png"  width="75%" img/>
+<img src="/en_/en_stats_profile.png"  width="50%" img/>
 
 <br> 
   
