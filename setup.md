@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2023-09-04T13:06:40.856Z
+date: 2023-09-09T08:56:19.024Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -73,34 +73,38 @@ To delete a [player](/en/terms/player), use the commands [`/delete player`](/en/
 
 > You can display all registered [players](/en/terms/player) with the [`/show players`](/en/commands/important/show-players) command if you wish.
 >{.is-info}
-<p>
+<br>
   
 # 2\. Show players (aka use [features](/en/features))
 >You don't have to set up any of these [features](/en/features), this is just a suggestion-list. If you want to look around all features, [here is a link to all the features](/en/features) and [here to all commands](/en/commands/).
 >{.is-info}
   
-  <br>
+<br>
 
 ## Infochannel (read-only channel recommended)
 
 The [infochannel](/en/features/infoChannel) contains stats on [players](/en/terms/player) as well as stats on games currently in progress.
 
 ![](/en_/en_infochannel.png)
-<img src="/new_gamecard.png" width="50%" />
+![](/en_/en_gamecard.png)
 
-> For more information about the infochannel click [HERE](/en/features/infoChannel).
-  >{.is-info}
-<p>
+<br>
+
+>For more information about the infochannel click [HERE](/en/features/infoChannel).
+>{.is-info}
+
+<br>
   
 ## Rankchannel (read-only channel recommended)
 
 The [rankchannel](/en/features/rankChannel) is, where a message will be sent after each ranked game of a [registered players](/en/terms/player). These messages contain the amount of won or lost LP and some stats on the [players](/en/terms/player) ingame performance like KDA, duration of the game and itembuild.
 
-![](/new_rankchannel_message.png)
+![](/en_/en_rankchannel_message.png)
 
 > For more information about the rankchannel click [HERE](/en/features/rankChannel).
-  >{.is-info}
-<p>
+>{.is-info}
+  
+<br>
   
 ## Clashchannel
 
@@ -110,7 +114,7 @@ This channel will send stats about an account in relation to clash. It will cont
 
 > For more information about the clashchannel click [HERE](/en/features/clashChannel).
   >{.is-info}
-<p>
+<br>
   
 ## Leaderboards (a dedicated channel with several leaderboards within is recommended)
 
@@ -125,11 +129,12 @@ This feature allows you to create leaderboards that refresh automatically. Sever
 -   Best Champion ("OTP")
 -   Account Level
 
-![](/new_leaderboard_mastery_points_champion.png)
+![](/en_/en_leaderboard_championmasterypoints.png)
 
 > For more information about leaderboards click [HERE](/en/features/leaderboards).
-  >{.is-info}
-<p>
+>{.is-info}
+  
+<br>
   
 ## Automated Discord roles by League rank
 
@@ -138,18 +143,19 @@ You can set up an automatic rank system with Zoe easily. The roles will be refre
 ![](/improved_rankroles_5.png)
 
 > For more information about rankroles click [HERE](/en/features/rankroles).
-  >{.is-info}
+>{.is-info}
   
 Once your features are set up correctly, they will update automatically as soon as a game is detected via the Discord presence of [registered players]//en/terms/player) or once an hour at least. You can also refresh your server with the command [`/refresh`](/en/commands/important/refresh).
  
-<p>
+<br>
   
 # 3\. Customize these features (because every server is different)
 
 > To manage Zoe and all the different settings it offers, use this command: [`/config`](/en/commands/important/config). 
  Read everything about the configuration here: [**Configuration**](/en/Zoe-Configuration/).
 >{.is-info}
-<p>
+
+<br>
   
 # 4\. Going further (We never stop!)
 
@@ -157,8 +163,9 @@ Zoe has many more features. You can have a look at all commands if you click [HE
 
 One example being [`/stats profile`](/en/commands/stats/profile) letting you view a players profile:
 
-![](/new_statsprofile_cropped.png)
-<p>
+![](/en_/en_stats_profile.png)
+
+<br>
   
 # Setup - Final words
 
