@@ -2,7 +2,7 @@
 title: Zoe Features
 description: In here you find all core features explained.
 published: true
-date: 2023-09-09T08:59:33.433Z
+date: 2023-09-09T08:59:58.944Z
 tags: features, core, core features, feature
 editor: markdown
 dateCreated: 2021-07-06T09:25:25.035Z
@@ -61,7 +61,7 @@ With [leaderboards](/en/features/leaderboards) up to 100 [players](/en/terms/pla
 
 <br>
     
-# stats teamAnalysis Command
+# stats teamanalysis Command
 > [**`Link to Wikipage`**](https://wiki.zoe-discord-bot.ch/en/commands/stats/teamAnalysis)
 >When you execute this command Zoe starts an analysis. Zoe evaluates who could play what on which position and gives ban recommendations.
 >{.is-info}
