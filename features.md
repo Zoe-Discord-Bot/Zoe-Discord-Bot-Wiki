@@ -2,7 +2,7 @@
 title: Zoe Features
 description: In here you find all core features explained.
 published: true
-date: 2023-09-04T11:19:48.005Z
+date: 2023-09-09T08:59:33.433Z
 tags: features, core, core features, feature
 editor: markdown
 dateCreated: 2021-07-06T09:25:25.035Z
@@ -39,7 +39,7 @@ dateCreated: 2021-07-06T09:25:25.035Z
 With [leaderboards](/en/features/leaderboards) up to 100 [players](/en/terms/player) ([boosted server](/en/http://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting), otherwise 10) can compare themselves in a selected category.  
 >{.is-info}
 
-![](/new_leaderboard_mastery_points_champion.png) 
+![](/en_/en_leaderboard_championmasterypoints.png)
 
 <br>
     
@@ -57,7 +57,7 @@ With [leaderboards](/en/features/leaderboards) up to 100 [players](/en/terms/pla
 >Zoe provides information about the selected profile, including the top 3 highest champions, a summary of all masteries, the last 3 games played, ranking statistics of the [player](/en/terms/player) and a chart with the 6 highest mastery champions.
 >{.is-info}
  
-![](/new_statsprofile.png)
+![](/en_/en_stats_profile.png)
 
 <br>
     
@@ -85,7 +85,7 @@ This is a message that automatically appears in the [rankchannel](/en/features/r
 >In the [matchhistorychannel](/en/features/matchhistoryChannel) you can browse all played games of all [players](/en/terms/player) with detailed information about every game.
 >{.is-info}
 
-![](/new_matchhistorychannel.png)
+![](/en_/en_matchhistorychannel_message_default.png)
 
 <br>
  
