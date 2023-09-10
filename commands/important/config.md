@@ -2,7 +2,7 @@
 title: /config - Command
 description: Information about the /config command
 published: true
-date: 2023-08-21T09:54:43.584Z
+date: 2023-09-10T09:14:25.163Z
 tags: config, configuration, setting, settings, option, options
 editor: markdown
 dateCreated: 2021-07-05T18:08:13.504Z
@@ -30,5 +30,10 @@ dateCreated: 2021-07-05T18:08:13.504Z
 
 ## Usage
 
-![new_config.png](/new_config.png)
+![en_config_command.gif](/en_/en_config_command.gif)
+
+<br>
+
+
+![en_config_1.png](/en_/en_config_1.png)
 ![configuration_choices.png](/configuration_choices.png)
