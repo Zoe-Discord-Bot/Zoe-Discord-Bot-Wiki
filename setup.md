@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2023-09-10T08:15:04.708Z
+date: 2023-09-10T08:34:44.532Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -110,7 +110,7 @@ The [rankchannel](/en/features/rankChannel) is, where a message will be sent aft
 
 This channel will send stats about an account in relation to clash. It will contain schedules of future clashes in your timezone as well as stats about your team. You will also be able to do an detailed analysis of enemy teams with ban recommendations.
 
-![](/new_statsteamanalysis.png)
+![](/en_/en_stats_teamanalysis_picks.png)
 
 > For more information about the clashchannel click [HERE](/en/features/clashChannel).
 >{.is-info}
