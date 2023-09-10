@@ -2,7 +2,7 @@
 title: Stats commands
 description: Learn about what you can do with the /stats commands.
 published: true
-date: 2023-09-08T18:58:35.129Z
+date: 2023-09-10T08:34:14.549Z
 tags: stats, stats command, stats cmd, stats cmds, stats commands
 editor: markdown
 dateCreated: 2021-07-13T10:30:33.475Z
@@ -38,7 +38,7 @@ dateCreated: 2021-07-13T10:30:33.475Z
 >  Zoe predicts the role of 5 given accounts when they play together with possibe picks and ban recommendations.
 >{.is-info}
   
-![](/new_statsteamanalysis.png)
+![](/en_/en_stats_teamanalysis_picks.png)
 
 <br> 
 
