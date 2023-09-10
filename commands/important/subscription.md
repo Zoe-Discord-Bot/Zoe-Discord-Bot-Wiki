@@ -2,7 +2,7 @@
 title: /subscription - Command
 description: Information about the /subscription command
 published: true
-date: 2023-09-09T10:23:22.689Z
+date: 2023-09-10T09:26:21.304Z
 tags: subscription, sub, boost
 editor: markdown
 dateCreated: 2023-04-10T12:51:50.798Z
@@ -26,7 +26,7 @@ dateCreated: 2023-04-10T12:51:50.798Z
 
 ## Usage
 
-![](/new_subscription.gif)
+![](/en_/en_subscription_command.gif)
 
 ## Example
 
