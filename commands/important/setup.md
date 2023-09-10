@@ -2,7 +2,7 @@
 title: /setup - Command
 description: Information about the /setup command
 published: true
-date: 2023-04-13T18:34:09.197Z
+date: 2023-09-10T09:12:03.587Z
 tags: setup
 editor: markdown
 dateCreated: 2021-07-05T16:51:33.366Z
@@ -26,4 +26,8 @@ dateCreated: 2021-07-05T16:51:33.366Z
 
 ## Usage
 
-![](/new_setup.gif)
+![](/en_/en_setup_command.gif)
+<br>
+
+## Example
+![en_setup_command_example.png](/en_/en_setup_command_example.png)
