@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2023-09-10T08:34:44.532Z
+date: 2023-09-10T08:36:07.768Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -54,7 +54,6 @@ Directly after that, you have to select the standard [League of Legends server r
 >{.is-info}
 
 > **You can now _follow this page_ (recommended) if you are not sure what you want and want to get an overview or continue with the [guide for a server with friends or for a team](https://wiki.zoe-discord-bot.ch/en/Guides/Team-Server) or the [guide for a  community server](https://wiki.zoe-discord-bot.ch/en/Guides/Community-Server) to see differentiated lists.**
-
   
 <br>
 
@@ -73,6 +72,7 @@ To delete a [player](/en/terms/player), use the commands [`/delete player`](/en/
 
 > You can display all registered [players](/en/terms/player) with the [`/show players`](/en/commands/important/show-players) command if you wish.
 >{.is-info}
+
 <br>
   
 # 2\. Show players (aka use [features](/en/features))
