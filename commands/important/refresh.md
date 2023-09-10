@@ -2,7 +2,7 @@
 title: /refresh - Command
 description: Information about the /refresh command
 published: true
-date: 2023-08-23T17:23:31.384Z
+date: 2023-09-10T09:15:57.794Z
 tags: refresh, update
 editor: markdown
 dateCreated: 2021-07-07T19:02:51.499Z
@@ -33,4 +33,4 @@ dateCreated: 2021-07-07T19:02:51.499Z
 
 ## Usage
 
-![](/new_refresh.gif)
+![](/en_/en_refresh_command.gif)
