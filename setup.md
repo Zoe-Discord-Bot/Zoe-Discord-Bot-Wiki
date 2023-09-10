@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2023-09-09T08:56:19.024Z
+date: 2023-09-10T08:15:04.708Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -113,7 +113,8 @@ This channel will send stats about an account in relation to clash. It will cont
 ![](/new_statsteamanalysis.png)
 
 > For more information about the clashchannel click [HERE](/en/features/clashChannel).
-  >{.is-info}
+>{.is-info}
+  
 <br>
   
 ## Leaderboards (a dedicated channel with several leaderboards within is recommended)
