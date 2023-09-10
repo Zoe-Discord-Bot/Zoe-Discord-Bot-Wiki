@@ -2,7 +2,7 @@
 title: /stats teamanalysis - Command
 description: Information about the /stats teamanalysis command
 published: true
-date: 2023-09-10T08:32:27.508Z
+date: 2023-09-10T08:32:37.861Z
 tags: stats, analysis, team, team analysis, team stats, teamanalysis, stats teamanalysis
 editor: markdown
 dateCreated: 2021-07-13T11:00:45.454Z
@@ -33,7 +33,7 @@ Repeat the process of adding accounts (`@Zoe region summonername`) shown in the 
 
 ![](/en_/en_stats_teamanalysis_1.gif)
 
-<img src="/en_/en_stats_teamanalysis_2.png" width="85%" img>
+<img src="/en_/en_stats_teamanalysis_2.png" width="70%" img>
 <br>
 
 ##   Example of a teamanalysis
