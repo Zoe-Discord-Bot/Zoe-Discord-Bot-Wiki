@@ -2,7 +2,7 @@
 title: /reset - Command
 description: Information about the /reset command
 published: true
-date: 2023-09-10T09:19:20.787Z
+date: 2023-09-10T09:20:40.799Z
 tags: reset
 editor: markdown
 dateCreated: 2021-07-12T08:17:30.555Z
@@ -30,4 +30,5 @@ Try to use this command if something is not working properly.**
  <br>
  
 #### Confirmation
+![en_reset_command_3.png](/en_/en_reset_command_3.png)
 ![en_reset_command_2.gif](/en_/en_reset_command_2.gif)
