@@ -2,7 +2,7 @@
 title: timfernix' Wiki/Markdown/HTML help
 description: 
 published: true
-date: 2023-09-13T21:17:40.987Z
+date: 2023-09-13T21:18:16.143Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-13T20:20:07.754Z
@@ -109,11 +109,8 @@ Tabset Description
 # Headline 
 
 | Table column 1 | Table column 2 |
-
 |----------|----------|
-
 | Cell 1      | Cell 2      |
-
 | Cell 3      | Cell 4      |
 
 <br>
