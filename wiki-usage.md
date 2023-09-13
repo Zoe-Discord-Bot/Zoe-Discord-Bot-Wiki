@@ -2,7 +2,7 @@
 title: timfernix' Wiki/Markdown/HTML help
 description: 
 published: true
-date: 2023-09-13T20:23:21.658Z
+date: 2023-09-13T21:00:10.163Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-13T20:20:07.754Z
@@ -48,9 +48,9 @@ _Underlined text_
 
 - [Linklist Caption 1]()
 - [Linklist Caption 2 *Description text*]()
-- [Linklist Caption 3]()
+- [:globe_with_meridians: With Emojis *and text.*]() 
 {.links-list}
-  
+
 <br>
   
 [Link Caption](Link)
