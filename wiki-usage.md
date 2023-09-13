@@ -2,7 +2,7 @@
 title: timfernix' Wiki/Markdown/HTML help
 description: 
 published: true
-date: 2023-09-13T20:22:58.862Z
+date: 2023-09-13T20:23:21.658Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-13T20:20:07.754Z
@@ -98,9 +98,9 @@ code blocks
 
 # Tabsets {.tabset}
 ## **Tab 1**
-Description
+Tabset Description
 
 
 ## **Tab 2** {.active}
-Description
+Tabset Description
 
