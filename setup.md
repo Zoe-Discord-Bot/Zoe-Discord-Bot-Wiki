@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2023-09-10T08:36:07.768Z
+date: 2023-09-13T19:05:34.853Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -87,6 +87,7 @@ The [infochannel](/en/features/infoChannel) contains stats on [players](/en/term
 
 ![](/en_/en_infochannel.png)
 ![](/en_/en_gamecard.png)
+![en_gamecard_transparent.png](/en_gamecard_transparent.png)
 
 <br>
 
