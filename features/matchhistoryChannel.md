@@ -2,7 +2,7 @@
 title: Matchhistory Channel - Feature
 description: Information about the Matchhistory Channel
 published: true
-date: 2023-09-14T18:31:08.279Z
+date: 2023-09-14T18:31:38.765Z
 tags: channel, matchhistory, ranked, normals, aram, matches
 editor: markdown
 dateCreated: 2023-04-09T10:10:59.349Z
@@ -26,9 +26,9 @@ dateCreated: 2023-04-09T10:10:59.349Z
 
 | **View** | **Example** |
 | --- | --- |
-| **Default** | ![](/en_/en_matchhistorychannel_message_default.png =600x) |
-| **Extended** | ![](/en_/en_matchhistorychannel_message_extended.png =600x) |
-| **Gold** | ![](/en_/en_matchhistorychannel_message_gold.png =600x) |
-| **Damage** | ![](/en_/en_matchhistorychannel_message_damage.png =600x) |
-| **Items** | ![](/en_/en_matchhistorychannel_message_items.png =600x) |
-| **Events** | ![](/en_/en_matchhistorychannel_message_events.png =300x) |
+| **Default** | ![](/en_/en_matchhistorychannel_message_default.png =700x) |
+| **Extended** | ![](/en_/en_matchhistorychannel_message_extended.png =700x) |
+| **Gold** | ![](/en_/en_matchhistorychannel_message_gold.png =700x) |
+| **Damage** | ![](/en_/en_matchhistorychannel_message_damage.png =700x) |
+| **Items** | ![](/en_/en_matchhistorychannel_message_items.png =700x) |
+| **Events** | ![](/en_/en_matchhistorychannel_message_events.png =400x) |
