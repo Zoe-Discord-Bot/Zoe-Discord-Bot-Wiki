@@ -2,7 +2,7 @@
 title: timfernix' Wiki/Markdown/HTML help
 description: 
 published: true
-date: 2023-09-14T10:21:03.569Z
+date: 2023-09-14T10:24:25.685Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-13T20:20:07.754Z
@@ -49,7 +49,9 @@ _Underlined text_
 2. Ordered List Item 2
 3. Ordered List Item 3
 ```
-
+1. Ordered List Item 1
+2. Ordered List Item 2
+3. Ordered List Item 3
 ```
 <br>
   
@@ -57,11 +59,16 @@ _Underlined text_
 - Unordered List Item 2
 - Unordered List Item 3
 ```
+- Unordered List Item 1
+- Unordered List Item 2
+- Unordered List Item 3
 ```
 <br> 
 
 ![Asset](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/800px-Markdown-mark.svg.png =100x)
 ```
+
+![Asset](link.png =100x)
 ```
 <br>
 
@@ -70,17 +77,24 @@ _Underlined text_
 - [:globe_with_meridians: With Emojis *and text.*]() 
 {.links-list}
 ```
+- [Linklist Caption 1]()
+- [Linklist Caption 2 *Description text*]()
+- [:globe_with_meridians: With Emojis *and text.*]() 
+{.links-list}
 ```
 <br>
   
 [Link Caption](Link)
 ```
+[Link Caption](Link)
 ```
 <br>
 
 Text ^Superscript^
 Text ~Subscript~
 ```
+Text ^Superscript^
+Text ~Subscript~
 ```
 <br>
 
