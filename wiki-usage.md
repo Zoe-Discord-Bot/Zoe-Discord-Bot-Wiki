@@ -2,7 +2,7 @@
 title: timfernix' Wiki/Markdown/HTML help
 description: 
 published: true
-date: 2023-09-13T21:19:38.471Z
+date: 2023-09-14T10:21:03.569Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-13T20:20:07.754Z
@@ -15,11 +15,20 @@ dateCreated: 2023-09-13T20:20:07.754Z
 ##### Headline H5
 ###### Headline H6
 
+```
+# Headline H1
+## Headline H2
+### Headline H3
+#### Headline H4
+##### Headline H5
+###### Headline H6
+```
 <br>
 
-Horizontal line
-
 ---
+```
+---
+```
 
 <br>
   
@@ -27,39 +36,52 @@ Horizontal line
 *Italic text*
 _Underlined text_
 ~~Strikethrough text~~
-  
+
+```
+**Bold text**
+*Italic text*
+_Underlined text_
+~~Strikethrough text~~
+```
 <br>
   
 1. Ordered List Item 1
 2. Ordered List Item 2
 3. Ordered List Item 3
-  
+```
+
+```
 <br>
   
 - Unordered List Item 1
 - Unordered List Item 2
 - Unordered List Item 3
-  
+```
+```
 <br> 
 
 ![Asset](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/800px-Markdown-mark.svg.png =100x)
-  
+```
+```
 <br>
 
 - [Linklist Caption 1]()
 - [Linklist Caption 2 *Description text*]()
 - [:globe_with_meridians: With Emojis *and text.*]() 
 {.links-list}
-
+```
+```
 <br>
   
 [Link Caption](Link)
-
+```
+```
 <br>
 
 Text ^Superscript^
 Text ~Subscript~
-
+```
+```
 <br>
 
 `Inline code` 
@@ -67,7 +89,18 @@ Text ~Subscript~
 ```
 code blocks
 ```
+
 <kbd>Keyboard keys</kbd>
+
+```
+`Inline code` 
+
+'''
+code blocks
+'''
+
+<kbd>Keyboard keys</kbd>
+```
 
 <br>
 
@@ -81,18 +114,42 @@ code blocks
 
 > Success block quote{.is-success}
 
+```
+
+> Default block quote
+
+> Information block quote {.is-info}
+
+> Warning block quote {.is-warning}
+
+> Danger block quote {.is-danger}
+
+> Success block quote{.is-success}
+```
+
 <br>
 
 :smile: Emojis
 
+```
+:smile: Emojis
+```
 <br>
 
-<i class="mdi mdi-information-outline"></i> *(mdi icons & captions)*{.caption --text}
-
+<i class="mdi mdi-information-outline"></i> *(mdi icons & captions)*{.caption .red--text}
+```
+<i class="mdi mdi-information-outline"></i> 
+*(mdi icons & captions)*{.caption .red--text}
+```
 <br>
 
-- ![](/zoe_logo.png =24x){.mr-2} Images & Text  in grid lists
+- ![](/zoe_logo.png =24x) Images & Text  in grid lists
 {.grid-list}
+
+```
+- ![](/zoe_logo.png =24x) Images & Text  in grid lists
+{.grid-list}
+```
 
 <br>
 
@@ -104,14 +161,30 @@ Tabset Description
 ## **Tab 2** {.active}
 Tabset Description
 
-<br>
+# Tabsets
+```
+# Tabsets {.tabset}
+## **Tab 1**
+Tabset Description
 
-# Headline 
+
+## **Tab 2** {.active}
+Tabset Description
+```
+
+<br>
 
 | Table column 1 | Table column 2 |
 |----------|----------|
 | Cell 1      | Cell 2      |
 | Cell 3      | Cell 4      |
+
+```
+| Table column 1 | Table column 2 |
+|----------|----------|
+| Cell 1      | Cell 2      |
+| Cell 3      | Cell 4      |
+```
 
 <br>
 
@@ -120,9 +193,18 @@ Tabset Description
 - [x] Another checked task item
 
 - [ ] Unchecked task item
+```
 
+- [x] Checked task item
+
+- [x] Another checked task item
+
+- [ ] Unchecked task item
+```
 <br>
 
 Footnotes [^1]
-
+```
+Footnotes [^1]
+```
 [^1]: Footnote 
