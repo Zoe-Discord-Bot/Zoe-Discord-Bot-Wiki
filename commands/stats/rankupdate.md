@@ -2,7 +2,7 @@
 title: /stats rankupdate - Command
 description: Information about the /stats rankupdate command
 published: true
-date: 2023-08-31T19:29:04.758Z
+date: 2023-09-14T18:41:28.387Z
 tags: ranks, update, rank update, lps, lp gain, lp loss
 editor: markdown
 dateCreated: 2023-04-17T20:03:00.828Z
@@ -34,4 +34,4 @@ dateCreated: 2023-04-17T20:03:00.828Z
 
 ## Example of the rankupdate of a server
 
-<img src="/stats_rankupdate.png" width="70%" />
+<img src="/en_/en_stats_rankupdate.png" width="70%" />
