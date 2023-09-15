@@ -2,101 +2,60 @@
 title: Zoe Features
 description: In here you find all core features explained.
 published: true
-date: 2023-09-15T17:23:14.348Z
+date: 2023-09-15T17:54:37.647Z
 tags: features, core, core features, feature
 editor: markdown
 dateCreated: 2021-07-06T09:25:25.035Z
 ---
 
 
-> This list contains all core features of Zoe. You can click on the `Link to Wikipage`  to get more information.
-
-<br> 
-
-
-
--  [<i class="mdi mdi-information-outline"></i> Infochannel *Zoe provides an information panelin a text channel with information about the players in a game, optionally displaying their rank. Zoe also sends gamecards information about current games such as champions played, SoloQ rank or winrate with a champion played. You can also get champion tips for every champion played in a game.*](/en/features/infoChannel/) <br> <img src="/en_/en_infochannel.png" img>
+-  [<i class="mdi mdi-information-outline"></i> Infochannel *Zoe provides an information panel with information about the players in a game and the current games with champions played, SoloQ rank or winrate with a champion played. You can also get champion tips for every champion played in a game.*](/en/features/infoChannel/) <br> <img src="/en_/en_infochannel.png" img>
 {.links-list}
 
 <br> 
   
-# Rankchannel
+-  [<i class="mdi mdi-trophy-outline"></i> Rankchannel *In the rankchannel it is possible to track the players' ranked progress.*](/en/features/rankChannel/) <br> <img src="/en_/en_rankchannel_message.png" img>
+{.links-list}
 
-> [**`Link to Wikipage`**](https://wiki.zoe-discord-bot.ch/en/features/rankChannel/)
->In the [rankchannel](/en/features/rankChannel) it is possible to track the [players'](/en/terms/player) ranked progress. 
->{.is-info}
+<br> 
 
-![](/en_/en_rankchannel_message.png)
-
-<br>
-    
-# Leaderboards
-> [**`Link to Wikipage`**](https://wiki.zoe-discord-bot.ch/en/features/leaderboards/)
-With [leaderboards](/en/features/leaderboards) up to 100 [players](/en/terms/player) ([boosted server](/en/http://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting), otherwise 10) can compare themselves in a selected category.  
->{.is-info}
-
-![](/en_/en_leaderboard_championmasterypoints.png)
-
-<br>
-    
-# Clashchannel
-> [**`Link to Wikipage`**](https://wiki.zoe-discord-bot.ch/en/features/clashChannel/)
->Zoe can perform an analysis of your own and opposing clash teams to help with pick and ban decisions. 
->{.is-info}
-
-![](/new_clashinactive.png)
-
-<br>
-   
-# stats profile Command
-> [**`Link to Wikipage`**](https://wiki.zoe-discord-bot.ch/en/commands/stats/profile)
->Zoe provides information about the selected profile, including the top 3 highest champions, a summary of all masteries, the last 3 games played, ranking statistics of the [player](/en/terms/player) and a chart with the 6 highest mastery champions.
->{.is-info}
- 
-![](/en_/en_stats_profile.png)
-
-<br>
-    
-# stats teamanalysis Command
-> [**`Link to Wikipage`**](https://wiki.zoe-discord-bot.ch/en/commands/stats/teamAnalysis)
->When you execute this command Zoe starts an analysis. Zoe evaluates who could play what on which position and gives ban recommendations.
->{.is-info}
-
-![](/en_/en_stats_teamanalysis_picks.png)
+-  [<i class="mdi mdi-dice-d10-outline"></i> Leaderboards *With leaderboards up to 100 players can compare themselves in a selected category.*](/en/features/leaderboards/) <br> <img src="/en_/en_leaderboard_championmasterypoints.png" height="310" img>
+{.links-list}
 
 <br>
 
-# stats rankupdate Command
-> [**`Link to Wikipage`**](https://wiki.zoe-discord-bot.ch/en/commands/stats/rankupdate)
->Zoe provides information about top LP-winning and LP-losing registered players in a specific time. You can choose between one day, one week or one month.
-This is a message that automatically appears in the [rankchannel](/en/features/rankChannel) after the respective time after activation (so after one day, one week and one month).
->{.is-info}
+-  [<i class="mdi mdi-tournament"></i> Clashchannel *Zoe performs an analysis of a team to help with pick and ban decisions.*](/en/features/clashChannel/) <br> <img src="/new_clash_analysis.png" height="500" img>
+{.links-list}
 
-![](/en_/en_stats_rankupdate.png)
+<br> 
 
-<br>
+-  [<i class="mdi mdi-card-account-details-outline"></i> stats profile *Zoe provides information about a profile, including the top 3 highest champions, a summary of all masteries, the last 3 games played, ranking statistics of the player and a chart with the 6 highest mastery champions.*](/en/commands/stats/profile/) <br> <img src="/en_/en_stats_profile.png" height="500" img>
+{.links-list}
 
-# Matchhistorychannel
-> [**`Link to Wikipage`**](https://wiki.zoe-discord-bot.ch/en/features/matchhistoryChannel)
->In the [matchhistorychannel](/en/features/matchhistoryChannel) you can browse all played games of all [players](/en/terms/player) with detailed information about every game.
->{.is-info}
+<br> 
 
-![](/en_/en_matchhistorychannel_message_default.png)
+-  [<i class="mdi mdi-account-group-outline"></i> stats teamanalysis *Zoe starts an analysis for picked and banned champions and lanes.*](/en/commands/stats/teamAnalysis/) <br> <img src="/en_/en_stats_teamanalysis_picks.png" height="500" img>
+{.links-list}
 
-<br>
- 
-# Rankroles
-> [**`Link to Wikipage`**](https://wiki.zoe-discord-bot.ch/en/features/rankroles)
->Zoe creates Discord roles for every rank or division (premium) for all [registered players](/en/terms/player).
->{.is-info}
+<br> 
 
-![](/improved_rankroles_5.png)
+-  [<i class="mdi mdi-chart-timeline-variant-shimmer"></i> stats rankupdate *Shows won and lost LP of players in a day, a week or a month.*](/en/commands/stats/rankupdate) <br> <img src="/en_/en_stats_rankupdate.png" height="500" img>
+{.links-list}
 
-<br>
-  
- # There is more!
-  
-> **There are many more things, so check out all [commands](https://wiki.zoe-discord-bot.ch/en/commands) and the [configuration](https://wiki.zoe-discord-bot.ch/en/Zoe-Configuration/)!**
->{.is-warning}
+<br> 
 
+-  [<i class="mdi mdi-history"></i> Matchhistorychannel *Allows you to browse games of a player with information about every game.*](/en/features/matchhistoryChannel) <br> <img src="/en_/en_matchhistorychannel_message_default.png" height="250" img>
+{.links-list}
 
+<br> 
+
+-  [<i class="mdi mdi-account-outline"></i> Rankroles *Zoe creates Discord roles for every rank or division (premium) for all registered players.*](/en/features/rankroles) <br> <img src="/improved_rankroles_5.png" height="100" img>
+{.links-list}
+
+<br> 
+
+# There is more!
+###### There are many more things to check out:
+- [<i class="mdi mdi-message-outline"></i> All commands *Overview of all commands you can use*](/en/commands)
+- [<i class="mdi mdi-cog-outline"></i> Configuration *Configure Zoe for your use*](/en/Zoe-Configuration)
+{.links-list}
