@@ -2,7 +2,7 @@
 title: About
 description: 
 published: false
-date: 2023-09-15T20:27:15.885Z
+date: 2023-09-15T20:28:23.076Z
 tags: info, about, information
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
@@ -13,6 +13,8 @@ dateCreated: 2023-09-15T18:12:02.890Z
 ## General
 > Monitor your League of Legends and TFT performance anywhere, anytime.
 
+<br>
+
 ###### Introduction
 
 Zoe is a advanced Discord bot designed specifically for the passionate League of Legends players. Written in Java, this bot was created with a specific mission: to provide real-time information, helpful information after your games so that you can improve and statistics from the fascinating world of League of Legends.
@@ -20,8 +22,8 @@ Zoe is a advanced Discord bot designed specifically for the passionate League of
 <br>
 
 ###### System
-- **Riot API integration:** Zoe uses the Riot API to retrieve data and information from League of Legends games. This includes player details, champion stats, match histories and much more. Whether you're looking for your own progress or want to track the performance of other players, Zoe is ready to provide you with this information.
 - **Commands:** Zoe has a number of commands that allow you to quickly access information. For example, you can check your current profile including your rank and most played champions, view the stats of a particular champion or get information about a past match.
+- **Riot API integration:** Zoe uses the Riot API to retrieve data and information from League of Legends games. This includes player details, champion stats, match histories and much more. Whether you're looking for your own progress or want to track the performance of other players, Zoe is ready to provide you with this information.
 - **Real-time updates:** Zoe keeps you up to date by providing real-time updates on your League of Legends games and stats. You can see information about games in progress or receive notifications for past games and your performance.
 
 <br>
