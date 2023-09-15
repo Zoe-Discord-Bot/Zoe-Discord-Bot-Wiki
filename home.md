@@ -2,7 +2,7 @@
 title: Zoe Discord Bot Wiki Homepage
 description: Learn everything about Zoe, the League of Legends Discord bot.
 published: true
-date: 2023-09-15T20:21:23.509Z
+date: 2023-09-15T20:21:53.459Z
 tags: info, start, home
 editor: markdown
 dateCreated: 2021-07-05T10:17:27.255Z
@@ -40,7 +40,9 @@ dateCreated: 2021-07-05T10:17:27.255Z
 - [<i class="mdi mdi-message-outline"></i> All commands *Overview of all commands you can use*](/en/commands)
 {.links-list}
 
-<br><br><br>
+<br><br>
+---
+<br><br>
 
 - [<i class="mdi mdi-shield-check-outline"></i> Terms of Service *Read our terms of service*](https://zoe-discord-bot.ch/terms-of-service.html)
 - [<i class="mdi mdi-shield-lock-outline"></i> Privacy Policy *Find out about our privacy policy*](https://zoe-discord-bot.ch/privacy-policy.html)
