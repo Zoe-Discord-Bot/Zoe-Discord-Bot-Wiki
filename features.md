@@ -2,7 +2,7 @@
 title: Zoe Features
 description: In here you find all core features explained.
 published: true
-date: 2023-09-10T08:38:02.085Z
+date: 2023-09-15T15:07:03.473Z
 tags: features, core, core features, feature
 editor: markdown
 dateCreated: 2021-07-06T09:25:25.035Z
@@ -76,7 +76,7 @@ With [leaderboards](/en/features/leaderboards) up to 100 [players](/en/terms/pla
 This is a message that automatically appears in the [rankchannel](/en/features/rankChannel) after the respective time after activation (so after one day, one week and one month).
 >{.is-info}
 
-![](/stats_rankupdate.png)
+![](/en_/en_stats_rankupdate.png)
 
 <br>
 
