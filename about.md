@@ -2,7 +2,7 @@
 title: About
 description: 
 published: false
-date: 2023-09-15T19:43:46.466Z
+date: 2023-09-15T19:46:48.650Z
 tags: info, about, information
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
@@ -48,8 +48,8 @@ Zoe is a Discord bot that provides helpful information about the games of your L
 <br><br><br>
 
 ###### Other Links
-- [<i class="mdi mdi-shield-check-outline"></i> Terms of Service *Read our terms of service*](https://zoe-discord-bot.ch/terms-of-service.html)
-- [<i class="mdi mdi-shield-lock-outline"></i> Privacy Policy *Find out about our privacy policy*](https://zoe-discord-bot.ch/privacy-policy.html)
+- [<i class="mdi mdi-shield-check-outline"></i> Terms of Service *zoe-discord-bot.ch/terms-of-service*](https://zoe-discord-bot.ch/terms-of-service.html)
+- [<i class="mdi mdi-shield-lock-outline"></i> Privacy Policy *zoe-discord-bot.ch/privacy-policy*](https://zoe-discord-bot.ch/privacy-policy.html)
 {.links-list}
 
 
