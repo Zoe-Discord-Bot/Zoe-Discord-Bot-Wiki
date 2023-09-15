@@ -2,7 +2,7 @@
 title: About
 description: 
 published: false
-date: 2023-09-15T20:28:23.076Z
+date: 2023-09-15T20:29:45.875Z
 tags: info, about, information
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
@@ -35,10 +35,10 @@ With Zoe you get statistics like champions played, [tips for every champion](/en
 
 ## Team
 
-- ![](https://cdn.discordapp.com/avatars/228541163966038016/45734838c4ddc93848b391ffdce8106a.png?size=64 =14x)  &nbsp; KaluNight | Creator & Developer of Zoe
-- ![](https://cdn.discordapp.com/avatars/589773984447463434/a_0ff5d7f5b06086554ae4dfa14f427c43.gif?size=64 =14x) &nbsp; timfernix | Wiki & Translation Manager and Discord Head Moderator
-- ![](https://cdn.discordapp.com/avatars/557297296526671872/a81038d05900dc2b3d6a55b9d0bf9aea.png?size=64 =14x) &nbsp; pesooo | Discord Moderator
-- ![](https://cdn.discordapp.com/avatars/323247267802906624/5dc2ef183c6de2c59f5a4f4aa7a5e0bd.png?size=64 =14x) &nbsp; vandals | Discord Moderator
+- ![](https://cdn.discordapp.com/avatars/228541163966038016/45734838c4ddc93848b391ffdce8106a.png?size=64 =18x)  &nbsp; **KaluNight** | Creator & Developer of Zoe
+- ![](https://cdn.discordapp.com/avatars/589773984447463434/a_0ff5d7f5b06086554ae4dfa14f427c43.gif?size=64 =18x) &nbsp; **timfernix** | Wiki & Translation Manager and Discord Head Moderator
+- ![](https://cdn.discordapp.com/avatars/557297296526671872/a81038d05900dc2b3d6a55b9d0bf9aea.png?size=64 =18x) &nbsp; **pesooo** | Discord Moderator
+- ![](https://cdn.discordapp.com/avatars/323247267802906624/5dc2ef183c6de2c59f5a4f4aa7a5e0bd.png?size=64 =18x) &nbsp; **vandals** | Discord Moderator
 {.grid-list}
 
 <br>
