@@ -2,7 +2,7 @@
 title: Zoe Discord Bot Wiki Homepage
 description: Learn everything about Zoe, the League of Legends Discord bot.
 published: true
-date: 2023-09-15T18:19:33.382Z
+date: 2023-09-15T18:19:43.716Z
 tags: info, start, home
 editor: markdown
 dateCreated: 2021-07-05T10:17:27.255Z
@@ -18,9 +18,6 @@ dateCreated: 2021-07-05T10:17:27.255Z
 > {.is-warning}
 
 <br>
-
-## About
-Zoe is a Discord bot for League of Legends and TFT which, once configured, automatically generates statistics for every [registered player](/en/terms/player). <br> <br> With Zoe you get statistics like champions played, [tips for every champion](/en/features/champion-analysis), rank and winrate about [current games](/en/features/infoChannel), [ranked games](/en/features/rankChannel) with promotion tracking,  [matchhistory](/en/features/matchhistoryChannel) for players and teams, [leaderboards](/en/features/leaderboards) to compare yourself with others in various categories like total mastery points or average KDA even for specific champions and more, pick and ban suggestions through an [analysis of your and the enemy clashteam](/en/features/clashChannel), [rank roles](/en/features/rankroles) and much more. 
 
 _**About Zoe**_
 - [<i class="mdi mdi-robot-excited-outline"></i> About *Learn more about Zoe*](/en/about)
