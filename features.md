@@ -2,7 +2,7 @@
 title: Zoe Features
 description: In here you find all core features explained.
 published: true
-date: 2023-09-15T17:16:57.664Z
+date: 2023-09-15T17:19:53.003Z
 tags: features, core, core features, feature
 editor: markdown
 dateCreated: 2021-07-06T09:25:25.035Z
@@ -15,14 +15,8 @@ dateCreated: 2021-07-06T09:25:25.035Z
 
 # Infochannel
 
->  [**`Link to Wikipage`**](https://wiki.zoe-discord-bot.ch/en/features/infoChannel/)
-> Zoe provides an [information panel](/en/features/infoChannel) in a text channel with information about the [players](/en/terms/player) in a game, optionally displaying their rank. Zoe also sends [gamecards](/en/features/gamecards) information about current games such as champions played, SoloQ rank or winrate with a champion played. You can also get champion tips for every champion played in a game. Read more here: [Champion analysis](/en/features/champion-analysis).  
->{.is-info}
-
-- [<i class="mdi mdi-information-outline"></i> Infochannel *Zoe provides an information panelin a text channel with information about the players in a game, optionally displaying their rank. Zoe also sends gamecards information about current games such as champions played, SoloQ rank or winrate with a champion played. You can also get champion tips for every champion played in a game.*](/en/features/infoChannel/)
+-  [<i class="mdi mdi-information-outline"></i> Infochannel *Zoe provides an information panelin a text channel with information about the players in a game, optionally displaying their rank. Zoe also sends gamecards information about current games such as champions played, SoloQ rank or winrate with a champion played. You can also get champion tips for every champion played in a game.*](/en/features/infoChannel/) <br> <img src="/en_/en_infochannel.png" img>
 {.links-list}
-
-![](/en_/en_infochannel.png)
 
 <br> 
   
