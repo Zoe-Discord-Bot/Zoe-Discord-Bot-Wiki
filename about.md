@@ -1,9 +1,9 @@
 ---
-title: About
-description: 
+title: About the project
+description: Learn about Zoe and it's background.
 published: false
-date: 2023-09-15T21:10:28.665Z
-tags: info, about, information
+date: 2023-09-15T21:22:53.761Z
+tags: info, about, information, system, links
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
 ---
@@ -30,6 +30,17 @@ Zoe is a advanced Discord bot designed specifically for the passionate League of
 
 ###### Features
 With Zoe you get statistics like champions played, [tips for every champion](/en/features/champion-analysis), rank and winrate about [current games](/en/features/infoChannel), [ranked games](/en/features/rankChannel) with promotion tracking,  [matchhistory](/en/features/matchhistoryChannel) for players and teams, [leaderboards](/en/features/leaderboards) to compare yourself with others in various categories like total mastery points or average KDA even for specific champions and more, pick and ban suggestions through an [analysis of your and the enemy clashteam](/en/features/clashChannel), [rank roles](/en/features/rankroles) and much more. 
+
+<br>
+
+## Birth of Zoe *(by ![](https://cdn.discordapp.com/avatars/228541163966038016/45734838c4ddc93848b391ffdce8106a.png?size=64 =10x)KaluNight)*{.caption .grey--text}
+> To tell you the truth, Zoe was created by chance. There was a time when I had a League of Legends team and I wanted to give people who were interested in my team a little extra that would make them want to join.
+>
+> So I developed a little Discord bot that offered a very basic infochannel with gamecards on a single server. It wasn't very clean, but while I was creating this little project I thought I might have something interesting.
+>
+> By reworking the code I had made, Zoe was born. And of course, over the years, I added more features to make the bot more and more complete and comprehensive.
+>
+> I have a confession to make: I never really liked using League of Legends Discord bots. Using commands to get the smallest bit of information always annoyed me. That's why the whole design of Zoe revolves around creating "channels" that then send information automatically. I've always felt that this could be done better and in a more user-friendly way, and Zoe is trying to achieve that goal. I hope you think we have achieved it!
 
 <br>
 
