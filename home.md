@@ -2,7 +2,7 @@
 title: Zoe Discord Bot Wiki Homepage
 description: Learn everything about Zoe, the League of Legends Discord bot.
 published: true
-date: 2023-08-18T07:28:39.331Z
+date: 2023-09-15T17:08:20.718Z
 tags: info, start, home
 editor: markdown
 dateCreated: 2021-07-05T10:17:27.255Z
@@ -24,25 +24,23 @@ Zoe is a Discord bot for League of Legends and TFT which, once configured, autom
 <br>
 
 _**How to set up Zoe for your server:**_
-> [**Setup**](/en/setup)
- >{.is-info}
- 
- >[**Configuration**](/en/Zoe-Configuration)
-  >{.is-info}
-
-
-_**Learn more about all features Zoe has to offer:**_
-> [**Core features**](/en/features)
- >{.is-info}
- 
- >[**All commands**](/en/commands)
-  >{.is-info}
-  
-*Alternatively you can check out all important pages in the left menu or search in the searchbar on the top!*
+- [<i class="mdi mdi-power"></i> Setup *How you can use Zoe on your server*](/en/setup)
+- [<i class="mdi mdi-cog-outline"></i> Configuration *Configure Zoe for your use*](/en/configuration)
+{.links-list}
 
 <br>
 
+_**Learn more about all features Zoe has to offer:**_
+- [<i class="mdi mdi-diamond-stone"></i> Core features *This is what Zoe is made for*](/en/features)
+- [<i class="mdi mdi-message-outline"></i> All commands *Overview of all commands you can use*](/en/commands)
+{.links-list}
 
->[Terms of Service](https://zoe-discord-bot.ch/terms-of-service.html) & [Privacy Policy](https://zoe-discord-bot.ch/privacy-policy.html)
->{.is-success}
+<br>
 
+*Alternatively you can check out all important pages in the left menu or search in the searchbar on the top!*
+
+<br><br><br>
+
+- [<i class="mdi mdi-shield-check-outline"></i> Terms of Service *Read our terms of service*](https://zoe-discord-bot.ch/terms-of-service.html)
+- [<i class="mdi mdi-shield-lock-outline"></i> Privacy Policy *Find out about our privacy policy*](https://zoe-discord-bot.ch/privacy-policy.html)
+{.links-list}
