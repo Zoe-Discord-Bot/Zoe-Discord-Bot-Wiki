@@ -1,8 +1,8 @@
 ---
 title: About
 description: 
-published: true
-date: 2023-09-15T18:12:02.890Z
+published: false
+date: 2023-09-15T18:21:16.734Z
 tags: info, about, information
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
