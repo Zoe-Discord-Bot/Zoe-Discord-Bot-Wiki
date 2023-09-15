@@ -2,7 +2,7 @@
 title: About
 description: 
 published: false
-date: 2023-09-15T19:43:02.283Z
+date: 2023-09-15T19:43:46.466Z
 tags: info, about, information
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
@@ -28,7 +28,7 @@ Zoe is a Discord bot that provides helpful information about the games of your L
 
 ###### Links
 - [<i class="mdi mdi-home"></i> Promotional Website *zoe-discord-bot.ch*](https://zoe-discord-bot.ch/)
-- [<i class="mdi mdi-library"></i> Wiki Website *wiki.zoe-discord-bot.ch*](https://wiki.zoe-discord-bot.ch/)
+- [<i class="mdi mdi-library"></i> Wiki Website *wiki.zoe-discord-bot.ch*](https://wiki.zoe-discord-bot.ch/en/home/)
 - [<i class="mdi mdi-translate"></i> Translation Website *translate.zoe-discord-bot.ch*](https://translate.zoe-discord-bot.ch/)
 - [<i class="mdi mdi-code-braces"></i> Github *github.com/orgs/Zoe-Discord-Bot*](https://github.com/orgs/Zoe-Discord-Bot/)
 - [<i class="mdi mdi-gift"></i> Donations at Ko-Fi *ko-fi.com/kalunight*](https://ko-fi.com/kalunight)
