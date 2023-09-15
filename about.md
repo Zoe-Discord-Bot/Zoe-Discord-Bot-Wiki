@@ -2,7 +2,7 @@
 title: About the project
 description: Learn about Zoe and it's background.
 published: false
-date: 2023-09-15T21:22:53.761Z
+date: 2023-09-15T21:24:27.169Z
 tags: info, about, information, system, links
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
@@ -11,7 +11,6 @@ dateCreated: 2023-09-15T18:12:02.890Z
 # About Zoe
 
 ## General
-> Monitor your League of Legends and TFT performance anywhere, anytime.
 
 <br>
 
