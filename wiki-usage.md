@@ -2,7 +2,7 @@
 title: timfernix' Wiki/Markdown/HTML help
 description: 
 published: true
-date: 2023-09-14T10:24:25.685Z
+date: 2023-09-15T15:46:25.751Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-13T20:20:07.754Z
@@ -158,9 +158,13 @@ code blocks
 <br>
 
 - ![](/zoe_logo.png =24x) Images & Text  in grid lists
+- ![](/zoe_logo.png =24x) Images & Text  in grid lists
+- ![](/zoe_logo.png =24x) Images & Text  in grid lists
 {.grid-list}
 
 ```
+- ![](/zoe_logo.png =24x) Images & Text  in grid lists
+- ![](/zoe_logo.png =24x) Images & Text  in grid lists
 - ![](/zoe_logo.png =24x) Images & Text  in grid lists
 {.grid-list}
 ```
