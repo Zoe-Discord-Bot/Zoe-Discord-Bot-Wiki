@@ -2,17 +2,30 @@
 title: About
 description: 
 published: false
-date: 2023-09-15T19:46:48.650Z
+date: 2023-09-15T20:14:21.455Z
 tags: info, about, information
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
 ---
 
 # About Zoe
-###### General
-Monitor your League of Legends and TFT performance anywhere, anytime.
 
-Zoe is a Discord bot that provides helpful information about the games of your League of Legends account, in a centralized manner so you can get the most out of your games.
+###### General
+> Monitor your League of Legends and TFT performance anywhere, anytime.
+
+Zoe is a advanced Discord bot designed specifically for the passionate League of Legends players. Written in Java, this bot was created with a specific mission: to provide real-time information, helpful information after your games so that you can improve and statistics from the fascinating world of League of Legends.
+
+<br>
+
+###### System & Features 
+
+- **Riot API integration:** Zoe uses the Riot API to retrieve data and information from League of Legends games. This includes player details, champion stats, match histories and much more. Whether you're looking for your own progress or want to track the performance of other players, Zoe is ready to provide you with this information.
+- **Commands:** Zoe has a number of commands that allow you to quickly access information. For example, you can check your current profile including your rank and most played champions, view the stats of a particular champion or get information about a past match.
+- **Real-time updates:** Zoe keeps you up to date by providing real-time updates on your League of Legends games and stats. You can see information about games in progress or receive notifications for past games and your performance.
+
+<br>
+
+With Zoe you get statistics like champions played, [tips for every champion](/en/features/champion-analysis), rank and winrate about [current games](/en/features/infoChannel), [ranked games](/en/features/rankChannel) with promotion tracking,  [matchhistory](/en/features/matchhistoryChannel) for players and teams, [leaderboards](/en/features/leaderboards) to compare yourself with others in various categories like total mastery points or average KDA even for specific champions and more, pick and ban suggestions through an [analysis of your and the enemy clashteam](/en/features/clashChannel), [rank roles](/en/features/rankroles) and much more. 
 
 <br>
 
@@ -24,6 +37,10 @@ Zoe is a Discord bot that provides helpful information about the games of your L
 - ![](https://cdn.discordapp.com/avatars/323247267802906624/5dc2ef183c6de2c59f5a4f4aa7a5e0bd.png?size=64 =14x) &nbsp; vandals | Discord Moderator
 {.grid-list}
 
+<br>
+
+###### Facts
+*Coming soon!*
 <br>
 
 ###### Links
