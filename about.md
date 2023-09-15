@@ -2,7 +2,7 @@
 title: About
 description: 
 published: false
-date: 2023-09-15T20:29:45.875Z
+date: 2023-09-15T21:10:28.665Z
 tags: info, about, information
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
@@ -43,8 +43,22 @@ With Zoe you get statistics like champions played, [tips for every champion](/en
 
 <br>
 
-## Facts
-*Coming soon!*
+## Facts & Numbers
+
+- <i class="mdi mdi-calendar"></i>  &nbsp; **Official start of the project** | 12.04.2019	
+- <i class="mdi mdi-code-tags"></i>  &nbsp; **Current version of Zoe** | v1.13.3a *(15.09.2023)*{.caption .red--text}
+- <i class="mdi mdi-slash-forward-box"></i>  &nbsp; **Total Zoe commands** | 41 *(15.09.2023)*{.caption .red--text}
+- <i class="mdi mdi-chart-areaspline"></i>  &nbsp; **Total created Zoe players** | > 51.000 *(15.09.2023)*{.caption .red--text}
+- <i class="mdi mdi-chart-areaspline"></i>  &nbsp; **Total servers Zoe is on** | > 7.600 *(15.09.2023)*{.caption .red--text}
+- <i class="mdi mdi-account"></i>  &nbsp; **Total translators** | 77 *(15.09.2023)*{.caption .red--text}
+- <i class="mdi mdi-translate"></i>  &nbsp; **Added translation languages** | 26 *(15.09.2023)*{.caption .red--text}
+- <i class="mdi mdi-translate"></i>  &nbsp; **Available strings for translation** | 1,190 *(15.09.2023)*{.caption .red--text}	
+- <i class="mdi mdi-translate"></i>  &nbsp; **Overall translation status** | 19.1% *(15.09.2023)*{.caption .red--text}
+- <i class="mdi mdi-library"></i>  &nbsp; **Total wiki pages** | 162 *(15.09.2023)*{.caption .red--text}
+- <i class="mdi mdi-account"></i>  &nbsp; **Total wiki editors** | 1 *(15.09.2023)*{.caption .red--text}
+- <i class="mdi mdi-gift"></i>  &nbsp; **Total Ko-Fi supporters** | 100 *(15.09.2023, by Ko-Fi)*{.caption .red--text}
+{.grid-list}
+
 <br>
 
 ## Links
