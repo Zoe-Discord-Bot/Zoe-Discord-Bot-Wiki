@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2023-09-15T15:04:48.702Z
+date: 2023-09-16T07:19:06.893Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -88,10 +88,8 @@ The [infochannel](/en/features/infoChannel) contains stats on [players](/en/term
 ![](/en_/en_infochannel.png)
 ![](/en_/en_gamecard.png)
 
-<br>
-
->For more information about the infochannel click [HERE](/en/features/infoChannel).
->{.is-info}
+- [Infochannel *For more information about the infochannel click here.*](/en/features/infoChannel)
+{.links-list}
 
 <br>
   
@@ -101,8 +99,8 @@ The [rankchannel](/en/features/rankChannel) is, where a message will be sent aft
 
 ![](/en_/en_rankchannel_message.png)
 
-> For more information about the rankchannel click [HERE](/en/features/rankChannel).
->{.is-info}
+- [Rankchannel *For more information about the rankchannel click here.*](/en/features/rankChannel)
+{.links-list}
   
 <br>
   
@@ -112,9 +110,9 @@ This channel will send stats about an account in relation to clash. It will cont
 
 ![](/en_/en_stats_teamanalysis_picks.png)
 
-> For more information about the clashchannel click [HERE](/en/features/clashChannel).
->{.is-info}
-  
+- [Clashchannel *For more information about the clashchannel click here.*](/en/features/clashChannel)
+{.links-list}
+
 <br>
   
 ## Leaderboards (a dedicated channel with several leaderboards within is recommended)
@@ -132,9 +130,9 @@ This feature allows you to create leaderboards that refresh automatically. Sever
 
 ![](/en_/en_leaderboard_championmasterypoints.png)
 
-> For more information about leaderboards click [HERE](/en/features/leaderboards).
->{.is-info}
-  
+- [Leaderboards *For more information about leaderboards click here.*](/en/features/leaderboards)
+{.links-list}
+
 <br>
   
 ## Automated Discord roles by League rank
@@ -143,10 +141,12 @@ You can set up an automatic rank system with Zoe easily. The roles will be refre
 
 ![](/improved_rankroles_5.png)
 
-> For more information about rankroles click [HERE](/en/features/rankroles).
->{.is-info}
+- [Rankroles *For more information about rankroles click here.*](/en/features/rankroles)
+{.links-list}
   
-Once your features are set up correctly, they will update automatically as soon as a game is detected via the Discord presence of [registered players]//en/terms/player) or once an hour at least. You can also refresh your server with the command [`/refresh`](/en/commands/important/refresh).
+<br>
+  
+Once your features are set up correctly, they will update automatically as soon as a game is detected via the Discord presence of [registered players](/en/terms/player) or once an hour at least. You can also refresh your server with the command [`/refresh`](/en/commands/important/refresh).
  
 <br>
   
@@ -171,11 +171,9 @@ One example being [`/stats profile`](/en/commands/stats/profile) letting you vie
 # Setup - Final words
 
 > Zoe is an actively developed bot that offers a ⭐[premium subscription](/en/support)⭐ to support its development. This subscription offers some additional options but is by far not mandatory. 
-For more information: [Subscription Wiki page](https://wiki.zoe-discord-bot.ch/en/support), [Boosting](https://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting), [`/subscription`](/en/commands/important/subscription) and [`/boost`](/en/commands/important/boost)
-  
-
-> If you want to see the list of commands: [`/help`](/en/commands/important/help) or click [HERE](/en/commands/).
-> If you have any questions, suggestions or need help, please come here: [https://discord.gg/whc5PrC](https://discord.gg/whc5PrC)   
-> *To review the setup help message, do the command:* [`/setup`](/en/commands/important/setup)
-  >{.is-info}
+For more information: [Subscription Wiki page](https://wiki.zoe-discord-bot.ch/en/support), [Boosting](https://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting), [`/subscription`](/en/commands/important/subscription) and [`/boost`](/en/commands/important/boost)  
+- [Commands *If you want to see the list of commands: `/help` or click here.*](/en/commands)
+- [Discord Server *If you have any questions, suggestions or need help, please come here*](https://discord.gg/whc5PrC)
+- [Setup *To review the setup help message, do the command: `/setup`*](/en/commands/important/setup)
+{.links-list}
   
