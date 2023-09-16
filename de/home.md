@@ -2,7 +2,7 @@
 title: Zoe Discord Bot Wiki Homepage - Deutsch
 description: Erfahre alles über Zoe, den League of Legends Discord-Bot.
 published: true
-date: 2023-08-21T08:20:59.435Z
+date: 2023-09-16T07:31:00.707Z
 tags: startseite, start, home
 editor: markdown
 dateCreated: 2021-07-14T09:13:23.860Z
@@ -28,36 +28,32 @@ dateCreated: 2021-07-14T09:13:23.860Z
 > **Du brauchst Hilfe für Zoe?**  Schau dich hier um: [FAQ](/de/faq), [Fehlersuche](/de/troubleshooting) oder tritt unserem [Discord Server](https://discord.gg/4Rxrzsxb7d) bei und öffne einen Supportpost!
 > {.is-warning}
 
-<br>
-
-## Über Zoe
-
-
-Zoe ist ein Dicord Bot für League of Legends und TFT der, sobald er konfiguriert ist, automatisch Statistiken für jeden registrierten Spieler erstellt. <br> <br> Mit Zoe erhältst du Statistiken wie gespielte Champions, [Tipps für alle Champions](/de/features/champion-analysis), Rang und Siegquote über [aktuell laufende Spiele](/en/features/infoChannel), [gewertete Spiele](/en/features/rankChannel) mit Promotion-Tracking,  [einen Spielverlauf](/en/features/matchhistoryChannel) für Spieler und Teams, [Leaderboards](/en/features/leaderboards) um sich mit Anderen in verschiedenen Kategorien, wie Gesamtmeisterschaftspunkten oder durchschnittlicher KDA auch für bestimmte Champions und mehr zu vergleichen, Pick- und Bannvorschläge durch [eine Analyse des eigenen und des gegnerischen Clashteams](/en/features/clashChannel), [Rangrollen](/en/features/rankroles) und vieles mehr.
-
-<br>
-
-_**Wie du Zoe für deinen Server einrichtest:**_
-> [**Einrichtung**](/de/setup)
- >{.is-info}
- 
- >[**Konfiguration**](/en/Zoe-Configuration)
-  >{.is-info}
-
-
-_**Erfahre mehr über alle Funktionen, die Zoe zu bieten hat:**_
-> [**Zentrale Features**](/en/features)
- >{.is-info}
- 
- >[**Alle Befehle**](/en/commands)
-  >{.is-info}
-  
-*Alternativ kannst du dir alle wichtigen Seiten im linken Menü ansehen oder in der Suchleiste oben suchen!*
+>   *Alternativ kannst du dir alle wichtigen Seiten im linken Menü ansehen oder in der Suchleiste oben suchen!*
+> {.is-info}
 
 <br>
 
 
+##### Über Zoe
+- [<i class="mdi mdi-robot-excited-outline"></i> Über *Lerne mehr über Zoe*](/de/about)
+{.links-list}
 
->[Terms of Service](https://zoe-discord-bot.ch/terms-of-service.html) & [Privacy Policy](https://zoe-discord-bot.ch/privacy-policy.html)
->{.is-success}
+<br>
 
+##### Zoe zu deinem Server hinzufügst:
+- [<i class="mdi mdi-power"></i> Einrichtung *Wie du Zoe auf deinem Server nutzen kannst*](/de/setup)
+- [<i class="mdi mdi-cog-outline"></i> Konfiguration *Konfigure Zoe für deine Nutzung*](/de/Zoe-Configuration)
+{.links-list}
+
+<br>
+
+##### Lerne mehr über Features die Zoe dir bietet:
+- [<i class="mdi mdi-diamond-stone"></i> Zentrale Features *Dafür wurde Zoe gemacht*](/de/features)
+- [<i class="mdi mdi-message-outline"></i> Alle Befehle *Übersicht über alle Befehle, die du nutzen kannst*](/de/commands)
+{.links-list}
+
+<br><br>
+
+- [<i class="mdi mdi-shield-check-outline"></i> Terms of Service *Lese unsere Terms of Service*](https://zoe-discord-bot.ch/terms-of-service.html)
+- [<i class="mdi mdi-shield-lock-outline"></i> Privacy Policy *Informiere dich über unsere Privacy Policy*](https://zoe-discord-bot.ch/privacy-policy.html)
+{.links-list}
