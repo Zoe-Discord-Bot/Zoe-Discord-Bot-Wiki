@@ -2,7 +2,7 @@
 title: Zoe Development Status
 description: If you are interested in what features await you in the future, you can get an insight here.
 published: true
-date: 2023-09-18T08:47:52.506Z
+date: 2023-09-18T08:51:41.165Z
 tags: dev, status, dev status, development, development status, future, next features
 editor: markdown
 dateCreated: 2023-05-11T20:07:22.784Z
@@ -27,19 +27,6 @@ dateCreated: 2023-05-11T20:07:22.784Z
 > Generally, the changes listed on this page are implemented. However, we do not guarantee that this is always the case. We would also like to point out that we reserve the right to make small changes to the schedule. Thank you for your understanding.
 >{.is-warning}
 
-<br>
-
-
-
-### <span style="color:#1565c0">1.13.3</span> &nbsp; <span style="color:#757575"> Fixes</span>
-
--   🏁 **Internal**: Optimise database usage to avoid slowdowns (Will continue even after being deployed)
--   🏁 **Fix (Feature)**: Champion analysis
--   🏁 **Fix (Command)**: Simplify subscription embed to make it more clear overall
--   🏁 **QoL**: Discord namechange > display usernames correctly
--   🏁 **Fix (Feature)**: Add option to disable rank update or select in which interval it is sent in the rankchannel
--   🏁 **Fix (Feature):** fix discord markdown issues on leaderboards
--   🏁 **Fix (Command)**: Correct period strings when using the rankupdate command
 
 <br>
 
