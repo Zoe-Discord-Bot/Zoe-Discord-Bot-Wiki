@@ -2,7 +2,7 @@
 title: FAQ - Frequently asked questions
 description: Find answers to frequently asked questions here.
 published: true
-date: 2023-08-24T07:29:00.302Z
+date: 2023-09-18T08:47:14.872Z
 tags: faq, frequently, asked, questions
 editor: markdown
 dateCreated: 2021-09-30T16:47:28.465Z
@@ -33,7 +33,7 @@ dateCreated: 2021-09-30T16:47:28.465Z
 
 ## Which games are / why is flex / TFT displayed in [infopanel](/en/features/infoChannel)?
 
-> The [infopanel](/en/features/infoChannel) shows the last update of the rank by default. If your last game was a flex game, this change is shown. You can change this behavior in Zoes config (see the [configuration](http://wiki.zoe-discord-bot.ch/en/Zoe-Configuration/Infochannel/Infochannel-Rankfilter) or [this guide](http://wiki.zoe-discord-bot.ch/en/Guides/SoloQ-Infopanel)).
+> The [infopanel](/en/features/infoChannel) shows the last update of the rank by default. If your last game was a flex game, this change is shown. You can change this behavior in Zoes config (see the [configuration](/en/Zoe-Configuration/Infochannel/Infochannel-Rankfilter) or [this guide](/en/Guides/SoloQ-Infopanel)).
 
 <br>
 
@@ -63,7 +63,7 @@ dateCreated: 2021-09-30T16:47:28.465Z
 
 ## Where can I see what will be developed next?
 
-> We have set up a special page to inform you about upcoming features. Feel free to have a look there: [Development Status](https://wiki.zoe-discord-bot.ch/en/Development-Status).
+> We have set up a special page to inform you about upcoming features. Feel free to have a look there: [Development Status](/en/Development-Status).
 
 <br>
 
