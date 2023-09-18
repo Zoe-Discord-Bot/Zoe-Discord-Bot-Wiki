@@ -2,7 +2,7 @@
 title: Über das Projekt
 description: Lerne mehr über Zoe
 published: true
-date: 2023-09-18T08:36:15.665Z
+date: 2023-09-18T13:30:13.181Z
 tags: info, about, über, informationen
 editor: markdown
 dateCreated: 2023-09-16T07:44:08.961Z
@@ -33,6 +33,17 @@ Mit Zoe erhältst du Statistiken wie gespielte Champions, [Tipps für alle Champ
 
 <br>
 
+## Team
+
+- ![](https://cdn.discordapp.com/avatars/228541163966038016/45734838c4ddc93848b391ffdce8106a.png?size=64 =18x)  &nbsp; **KaluNight** | Gründer & Entwickler von Zoe
+- ![](https://cdn.discordapp.com/avatars/589773984447463434/a_0ff5d7f5b06086554ae4dfa14f427c43.gif?size=64 =18x) &nbsp; **timfernix** | Wiki- & Übersetzungs-Manager und Discord-Chefmoderator
+- ![](https://cdn.discordapp.com/avatars/557297296526671872/a81038d05900dc2b3d6a55b9d0bf9aea.png?size=64 =18x) &nbsp; **pesooo** | Discord Moderator
+- ![](https://cdn.discordapp.com/avatars/323247267802906624/5dc2ef183c6de2c59f5a4f4aa7a5e0bd.png?size=64 =18x) &nbsp; **vandals** | Discord Moderator
+{.grid-list}
+
+<br>
+
+
 ## Zoes Geburt *(von ![](https://cdn.discordapp.com/avatars/228541163966038016/45734838c4ddc93848b391ffdce8106a.png?size=64 =10x)KaluNight, übersetzt)*{.caption .grey--text}
 > Um die Wahrheit zu sagen: Zoe wurde durch Zufall erschaffen. Es gab eine Zeit, in der ich ein League of Legends-Team hatte und ich wollte Leuten, die sich für mein Team interessierten, ein kleines Extra geben, das sie dazu bringen würde, beizutreten.
 >
@@ -44,13 +55,11 @@ Mit Zoe erhältst du Statistiken wie gespielte Champions, [Tipps für alle Champ
 
 <br>
 
-## Team
-
-- ![](https://cdn.discordapp.com/avatars/228541163966038016/45734838c4ddc93848b391ffdce8106a.png?size=64 =18x)  &nbsp; **KaluNight** | Gründer & Entwickler von Zoe
-- ![](https://cdn.discordapp.com/avatars/589773984447463434/a_0ff5d7f5b06086554ae4dfa14f427c43.gif?size=64 =18x) &nbsp; **timfernix** | Wiki- & Übersetzungs-Manager und Discord-Chefmoderator
-- ![](https://cdn.discordapp.com/avatars/557297296526671872/a81038d05900dc2b3d6a55b9d0bf9aea.png?size=64 =18x) &nbsp; **pesooo** | Discord Moderator
-- ![](https://cdn.discordapp.com/avatars/323247267802906624/5dc2ef183c6de2c59f5a4f4aa7a5e0bd.png?size=64 =18x) &nbsp; **vandals** | Discord Moderator
-{.grid-list}
+## Unsere Mission *(von ![](https://cdn.discordapp.com/avatars/589773984447463434/a_0ff5d7f5b06086554ae4dfa14f427c43.gif?size=64 =10x)timfernix, übersetzt)*{.caption .grey--text}
+> Ich verfolge derzeit das Ziel, die League of Legends-Community zu bereichern, den Spielern zu helfen, ihre Erfahrungen zu maximieren und es ihnen zu ermöglichen, so viel wie möglich aus den Begegnungen zu lernen und Spaß zu haben. Egal ob du ein ambitionierter Wettkampfspieler oder ein Gelegenheitsspieler bist, Zoe ist hier, um dich mit wertvollen Informationen und Unterstützung zu versorgen.
+>
+> Zoe ist deine treue Begleiterin bei allen Abenteuern in der Kluft und sorgt dafür, dass du immer die Daten und Informationen hast, die du brauchst, um deine Ziele zu erreichen.
+Egal, ob es darum geht, zu sehen, was dir an deinen Statistiken am wichtigsten ist und deine Leistung im Laufe der Zeit zu überwachen, oder dich im Wettbewerb (oder zum Spaß) mit anderen Spielern und deinen Freunden zu vergleichen.
 
 <br>
 
