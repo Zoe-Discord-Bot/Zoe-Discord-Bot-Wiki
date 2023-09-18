@@ -2,7 +2,7 @@
 title: Über das Projekt
 description: Lerne mehr über Zoe
 published: true
-date: 2023-09-16T07:44:08.961Z
+date: 2023-09-18T08:36:15.665Z
 tags: info, about, über, informationen
 editor: markdown
 dateCreated: 2023-09-16T07:44:08.961Z
@@ -59,8 +59,8 @@ Mit Zoe erhältst du Statistiken wie gespielte Champions, [Tipps für alle Champ
 - <i class="mdi mdi-calendar"></i>  &nbsp; **Offizieller Start des Projekts** | 12.04.2019	
 - <i class="mdi mdi-code-tags"></i>  &nbsp; **Aktuelle Version von Zoe** | v1.13.3a *(15.09.2023)*{.caption .red--text}
 - <i class="mdi mdi-slash-forward-box"></i>  &nbsp; **Aktuelle Version von Zoe** | 41 *(15.09.2023)*{.caption .red--text}
-- <i class="mdi mdi-chart-areaspline"></i>  &nbsp; **Insgesamt erstellte Zoe-Spieler** | > 51.000 *(15.09.2023)*{.caption .red--text}
-- <i class="mdi mdi-chart-areaspline"></i>  &nbsp; **Server auf denen Zoe ist** | > 7.600 *(15.09.2023)*{.caption .red--text}
+- <i class="mdi mdi-account"></i>  &nbsp; **Insgesamt erstellte Zoe-Spieler** | > 51.000 *(15.09.2023)*{.caption .red--text}
+- <i class="mdi mdi-server"></i>  &nbsp; **Server auf denen Zoe ist** | > 7.600 *(15.09.2023)*{.caption .red--text}
 - <i class="mdi mdi-account"></i>  &nbsp; **Alle Übersetzer** | 77 *(15.09.2023)*{.caption .red--text}
 - <i class="mdi mdi-translate"></i>  &nbsp; **Übersetzungssprachen** | 26 *(15.09.2023)*{.caption .red--text}
 - <i class="mdi mdi-translate"></i>  &nbsp; **Verfügbare Zeichenfolgen für die Übersetzung** | 1.190 *(15.09.2023)*{.caption .red--text}	
