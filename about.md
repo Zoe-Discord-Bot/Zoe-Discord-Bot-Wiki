@@ -2,7 +2,7 @@
 title: About the project
 description: Learn about Zoe and it's background.
 published: true
-date: 2023-09-18T08:34:20.956Z
+date: 2023-09-18T13:27:56.148Z
 tags: info, about, information, system, links
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
@@ -33,6 +33,16 @@ With Zoe you get statistics like champions played, [tips for every champion](/en
 
 <br>
 
+## Team
+
+- ![](https://cdn.discordapp.com/avatars/228541163966038016/45734838c4ddc93848b391ffdce8106a.png?size=64 =18x)  &nbsp; **KaluNight** | Creator & Developer of Zoe
+- ![](https://cdn.discordapp.com/avatars/589773984447463434/a_0ff5d7f5b06086554ae4dfa14f427c43.gif?size=64 =18x) &nbsp; **timfernix** | Wiki & Translation Manager and Discord Head Moderator
+- ![](https://cdn.discordapp.com/avatars/557297296526671872/a81038d05900dc2b3d6a55b9d0bf9aea.png?size=64 =18x) &nbsp; **pesooo** | Discord Moderator
+- ![](https://cdn.discordapp.com/avatars/323247267802906624/5dc2ef183c6de2c59f5a4f4aa7a5e0bd.png?size=64 =18x) &nbsp; **vandals** | Discord Moderator
+{.grid-list}
+
+<br>
+
 ## Birth of Zoe *(by ![](https://cdn.discordapp.com/avatars/228541163966038016/45734838c4ddc93848b391ffdce8106a.png?size=64 =10x)KaluNight)*{.caption .grey--text}
 > To tell you the truth, Zoe was created by chance. There was a time when I had a League of Legends team and I wanted to give people who were interested in my team a little extra that would make them want to join.
 >
@@ -41,6 +51,14 @@ With Zoe you get statistics like champions played, [tips for every champion](/en
 > By reworking the code I had made, Zoe was born. And of course, over the years, I added more features to make the bot more and more complete and comprehensive.
 >
 > I have a confession to make: I never really liked using League of Legends Discord bots. Using commands to get the smallest bit of information always annoyed me. That's why the whole design of Zoe revolves around creating "channels" that then send information automatically. I've always felt that this could be done better and in a more user-friendly way, and Zoe is trying to achieve that goal. I hope you think we have achieved it!
+
+<br>
+
+## Our mission *(by ![](https://cdn.discordapp.com/avatars/589773984447463434/a_0ff5d7f5b06086554ae4dfa14f427c43.gif?size=64 =10x)timfernix)*{.caption .grey--text}
+> I am currently pursuing the goal of enriching the League of Legends community, helping players maximize their experience, making it possible to learn as much as possible from the encounters and have fun. Whether you're an ambitious competitive player or a casual gamer, Zoe is here to provide you with valuable information and support.
+>
+> Zoe is your faithful companion on all adventures on the rift and will make sure you always have the data and information you need to achieve your goals.
+Whether it's seeing what's most important in your stats and monitoring your performance over time, or comparing yourself competitively (or for fun) with other players and your friends.
 
 <br>
 
