@@ -2,7 +2,7 @@
 title: Rankchannel - Feature
 description: Information about the rankchannel
 published: true
-date: 2023-09-04T09:25:52.259Z
+date: 2023-10-08T13:28:48.965Z
 tags: rankchannel, ranks, rank, channel, ranked
 editor: markdown
 dateCreated: 2021-07-06T10:00:19.466Z
@@ -12,7 +12,7 @@ dateCreated: 2021-07-06T10:00:19.466Z
 
 <br>
 
->**In the rankchannel, it is possible to follow the [players](/en/terms/player)' progress in the ranked climb. Zoe sends a short summary of the game after each ranked game of a registered [player](/en/terms/player). In the promotions to a higher rank, this is also displayed and you can follow how things are going. Daily, weekly and monthly [rankupdates](/en/commands/stats/rankupdate) are also sent in here.**
+>**In the rankchannel, it is possible to follow all [players](/en/terms/player)' (no limit) progress in the ranked climb. Zoe sends a short summary of the game after each ranked game of a registered [player](/en/terms/player). In the promotions to a higher rank, this is also displayed and you can follow how things are going. Daily, weekly and monthly [rankupdates](/en/commands/stats/rankupdate) are also sent in here.**
 >{.is-info}
 
 >### Related commands/pages:
