@@ -2,7 +2,7 @@
 title: Matchhistory Channel - Feature
 description: Information about the Matchhistory Channel
 published: true
-date: 2023-09-14T18:31:38.765Z
+date: 2023-10-08T13:27:36.094Z
 tags: channel, matchhistory, ranked, normals, aram, matches
 editor: markdown
 dateCreated: 2023-04-09T10:10:59.349Z
@@ -12,7 +12,7 @@ dateCreated: 2023-04-09T10:10:59.349Z
 
 <br>
 
->**The [matchhistorychannel](/en/features/matchhistoryChannel) displays [players'](/en/terms/player) matches with statistics and graphs. You can create multiple channels per team, [player](/en/terms/player) or for the entire server. In the matchhistorychannel you can see all games played by selected or all League of Legends accounts and view match statistics.** 
+>**The [matchhistorychannel](/en/features/matchhistoryChannel) displays [players'](/en/terms/player) matches with statistics and graphs. You can create multiple channels per team, [player](/en/terms/player) or for the entire server (so there is no limit). In the matchhistorychannel you can see all games played by selected or all League of Legends accounts and view match statistics.** 
 >{.is-info}
 
 >### Related commands/pages:
