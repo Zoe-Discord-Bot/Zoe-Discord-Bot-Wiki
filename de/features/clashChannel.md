@@ -2,8 +2,8 @@
 title: Clashkanal - Feature
 description: Informationen über den Clashkanal
 published: true
-date: 2023-08-12T18:45:50.077Z
-tags: clash, team, clash kanal, analyse, aktiv, inaktiv
+date: 2023-10-15T12:22:54.064Z
+tags: clash, team, analyse, clash kanal, aktiv, inaktiv
 editor: markdown
 dateCreated: 2023-08-12T18:45:50.077Z
 ---
@@ -23,12 +23,13 @@ dateCreated: 2023-08-12T18:45:50.077Z
 <br>
 
 ## Beispiel eines inaktiven Clashkanals
-
-![](/new_clashinactive.png)
-
+![](/de_/de_clashchannel_inactive.png)
 <br>
 
 ## Beispiel eines aktiven Clashkanals
+#### Automatische Analyse des eigenen Teams (Picks)
+![](/de_/de_clashchannel_active.png)
+<br>
 
-![new_clash_analysis.png](/new_clash_analysis.png)
-![new_clash_analysis_bans.png](/new_clash_analysis_bans.png)
+#### Analyse der Banns des gegnerischen Teams (Picks wie oben gezeigt)
+![](/de_/de_clashchannel_active_bans.png)
