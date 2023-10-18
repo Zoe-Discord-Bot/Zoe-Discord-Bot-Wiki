@@ -2,7 +2,7 @@
 title: About the project
 description: Learn about Zoe and it's background.
 published: true
-date: 2023-09-18T13:27:56.148Z
+date: 2023-10-18T16:47:31.939Z
 tags: info, about, information, system, links
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
@@ -43,7 +43,7 @@ With Zoe you get statistics like champions played, [tips for every champion](/en
 
 <br>
 
-## Birth of Zoe *(by ![](https://cdn.discordapp.com/avatars/228541163966038016/45734838c4ddc93848b391ffdce8106a.png?size=64 =10x)KaluNight)*{.caption .grey--text}
+## Birth of Zoe *(by KaluNight)*{.caption .grey--text}
 > To tell you the truth, Zoe was created by chance. There was a time when I had a League of Legends team and I wanted to give people who were interested in my team a little extra that would make them want to join.
 >
 > So I developed a little Discord bot that offered a very basic infochannel with gamecards on a single server. It wasn't very clean, but while I was creating this little project I thought I might have something interesting.
@@ -54,7 +54,7 @@ With Zoe you get statistics like champions played, [tips for every champion](/en
 
 <br>
 
-## Our mission *(by ![](https://cdn.discordapp.com/avatars/589773984447463434/a_0ff5d7f5b06086554ae4dfa14f427c43.gif?size=64 =10x)timfernix)*{.caption .grey--text}
+## Our mission *(by timfernix)*{.caption .grey--text}
 > I am currently pursuing the goal of enriching the League of Legends community, helping players maximize their experience, making it possible to learn as much as possible from the encounters and have fun. Whether you're an ambitious competitive player or a casual gamer, Zoe is here to provide you with valuable information and support.
 >
 > Zoe is your faithful companion on all adventures on the rift and will make sure you always have the data and information you need to achieve your goals.
@@ -64,8 +64,8 @@ Whether it's seeing what's most important in your stats and monitoring your perf
 
 ## Team
 
-- ![](https://cdn.discordapp.com/avatars/228541163966038016/45734838c4ddc93848b391ffdce8106a.png?size=64 =18x)  &nbsp; **KaluNight** | Creator & Developer of Zoe
-- ![](https://cdn.discordapp.com/avatars/589773984447463434/a_0ff5d7f5b06086554ae4dfa14f427c43.gif?size=64 =18x) &nbsp; **timfernix** | Wiki & Translation Manager and Discord Head Moderator
+- ![](https://cdn.discordapp.com/avatars/228541163966038016/a_3e2e26b41144dedf81c34dfbb155b10a.gif?size=64 =18x)  &nbsp; **KaluNight** | Creator & Developer of Zoe
+- ![](https://cdn.discordapp.com/avatars/589773984447463434/f89b8b3779f833aa5d8e2055aae9a544.png?size=64 =18x) &nbsp; **timfernix** | Wiki & Translation Manager and Discord Head Moderator
 - ![](https://cdn.discordapp.com/avatars/557297296526671872/a81038d05900dc2b3d6a55b9d0bf9aea.png?size=64 =18x) &nbsp; **pesooo** | Discord Moderator
 - ![](https://cdn.discordapp.com/avatars/323247267802906624/5dc2ef183c6de2c59f5a4f4aa7a5e0bd.png?size=64 =18x) &nbsp; **vandals** | Discord Moderator
 {.grid-list}
