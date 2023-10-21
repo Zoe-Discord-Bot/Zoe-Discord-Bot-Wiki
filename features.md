@@ -2,7 +2,7 @@
 title: Zoe Features
 description: In here you find all core features explained.
 published: true
-date: 2023-09-15T17:54:37.647Z
+date: 2023-10-21T09:15:46.407Z
 tags: features, core, core features, feature
 editor: markdown
 dateCreated: 2021-07-06T09:25:25.035Z
@@ -24,7 +24,7 @@ dateCreated: 2021-07-06T09:25:25.035Z
 
 <br>
 
--  [<i class="mdi mdi-tournament"></i> Clashchannel *Zoe performs an analysis of a team to help with pick and ban decisions.*](/en/features/clashChannel/) <br> <img src="/new_clash_analysis.png" height="500" img>
+-  [<i class="mdi mdi-tournament"></i> Clashchannel *Zoe performs an analysis of a team to help with pick and ban decisions.*](/en/features/clashChannel/) <br> <img src="/en_/en_clashchannel_active.png" height="500" img>
 {.links-list}
 
 <br> 
