@@ -2,7 +2,7 @@
 title: Zoe Patchnotes
 description: Here you can have a look at Zoe's patchnotes.
 published: true
-date: 2023-09-18T08:52:09.321Z
+date: 2023-11-22T22:51:03.418Z
 tags: patch, patch notes, version, patch note
 editor: ckeditor
 dateCreated: 2021-07-13T11:20:02.526Z
@@ -18,15 +18,15 @@ dateCreated: 2021-07-13T11:20:02.526Z
     <tbody>
       <tr>
         <th><strong>Current version:</strong></th>
-        <td><strong>v1.13.3a</strong></td>
+        <td><strong>v1.13.4</strong></td>
       </tr>
       <tr>
         <th><strong>Main novelty(s):</strong></th>
-        <td><strong>Manage rank update messages</strong></td>
+        <td><strong>Transition to Riot IDs</strong></td>
       </tr>
       <tr>
         <th><strong>Date of update:</strong></th>
-        <td><strong>25/07/2023</strong></td>
+        <td><strong>22/11/2023</strong></td>
       </tr>
       <tr>
         <th>&nbsp;</th>
@@ -38,7 +38,7 @@ dateCreated: 2021-07-13T11:20:02.526Z
       </tr>
       <tr>
         <th>Last update:</th>
-        <td>v1.13.2b - 19/07/2023</td>
+        <td>v1.13.3a - 25/07/2023</td>
       </tr>
     </tbody>
   </table>
@@ -63,10 +63,31 @@ dateCreated: 2021-07-13T11:20:02.526Z
     </thead>
     <tbody>
       <tr>
+        <td>v1.13.4</td>
+        <td>22/11/2023</td>
+        <td>
+          <h2>Minor update: Transition to Riot IDs</h2>
+          <h3><strong>V1.13.3a → V1.13.4</strong></h3>
+          <p>&nbsp;</p>
+          <p>A minor update today to allow for the transition to the new nickname system. All commands have been updated to reflect this and display Riot IDs instead of Summonernames.</p>
+          <p><strong>Since a lot of code has been changed everywhere in a short amount of time, please report any issues! It's possible I missed some bugs.</strong></p>
+          <p>I also took this opportunity to rework the <code>/stats teamanalysis</code> and <code>/stats predictrole</code> commands, which now require multiple players to be added in a row. This should greatly improve usability!</p>
+          <p>Change list:</p>
+          <p><strong>Migration</strong> Zoe now uses the Riot IDs! You can now create players using the new system. The Riot ID is now used everywhere instead of the summonername.</p>
+          <p><i>QOL</i> The commands <code>/stats teamanalysis</code> and <code>/stats predictrole</code>are now much easier to use! Enter the command only once!</p>
+          <p><i>Bug Fix</i> Fixed a bug that caused Zoe's refresh to crash when playing a TFT game in a certain game mode.</p>
+          <p>-End of change list-</p>
+          <p>Interested in future Zoe updates? We have created a roadmap with all planned features: https://wiki.zoe-discord-bot.ch/en/Development-Status</p>
+          <p>As always, if you have any bugs, comments or requests, you can report them in the appropriate channels.</p>
+          <p>If you want to support me in the development of Zoe and get access to the new features, you can do so here: &lt;https://bit.ly/support-zoe&gt; (Ty so much!).</p>
+          <p><strong>A big thank you to everyone who supports me, including aclcdarktronic, SUNBOOP, SebastianNoll, Deamon, sileNtF1, ninjoi, benny and all the other lower tiers!</strong></p>
+        </td>
+      </tr>
+      <tr>
         <td>v1.13.3a</td>
         <td>25/07/2023</td>
         <td>
-          <h2>Tiny update: O<strong>ption to manage the "rank update" messages</strong></h2>
+          <h2>Minor update: O<strong>ption to manage the "rank update" messages</strong></h2>
           <h3><strong>V1.13.2b → V1.13.3a</strong></h3>
           <p>Today's small update <strong>adds an option to manage the "rank update" messages that are automatically sent to the rankchannel.</strong> This way you can either disable them completely or only receive certain messages (e.g. you can disable daily messages and only receive messages per week and month). Some servers that don't play many ranked matches will be flooded with empty messages, so this option is mainly for them! Here is the patchnote:</p>
           <p>Change list:</p>
@@ -85,7 +106,7 @@ dateCreated: 2021-07-13T11:20:02.526Z
         <td>v1.13.2b</td>
         <td>19/07/2023</td>
         <td>
-          <h2>Tiny update: Updated rank icons &amp; implementation of emerald rank</h2>
+          <h2>Minor update: Updated rank icons &amp; implementation of emerald rank</h2>
           <h3><strong>V1.13.2a → V1.13.2b</strong></h3>
           <p>- Updated all rank icons to the newest ones</p>
           <p>- Implemented emerald rank</p>
