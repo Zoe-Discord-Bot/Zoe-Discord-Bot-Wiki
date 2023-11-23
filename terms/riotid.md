@@ -2,7 +2,7 @@
 title: Riot ID
 description: Learn what a Riot ID is including gamename and tagline.
 published: false
-date: 2023-11-23T08:14:17.912Z
+date: 2023-11-23T08:25:47.665Z
 tags: tag, riot, id, riot id, gamename, tagline
 editor: markdown
 dateCreated: 2023-11-23T07:53:57.640Z
@@ -14,9 +14,9 @@ dateCreated: 2023-11-23T07:53:57.640Z
 >**Every League of Legends player has chosen a Riot ID when creating their account or at Riot ID transition day (in November 2023). Changing it will change how you appear in-game (although you only see the gamename ingame).**
 >
 > **Your Riot ID is divided into two parts. For example:
-My Riot ID is `Star Guardian Ez#real`,
-so my gamename is `Star Guardian Ez` 
-and my tagline is `#real`**
+My _Riot ID_ is `Star Guardian Ez#real`,
+so my _gamename_ is `Star Guardian Ez` 
+and my _tagline_ is `#real`**
 >
 >**Your gamename does not have to be unique. So as long as your Riot ID (as a whole) isn't taken, you can have any gamename you like. So make sure you use the right tagline with your gamename.
 Taglines start with a region code by default, but once you've changed them, you cannot go back to using any [region code](/en/terms/region).**
