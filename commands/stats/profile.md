@@ -2,7 +2,7 @@
 title: /stats profile - Command
 description: Information about the /stats profile command
 published: true
-date: 2023-09-08T17:15:31.765Z
+date: 2023-11-25T12:20:42.165Z
 tags: stats, stats profile, player stats, profile
 editor: markdown
 dateCreated: 2021-07-13T10:38:02.384Z
@@ -16,8 +16,8 @@ dateCreated: 2021-07-13T10:38:02.384Z
 **Usage: `/stats profile` <br>
 >**For [players](/en/terms/player) that are registered on your server you can simply mention them.**
 Usage: `/stats profile @DiscordUser`** <br>
-For all other profiles fill in their [region](/en/terms/region) and [summonername](/en/terms/summonername).**
->**Usage: `/stats profile region summonername`** <br>
+For all other profiles fill in their [region](/en/terms/region), [gamename and tag (Riot ID)](/en/terms/summonername).**
+>**Usage: `/stats profile region gamename tag`** <br>
 >{.is-info}
 
 >### Permissions needed:
@@ -37,7 +37,8 @@ For all other profiles fill in their [region](/en/terms/region) and [summonernam
 ![](/en_/en_stats_profile_user.gif)
 
 #### For every other account
-![](/en_/en_stats_profile_account.gif)
+*Outdated image* 
+`/stats profile  region: EUW  gamename: Star Guardian Ez  tag: real`
 <br>
 
 ## Example of a players profile stats
