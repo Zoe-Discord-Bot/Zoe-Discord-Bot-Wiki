@@ -2,7 +2,7 @@
 title: /stats predictrole  - Command
 description: Information about the /stats predictrole command
 published: true
-date: 2023-08-24T07:19:22.941Z
+date: 2023-11-25T12:44:29.737Z
 tags: prediction, predict role, predictrole, stats predictrole, predict, role, lane, lanes
 editor: markdown
 dateCreated: 2021-07-13T10:51:09.340Z
@@ -11,7 +11,7 @@ dateCreated: 2021-07-13T10:51:09.340Z
 # /stats predictrole
 
 >### Information
->**When you execute this command, you have to specify 5 accounts with [region](/en/terms/region) so that Zoe can start an analysis. Zoe evaluates who could play on which position.**
+>**When you execute this command, you have to specify 5 accounts with [region](/en/terms/region), [gamename and tag (Riot ID)](/en/terms/riotid) so that Zoe can start an analysis. Zoe evaluates who could play on which position.**
 >{.is-info}
 
 >### Permissions needed:
@@ -25,9 +25,8 @@ dateCreated: 2021-07-13T10:51:09.340Z
 
 ## Usage
 
-Repeat the process of adding accounts (`@Zoe region summonername`) shown in the gif another 4 times to continue.
-
-![](/new_stats_predictrole.gif)
+*Outdated image*
+`/stats predictrole riotid1 riotid2 riotid3 riotid4 riotid5`
 
 <br>
 
