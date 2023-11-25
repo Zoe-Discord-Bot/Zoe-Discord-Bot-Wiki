@@ -2,7 +2,7 @@
 title: Riot ID
 description: Learn what a Riot ID is including gamename and tagline.
 published: false
-date: 2023-11-23T08:25:47.665Z
+date: 2023-11-25T11:45:03.091Z
 tags: tag, riot, id, riot id, gamename, tagline
 editor: markdown
 dateCreated: 2023-11-23T07:53:57.640Z
@@ -29,9 +29,15 @@ Taglines start with a region code by default, but once you've changed them, you 
 >-   [`/register`](/en/commands/important/register)
 >-   [`/add account`](/en/commands/add/account)
 
-> You can easily find your Riot ID on your profile, as seen below or on the [Riot Account page](https://account.riotgames.com/) after your logged into it.
+> You can easily find your gamename ingame and your Riot ID in the Riot Client as seen below or on the [Riot Account page](https://account.riotgames.com/) after your logged into it.
 >{.is-success}
+  
+League of Legends Client | Riot Client | Riot Account Page
+:--------: | :--------: | :--------:
+Only gamename   | Riot ID   | Riot ID
+![](/en_/en_riotid_gamename.png) | ![](/en_/en_riotid_riotclient.png) | ![](/en_/en_riotid_riotaccount.png)
+  
 
-![]()
+
 
 
