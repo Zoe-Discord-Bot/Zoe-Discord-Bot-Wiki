@@ -2,7 +2,7 @@
 title: About the project
 description: Learn about Zoe and it's background.
 published: true
-date: 2023-10-18T17:57:13.120Z
+date: 2023-11-25T11:59:03.060Z
 tags: info, about, information, system, links
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
@@ -75,17 +75,17 @@ Whether it's seeing what's most important in your stats and monitoring your perf
 ## Facts & Numbers
 
 - <i class="mdi mdi-calendar"></i>  &nbsp; **Official start of the project** | 12.04.2019	
-- <i class="mdi mdi-code-tags"></i>  &nbsp; **Current version of Zoe** | v1.13.3a *(15.09.2023)*{.caption .red--text}
+- <i class="mdi mdi-code-tags"></i>  &nbsp; **Current version of Zoe** | v1.13.4 *(25.11.2023)*{.caption .red--text}
 - <i class="mdi mdi-slash-forward-box"></i>  &nbsp; **Total Zoe commands** | 41 *(15.09.2023)*{.caption .red--text}
-- <i class="mdi mdi-account"></i>  &nbsp; **Total created Zoe players** | > 52.000 *(18.10.2023)*{.caption .red--text}
-- <i class="mdi mdi-server"></i>  &nbsp; **Total servers Zoe is on** | > 7.900 *(18.10.2023)*{.caption .red--text}
+- <i class="mdi mdi-account"></i>  &nbsp; **Total created Zoe players** | > 54.000 *(25.11.2023)*{.caption .red--text}
+- <i class="mdi mdi-server"></i>  &nbsp; **Total servers Zoe is on** | > 8.100 *(25.11.2023)*{.caption .red--text}
 - <i class="mdi mdi-account"></i>  &nbsp; **Total translators** | 78 *(18.10.2023)*{.caption .red--text}
 - <i class="mdi mdi-translate"></i>  &nbsp; **Added translation languages** | 26 *(15.09.2023)*{.caption .red--text}
 - <i class="mdi mdi-translate"></i>  &nbsp; **Available strings for translation** | 1,190 *(15.09.2023)*{.caption .red--text}	
 - <i class="mdi mdi-translate"></i>  &nbsp; **Overall translation status** | 20.0% *(18.10.2023)*{.caption .red--text}
 - <i class="mdi mdi-library"></i>  &nbsp; **Total wiki pages** | 162 *(15.09.2023)*{.caption .red--text}
 - <i class="mdi mdi-account"></i>  &nbsp; **Total wiki editors** | 1 *(15.09.2023)*{.caption .red--text}
-- <i class="mdi mdi-gift"></i>  &nbsp; **Total Ko-Fi supporters** | 105 *(18.10.2023, data by Ko-Fi)*{.caption .red--text}
+- <i class="mdi mdi-gift"></i>  &nbsp; **Total Ko-Fi supporters** | 117 *(25.11.2023, data by Ko-Fi)*{.caption .red--text}
 {.grid-list}
 
 <br>
