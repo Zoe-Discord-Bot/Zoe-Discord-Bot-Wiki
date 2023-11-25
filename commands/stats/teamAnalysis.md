@@ -2,7 +2,7 @@
 title: /stats teamanalysis - Command
 description: Information about the /stats teamanalysis command
 published: true
-date: 2023-09-10T08:33:17.175Z
+date: 2023-11-25T12:48:42.837Z
 tags: stats, analysis, team, team analysis, team stats, teamanalysis, stats teamanalysis
 editor: markdown
 dateCreated: 2021-07-13T11:00:45.454Z
@@ -11,7 +11,7 @@ dateCreated: 2021-07-13T11:00:45.454Z
 # /stats teamanalysis
 
 >### Information
->**When you execute this command you have to specify 5 accounts with [region](/en/terms/region) and optionally add a lane so that Zoe can start an analysis. Zoe evaluates who could play what on which position (if not already defined).** <br>
+>**When you execute this command you have to specify 5 accounts with [`region`](/en/terms/region), [`gamename, tag (Riot ID)`](/en/terms/riotid) and optionally add a lane so that Zoe can start an analysis. Zoe evaluates who could play what on which position (if not already defined).** <br>
 >**Works similar to [`/clash analysis`](https://wiki.zoe-discord-bot.ch/en/commands/clash/analysis) but without the clash team.**
 >{.is-info}
 
@@ -27,12 +27,8 @@ dateCreated: 2021-07-13T11:00:45.454Z
 
 ## Usage
 
-![en_stats_teamanalysis_command.gif](/en_/en_stats_teamanalysis_command.gif)
-
-Repeat the process of adding accounts (`@Zoe region summonername`) shown another 4 times and select a role or fill as seen below to continue.
-
-![](/en_/en_stats_teamanalysis_1.gif)
-<img src="/en_/en_stats_teamanalysis_2.png" width="64%" img>
+*Outdated image*
+`/stats teamanalysis riotid1 riotid2 riotid3 riotid4 riotid5`
 
 <br>
 
