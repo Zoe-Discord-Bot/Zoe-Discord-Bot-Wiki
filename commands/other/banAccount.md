@@ -2,7 +2,7 @@
 title: /banaccount - Command
 description: Information about the /banaccount command
 published: true
-date: 2023-09-09T09:29:44.221Z
+date: 2023-11-25T12:41:10.206Z
 tags: account, ban, banaccount, ban account
 editor: markdown
 dateCreated: 2021-07-13T09:52:24.528Z
@@ -26,7 +26,7 @@ dateCreated: 2021-07-13T09:52:24.528Z
 
 ## Usage
 > :one:You start with issuing the command as seen below, just type your corresponding details for region and summonername:
-<img src="/en_/en_ban_account_1.png" width="40%" img> <br>
+*Outdated image* `/banaccount region gamename tag` <br>
 > :two:After that you will see the verification message with an summonericon which you must set for the account specified before.
 <img src="/en_/en_ban_account_2.png" width="50%" img> <br>
 > :three:Open the League of Legends client and log in if necessary. Click on your profile and summonericon.
