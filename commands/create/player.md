@@ -2,16 +2,16 @@
 title: /create player - Command
 description: Information about the /create player command
 published: true
-date: 2023-08-18T06:54:43.051Z
+date: 2023-11-25T12:31:29.544Z
 tags: create, player, create player
 editor: markdown
 dateCreated: 2021-07-12T08:32:54.760Z
 ---
 
-# /create player @DiscordUser region summonername
+# /create player @DiscordUser region gamename tag
 
 >### Information
->**This command is used to create a player.  To do this, you must enter the appropriate data for `@DiscordUser`, `region` and `summonername` to link a League of Legends account.** <br>
+>**This command is used to create a player.  To do this, you must enter the appropriate data for `@DiscordUser`, [`region`](/en/terms/region), [`gamename and tag (Riot ID)`](/en/terms/riotid)) to link a League of Legends account.** <br>
 >Available Server Tags:
 >{.is-info}
 
@@ -35,4 +35,5 @@ dateCreated: 2021-07-12T08:32:54.760Z
 
 ## Usage
 
-![](/new_create_player.gif)
+*Outdated image*
+`/create player @DiscordUser region gamename tag`
