@@ -2,7 +2,7 @@
 title: Player
 description: Find out what a player is.
 published: true
-date: 2023-08-18T07:27:30.743Z
+date: 2023-11-25T12:32:56.274Z
 tags: players, player
 editor: markdown
 dateCreated: 2023-08-18T07:02:31.331Z
@@ -11,7 +11,7 @@ dateCreated: 2023-08-18T07:02:31.331Z
 # What is a player?
 
 >### Information
->**A player in relation to Zoe, consists of a discord account ([id](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)) and one or more League of Legends accounts ([Region](/en/terms/region) & [Summonername](/en/terms/summonername)) that have been "linked" to it. The connection can be made by administrators with [`/create player`](/en/commands/create/player) or by yourself (if enabled) with [`/register`](/en/commands/important/register).
+>**A player in relation to Zoe, consists of a discord account ([id](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)) and one or more League of Legends accounts ([Region](/en/terms/region) & [Riot ID](/en/terms/riotid)) that have been "linked" to it. The connection can be made by administrators with [`/create player`](/en/commands/create/player) or by yourself (if enabled) with [`/register`](/en/commands/important/register).
 To add more League of Legend accounts to your player, use the command [`/add account`](/en/commands/add/account).**
 >
 >**In the config of Zoe you can set whether players who leave the server should be automatically deleted. Alternatively, an adminstrator can do this manually with [`/delete player`](/en/commands/delete/player)**.
@@ -23,6 +23,6 @@ To add more League of Legend accounts to your player, use the command [`/add acc
 >-   [`/add account`](/en/commands/add/account)
 >-   [`/delete player`](/en/commands/delete/player)
 >-   [Region](/en/terms/region)
->-   [Summonername](/en/terms/summonername)
+>-   [Riot ID](/en/terms/riotid)
 
 <br>
