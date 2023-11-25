@@ -2,18 +2,18 @@
 title: /add account  - Command
 description: Information about the /add account command
 published: true
-date: 2023-08-24T06:14:23.312Z
+date: 2023-11-25T12:36:42.922Z
 tags: player, account, add, add account, add account to player
 editor: markdown
 dateCreated: 2021-07-13T07:28:22.795Z
 ---
 
-# /add account @DiscordUser region summoner-name
+# /add account @DiscordUser region gamename tag
 
 <br>
 
 >### Information: 
->**This command is used to connect another/secondary League of Legends account with a [player](/en/terms/player) in Discord. Just simply specify the `Discord user`, `region` and the `summoner-name` in the syntax.**
+>**This command is used to connect another/secondary League of Legends account with a [player](/en/terms/player) in Discord. Just simply specify the `Discord user`, [`region`](/en/terms/region), [`gamename and tag (Riot ID)`](/en/terms/riotid) in the syntax.**
 >{.is-info}
 
 >### Permissions needed: 
@@ -27,4 +27,5 @@ dateCreated: 2021-07-13T07:28:22.795Z
 
 ## Usage
 
-![](/new_add_account.gif)
+*Outdated image*
+`/add account @DiscordUser region gamename tag`
