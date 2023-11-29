@@ -2,7 +2,7 @@
 title: How to select that the Solo/Duo rank is displayed in the infopanel?
 description: Follow these steps to show Solo/Duo rank in the infopanel.
 published: true
-date: 2023-09-04T14:13:14.740Z
+date: 2023-11-29T07:43:46.184Z
 tags: infopanel, solo/duo rank
 editor: markdown
 dateCreated: 2023-05-15T07:23:20.287Z
@@ -33,4 +33,4 @@ dateCreated: 2023-05-15T07:23:20.287Z
 >{.is-info}
 
 > :six:After that continue with these settings to finish the configuration.
->{.is-info}
+>{.is-success}
