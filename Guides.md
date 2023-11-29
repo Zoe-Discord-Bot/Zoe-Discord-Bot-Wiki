@@ -2,13 +2,13 @@
 title: Zoe Guides
 description: In here you find all quick guides listed.
 published: true
-date: 2023-11-29T10:10:58.788Z
+date: 2023-11-29T10:19:03.482Z
 tags: guides, list, quick guides
 editor: markdown
 dateCreated: 2023-05-19T09:21:52.767Z
 ---
 
-> This list contains all quickguides. Click on any guidename to look at the guide itself. (More guides will follow over time.)
+> This list contains all quickguides. Click on any guide to look at the guide itself. (More guides will follow over time.)
 >{.is-info}
 
 <br>
