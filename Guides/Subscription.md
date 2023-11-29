@@ -1,8 +1,8 @@
 ---
-title: How to subscribe to Zoe Premium and use it on your server.
-description: Follow these steps to take a Zoe Premium subscription and enable benefits on your server,
+title: Subscribe to Zoe Premium and use it on your server
+description: Follow these steps to take a Zoe Premium subscription and enable benefits on your server.
 published: true
-date: 2023-11-29T10:09:29.201Z
+date: 2023-11-29T10:09:49.026Z
 tags: subscription, premium, guide, kofi
 editor: markdown
 dateCreated: 2023-11-29T09:15:41.215Z
