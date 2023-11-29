@@ -2,7 +2,7 @@
 title: Zoe Guides
 description: In here you find all quick guides listed.
 published: true
-date: 2023-11-29T08:09:43.851Z
+date: 2023-11-29T09:14:35.333Z
 tags: guides, list, quick guides
 editor: markdown
 dateCreated: 2023-05-19T09:21:52.767Z
@@ -10,6 +10,12 @@ dateCreated: 2023-05-19T09:21:52.767Z
 
 > This list contains all quickguides. Click on any guidename to look at the guide itself. (More guides will follow over time.)
 >{.is-info}
+
+<br>
+
+### General Guides
+- [:gem: Subscribe to Zoe Premium + Usage *In this guide you will find instructions on how to take a Zoe Premium subscription and enable benefits on your server.*](/en/Guides/Subscription)
+{.links-list}
 
 <br>
 
