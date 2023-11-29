@@ -2,7 +2,7 @@
 title: Subscribe to Zoe Premium and use it on your server
 description: Follow these steps to take a Zoe Premium subscription and enable benefits on your server.
 published: true
-date: 2023-11-29T10:12:45.230Z
+date: 2023-11-29T10:20:14.888Z
 tags: subscription, premium, guide, kofi
 editor: markdown
 dateCreated: 2023-11-29T09:15:41.215Z
@@ -23,7 +23,7 @@ dateCreated: 2023-11-29T09:15:41.215Z
 <img src="/kofi_tiers.png" width="80%" /> </center>
 >{.is-info}
 
-> :four:Complete the steps for Paypal/Creditcard until you see **"You Joined [...] Tier :tada:"** <br>
+> :four:Complete the steps for Paypal/Creditcard until you see **" You Joined [...] Tier :tada:"** <br>
 >{.is-info}
 
 > :five:After that you can head back to Discord to check with the command [`/subscription`](/en/commands/important/subscription) to see if it worked.
