@@ -2,7 +2,7 @@
 title: How to subscribe to Zoe Premium and use it on your server.
 description: Follow these steps to take a Zoe Premium subscription and enable benefits on your server,
 published: true
-date: 2023-11-29T10:08:48.216Z
+date: 2023-11-29T10:09:29.201Z
 tags: subscription, premium, guide, kofi
 editor: markdown
 dateCreated: 2023-11-29T09:15:41.215Z
@@ -35,6 +35,7 @@ If it did you will see your subscription tier and benefits checked.
 
 > :six:To enable benefits for your server, now use [`/boost`](/en/commands/important/boost) on your server,  click on **"Boost this server! :star:"** and follow the instructions.
 ><img src="/en_/en_boost_command_2.png" width="80%" />
+>{.is-info}
 
 > After that you are able to use premium features on your server.
 >{.is-success}
