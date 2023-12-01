@@ -2,7 +2,7 @@
 title: /banaccount - Command
 description: Information about the /banaccount command
 published: true
-date: 2023-11-25T12:41:10.206Z
+date: 2023-12-01T13:25:49.916Z
 tags: account, ban, banaccount, ban account
 editor: markdown
 dateCreated: 2021-07-13T09:52:24.528Z
@@ -25,16 +25,26 @@ dateCreated: 2021-07-13T09:52:24.528Z
 
 
 ## Usage
-> :one:You start with issuing the command as seen below, just type your corresponding details for region and summonername:
-*Outdated image* `/banaccount region gamename tag` <br>
+> :one:You start with issuing the command as seen below, just type your corresponding details for [region](/en/terms/region), [gamename and tag](/en/terms/riotid):
+![](/en_/en_banaccount_riotid.png) 
+>{.is-info} 
+
 > :two:After that you will see the verification message with an summonericon which you must set for the account specified before.
-<img src="/en_/en_ban_account_2.png" width="50%" img> <br>
+<img src="/en_/en_ban_account_2.png" width="50%" img>
+>{.is-info} 
+
 > :three:Open the League of Legends client and log in if necessary. Click on your profile and summonericon.
-<img src="/en_/en_ban_account_3.png" width="50%" img> <br>
+<img src="/en_/en_ban_account_3.png" width="50%" img>
+>{.is-info} 
+
 > :four:Scroll down to the bottom of the icons list, choose the one from the embeds and exit the icon selection to save your icon.
-<img src="/en_/en_ban_account_5.png" width="60%" img> <br>
+<img src="/en_/en_ban_account_5.png" width="60%" img>
+>{.is-info} 
+
 > :five:After the verification click on `Done`. The next message contains a list with all server in which your account is added. With a name if youre a member, else with the serverID.
-<img src="/en_/en_ban_account_6.png" width="35%" img> <br>
+<img src="/en_/en_ban_account_6.png" width="35%" img>
+>{.is-info} 
+
 > :six:__You can use the following commands:__ <br>
 > ## Commands {.tabset}
 > ### `@Zoe kick server-number`
@@ -48,5 +58,6 @@ dateCreated: 2021-07-13T09:52:24.528Z
 <img src="/en_/en_ban_account_9.png" width="20%" img> <br>
 > ## How to completely remove your account
 > So if you want to completely remove your account from Zoe use `@Zoe ban` and `@Zoe kick all`.
+>{.is-info} 
 
 
