@@ -2,7 +2,7 @@
 title: /remove account - Command
 description: Information about the /remove account command
 published: true
-date: 2023-11-25T12:38:51.585Z
+date: 2023-12-01T13:32:11.397Z
 tags: account, remove, remove account, remove account from player
 editor: markdown
 dateCreated: 2021-07-13T07:48:55.697Z
@@ -25,6 +25,4 @@ dateCreated: 2021-07-13T07:48:55.697Z
 <br>
 
 ## Usage
-
-*Outdated image*
-`/remove account @DiscordUser region gamename tag`
+![](/en_/en_remove_account_riotid.png)
