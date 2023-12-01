@@ -2,7 +2,7 @@
 title: /stats predictrole  - Command
 description: Information about the /stats predictrole command
 published: true
-date: 2023-11-25T12:44:29.737Z
+date: 2023-12-01T13:19:22.156Z
 tags: prediction, predict role, predictrole, stats predictrole, predict, role, lane, lanes
 editor: markdown
 dateCreated: 2021-07-13T10:51:09.340Z
@@ -24,12 +24,10 @@ dateCreated: 2021-07-13T10:51:09.340Z
 <br>
 
 ## Usage
-
-*Outdated image*
-`/stats predictrole riotid1 riotid2 riotid3 riotid4 riotid5`
-
+![en_stats_predictrole_riotid.png](/en_/en_stats_predictrole_riotid.png)
+*In this example only 2 out of 5 accounts are specified. In order for the command to work you need to specify 5 accounts.*
 <br>
 
 ## Example of a role prediction
 
-![](/new_stats_predictrole.png)
+![](/en_/en_predictrole_suggestion.png)
