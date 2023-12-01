@@ -2,7 +2,7 @@
 title: /add account  - Command
 description: Information about the /add account command
 published: true
-date: 2023-11-25T12:36:42.922Z
+date: 2023-12-01T13:35:26.530Z
 tags: player, account, add, add account, add account to player
 editor: markdown
 dateCreated: 2021-07-13T07:28:22.795Z
@@ -26,6 +26,4 @@ dateCreated: 2021-07-13T07:28:22.795Z
 <br>
 
 ## Usage
-
-*Outdated image*
-`/add account @DiscordUser region gamename tag`
+![](/en_/en_add_account_riotid.png)
