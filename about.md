@@ -2,7 +2,7 @@
 title: About the project
 description: Learn about Zoe and it's background.
 published: true
-date: 2023-11-25T11:59:03.060Z
+date: 2023-12-01T21:14:43.965Z
 tags: info, about, information, system, links
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
@@ -59,16 +59,6 @@ With Zoe you get statistics like champions played, [tips for every champion](/en
 >
 > Zoe is your faithful companion on all adventures on the rift and will make sure you always have the data and information you need to achieve your goals.
 Whether it's seeing what's most important in your stats and monitoring your performance over time, or comparing yourself competitively (or for fun) with other players and your friends.
-
-<br>
-
-## Team
-
-- ![](https://cdn.discordapp.com/avatars/228541163966038016/a_3e2e26b41144dedf81c34dfbb155b10a.gif?size=64 =18x)  &nbsp; **KaluNight** | Creator & Developer of Zoe
-- ![](https://cdn.discordapp.com/avatars/589773984447463434/f89b8b3779f833aa5d8e2055aae9a544.png?size=64 =18x) &nbsp; **timfernix** | Wiki & Translation Manager and Discord Head Moderator
-- ![](https://cdn.discordapp.com/avatars/557297296526671872/a81038d05900dc2b3d6a55b9d0bf9aea.png?size=64 =18x) &nbsp; **pesooo** | Discord Moderator
-- ![](https://cdn.discordapp.com/avatars/323247267802906624/5dc2ef183c6de2c59f5a4f4aa7a5e0bd.png?size=64 =18x) &nbsp; **vandals** | Discord Moderator
-{.grid-list}
 
 <br>
 
