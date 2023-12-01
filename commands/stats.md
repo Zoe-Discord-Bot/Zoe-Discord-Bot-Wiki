@@ -2,7 +2,7 @@
 title: Stats commands
 description: Learn about what you can do with the /stats commands.
 published: true
-date: 2023-09-14T18:37:53.943Z
+date: 2023-12-01T13:53:30.225Z
 tags: stats, stats command, stats cmd, stats cmds, stats commands
 editor: markdown
 dateCreated: 2021-07-13T10:30:33.475Z
@@ -27,8 +27,8 @@ dateCreated: 2021-07-13T10:30:33.475Z
 >  [**`Link to Wikipage`**](/en/commands/stats/predictRole/)
 >  Zoe predicts the role of 5 given accounts when they play together.
 >{.is-info}
-  
-![](/new_stats_predictrole.png)
+
+![](/en_/en_predictrole_suggestion.png)
 
 <br> 
 
