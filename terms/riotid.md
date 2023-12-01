@@ -2,7 +2,7 @@
 title: Riot ID
 description: Learn what a Riot ID is including gamename and tagline.
 published: true
-date: 2023-11-25T12:21:40.150Z
+date: 2023-12-01T12:14:22.584Z
 tags: tag, riot, id, riot id, gamename, tagline
 editor: markdown
 dateCreated: 2023-11-23T07:53:57.640Z
@@ -19,7 +19,12 @@ so my _gamename_ is `Star Guardian Ez`
 and my _tagline_ is `#real`**
 >
 >**Your gamename does not have to be unique. So as long as your Riot ID (as a whole) isn't taken, you can have any gamename you like. So make sure you use the right tagline with your gamename.
-Taglines start with a region code by default, but once you've changed them, you cannot go back to using any [region code](/en/terms/region).**
+Taglines start with a region code by default, but once you've changed them, you cannot go back to using any [region code](/en/terms/region).** <br>
+>**There are 2 scenarios that can occur with Zoe:** 
+>**:one: You have to enter your `gamename` and `tagline` separately
+>There are then 2 separate input fields in which you only enter the text (no hashtag).** 
+>**:two: You have to enter the whole `Riot ID`
+>Here you must enter the entire ID in the specified field, including the hashtag in the middle.**
 >
 >If you want to learn more about Riot IDs you can check out the [Riot news article: Riot ID Transition](https://www.riotgames.com/en/news/reworking-the-riot-id-transition-plan) and the [Riot support article: Changing your Riot ID](https://support-leagueoflegends.riotgames.com/hc/en-us/articles/20631044642963).
 >{.is-info}
