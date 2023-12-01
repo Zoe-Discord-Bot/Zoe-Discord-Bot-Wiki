@@ -2,7 +2,7 @@
 title: /create clashchannel - Command
 description: Information about the /create clashchannel command
 published: true
-date: 2023-12-01T14:08:39.797Z
+date: 2023-12-01T14:08:54.765Z
 tags: create, clashchannel, clash
 editor: markdown
 dateCreated: 2021-07-13T05:46:23.942Z
@@ -29,7 +29,7 @@ dateCreated: 2021-07-13T05:46:23.942Z
 :two:After that you need to give Zoe an account by their [region](/en/terms/region), [gamename and tag](/en/terms/riotid):
 ![](/en_/en_create_clashchannel_riotid_2.png) <br>
 :three:Finally give Zoe a timezone by number from a list Zoe provides:
-<img src="/en_/en_create_clashchannel_time.png" width="30%"> <br>
+<img src="/en_/en_create_clashchannel_time.png" width="25%"> <br>
 
 ## Example of an inactive clashchannel
 
