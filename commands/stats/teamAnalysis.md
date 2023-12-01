@@ -2,7 +2,7 @@
 title: /stats teamanalysis - Command
 description: Information about the /stats teamanalysis command
 published: true
-date: 2023-11-25T12:48:42.837Z
+date: 2023-12-01T13:51:37.943Z
 tags: stats, analysis, team, team analysis, team stats, teamanalysis, stats teamanalysis
 editor: markdown
 dateCreated: 2021-07-13T11:00:45.454Z
@@ -11,8 +11,7 @@ dateCreated: 2021-07-13T11:00:45.454Z
 # /stats teamanalysis
 
 >### Information
->**When you execute this command you have to specify 5 accounts with [`region`](/en/terms/region), [`gamename, tag (Riot ID)`](/en/terms/riotid) and optionally add a lane so that Zoe can start an analysis. Zoe evaluates who could play what on which position (if not already defined).** <br>
->**Works similar to [`/clash analysis`](https://wiki.zoe-discord-bot.ch/en/commands/clash/analysis) but without the clash team.**
+>**When you execute this command you have to specify 5 accounts with their [`Riot ID`](/en/terms/riotid) and optionally add a lane so that Zoe can start an analysis. Zoe evaluates who could play what on which position (if not already defined).** <br>
 >{.is-info}
 
 >### Permissions needed:
@@ -26,10 +25,8 @@ dateCreated: 2021-07-13T11:00:45.454Z
 <br>
 
 ## Usage
-
-*Outdated image*
-`/stats teamanalysis riotid1 riotid2 riotid3 riotid4 riotid5`
-
+![](/en_/en_stats_teamanalysis_riotid.png)
+*In this example only 2 out of 5 accounts are specified. In order for the command to work you need to specify 5 accounts.*
 <br>
 
 ##   Example of a teamanalysis
