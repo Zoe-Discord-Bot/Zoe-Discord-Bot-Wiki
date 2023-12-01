@@ -2,7 +2,7 @@
 title: /stats profile - Command
 description: Information about the /stats profile command
 published: true
-date: 2023-11-25T12:21:14.365Z
+date: 2023-12-01T13:44:04.981Z
 tags: stats, stats profile, player stats, profile
 editor: markdown
 dateCreated: 2021-07-13T10:38:02.384Z
@@ -31,14 +31,13 @@ For all other profiles fill in their [region](/en/terms/region), [gamename and t
 
 ## Usage
 #### For yourself
-![](/en_/en_stats_profile_self.gif)
+![](/en_/en_stats_profile_self.png)
 
 #### For registered players on your sever
-![](/en_/en_stats_profile_user.gif)
+![](/en_/en_stats_profile_user.png)
 
 #### For every other account
-*Outdated image* 
-`/stats profile  region: EUW  gamename: Star Guardian Ez  tag: real`
+![](/en_/en_stats_profile_riotid.png)
 <br>
 
 ## Example of a players profile stats
