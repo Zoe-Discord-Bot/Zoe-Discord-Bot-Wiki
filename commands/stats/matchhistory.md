@@ -2,7 +2,7 @@
 title: /stats matchhistory - Command
 description: Information about the /stats matchhistory command
 published: true
-date: 2023-11-25T12:51:48.733Z
+date: 2023-12-01T12:56:22.295Z
 tags: command, stats, statistics, matchhistory
 editor: markdown
 dateCreated: 2023-04-09T12:03:20.071Z
@@ -26,9 +26,10 @@ dateCreated: 2023-04-09T12:03:20.071Z
 <br>
 
 ## Usage
-
-*Outdated image*
-`/stats matchhistory region gamename tag`
+Registered player:
+![](/en_/en_stats_profile_user.png) <br>
+Everyone else:
+![](/en_/en_stats_profile_riotid.png)
 <br>
 
 ## Example of the stats matchhistory overview
