@@ -2,7 +2,7 @@
 title: Zoe Configuration - Account Owner Verification
 description: Learn more about configuring the account owner verification.
 published: true
-date: 2023-09-04T13:18:50.645Z
+date: 2023-12-10T10:08:46.737Z
 tags: config, account, owner, verify, verification, account owner verification
 editor: markdown
 dateCreated: 2023-04-23T19:10:16.831Z
@@ -13,7 +13,7 @@ dateCreated: 2023-04-23T19:10:16.831Z
 >Here you can enable/disable the forced account owner verification. If this is the case, every League of Legends account that is added needs to be verified by the owner first.
 >{.is-info}
 
->If this option is disabled (and the [register command for everyone enabled](https://wiki.zoe-discord-bot.ch/en/Zoe-Configuration/Usermanagment/Register), anyone [can register accounts](/en/commands/important/register/) that do not belong to them. If you want to prevent this, it is recommended that you enable the verification or ensure that the [`/register` command](/en/commands/important/register/)  is disabled for everyone.
+>If this option is disabled (and the [register command for everyone enabled](https://wiki.zoe-discord-bot.ch/en/Zoe-Configuration/Usermanagment/Register)), anyone [can register accounts](/en/commands/important/register/) that do not belong to them. If you want to prevent this, it is recommended that you enable the verification or ensure that the [`/register` command](/en/commands/important/register/)  is disabled for everyone.
 >{.is-warning}
 
 > Click on the corresponding setting :two:in the configuration menu.
