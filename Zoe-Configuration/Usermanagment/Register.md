@@ -2,7 +2,7 @@
 title: Zoe Configuration - Register
 description: Learn more about configuring the register command.
 published: true
-date: 2023-08-18T08:34:03.031Z
+date: 2023-12-10T10:07:07.855Z
 tags: config, register
 editor: markdown
 dateCreated: 2023-04-23T18:41:00.403Z
@@ -21,7 +21,7 @@ dateCreated: 2023-04-23T18:41:00.403Z
 >The next thing you will see is the deactivation message with a description and reactions.
 > If you want to disable the option react with :white_check_mark:or cancel the configuration process with :x:. 
 <img src="/config_users_1_registerenable_activation.png" width="60%" /> <br>
-Now if someone tries to register this message appears:
+Now if someone tries to register, while it is disabled, this message appears:
 <img src="/config_users_1_registerenable_finalfail.png" width="60%" /> <br>
 
 
