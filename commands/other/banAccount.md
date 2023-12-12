@@ -2,7 +2,7 @@
 title: /banaccount - Command
 description: Information about the /banaccount command
 published: true
-date: 2023-12-01T13:25:49.916Z
+date: 2023-12-12T15:00:16.784Z
 tags: account, ban, banaccount, ban account
 editor: markdown
 dateCreated: 2021-07-13T09:52:24.528Z
@@ -30,15 +30,15 @@ dateCreated: 2021-07-13T09:52:24.528Z
 >{.is-info} 
 
 > :two:After that you will see the verification message with an summonericon which you must set for the account specified before.
-<img src="/en_/en_ban_account_2.png" width="50%" img>
+<img src="/en_/en_banaccount_riotid_2.png" width="50%" img>
 >{.is-info} 
 
-> :three:Open the League of Legends client and log in if necessary. Click on your profile and summonericon.
-<img src="/en_/en_ban_account_3.png" width="50%" img>
+> :three:Open the League of Legends client and log in if necessary. Click on your profile and summonericon to change it.
+<img src="/en_/en_banaccount_riotid_3.png" width="50%" img>
 >{.is-info} 
 
 > :four:Scroll down to the bottom of the icons list, choose the one from the embeds and exit the icon selection to save your icon.
-<img src="/en_/en_ban_account_5.png" width="60%" img>
+<img src="/en_/en_banaccount_riotid_4.png" width="60%" img>
 >{.is-info} 
 
 > :five:After the verification click on `Done`. The next message contains a list with all server in which your account is added. With a name if youre a member, else with the serverID.
@@ -57,7 +57,7 @@ dateCreated: 2021-07-13T09:52:24.528Z
 >Restricts everyone from adding your account, but its not deleted from any server.
 <img src="/en_/en_ban_account_9.png" width="20%" img> <br>
 > ## How to completely remove your account
-> So if you want to completely remove your account from Zoe use `@Zoe ban` and `@Zoe kick all`.
+> So if you want to completely remove your account from Zoe use `@Zoe ban` (to no longer allow adding the account on Zoe) and `@Zoe kick all` (to remove it from all servers it is currently added to).
 >{.is-info} 
 
 
