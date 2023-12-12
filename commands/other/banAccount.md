@@ -2,7 +2,7 @@
 title: /banaccount - Command
 description: Information about the /banaccount command
 published: true
-date: 2023-12-12T15:00:52.335Z
+date: 2023-12-12T15:01:12.472Z
 tags: account, ban, banaccount, ban account
 editor: markdown
 dateCreated: 2021-07-13T09:52:24.528Z
@@ -30,7 +30,7 @@ dateCreated: 2021-07-13T09:52:24.528Z
 >{.is-info} 
 
 > :two:After that you will see the verification message with an summonericon which you must set for the account specified before.
-<img src="/en_/en_banaccount_riotid_2.png" width="70%" img>
+<img src="/en_/en_banaccount_riotid_2.png" width="55%" img>
 >{.is-info} 
 
 > :three:Open the League of Legends client and log in if necessary. Click on your profile and summonericon to change it.
