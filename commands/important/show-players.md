@@ -2,7 +2,7 @@
 title: /show players - Command
 description: Information about the /show players command
 published: true
-date: 2023-08-23T17:08:36.359Z
+date: 2024-01-08T20:02:37.001Z
 tags: show-players, players, player, account, accounts, show
 editor: markdown
 dateCreated: 2021-07-05T18:18:52.421Z
@@ -24,9 +24,17 @@ dateCreated: 2021-07-05T18:18:52.421Z
 <br>
 
 ## Usage
-![](/new_show_players.gif)
+To list every account on the server:
+![en_show_players_all.png](/en_/en_show_players_all.png)
+<br>
+
+To list all accounts of one player you mention by their Discord name:
+![en_show_players_user.png](/en_/en_show_players_user.png)
+<br>
+
+To list all accounts of one player by their Discord ID:
+![en_show_players_id.png](/en_/en_show_players_id.png)
 
 <br>
 
 ## Example
-![](/new_show_players.jpg)
