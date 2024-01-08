@@ -2,7 +2,7 @@
 title: Spielkarten - Feature
 description: Informationen über die Spielkarten.
 published: true
-date: 2024-01-08T14:08:41.023Z
+date: 2024-01-08T14:09:04.989Z
 tags: spiel, im spiel, spielkarte, spielkarten, karte, karten, spiel info, aktuelles spiel
 editor: markdown
 dateCreated: 2023-08-12T18:30:02.592Z
@@ -18,9 +18,9 @@ dateCreated: 2023-08-12T18:30:02.592Z
 >{.is-info}
 
 >### Verwandte Befehle/Seiten:
->- [Infokanal](/en/features/infoChannel/)
->- [Champion Analyse](/en/features/champion-analysis)
->- [/create infochannel](/en/commands/create/infoChannel/)
+>- [Infokanal](/de/features/infoChannel/)
+>- [Champion Analyse](/de/features/champion-analysis)
+>- [/create infochannel](/de/commands/create/infoChannel/)
 
 <br>
 
