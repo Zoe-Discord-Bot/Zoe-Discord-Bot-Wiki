@@ -2,7 +2,7 @@
 title: Clashkanal - Feature
 description: Informationen über den Clashkanal
 published: true
-date: 2023-10-15T12:22:54.064Z
+date: 2024-01-08T14:32:13.556Z
 tags: clash, team, analyse, clash kanal, aktiv, inaktiv
 editor: markdown
 dateCreated: 2023-08-12T18:45:50.077Z
@@ -17,8 +17,8 @@ dateCreated: 2023-08-12T18:45:50.077Z
 
 
 >### Verwandte Befehle/Seiten:
->-   [/create clashchannel](/en/commands/create/clashChannel/)
->-   [/delete clashchannel](/en/commands/delete/clashChannel/)
+>-   [/create clashchannel](/de/commands/create/clashChannel/)
+>-   [/delete clashchannel](/de/commands/delete/clashChannel/)
 
 <br>
 
