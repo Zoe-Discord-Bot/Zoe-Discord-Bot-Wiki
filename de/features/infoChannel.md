@@ -2,7 +2,7 @@
 title: Infokanal - Feature
 description: Informationen über den Infokanal
 published: true
-date: 2023-09-04T13:04:41.899Z
+date: 2024-01-08T14:05:47.000Z
 tags: info, infokanal, kanal, infotafel
 editor: markdown
 dateCreated: 2023-08-12T18:27:13.433Z
@@ -12,14 +12,15 @@ dateCreated: 2023-08-12T18:27:13.433Z
 
 <br> 
 
->**Im Infokanal sendet Zoe die sogenannte Infotafel, in der Informationen über die registrierten Spieler, ihre Konten und (falls aktiviert) ihren Rang in einer bestimmten Warteschlange oder das zuletzt gespielte Spiel angezeigt werden. Zoe sendet auch die Spielkarten an diesen Kanal (wenn aktiviert). Mehr über Spielkarten kannst du in diesem Artikel lesen: [Spielkarten](/en/features/gamecards)).**  
+>**Im Infokanal sendet Zoe die sogenannte Infotafel, in der Informationen über die registrierten [Spieler](/en/terms/player), ihre Konten und (falls aktiviert) ihren Rang in einer bestimmten Warteschlange oder das zuletzt gespielte Spiel angezeigt werden. Zoe sendet auch die [Spielkarten](/de/features/gamecards) an diesen Kanal (wenn aktiviert). Du kannst mit der [Champion Analyse] Tipps für alle Champions die in diesem Spiel gespielt werden erhalten.**  
 >{.is-info}
 
 > ### Verwandte Befehle/Seiten:
->- [Spielkarten](/en/features/gamecards/)
->- [/create infochannel](/en/commands/create/infoChannel/)
->- [/delete infochannel](/en/commands/delete/infoChannel/)
->- [/create player](/en/commands/create/player/)  
+>- [Spielkarten](/de/features/gamecards/)
+>- [Champion Analyse](/de/features/champion-analysis)
+>- [/create infochannel](/de/commands/create/infoChannel/)
+>- [/delete infochannel](/de/commands/delete/infoChannel/)
+>- [/create player](/de/commands/create/player/)  
 > {.is-info}
 
 <br>
