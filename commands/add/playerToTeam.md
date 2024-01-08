@@ -2,7 +2,7 @@
 title: /add playerToTeam - Command
 description: Information about the /add playerToTeam command
 published: true
-date: 2024-01-08T20:48:07.307Z
+date: 2024-01-08T20:48:11.803Z
 tags: player, team, add, add player to team, add playertoteam, team add player
 editor: markdown
 dateCreated: 2021-07-13T07:22:14.935Z
@@ -27,4 +27,4 @@ dateCreated: 2021-07-13T07:22:14.935Z
 
 ## Usage
 
-![en_add_playertoteam.png](/en_/en_add_playertoteam.png)
+![](/en_/en_add_playertoteam.png)
