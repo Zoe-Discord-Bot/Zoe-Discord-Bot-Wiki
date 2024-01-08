@@ -2,7 +2,7 @@
 title: Stats Befehle
 description: Erfahre, was du mit den /stats-Befehlen tun kannst.
 published: true
-date: 2023-08-17T12:40:05.828Z
+date: 2024-01-08T15:02:14.257Z
 tags: stats, stats befehl, stats befehle
 editor: markdown
 dateCreated: 2023-08-12T18:52:29.166Z
@@ -20,7 +20,7 @@ dateCreated: 2023-08-12T18:52:29.166Z
 > Zoe liefert einige Informationen über das ausgewählte Profil.  
 >{.is-info}
   
-![](/new_statsprofile_cropped.png)
+![](/en_/en_stats_profile.png)
 
 <br> 
   
