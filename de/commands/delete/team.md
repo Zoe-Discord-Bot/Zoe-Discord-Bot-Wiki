@@ -2,7 +2,7 @@
 title: /delete team - Befehl
 description: Lerne mehr über den /delete team Befehl.
 published: true
-date: 2024-01-08T20:44:45.042Z
+date: 2024-01-08T20:45:08.394Z
 tags: team, delete, delete team
 editor: markdown
 dateCreated: 2024-01-08T20:44:45.042Z
@@ -19,7 +19,7 @@ dateCreated: 2024-01-08T20:44:45.042Z
 >{.is-success}
 
 >### Verwandte Befehle:
->- [/create team](/de/befehle/erstellen/team/)
+>- [/create team](/de/commands/create/team/)
 
 <br>
 
