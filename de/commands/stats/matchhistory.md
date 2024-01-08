@@ -2,7 +2,7 @@
 title: /stats matchhistory - Befehl
 description: Informationen über den Befehl /stats matchhistory
 published: true
-date: 2023-08-17T11:52:48.769Z
+date: 2024-01-08T17:24:14.092Z
 tags: stats, matchhistory, spielverlauf, stats matchhistory
 editor: markdown
 dateCreated: 2023-08-17T11:51:59.584Z
@@ -13,7 +13,7 @@ dateCreated: 2023-08-17T11:51:59.584Z
 >### Informationen
 >**Dieser Befehl ermöglicht es dir, den Spielverlauf von LoL-Accounts zu durchsuchen und Spielstatistiken einzusehen. Diese Funktion beinhaltet eine neue experimentelle KI-basierte Funktion, die ein Spiel in einer Zeile zusammenfasst.** <br>
 >**Nutzung: `/stats matchhistory @DiscordBenutzer` oder `/stats matchhistory Region Beschwörername`** <br>
-**Für Spieler, die auf deinem Server registriert sind, kannst du sie einfach erwähnen. Für alle anderen Spieler gibst du ihre Region und ihren Beschwörernamen an.**
+**Für Spieler, die auf deinem Server registriert sind, kannst du sie einfach erwähnen. Für alle anderen Spieler gibst du ihre [Region](/en/terms/region), [Gamename und tag (Riot ID)](/en/terms/riotid) an.**
 >{.is-info}
 
 >### Erforderliche Berechtigungen:
@@ -21,15 +21,23 @@ dateCreated: 2023-08-17T11:51:59.584Z
 >{.is-success}
 
 >### Verwandte Seiten:
->-   [stats (Features)](https://wiki.zoe-discord-bot.ch/en/commands/stats)
+>-   [stats (Features)](/de/commands/stats)
 
 <br>
 
 ## Nutzung
-
-![](/new_stats_matchhistory.gif)
+Registrierte Spieler:
+![](/en_/en_stats_profile_user.png) <br>
+Alle anderen Konten:
+![](/en_/en_stats_profile_riotid.png)
+<br>
 <br>
 
 ## Beispiel für Spielverlaufsstatistiken
 
-![](/new_stats_matchhistory_standard_cropped.png)
+![](/en_/en_stats_matchhistory_overview.png)
+<br>
+
+## Beispiel für Spiel des Spielverlaufs
+
+![](/de_/de_matchhistorychannel_message_extended.png)
