@@ -2,7 +2,7 @@
 title: Spielverlaufskanal - Feature
 description: Informationen über den Spielverlaufskanal 
 published: true
-date: 2023-09-14T18:35:16.612Z
+date: 2024-01-08T14:35:20.859Z
 tags: aram, spiel, rang, spielverlauf, spielverlaufskanal, normal, spiele
 editor: markdown
 dateCreated: 2023-08-12T18:49:35.956Z
@@ -12,13 +12,13 @@ dateCreated: 2023-08-12T18:49:35.956Z
 
 <br>
 
->**Der Spielverlaufskanal zeigt die Spiele der Spieler mit Statistiken und Diagrammen an. Du kannst mehrere Kanäle pro Team, Spieler oder für den gesamten Server erstellen. Im Spielverlaufskanal kannst du alle Spiele sehen, die von ausgewählten oder allen LoL-Konten gespielt wurden, und Spielstatistiken einsehen.** 
+>**Der Spielverlaufskanal zeigt die Spiele der Spieler mit Statistiken und Diagrammen an. Du kannst mehrere Kanäle pro Team, Spieler oder für den gesamten Server erstellen. Im Spielverlaufskanal kannst du alle Spiele sehen, die von ausgewählten oder allen LoL-Konten gespielt wurden und Spielstatistiken einsehen.** 
 >{.is-info}
 
 >### Verwandte Befehle/Seiten:
->-    [/create matchhistorychannel](https://wiki.zoe-discord-bot.ch/en/commands/create/matchhistorychannel)
->-   [/delete matchhistorychannel](https://wiki.zoe-discord-bot.ch/en/commands/delete/matchhistorychannel) [](https://wiki.zoe-discord-bot.ch/en/commands/stats/matchhistory) 
->-   [/stats matchhistory](https://wiki.zoe-discord-bot.ch/en/commands/stats/matchhistory)
+>-   [/create matchhistorychannel](/de/commands/create/matchhistorychannel)
+>-   [/delete matchhistorychannel](/de/commands/delete/matchhistorychannel) 
+>-   [/stats matchhistory](/de/commands/stats/matchhistory)
 
 <br>
 
