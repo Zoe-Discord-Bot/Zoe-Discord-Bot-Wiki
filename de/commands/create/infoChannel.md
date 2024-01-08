@@ -2,7 +2,7 @@
 title: /create infochannel - Befehl
 description: Informationen über den Befehl /create infochannel
 published: true
-date: 2024-01-08T17:50:37.505Z
+date: 2024-01-08T17:51:40.966Z
 tags: infokanal, create infochannel, erstellung, infokanal erstellen
 editor: markdown
 dateCreated: 2023-08-22T06:11:11.730Z
@@ -19,8 +19,8 @@ dateCreated: 2023-08-22T06:11:11.730Z
 >{.is-success}
 
 >### Verwandte Befehle:
->-   [/create player](/en/commands/create/player/)
->-   [/delete infochannel](/en/commands/delete/infoChannel/)
+>-   [/create player](/de/commands/create/player/)
+>-   [/delete infochannel](/de/commands/delete/infoChannel/)
 
 <br>
 
