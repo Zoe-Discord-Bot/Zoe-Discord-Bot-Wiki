@@ -2,8 +2,8 @@
 title: /create clashchannel - Command
 description: Information about the /create clashchannel command
 published: true
-date: 2023-12-01T14:08:54.765Z
-tags: create, clashchannel, clash
+date: 2024-01-08T17:42:16.052Z
+tags: create, clashchannel, clash, riotid
 editor: markdown
 dateCreated: 2021-07-13T05:46:23.942Z
 ---
