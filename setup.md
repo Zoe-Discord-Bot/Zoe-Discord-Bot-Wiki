@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2023-09-16T07:19:06.893Z
+date: 2024-01-08T12:34:12.617Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -12,7 +12,7 @@ dateCreated: 2021-07-05T11:16:55.742Z
 
 <br>
 
-> Be aware that to set up and use Zoe you need the `Manage channels` permission on your server (if you are not the administrator anyway).
+> Be aware that to set up Zoe you need the `Manage channels` permission on your server (if you are not the administrator anyway).
 {.is-warning}
 
 <br>
