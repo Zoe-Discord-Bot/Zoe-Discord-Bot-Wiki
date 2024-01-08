@@ -2,7 +2,7 @@
 title: /stats predictrole  - Command
 description: Information about the /stats predictrole command
 published: true
-date: 2023-12-01T13:52:57.015Z
+date: 2024-01-08T17:18:31.863Z
 tags: prediction, predict role, predictrole, stats predictrole, predict, role, lane, lanes
 editor: markdown
 dateCreated: 2021-07-13T10:51:09.340Z
@@ -19,12 +19,12 @@ dateCreated: 2021-07-13T10:51:09.340Z
 >{.is-success}
 
 >### Related pages:
->-   [stats (feature)](https://wiki.zoe-discord-bot.ch/en/commands/stats)
+>-   [stats (feature)](/en/commands/stats)
 
 <br>
 
 ## Usage
-![en_stats_predictrole_riotid.png](/en_/en_stats_predictrole_riotid.png)
+![](/en_/en_stats_predictrole_riotid.png)
 *In this example only 2 out of 5 accounts are specified. In order for the command to work you need to specify 5 accounts.*
 <br>
 
