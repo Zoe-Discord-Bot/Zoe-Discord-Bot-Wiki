@@ -2,7 +2,7 @@
 title: Riot ID
 description: Hier kannst du rausfinden, was eine Riot ID ist.
 published: true
-date: 2024-01-08T18:06:22.625Z
+date: 2024-01-08T18:06:27.646Z
 tags: riot, id, riot id, riotid
 editor: markdown
 dateCreated: 2024-01-08T17:59:19.219Z
@@ -35,6 +35,9 @@ Taglines sind standardmäßig ein Regioncode, aber wenn du sie einmal geändert 
 >-   [`/register`](/de/commands/important/register)
 >-   [`/add account`](/en/commands/add/account)
 >-   [`/remove account`](/en/commands/remove/account)
+>-   [`/stats matchhistory`](/de/commands/stats/matchhistory)
+>-   [`/banaccount`](/en/commands/other/banAccount)
+>-   [`/stats profile`](/de/commands/stats/profile)
 
 <br>
 >
