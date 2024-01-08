@@ -2,7 +2,7 @@
 title: FAQ - Häufig gestellte Fragen
 description: Hier findest du Antworten auf häufig gestellte Fragen.
 published: true
-date: 2023-09-05T05:42:33.070Z
+date: 2024-01-08T12:21:12.154Z
 tags: faq, häufig, gestellte, fragen
 editor: markdown
 dateCreated: 2023-05-19T09:56:31.780Z
@@ -20,9 +20,9 @@ dateCreated: 2023-05-19T09:56:31.780Z
 
 <br>
 
-## Kann ich mehrere Kanäle (Infokanal & Rangkanal) in einem Textkanal definieren?
+## Kann ich mehrere Kanäle ([Infokanal](/de/features/infoChannel) & [Rangkanal](/de/features/rankChannel)) in einem Textkanal definieren?
 
-> Ja und Nein. Das funktioniert grundsätzlich, aber nicht wirklich, denn alle Nachrichten in Zoes Infokanal, die dort nicht hingehören, werden gelöscht, auch die aus dem Rangkanal.  Wenn du das Problem hast, dass die Nachrichten gelöscht werden, kannst du einen der beiden Kanäle deaktivieren und ihn in einem anderen Textkanal neu definieren.
+> Ja und Nein. Das funktioniert grundsätzlich, aber nicht wirklich, denn alle Nachrichten in Zoes [Infokanal](/de/features/infoChannel), die dort nicht hingehören, werden gelöscht, auch die aus dem [Rangkanal](/de/features/rankChannel).  Wenn du das Problem hast, dass die Nachrichten gelöscht werden, kannst du einen der beiden Kanäle deaktivieren und ihn in einem anderen Textkanal neu definieren.
 
 
 > Bitte versuche, diese Kanäle nicht zu vermischen.
@@ -33,7 +33,7 @@ dateCreated: 2023-05-19T09:56:31.780Z
 ## Welche Spiele werden / warum wird Flex / TFT in der Infotafel angezeigt?
 
 
-> Die Infotafel zeigt standardmäßig die letzte Aktualisierung des Ranges an. Wenn dein letztes Spiel ein Flex-Spiel war, wird diese Änderung angezeigt. Du kannst dieses Verhalten in Zoes Konfiguration ändern ([Konfiguration](http://wiki.zoe-discord-bot.ch/en/Zoe-Configuration/Infochannel/Infochannel-Rankfilter) oder [dieser Guide](http://wiki.zoe-discord-bot.ch/en/Guides/SoloQ-Infopanel)).
+> Die [Infotafel](/de/features/infoChannel) zeigt standardmäßig die letzte Aktualisierung des Ranges an. Wenn dein letztes Spiel ein Flex-Spiel war, wird diese Änderung angezeigt. Du kannst dieses Verhalten in Zoes Konfiguration ändern ([Konfiguration](http://wiki.zoe-discord-bot.ch/en/Zoe-Configuration/Infochannel/Infochannel-Rankfilter) oder [dieser Guide](http://wiki.zoe-discord-bot.ch/en/Guides/SoloQ-Infopanel)).
 
 <br>
 
@@ -42,7 +42,7 @@ dateCreated: 2023-05-19T09:56:31.780Z
 > Dies kann 2 mögliche Ursachen haben. Erstens hast du Zoe nicht die Erlaubnis erteilt, die Befehle auf deinem Server zu verwenden. Bitte gehe zu den Rollenberechtigungen von Zoe und aktiviere diese. Wenn es dann immer noch nicht funktioniert, liegt es höchstwahrscheinlich daran, dass du Zoe mit dem alten Einladungslink eingeladen hast, in dem die Einstellung nicht aktiviert war, die es Zoe erlaubt, die Befehle zu verwenden. Da diese Links aktualisiert sein sollten, kannst du Zoe kicken und sie mit einem neuen Link erneut einladen, dann sollten die Slash-Befehle funktionieren. 
 
 
->Keine Sorge, wenn du Zoe von deinem Server entfernst, wird deine Konfiguration nicht gelöscht.
+>Keine Sorge, wenn du Zoe von deinem Server entfernst, wird deine [Konfiguration](/de/Zoe-Configuration) nicht gelöscht.
 >{.is-info}
 
 <br>
@@ -64,13 +64,13 @@ dateCreated: 2023-05-19T09:56:31.780Z
 
 ## Wo kann ich sehen, was als nächstes entwickelt wird?
 
-> Auf dem Dev-Discord-Server könnt ihr sehen, welche großartigen Features als nächstes und in Zukunft geplant sind. Wenn du Vorschläge hast, die es noch nicht gibt, kannst du sie uns auf dem [Discord Server](https://discord.gg/4Rxrzsxb7d) mitteilen.
+> Wir haben eine spezielle Seite eingerichtet, um euch über kommende Funktionen zu informieren. Du kannst einen Blick darauf werfen: [Entwicklungsstatus](/en/Development-Status).
 
 <br>
 
-## Muss ich irgendetwas tun, damit Zoe die Infotafel oder die Spielkarten usw. aktualisiert?
+## Muss ich irgendetwas tun, damit Zoe die [Infotafel](/de/features/infoChannel), [Spielkarten](/de/features/gamecards) oder [Leaderboards](/de/features/leaderboards) usw. aktualisiert?
 
-> Nein, du musst nichts tun, aber wenn du eine manuelle Aktualisierung erzwingen willst, kannst du den [Befehl /refresh](/en/commands/important/refresh/) benutzen.
+> Nein, du musst nichts tun, aber wenn du eine manuelle Aktualisierung erzwingen willst, kannst du den Befehl [/refresh](/en/commands/important/refresh/) benutzen.
 
 <br><br><br>
 
