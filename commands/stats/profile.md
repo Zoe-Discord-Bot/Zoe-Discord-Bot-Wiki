@@ -2,7 +2,7 @@
 title: /stats profile - Command
 description: Information about the /stats profile command
 published: true
-date: 2023-12-01T13:44:04.981Z
+date: 2024-01-08T17:15:31.318Z
 tags: stats, stats profile, player stats, profile
 editor: markdown
 dateCreated: 2021-07-13T10:38:02.384Z
@@ -25,7 +25,7 @@ For all other profiles fill in their [region](/en/terms/region), [gamename and t
 >{.is-success}
 
 >### Related pages:
->-   [stats (feature)](https://wiki.zoe-discord-bot.ch/en/commands/stats)
+>-   [stats (feature)](/en/commands/stats)
 
 <br>
 
