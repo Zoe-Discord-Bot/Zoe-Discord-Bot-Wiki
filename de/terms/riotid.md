@@ -2,7 +2,7 @@
 title: Riot ID
 description: Hier kannst du rausfinden, was eine Riot ID ist.
 published: true
-date: 2024-01-08T17:59:42.296Z
+date: 2024-01-08T18:06:10.202Z
 tags: riot, id, riot id, riotid
 editor: markdown
 dateCreated: 2024-01-08T17:59:19.219Z
@@ -26,33 +26,26 @@ Taglines sind standardmäßig ein Regioncode, aber wenn du sie einmal geändert 
 >**:two: Du musst die gesamte `Riot ID` eingeben
 >Hier musst du die gesamte ID in das angegebene Feld eingeben, einschließlich des Hashtags in der Mitte.**
 >
->If you want to learn more about Riot IDs you can check out the [Riot news article: Riot ID Transition](https://www.riotgames.com/en/news/reworking-the-riot-id-transition-plan) and the [Riot support article: Changing your Riot ID](https://support-leagueoflegends.riotgames.com/hc/en-us/articles/20631044642963).
+>Wenn du mehr über Riot IDs erfahren möchtest, kannst du dir den [Riot News Artikel: Riot ID Transition](https://www.riotgames.com/en/news/reworking-the-riot-id-transition-plan) und den [Riot Support Artikel: Changing your Riot ID](https://support-leagueoflegends.riotgames.com/hc/en-us/articles/20631044642963) ansehen.
 >{.is-info}
 
->### Related commands/pages:
+>### Verwandte Befehle/Seiten:
 >**Gamename + Tagline** <br>
->-   [`/create player`](/en/commands/create/player)
->-   [`/register`](/en/commands/important/register)
->-   [`/add account`](/en/commands/add/account)
->-   [`/remove account`](/en/commands/remove/account)
->-   [`/stats matchhistory`](/en/commands/stats/matchhistory)
->-   [`/banaccount`](/en/commands/other/banAccount)
->-   [`/stats profile`](/en/commands/stats/profile)
->-   [`/create clashchannel`](/en/commands/create/clashChannel)
->-   [Registration with verification](/en/Guides/RegisterWithVerification)
+>-   [`/create player`](/de/commands/create/player)
+
 <br>
 >
 > **Riot ID** <br>
->-   [`/stats predictrole`](/en/commands/stats/predictRole)
->-   [`/stats teamanalysis`](/en/commands/stats/teamAnalysis)
+>-   [`/stats predictrole`](/de/commands/stats/predictRole)
+>-   [`/stats teamanalysis`](/de/commands/stats/teamAnalysis)
 
 
-> You can easily find your gamename ingame and your Riot ID in the Riot Client as seen below or on the [Riot Account page](https://account.riotgames.com/) after your logged into it.
+> Du kannst deinen Spielnamen im Spiel und deine Riot ID im Riot Client finden, wie unten zu sehen oder auf der [Riot Account Seite](https://account.riotgames.com/) nachdem du dich eingeloggt hast.
 >{.is-success}
   
-League of Legends Client | Riot Client | Riot Account Page
+League of Legends Client | Riot Client | Riot Account Seite
 :--------: | :--------: | :--------:
-Only gamename   | Riot ID   | Riot ID
+Nur Gamename   | Riot ID   | Riot ID
 ![](/en_/en_riotid_gamename.png) | ![](/en_/en_riotid_riotclient.png) | ![](/en_/en_riotid_riotaccount.png)
   
 
