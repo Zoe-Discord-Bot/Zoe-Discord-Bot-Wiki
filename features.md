@@ -2,7 +2,7 @@
 title: Zoe Features
 description: In here you find all core features explained.
 published: true
-date: 2023-10-21T09:15:46.407Z
+date: 2024-01-08T13:33:03.509Z
 tags: features, core, core features, feature
 editor: markdown
 dateCreated: 2021-07-06T09:25:25.035Z
@@ -44,7 +44,7 @@ dateCreated: 2021-07-06T09:25:25.035Z
 
 <br> 
 
--  [<i class="mdi mdi-history"></i> Matchhistorychannel *Allows you to browse games of a player with information about every game.*](/en/features/matchhistoryChannel) <br> <img src="/en_/en_matchhistorychannel_message_default.png" height="250" img>
+-  [<i class="mdi mdi-history"></i> Matchhistorychannel *Allows you to browse games of a player with information about every game.*](/en/features/matchhistoryChannel) <br> <img src="/en_/en_matchhistorychannel_message_extended.png" height="450" img>
 {.links-list}
 
 <br> 
