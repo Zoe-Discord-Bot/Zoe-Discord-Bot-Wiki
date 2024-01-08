@@ -2,7 +2,7 @@
 title: /stats matchhistory - Command
 description: Information about the /stats matchhistory command
 published: true
-date: 2023-12-01T12:56:22.295Z
+date: 2024-01-08T17:24:10.960Z
 tags: command, stats, statistics, matchhistory
 editor: markdown
 dateCreated: 2023-04-09T12:03:20.071Z
@@ -21,7 +21,7 @@ dateCreated: 2023-04-09T12:03:20.071Z
 >{.is-success}
 
 >### Related pages:
->-   [stats (feature)](https://wiki.zoe-discord-bot.ch/en/commands/stats)
+>-   [stats (feature)](/en/commands/stats)
 
 <br>
 
