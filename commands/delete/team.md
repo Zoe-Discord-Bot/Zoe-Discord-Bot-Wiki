@@ -2,7 +2,7 @@
 title: /delete team - Command
 description: Information about the /delete team command
 published: true
-date: 2023-08-24T06:09:35.741Z
+date: 2024-01-08T20:42:14.360Z
 tags: team, teams, delete, delete team
 editor: markdown
 dateCreated: 2021-07-13T06:54:17.477Z
@@ -25,4 +25,4 @@ dateCreated: 2021-07-13T06:54:17.477Z
 
 ## Usage
 
-![](/new_delete_team.gif)
+![en_delete_team.png](/en_/en_delete_team.png)
