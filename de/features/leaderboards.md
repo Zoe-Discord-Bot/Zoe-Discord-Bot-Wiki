@@ -2,7 +2,7 @@
 title: Bestenlisten - Feature
 description: Informationen über alle Bestenlisten.
 published: true
-date: 2023-09-05T13:54:41.381Z
+date: 2024-01-08T14:31:04.370Z
 tags: top 10, top 20, top 50, top 100, ränge, bestenlisten, ranglisten, listen, bester spieler, beste spieler
 editor: markdown
 dateCreated: 2023-08-12T18:42:13.942Z
@@ -20,8 +20,8 @@ Die folgenden Ziele können angestrebt werden: Gesamtmeisterschaftspunkte, Meist
 >{.is-warning}
 
 >### Verwandte Befehle/Seiten:
->-   [/create leaderboard](/en/commands/create/leaderboard/)
->-   [/delete leaderboard](/en/commands/delete/leaderboard/)
+>-   [/create leaderboard](/de/commands/create/leaderboard/)
+>-   [/delete leaderboard](/de/commands/delete/leaderboard/)
 
 <br>
 
@@ -34,7 +34,7 @@ Die folgenden Ziele können angestrebt werden: Gesamtmeisterschaftspunkte, Meist
 | **Gesamtmeisterschaftspunkte** | Das Konto mit der höchsten Gesamtpunktzahl wird angezeigt. Die Meisterschaftspunkte werden nicht zusammengefasst. | ![](/de_/de_leaderboard_totalmasterypoints.png)|
 | **Meisterschaftspunkte (Champion)** | Das Konto mit den höchsten Meisterschaftspunkten des Champions wird angezeigt. Die Meisterschaftspunkte werden nicht zusammengefasst. | ![](/de_/de_leaderboard_championmasterypoints.png) |
 | **Rang in Warteschlange (Solo/DuoQ)** | Das Konto mit dem höchsten Rang wird angezeigt. | ![](/de_/de_leaderboard_rank.png) |
-| **Durchschnittliche KDA** | Berücksichtigt werden alle Spiele in der Kluft der Beschwörer (Freie Wahl, Abwechselnde Wahl, Solo/Duo (Rangliste) und Flexi (Rangliste)) des letzten Monats. | ![](/de_/de_leaderboard_kda.png) |
+| **Durchschnittliche KDA** | Berücksichtigt werden alle Spiele in der Kluft der Beschwörer (Schnelles Spiel, Abwechselnde Wahl, Solo/Duo (Rangliste) und Flexi (Rangliste)) des letzten Monats. | ![](/de_/de_leaderboard_kda.png) |
 | **Bester Champion** | Das Konto und der Champion mit den höchsten Meisterschaftspunkten auf dem Champion wird angezeigt. Die Meisterschaftspunkte werden nicht zusammengefasst. | ![](/de_/de_leaderboard_otp.png) |
 | **Kontolevel** | Das Konto mit der höchsten Stufe wird angezeigt. Die Stufen werden nicht zusammengefasst. | ![](/de_/de_leaderboard_accountlevel.png) |
 
