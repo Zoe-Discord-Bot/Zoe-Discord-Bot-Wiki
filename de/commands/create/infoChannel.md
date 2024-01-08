@@ -2,7 +2,7 @@
 title: /create infochannel - Befehl
 description: Informationen über den Befehl /create infochannel
 published: true
-date: 2024-01-08T17:49:12.218Z
+date: 2024-01-08T17:50:37.505Z
 tags: infokanal, create infochannel, erstellung, infokanal erstellen
 editor: markdown
 dateCreated: 2023-08-22T06:11:11.730Z
@@ -32,4 +32,4 @@ dateCreated: 2023-08-22T06:11:11.730Z
 
 ## Beispiel eines Infokanals
 
-![](/new_infopanel.png)
+![](/de_/de_infochannel.png)
