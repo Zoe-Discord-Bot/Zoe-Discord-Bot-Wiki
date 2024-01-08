@@ -2,13 +2,13 @@
 title: Riot ID
 description: Hier kannst du rausfinden, was eine Riot ID ist.
 published: true
-date: 2024-01-08T18:06:38.002Z
+date: 2024-01-08T19:42:36.921Z
 tags: riot, id, riot id, riotid
 editor: markdown
 dateCreated: 2024-01-08T17:59:19.219Z
 ---
 
-# What is a Riot ID?
+# Was ist eine Riot ID?
 
 >### Information
 >**Jeder League of Legends-Spieler hat bei der Erstellung seines Kontos oder am Tag der Umstellung auf die Riot ID (im November 2023) eine Riot ID gewählt. Wenn ihr sie ändert, ändert sich euer Erscheinungsbild im Spiel (obwohl ihr im Spiel nur den Spielnamen seht).**
