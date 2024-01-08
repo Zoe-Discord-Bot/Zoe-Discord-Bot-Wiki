@@ -2,7 +2,7 @@
 title: /stats profile - Befehl
 description: Informationen über den Befehl /stats profile
 published: true
-date: 2023-09-08T17:19:47.621Z
+date: 2024-01-08T17:15:35.191Z
 tags: stats, stats profile, profile, profil, spieler, spielerstatistiken
 editor: markdown
 dateCreated: 2023-08-17T11:20:29.143Z
@@ -15,8 +15,8 @@ dateCreated: 2023-08-17T11:20:29.143Z
 **Nutzung: `/stats profile` <br>
 >**Für [Spieler](/en/terms/player) die auf deinem Server registriert sind kannst du sie erwähnen.**
 Nutzung: `/stats profile @DiscordUser`** <br>
-Für alle anderen Profile fülle die [Region](/en/terms/region) und den [Beschwörernamen](/en/terms/summonername) ein.**
->**Nutzung: `/stats profile region summonername`** <br>
+Für alle anderen Profile fülle die [Region](/en/terms/region), den [Gamename und Tag (Riot ID)](/en/terms/riotid) ein.**
+>**Nutzung: `/stats profile region gamename tag`** <br>
 >{.is-info}
 
 >### Erforderliche Berechtigungen:
@@ -24,21 +24,21 @@ Für alle anderen Profile fülle die [Region](/en/terms/region) und den [Beschw�
 >{.is-success}
 
 >### Verwandte Seiten:
->-   [stats (Features)](https://wiki.zoe-discord-bot.ch/en/commands/stats)
+>-   [stats (Features)](/de/commands/stats)
 
 <br>
 
 ## Nutzung
 #### Für dich selbst
-![](/en_/en_stats_profile_self.gif)
+![](/en_/en_stats_profile_self.png)
 
 #### Für registrierte Spieler deines Servers
-![](/en_/en_stats_profile_user.gif)
+![](/en_/en_stats_profile_user.png)
 
 #### Für alle anderen Konten
-![](/en_/en_stats_profile_account.gif)
+![](/en_/en_stats_profile_riotid.png)
 <br>
 
 ## Beispiel für ein Spielerprofil
 
-![](/de_/de_stats_profile.png)
+![](/en_/en_stats_profile.png)
