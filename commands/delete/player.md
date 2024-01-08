@@ -2,7 +2,7 @@
 title: /delete player - Command
 description: Information about the /delete player command
 published: true
-date: 2024-01-08T20:35:09.231Z
+date: 2024-01-08T20:35:18.233Z
 tags: player, delete, delete player
 editor: markdown
 dateCreated: 2021-07-13T06:43:18.213Z
@@ -29,4 +29,4 @@ To delete a player via player mention:
 ![en_delete_player_id.png](/en_/en_delete_player_user.png)
 
 To delete a player via Discord ID:
-![en_delete_player_id.png](/en_/en_delete_player_id.png)
+![](/en_/en_delete_player_id.png)
