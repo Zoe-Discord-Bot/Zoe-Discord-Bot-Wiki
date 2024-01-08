@@ -2,7 +2,7 @@
 title: /create rankchannel - Befehl
 description: Informationen über den Befehl /create rankchannel
 published: true
-date: 2023-08-22T06:29:07.173Z
+date: 2024-01-08T17:51:24.508Z
 tags: rangkanal, create rankchannel, rangkanal erstellen, erstellen
 editor: markdown
 dateCreated: 2023-08-22T06:29:07.173Z
@@ -19,11 +19,11 @@ dateCreated: 2023-08-22T06:29:07.173Z
 >{.is-success}
 
 >### Verwandte Befehle:
->-   [/delete rankchannel](/en/commands/delete/rankChannel/)
->-   [/define rankchannel](/en/commands/define/rankChannel/)
+>-   [/delete rankchannel](/de/commands/delete/rankChannel/)
+>-   [/define rankchannel](/de/commands/define/rankChannel/)
 
 <br>
 
 ## Nutzung
 
-![](/new_create_rankchannel.gif)
+![](/en_/en_create_rankchannel.gif)
