@@ -2,7 +2,7 @@
 title: Zoe Fehlersuche
 description: Mit Hilfe dieses Schemas kannst du selbst kleinere Fehler beheben.
 published: true
-date: 2023-09-05T05:46:09.256Z
+date: 2024-01-08T13:00:18.488Z
 tags: troubleshooting, fehlersuche, fehler, suche
 editor: markdown
 dateCreated: 2023-08-12T12:15:30.198Z
@@ -10,19 +10,18 @@ dateCreated: 2023-08-12T12:15:30.198Z
 
 # Fehlersuche
 
-> *Zoe reagiert nicht auf meine Befehle und aktualisiert weder die Infotafel noch Ränge und sendet keine Spielkarten, Rangkanal- oder Spielverlauf-Kanal-Nachrichten. Was ist los mit Zoe?*
+> *Zoe reagiert nicht auf meine Befehle und aktualisiert weder die [Infotafel](/de/features/infoChannel) oder [Bestenlisten](/de/features/leaderboards) und sendet keine [Spielkarten](/de/features/gamecards), [Rangkanal](/de/features/rankChannel)- oder [Spielverlauf-Kanal](/de/features/matchhistoryChannel)-Nachrichten. Was ist los mit Zoe?*
 > **Hier ist, was du jetzt überprüfen kannst!**
 
 <br>
 
-## 1. Discord Status überprüfen
-> Prüfe zunächst Zoes Discord-Status. Wenn er nicht grün (online), sondern rot (nicht stören) oder ausgegraut (offline) ist, liegt das höchstwahrscheinlich daran, dass ein Update auf eine neuere Version im Gange ist oder wir ein Problem untersuchen.
+## 1. Discord & Zoe Status überprüfen
+> Prüfe zunächst, ob Discord derzeit keine Probleme hat: https://discordstatus.com/. Danach überprüfe Zoes Discord-Status. Wenn er nicht grün (online), sondern rot (bitte nicht stören) oder ausgegraut (offline) ist, liegt das höchstwahrscheinlich daran, dass gerade ein Update auf eine neuere Version durchgeführt wird oder wir ein Problem untersuchen.
 > >🟢 **Online:** Zoe ist funktionell
 > >🔴 **Bitte nicht stören:** Zoe stoppt/startet neu
 > >⚫ **Offline:** Zoe ist derzeit wegen einer Aktualisierung oder eines Problems offline
-><pr>
 >
-> Für weitere Informationen kannst du den Ankündigungskanal auf unserem Discord-Server besuchen. Eine Einladung findest du unten links.
+> Für weitere Informationen könnt ihr den [Ankündigungskanal auf unserem Discord-Server](https://discord.gg/meg4Reea6Q) besuchen.
 >{.is-info}
   
 <br>
