@@ -2,7 +2,7 @@
 title: /create team - Command
 description: Information about the /create team command
 published: true
-date: 2023-08-23T19:12:53.170Z
+date: 2024-01-08T20:15:15.454Z
 tags: create, team, teams
 editor: markdown
 dateCreated: 2021-07-12T08:41:18.383Z
@@ -25,5 +25,4 @@ dateCreated: 2021-07-12T08:41:18.383Z
 <br> 
 
 ## Usage
-
-![](/new_create_team.gif)
+![](/en_/en_create_team.png)
