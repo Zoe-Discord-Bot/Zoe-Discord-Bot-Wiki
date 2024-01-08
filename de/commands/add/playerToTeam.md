@@ -2,13 +2,13 @@
 title: /add playerToTeam - Befehl
 description: Lerne wie du mit /add playerToTeam Spieler zu einem Team hinzufügen kannst.
 published: true
-date: 2024-01-08T20:52:13.005Z
+date: 2024-01-08T20:52:22.915Z
 tags: player, team, add, add playertoteam, to, playertoteam
 editor: markdown
 dateCreated: 2024-01-08T20:52:13.005Z
 ---
 
-# /add playerToTeam @DiscordUser teamName
+# /add playerToTeam @DiscordBenutzer teamName
 
 
 >### Informationen: 
