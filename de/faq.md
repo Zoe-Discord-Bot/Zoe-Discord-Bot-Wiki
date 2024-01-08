@@ -2,7 +2,7 @@
 title: FAQ - Häufig gestellte Fragen
 description: Hier findest du Antworten auf häufig gestellte Fragen.
 published: true
-date: 2024-01-08T12:21:12.154Z
+date: 2024-01-08T13:52:29.750Z
 tags: faq, häufig, gestellte, fragen
 editor: markdown
 dateCreated: 2023-05-19T09:56:31.780Z
@@ -10,7 +10,7 @@ dateCreated: 2023-05-19T09:56:31.780Z
 
 ## In welchen Sprachen ist Zoe verfügbar?
 
->Zoe ist derzeit vollständig in Englisch und Deutsch und teilweise in Französisch, Italienisch, Portugiesisch und Spanisch, Russisch und Arabisch, sowie Türkisch übersetzt.  Weitere Informationen findest du hier: [Übersetzungen](https://wiki.zoe-discord-bot.ch/de/translation).
+>Zoe ist derzeit vollständig in Englisch und Deutsch und teilweise in Französisch, Italienisch, Portugiesisch und Spanisch, Russisch und Arabisch, sowie Türkisch übersetzt.  Weitere Informationen findest du hier: [Übersetzungen](/de/translation).
 
 >Bitte bedenke, dass wir nicht alle Sprachen anbieten können und für vollständige Übersetzungen auf die Community angewiesen sind. Vielen Dank!
 >{.is-warning}
@@ -33,7 +33,7 @@ dateCreated: 2023-05-19T09:56:31.780Z
 ## Welche Spiele werden / warum wird Flex / TFT in der Infotafel angezeigt?
 
 
-> Die [Infotafel](/de/features/infoChannel) zeigt standardmäßig die letzte Aktualisierung des Ranges an. Wenn dein letztes Spiel ein Flex-Spiel war, wird diese Änderung angezeigt. Du kannst dieses Verhalten in Zoes Konfiguration ändern ([Konfiguration](http://wiki.zoe-discord-bot.ch/en/Zoe-Configuration/Infochannel/Infochannel-Rankfilter) oder [dieser Guide](http://wiki.zoe-discord-bot.ch/en/Guides/SoloQ-Infopanel)).
+> Die [Infotafel](/de/features/infoChannel) zeigt standardmäßig die letzte Aktualisierung des Ranges an. Wenn dein letztes Spiel ein Flex-Spiel war, wird diese Änderung angezeigt. Du kannst dieses Verhalten in Zoes Konfiguration ändern ([Konfiguration](/en/Zoe-Configuration/Infochannel/Infochannel-Rankfilter) oder [dieser Guide](/en/Guides/SoloQ-Infopanel)).
 
 <br>
 
@@ -49,7 +49,7 @@ dateCreated: 2023-05-19T09:56:31.780Z
 
 ## Wie kann ich Zoe unterstützen?
 
-> Du kannst uns monatlich mit einem kleinen Betrag unterstützen und bekommst einige coole Features obendrauf. Finde [hier (Englisch)](/en/support/) mehr heraus. Oder besuche die Spendenseite [hier](https://zoe-discord-bot.ch/donate.html).
+> Du kannst uns monatlich mit einem kleinen Betrag unterstützen und bekommst einige coole Features obendrauf. Finde [hier](/de/support/) mehr heraus. Oder besuche die Spendenseite [hier](https://zoe-discord-bot.ch/donate.html).
 
 <br>
 
@@ -70,7 +70,7 @@ dateCreated: 2023-05-19T09:56:31.780Z
 
 ## Muss ich irgendetwas tun, damit Zoe die [Infotafel](/de/features/infoChannel), [Spielkarten](/de/features/gamecards) oder [Leaderboards](/de/features/leaderboards) usw. aktualisiert?
 
-> Nein, du musst nichts tun, aber wenn du eine manuelle Aktualisierung erzwingen willst, kannst du den Befehl [/refresh](/en/commands/important/refresh/) benutzen.
+> Nein, du musst nichts tun, aber wenn du eine manuelle Aktualisierung erzwingen willst, kannst du den Befehl [/refresh](/de/commands/important/refresh/) benutzen.
 
 <br><br><br>
 
