@@ -2,7 +2,7 @@
 title: Riot ID
 description: Hier kannst du rausfinden, was eine Riot ID ist.
 published: true
-date: 2024-01-08T17:59:19.219Z
+date: 2024-01-08T17:59:42.296Z
 tags: riot, id, riot id, riotid
 editor: markdown
 dateCreated: 2024-01-08T17:59:19.219Z
@@ -19,7 +19,7 @@ also ist mein _Gamenamen_ `Star Guardian Ez`
 und meine _Tagline_ ist `#real` oder besser `real`**
 >
 >**Dein Spielname muss nicht eindeutig sein. Solange deine Riot ID (als Ganzes) noch nicht vergeben ist, kannst du jeden beliebigen Namen verwenden. Achte also darauf, dass du die richtige Tagline mit deinem Gamenamen verwendest.
-Taglines sind standardmäßig ein Regioncode, aber wenn du sie einmal geändert hast, kannst du nicht mehr zu einem Regioncode zurückkehren. [Region Code](/en/terms/region).** <br>
+Taglines sind standardmäßig ein Regioncode, aber wenn du sie einmal geändert hast, kannst du nicht mehr zu einem Regioncode zurückkehren. [Region Code](/en/terms/region)** <br>
 >**Es gibt 2 Szenarien, die bei Zoe auftreten können:** 
 >**:one: Du musst deinen `Gamennamen` und deine `Tagline` getrennt eingeben
 >Es gibt dann 2 separate Eingabefelder, in die du nur den Text (keinen Hashtag) eingibst.** 
