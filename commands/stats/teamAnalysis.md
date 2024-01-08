@@ -2,7 +2,7 @@
 title: /stats teamanalysis - Command
 description: Information about the /stats teamanalysis command
 published: true
-date: 2023-12-01T13:51:37.943Z
+date: 2024-01-08T17:21:26.762Z
 tags: stats, analysis, team, team analysis, team stats, teamanalysis, stats teamanalysis
 editor: markdown
 dateCreated: 2021-07-13T11:00:45.454Z
@@ -19,8 +19,8 @@ dateCreated: 2021-07-13T11:00:45.454Z
 >{.is-success}
 
 >### Related pages:
->- [/clash analysis](https://wiki.zoe-discord-bot.ch/en/commands/clash/analysis)
->- [stats (feature)](https://wiki.zoe-discord-bot.ch/en/commands/stats)
+>- [/clash analysis](/en/commands/clash/analysis)
+>- [stats (feature)](/en/commands/stats)
 
 <br>
 
@@ -33,6 +33,7 @@ dateCreated: 2021-07-13T11:00:45.454Z
 #### Picks for your team
 ![](/en_/en_stats_teamanalysis_picks.png)
 <br>
+
 #### Bans against your team
 ![](/en_/en_stats_teamanalysis_bans.png)
 
