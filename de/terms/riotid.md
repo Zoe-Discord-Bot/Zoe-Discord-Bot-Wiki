@@ -2,7 +2,7 @@
 title: Riot ID
 description: Hier kannst du rausfinden, was eine Riot ID ist.
 published: true
-date: 2024-01-08T18:06:10.202Z
+date: 2024-01-08T18:06:16.027Z
 tags: riot, id, riot id, riotid
 editor: markdown
 dateCreated: 2024-01-08T17:59:19.219Z
@@ -32,6 +32,7 @@ Taglines sind standardmäßig ein Regioncode, aber wenn du sie einmal geändert 
 >### Verwandte Befehle/Seiten:
 >**Gamename + Tagline** <br>
 >-   [`/create player`](/de/commands/create/player)
+>-   [`/register`](/de/commands/important/register)
 
 <br>
 >
