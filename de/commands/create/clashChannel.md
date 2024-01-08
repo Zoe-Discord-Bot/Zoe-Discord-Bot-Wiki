@@ -2,7 +2,7 @@
 title: /create clashchannel - Befehl
 description: Informationen über den Befehl /create clashchannel
 published: true
-date: 2023-08-22T06:59:01.926Z
+date: 2024-01-08T17:48:04.814Z
 tags: erstellen, create clashchannel, clashkanal, clashkanal erstellen
 editor: markdown
 dateCreated: 2023-08-22T06:59:01.926Z
@@ -24,13 +24,17 @@ dateCreated: 2023-08-22T06:59:01.926Z
 <br>
 
 ## Nutzung
-
-![](/new_create_clashchannel.gif)
+:one:Beginne mit der Erstellung des Clashkanals mit:
+![](/en_/en_create_clashchannel_riotid_1.png) <br>
+:two:Danach musst du Zoe ein Konto geben, indem du deine [Region](/en/terms/region), deinen [Gamename and Tag](/en/terms/riotid) spezifizierst:
+![](/en_/en_create_clashchannel_riotid_2.png) <br>
+:three:Schließlich gib Zoe eine Zeitzone nach Nummer aus einer Liste, die Zoe bereitstellt:
+<img src="/en_/en_create_clashchannel_time.png" width="25%"> <br>
 
 ## Beispiel eines inaktiven Clashkanals
 
-![](/new_clashinactive.png)
+![](/en_/en_clashchannel_inactive.png)
 
 ## Beispiel eines aktiven Clashkanals
 
-![new_clash_analysis.png](/new_clash_analysis.png)
+![](/en_/en_clashchannel_active.png)
