@@ -2,7 +2,7 @@
 title: Zoe Einrichtung
 description: Auf dieser Seite erfährst du, wie du Zoe auf deinem Discord-Server einrichten kannst.
 published: true
-date: 2023-09-04T13:07:13.751Z
+date: 2024-01-08T12:34:11.434Z
 tags: setup, einrichten, einrichtung, start
 editor: markdown
 dateCreated: 2021-08-16T13:05:23.601Z
@@ -12,7 +12,7 @@ dateCreated: 2021-08-16T13:05:23.601Z
 
 <br>
 
-> Um Zoe einzurichten und zu nutzen, benötigst du die Berechtigung `Kanäle verwalten` auf deinem Server (falls du nicht ohnehin der Administrator bist).
+> Um Zoe einzurichten benötigst du die Berechtigung `Kanäle verwalten` auf deinem Server (falls du nicht ohnehin der Administrator bist).
 {.is-warning}
 
 <br>
@@ -20,7 +20,7 @@ dateCreated: 2021-08-16T13:05:23.601Z
 
 ## Zoe hinzufügen
 
-Du kannst Zoe zu deinem Server hinzufügen, indem du auf der Homepage auf `Add the bot` klickst, auf Seiten wie [top.gg](https://top.gg/de/bot/550737379460382752) oder [bots.ondiscord.xyz](https://bots.ondiscord.xyz/bots/550737379460382752) und hier im Wiki unten links im Menü.
+Du kannst Zoe zu deinem Server hinzufügen, indem du auf der Homepage auf [`Add the bot`](https://zoe-discord-bot.ch/invite.html) klickst, auf Seiten wie [top.gg](https://top.gg/de/bot/550737379460382752) oder [bots.ondiscord.xyz](https://bots.ondiscord.xyz/bots/550737379460382752) und hier im Wiki unten links im Menü.
 <br>
   
 ## Zoe authorisieren
@@ -70,7 +70,7 @@ Um einen Spieler zu löschen, benutze den Befehl [`/delete player`](/en/commands
 
 <br>
   
-# 2\. Spieler anzeigen (aka Features benutzen)
+# 2\. Spieler anzeigen (aka [Features](/de/features) benutzen)
 >Du musst keine dieser Funktionen einrichten, dies ist nur eine Vorschlagsliste. Wenn du dir alle Funktionen ansehen möchtest, [ist hier ein Link zu allen Funktionen](/en/features) and [hier zu allen Befehlen](/en/commands/).
 >{.is-info}
 
@@ -79,20 +79,22 @@ Um einen Spieler zu löschen, benutze den Befehl [`/delete player`](/en/commands
 Der Infokanal enthält Statistiken zu Spielern sowie Statistiken zu laufenden Spielen.
 
 ![](/de_/de_infochannel.png)
-<img src="/new_gamecard.png" width="50%" />
+![](/en_/en_gamecard.png)
 
-> Für mehr Informationen zum Infokanal klicke [HIER](/en/features/infoChannel).
-  >{.is-info}
+- [Infokanal *Für mehr Informationen zum Infokanal klicke hier.*](/de/features/infoChannel)
+{.links-list}
+
 
 <br>
   
 ## Rangkanal (schreibgeschützter Kanal empfohlen)
 
 Der Rangkanal ist der Kanal, in dem nach jedem Ranglistenspiel der registrierten Spieler eine Nachricht verschickt wird. Diese Nachrichten enthalten die Anzahl der gewonnenen oder verlorenen LP und einige Statistiken über die Leistung des Spielers im Spiel wie KDA, Dauer des Spiels und Itembuild.
-![](/new_rankchannel_message.png)
 
->Für mehr Informationen zum Rangkanal klicke [HIER](/en/features/rankChannel).
-  >{.is-info}
+![](/en_/en_rankchannel_message.png)
+
+- [Rangkanal *Für mehr Informationen zum Rangkanal klicke hier.*](/de/features/rankChannel)
+{.links-list}
 
 <br>
   
@@ -100,10 +102,10 @@ Der Rangkanal ist der Kanal, in dem nach jedem Ranglistenspiel der registrierten
 
 Dieser Kanal sendet Statistiken über ein Konto in Bezug auf Clash. Er enthält Pläne für zukünftige Kämpfe in deiner Zeitzone sowie Statistiken über dein Team. Du kannst auch eine detaillierte Analyse des gegnerischen Teams mit Bannempfehlungen durchführen.
 
-![](/new_statsteamanalysis.png)
+![](/en_/en_stats_teamanalysis_picks.png)
 
-> Für mehr Informationen zum Clashkanal klicke [HIER](/en/features/clashChannel).
-  >{.is-info}
+- [Clashkanal *Für mehr Informationen zum Clashkanal klicke hier.*](/de/features/clashChannel)
+{.links-list}
 
 <br>
   
@@ -120,10 +122,10 @@ Mit dieser Funktion kannst du Leaderboards erstellen, die automatisch aktualisie
 - Bester Champion ("OTP")
 - Account-Level
 
-![](/new_leaderboard_mastery_points_champion.png)
+![](/en_/en_leaderboard_championmasterypoints.png)
 
-> Für mehr Informationen zu Leaderboards klicke [HIER](/en/features/leaderboards).
-  >{.is-info}
+  - [Leaderboards *Für mehr Informationen zu Leaderboards klicke hier.*](/de/features/leaderboards)
+{.links-list}
 
 <br>
   
@@ -135,8 +137,8 @@ Du kannst mit Zoe ganz einfach ein automatisches Rollensystem einrichten. Die Ro
 
 Sobald deine Rollen korrekt eingerichtet sind, werden sie automatisch aktualisiert, sobald ein Spiel über die Discord-Präsenz der registrierten Spieler erkannt wird, mindestens jedoch einmal pro Stunde. Du kannst deinen Server auch mit dem Befehl [`/refresh`](/en/commands/important/refresh) aktualisieren.
 
-> Für mehr Informationen zu Rangrollen klicke [HIER](/en/features/rankroles).
-  >{.is-info}
+- [Rangrollen *Für mehr Informationen zu Rangrollen klicke hier.*](/de/features/rankroles)
+{.links-list}
 
 <br>  
 
@@ -154,7 +156,7 @@ Zoe hat viele weitere Funktionen. Du kannst dir alle Befehle ansehen, wenn du [H
 
 Ein Beispiel wäre [`/stats profile`](/en/commands/stats/profile), dass es dir erlaubt ein Profil eines Spielers anzusehen.
 
-![](/new_statsprofile.png)
+![](/en_/en_stats_profile.png)
 
 <br>
   
