@@ -2,8 +2,8 @@
 title: /add account  - Command
 description: Information about the /add account command
 published: true
-date: 2023-12-01T13:35:26.530Z
-tags: player, account, add, add account, add account to player
+date: 2024-01-08T19:45:50.520Z
+tags: player, account, add, add account, add account to player, riotid
 editor: markdown
 dateCreated: 2021-07-13T07:28:22.795Z
 ---
