@@ -2,7 +2,7 @@
 title: Stats Befehle
 description: Erfahre, was du mit den /stats-Befehlen tun kannst.
 published: true
-date: 2024-01-08T17:09:40.782Z
+date: 2024-01-08T17:24:50.760Z
 tags: stats, stats befehl, stats befehle
 editor: markdown
 dateCreated: 2023-08-12T18:52:29.166Z
@@ -30,5 +30,5 @@ dateCreated: 2023-08-12T18:52:29.166Z
 
 <br>  
 
-  -  [/stats rankupdate *Zoe liefert Informationen über die besten LP-Gewinner und LP-Verlierer an einem Tag, in einer Woche oder in einem Monat.*](d/commands/stats/rankupdate/) <br> <img src="/en_/en_stats_rankupdate.png"  width="40%" img>
+  -  [/stats rankupdate *Zoe liefert Informationen über die besten LP-Gewinner und LP-Verlierer an einem Tag, in einer Woche oder in einem Monat.*](de/commands/stats/rankupdate/) <br> <img src="/en_/en_stats_rankupdate.png"  width="40%" img>
 {.links-list}
