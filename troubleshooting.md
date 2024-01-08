@@ -2,7 +2,7 @@
 title: Zoe Troubleshooting
 description: With this guide you can try to solve minor issues yourself.
 published: true
-date: 2023-09-18T09:00:10.302Z
+date: 2024-01-08T13:00:16.080Z
 tags: help, troubleshooting, quickhelp, problem solving, online status, permissions
 editor: markdown
 dateCreated: 2023-05-07T09:24:15.617Z
@@ -20,7 +20,6 @@ dateCreated: 2023-05-07T09:24:15.617Z
 > >🟢 **Online:** Zoe is functional
 > >🔴 **Do not disturb:** Zoe is booting/shutting down
 > >⚫ **Offline:** Zoe is currently offline because of an update or issue
-><pr>
 >
 > For more information you can check out the [announcement channel on our Discord server](https://discord.gg/meg4Reea6Q).
 >{.is-info}
