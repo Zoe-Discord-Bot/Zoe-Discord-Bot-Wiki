@@ -2,7 +2,7 @@
 title: /remove account - Befehl
 description: Lerne wie man einen Account von einem Spieler entfernt.
 published: true
-date: 2024-01-08T21:15:12.017Z
+date: 2024-01-08T21:15:19.043Z
 tags: player, remove, remove player
 editor: markdown
 dateCreated: 2024-01-08T21:15:12.017Z
@@ -20,8 +20,7 @@ dateCreated: 2024-01-08T21:15:12.017Z
 
 >### Verwandte Befehle:
 >-   [/add account](/de/commands/add/account/)  
- 
- 
+
 <br>
 
 ## Nutzung
