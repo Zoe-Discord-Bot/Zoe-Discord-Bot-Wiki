@@ -2,7 +2,7 @@
 title: Über das Projekt
 description: Lerne mehr über Zoe
 published: true
-date: 2023-10-18T17:16:51.829Z
+date: 2024-01-08T12:10:15.571Z
 tags: info, about, über, informationen
 editor: markdown
 dateCreated: 2023-09-16T07:44:08.961Z
@@ -44,7 +44,7 @@ Mit Zoe erhältst du Statistiken wie gespielte Champions, [Tipps für alle Champ
 <br>
 
 
-## Zoes Geburt *(von ![](https://cdn.discordapp.com/avatars/228541163966038016/45734838c4ddc93848b391ffdce8106a.png?size=64 =10x)KaluNight, übersetzt)*{.caption .grey--text}
+## Zoes Geburt *(von KaluNight, übersetzt)*{.caption .grey--text}
 > Um die Wahrheit zu sagen: Zoe wurde durch Zufall erschaffen. Es gab eine Zeit, in der ich ein League of Legends-Team hatte und ich wollte Leuten, die sich für mein Team interessierten, ein kleines Extra geben, das sie dazu bringen würde, beizutreten.
 >
 > Also habe ich einen kleinen Discord-Bot entwickelt, der einen sehr einfachen Infokanal mit Spielkarten auf einem einzigen Server anbot. Es war nicht perfekt, aber während ich dieses kleine Projekt entwickelte, dachte ich, dass das etwas Interessantes sein könnte.
@@ -55,7 +55,7 @@ Mit Zoe erhältst du Statistiken wie gespielte Champions, [Tipps für alle Champ
 
 <br>
 
-## Unsere Mission *(von ![](https://cdn.discordapp.com/avatars/589773984447463434/a_0ff5d7f5b06086554ae4dfa14f427c43.gif?size=64 =10x)timfernix, übersetzt)*{.caption .grey--text}
+## Unsere Mission *(von timfernix, übersetzt)*{.caption .grey--text}
 > Ich verfolge derzeit das Ziel, die League of Legends-Community zu bereichern, den Spielern zu helfen, ihre Erfahrungen zu maximieren und es ihnen zu ermöglichen, so viel wie möglich aus den Begegnungen zu lernen und Spaß zu haben. Egal ob du ein ambitionierter Wettkampfspieler oder ein Gelegenheitsspieler bist, Zoe ist hier, um dich mit wertvollen Informationen und Unterstützung zu versorgen.
 >
 > Zoe ist deine treue Begleiterin bei allen Abenteuern in der Kluft und sorgt dafür, dass du immer die Daten und Informationen hast, die du brauchst, um deine Ziele zu erreichen.
@@ -66,17 +66,17 @@ Egal, ob es darum geht, zu sehen, was dir an deinen Statistiken am wichtigsten i
 ## Fakten & Zahlen
 
 - <i class="mdi mdi-calendar"></i>  &nbsp; **Offizieller Start des Projekts** | 12.04.2019	
-- <i class="mdi mdi-code-tags"></i>  &nbsp; **Aktuelle Version von Zoe** | v1.13.3a *(15.09.2023)*{.caption .red--text}
-- <i class="mdi mdi-slash-forward-box"></i>  &nbsp; **Aktuelle Version von Zoe** | 41 *(15.09.2023)*{.caption .red--text}
-- <i class="mdi mdi-account"></i>  &nbsp; **Insgesamt erstellte Zoe-Spieler** | > 51.000 *(15.09.2023)*{.caption .red--text}
-- <i class="mdi mdi-server"></i>  &nbsp; **Server auf denen Zoe ist** | > 7.600 *(15.09.2023)*{.caption .red--text}
-- <i class="mdi mdi-account"></i>  &nbsp; **Alle Übersetzer** | 77 *(15.09.2023)*{.caption .red--text}
-- <i class="mdi mdi-translate"></i>  &nbsp; **Übersetzungssprachen** | 26 *(15.09.2023)*{.caption .red--text}
-- <i class="mdi mdi-translate"></i>  &nbsp; **Verfügbare Zeichenfolgen für die Übersetzung** | 1.190 *(15.09.2023)*{.caption .red--text}	
-- <i class="mdi mdi-translate"></i>  &nbsp; **Gesamtstatus der Übersetzung** | 19.1% *(15.09.2023)*{.caption .red--text}
-- <i class="mdi mdi-library"></i>  &nbsp; **Wiki-Seiten insgesamt** | 162 *(15.09.2023)*{.caption .red--text}
-- <i class="mdi mdi-account"></i>  &nbsp; **Wiki-Editoren insgesamt** | 1 *(15.09.2023)*{.caption .red--text}
-- <i class="mdi mdi-gift"></i>  &nbsp; **Ko-Fi-Überstützer insgesamt** | 100 *(15.09.2023, von Ko-Fi)*{.caption .red--text}
+- <i class="mdi mdi-code-tags"></i>  &nbsp; **Aktuelle Version von Zoe** | v1.13.4 *(08.01.2024)*{.caption .red--text}
+- <i class="mdi mdi-slash-forward-box"></i>  &nbsp; **Aktuelle Version von Zoe** | 41 *(08.01.2024)*{.caption .red--text}
+- <i class="mdi mdi-account"></i>  &nbsp; **Insgesamt erstellte Zoe-Spieler** | > 57.000 *(08.01.2024)*{.caption .red--text}
+- <i class="mdi mdi-server"></i>  &nbsp; **Server auf denen Zoe ist** | > 8.400 *(08.01.2024)*{.caption .red--text}
+- <i class="mdi mdi-account"></i>  &nbsp; **Alle Übersetzer** | 79 *(08.01.2024)*{.caption .red--text}
+- <i class="mdi mdi-translate"></i>  &nbsp; **Übersetzungssprachen** | 26 *(08.01.2024)*{.caption .red--text}
+- <i class="mdi mdi-translate"></i>  &nbsp; **Verfügbare Zeichenfolgen für die Übersetzung** | 1.206 *(08.01.2024)*{.caption .red--text}	
+- <i class="mdi mdi-translate"></i>  &nbsp; **Gesamtstatus der Übersetzung** | 19% *(08.01.2024)*{.caption .red--text}
+- <i class="mdi mdi-library"></i>  &nbsp; **Wiki-Seiten insgesamt** | 162 *(08.01.2024)*{.caption .red--text}
+- <i class="mdi mdi-account"></i>  &nbsp; **Wiki-Editoren insgesamt** | 1 *(08.01.2024)*{.caption .red--text}
+- <i class="mdi mdi-gift"></i>  &nbsp; **Ko-Fi-Überstützer insgesamt** | 128 *(08.01.2024, von Ko-Fi)*{.caption .red--text}
 {.grid-list}
 
 <br>
@@ -91,7 +91,7 @@ Egal, ob es darum geht, zu sehen, was dir an deinen Statistiken am wichtigsten i
 
 <br>
 
-## Invites
+## Einladungen
 - [Discord Server Einladung *discord.gg/4Rxrzsxb7d*](https://discord.gg/4Rxrzsxb7d)
 - [Zoe Einladung *discord.com*](https://discord.com/oauth2/authorize?client_id=550737379460382752&scope=bot%20applications.commands&permissions=397553298512&response_type=code&redirect_uri=https%3A%2F%2Fzoe-discord-bot.ch%2FThanksYou.html)
 - [Zoe auf Top.gg *top.gg*](https://top.gg/bot/550737379460382752)
