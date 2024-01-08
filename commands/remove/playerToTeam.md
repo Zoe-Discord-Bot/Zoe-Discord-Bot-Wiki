@@ -2,7 +2,7 @@
 title: /remove playerfromteam - Command
 description: Information about the /remove playerfromteam command
 published: true
-date: 2024-01-08T21:08:18.626Z
+date: 2024-01-08T21:08:25.066Z
 tags: player, team, remove, remove player from team, remove player to team, remove playertoteam, remove playerfromteam
 editor: markdown
 dateCreated: 2021-07-13T07:42:09.426Z
@@ -26,4 +26,4 @@ dateCreated: 2021-07-13T07:42:09.426Z
 
 ## Usage
 
-![en_remove_player.png](/en_/en_remove_player.png)
+![](/en_/en_remove_player.png)
