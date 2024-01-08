@@ -2,8 +2,8 @@
 title: /remove account - Command
 description: Information about the /remove account command
 published: true
-date: 2023-12-01T13:32:11.397Z
-tags: account, remove, remove account, remove account from player
+date: 2024-01-08T19:47:48.164Z
+tags: account, remove, remove account, remove account from player, riotid
 editor: markdown
 dateCreated: 2021-07-13T07:48:55.697Z
 ---
