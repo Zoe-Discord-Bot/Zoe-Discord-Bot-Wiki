@@ -2,7 +2,7 @@
 title: Stats commands
 description: Learn about what you can do with the /stats commands.
 published: true
-date: 2024-01-08T15:27:34.245Z
+date: 2024-01-08T17:09:42.293Z
 tags: stats, stats command, stats cmd, stats cmds, stats commands
 editor: markdown
 dateCreated: 2021-07-13T10:30:33.475Z
@@ -32,6 +32,3 @@ dateCreated: 2021-07-13T10:30:33.475Z
 
   -  [/stats rankupdate *Zoe provides information about top LP-winning and LP-losing players in one day, one week or one month.*](/en/commands/stats/rankupdate/) <br> <img src="/en_/en_stats_rankupdate.png"  width="40%" img>
 {.links-list}
-
-
-  
