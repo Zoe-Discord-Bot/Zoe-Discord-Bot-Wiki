@@ -2,13 +2,13 @@
 title: /delete player - Command
 description: Information about the /delete player command
 published: true
-date: 2023-08-24T06:08:02.929Z
+date: 2024-01-08T20:35:09.231Z
 tags: player, delete, delete player
 editor: markdown
 dateCreated: 2021-07-13T06:43:18.213Z
 ---
 
-# /delete player @DiscordUser
+# /delete player
 
 >### Information
 >**This command deletes the mentioned [player](/en/terms/player) from Zoe in your server. They will be removed from all features.**
@@ -25,5 +25,8 @@ dateCreated: 2021-07-13T06:43:18.213Z
 <br>
 
 ## Usage
+To delete a player via player mention:
+![en_delete_player_id.png](/en_/en_delete_player_user.png)
 
-![](/new_delete_player.gif)
+To delete a player via Discord ID:
+![en_delete_player_id.png](/en_/en_delete_player_id.png)
