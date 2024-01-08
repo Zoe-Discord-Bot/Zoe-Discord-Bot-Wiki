@@ -2,8 +2,8 @@
 title: /stats profile - Command
 description: Information about the /stats profile command
 published: true
-date: 2024-01-08T17:15:31.318Z
-tags: stats, stats profile, player stats, profile
+date: 2024-01-08T17:41:35.600Z
+tags: stats, stats profile, player stats, profile, riotid
 editor: markdown
 dateCreated: 2021-07-13T10:38:02.384Z
 ---
