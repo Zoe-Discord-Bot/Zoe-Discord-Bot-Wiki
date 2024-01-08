@@ -2,8 +2,8 @@
 title: Registration with verification
 description: Here you can see how to register on a server with account verification enabled.
 published: true
-date: 2023-11-29T09:04:28.352Z
-tags: registration, verification
+date: 2024-01-08T17:40:57.025Z
+tags: registration, verification, riotid
 editor: markdown
 dateCreated: 2023-08-22T16:32:51.912Z
 ---
