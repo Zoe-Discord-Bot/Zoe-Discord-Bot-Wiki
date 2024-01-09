@@ -2,7 +2,7 @@
 title: Testing Page
 description: 
 published: false
-date: 2024-01-09T17:09:41.751Z
+date: 2024-01-09T17:09:50.486Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-09T15:07:03.078Z
@@ -11,7 +11,7 @@ dateCreated: 2024-01-09T15:07:03.078Z
 > Klicke auf einen Befehl, um dessen detailliertere Seite zu sehen.
 >{.is-info}
 
-# Important Commands
+# Wichtige Commands
 
 - [/setup *Mit diesem Befehl erhältst du Informationen darüber, wie du Zoe auf deinem Discord-Server einrichten kannst. Nützlich, wenn du Zoe nach einem Reset neu einrichten musst.*](/de/commands/important/setup/) 
 - [/language *Mit diesem Befehl kannst du die Sprache auswählen, die Zoe auf deinem Discord-Server spricht.*](/de/commands/important/language/)
