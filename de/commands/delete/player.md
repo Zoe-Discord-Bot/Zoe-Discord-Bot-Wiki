@@ -2,7 +2,7 @@
 title: /delete player - Befehl
 description: Lerne mehr über den /delete player Befehl.
 published: true
-date: 2024-01-08T20:39:51.614Z
+date: 2024-01-09T17:28:15.143Z
 tags: player, delete, delete player
 editor: markdown
 dateCreated: 2024-01-08T20:39:38.989Z
@@ -11,7 +11,7 @@ dateCreated: 2024-01-08T20:39:38.989Z
 # /delete player
 
 >### Information
->**Dieser Befehl löscht die erwähnten [Spieler](/en/terms/player) von Zoe auf deinem Server. Sie werden aus allen Zoe-Funktionen entfernt.**
+>**Dieser Befehl löscht die erwähnten [Spieler](/de/terms/player) von Zoe auf deinem Server. Sie werden aus allen Zoe-Funktionen entfernt.**
 >{.is-info}
 
 >### Erforderliche Berechtigungen:
