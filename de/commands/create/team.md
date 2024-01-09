@@ -2,7 +2,7 @@
 title: /create team - Befehl
 description: Lerne mehr über den /create team Befehl.
 published: true
-date: 2024-01-08T20:19:54.272Z
+date: 2024-01-09T14:23:06.098Z
 tags: create, team, create team
 editor: markdown
 dateCreated: 2024-01-08T20:19:54.272Z
@@ -24,7 +24,7 @@ dateCreated: 2024-01-08T20:19:54.272Z
 
 <br> 
 
-## Usage
+## Nutzung
 Im Beispiel erstellen wir ein Team mit dem Namen "The best team".
 ![](/en_/en_create_team.png)
 
