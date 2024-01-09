@@ -2,7 +2,7 @@
 title: /show players - Befehl
 description: Lerne mehr über den /show players Befehl.
 published: true
-date: 2024-01-08T20:11:25.059Z
+date: 2024-01-09T17:28:27.771Z
 tags: players, show, show players
 editor: markdown
 dateCreated: 2024-01-08T20:11:25.059Z
@@ -11,7 +11,7 @@ dateCreated: 2024-01-08T20:11:25.059Z
 # /show players
 
 >### Informationen
->**Mit diesem Befehl erhältst du alle [Spieler](/en/terms/player) auf deinem Server mit allen hinzugefügten Accounts in einer Nachricht angezeigt.**
+>**Mit diesem Befehl erhältst du alle [Spieler](/de/terms/player) auf deinem Server mit allen hinzugefügten Accounts in einer Nachricht angezeigt.**
 >{.is-info}
 
 >### Erforderliche Berechtigungen:
