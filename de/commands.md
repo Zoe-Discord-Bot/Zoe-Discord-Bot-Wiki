@@ -2,7 +2,7 @@
 title: Zoe Befehle
 description: Hier findest du alle Befehle aufgelistet.
 published: true
-date: 2024-01-09T17:12:58.202Z
+date: 2024-01-09T17:13:09.456Z
 tags: commands, cmd, cmds, command, befehl, befehle
 editor: markdown
 dateCreated: 2023-08-12T20:13:29.760Z
@@ -34,7 +34,7 @@ dateCreated: 2023-08-12T20:13:29.760Z
 - [/undefine infochannel *Dieser Befehl hebt die Definition des aktuellen Infokanals auf. Der Textkanal wird dabei nicht gelöscht, Zoe sendet nur nichts mehr in diesem Kanal.*](/de/commands/undefine/infoChannel/)
 {.links-list}
 
-## Rankkanal
+## Rangkanal
 
 - [/create rankchannel *Dieser Befehl erstellt einen Rangkanal, in dem Zoe Updates über die Ränge der registrierten Spieler sendet.*](/de/commands/create/rankChannel/)
 - [/delete rankchannel *Löscht den Rangkanal deines Servers.*](/de/commands/delete/rankChannel/)
