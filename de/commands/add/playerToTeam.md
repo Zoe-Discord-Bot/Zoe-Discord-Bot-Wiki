@@ -2,7 +2,7 @@
 title: /add playerToTeam - Befehl
 description: Lerne wie du mit /add playerToTeam Spieler zu einem Team hinzufügen kannst.
 published: true
-date: 2024-01-08T20:52:22.915Z
+date: 2024-01-09T17:29:46.678Z
 tags: player, team, add, add playertoteam, to, playertoteam
 editor: markdown
 dateCreated: 2024-01-08T20:52:13.005Z
@@ -12,7 +12,7 @@ dateCreated: 2024-01-08T20:52:13.005Z
 
 
 >### Informationen: 
->**Dieser Befehl fügt den genannten [Spieler](/en/terms/player) zum genannten Team hinzu. Dafür muss es erst [erstellt](/de/commands/create/team) werden und eine [Infotafel](/de/features/infoChannel) muss auf dem Server existieren.**
+>**Dieser Befehl fügt den genannten [Spieler](/de/terms/player) zum genannten Team hinzu. Dafür muss es erst [erstellt](/de/commands/create/team) werden und eine [Infotafel](/de/features/infoChannel) muss auf dem Server existieren.**
 >{.is-info}
 
 >### Erforderliche Berechtigungen: 
