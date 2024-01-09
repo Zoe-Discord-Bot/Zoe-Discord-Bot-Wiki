@@ -2,7 +2,7 @@
 title: /stats rankupdate - Befehl
 description: Informationen über den Befehl /stats rankupdate
 published: true
-date: 2023-08-17T11:58:01.339Z
+date: 2024-01-09T17:31:06.896Z
 tags: rank update, rang, rangaktualisierung, lp gewinn, lp verlust
 editor: markdown
 dateCreated: 2023-08-17T11:58:01.339Z
@@ -21,7 +21,7 @@ dateCreated: 2023-08-17T11:58:01.339Z
 >{.is-success}
 
 >### Verwandte Seiten:
->-   [stats (Features)](/en/commands/stats/)
+>-   [stats (Features)](/de/commands/stats/)
 
 <br>
 
