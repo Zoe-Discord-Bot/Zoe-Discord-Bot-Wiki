@@ -2,7 +2,7 @@
 title: Testing Page
 description: 
 published: false
-date: 2024-01-09T15:07:03.078Z
+date: 2024-01-09T16:47:41.577Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-09T15:07:03.078Z
@@ -60,4 +60,47 @@ dateCreated: 2024-01-09T15:07:03.078Z
 
 - [/create leaderboard *This command starts the wizard for creating leaderboards.*](/en/commands/create/leaderboard/)
 - [/delete leaderboard *This command starts the wizard for deleting existing leaderboards.*](/en/commands/delete/leaderboard/)
+{.links-list}
+
+<br>
+
+# Player Commands
+
+- [/register *With this command, players on your server can register themselves for Zoe (needs to be enabled first).*](/en/commands/important/register/)
+- [/create player *This command creates a new player with the given information.*](/en/commands/create/player/)
+- [/delete player *By issuing this command you delete the mentioned player from the system in your server.*](/en/commands/delete/player/)
+- [/show players *With this command you will get displayed all players on your server with all their accounts.*](/en/commands/important/show-players/)
+{.links-list}
+
+# Account Commands
+
+- [/add account *This command is used to connect another/secondary League of Legends account with a player in discord.*](/en/commands/add/account/)
+- [/remove account *Removes the named account from the mentioned player.*](/en/commands/remove/account/)
+- [/banaccount *Launches the banlist wizard. This allows you (an lol account owner) to delete their account from other servers and add it to the banlist to make it impossible for others to add it.*](/en/commands/other/banAccount/)
+{.links-list}
+
+# Team Commands
+
+- [/create team *This command creates a new team with the given name. This allows grouping players in the infopanel.*](/en/commands/create/team/)
+- [/delete team *Use this command to delete the mentioned team from the system in your server.*](/en/commands/delete/team/)
+- [/add playertoteam *This command adds the mentioned player to the named team.*](/en/commands/add/playerToTeam/)
+- [/remove playerfromteam *Removes the mentioned player from the named team.*](/en/commands/remove/playerToTeam/)
+{.links-list}
+
+<br>
+
+# Stats Commands
+
+- [/stats profile *Zoe provides some information about the selected profile.*](/en/commands/stats/profile/)
+- [/stats predictrole *Zoe predicts the role of 5 given accounts when they play together.*](/en/commands/stats/predictRole/)
+- [/stats teamanalysis *Zoe predicts the role of 5 given accounts when they play together with pick and ban recommendations.*](/en/commands/stats/teamAnalysis/)
+- [/stats matchhistory *Allows you to browse the match history of LoL accounts and view match stats.*](/en/commands/stats/matchhistory)
+- [/stats rankupdate *Zoe sums up information about LP-gains and -losses in one day, one week and one month.*](/en/commands/stats/rankupdate)
+{.links-list}
+
+<br>
+
+# Other Commands
+
+- [/patchnotes *This command sends you the current Zoe patchnotes which are in English.*](/en/commands/other/patchNotes/)
 {.links-list}
