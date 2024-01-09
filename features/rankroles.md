@@ -2,7 +2,7 @@
 title: Rank roles - Feature
 description: Information about the automated rank roles.
 published: true
-date: 2023-08-18T08:38:58.618Z
+date: 2024-01-09T14:33:34.704Z
 tags: ranks, rank, role, roles, improved, improved rank roles, peak elo
 editor: markdown
 dateCreated: 2023-04-13T08:11:20.807Z
@@ -65,13 +65,13 @@ After that the creation is the same as for improved rank roles.
 <img src="/improved_rankroles_2.png" width="70%"  />
 >{.is-info}
 
->### Now for the settings. On the top of the message you can see the current configuration.
+> Now for the settings. On the top of the message you can see the current configuration.
 ><img src="/improved_rankroles_settings_1.png" width="50%"  /> <br>
->### Right below that you can find examples of the roles that will be created.
+> Right below that you can find examples of the roles that will be created.
 ><img src="/improved_rankroles_settings_2.png" width="50%"  /> <br>
 >{.is-info}
 
-> ### On the bottom you can change the following settings with the **4 dropdown lists**: <br>
+> On the bottom you can change the following settings with the **4 dropdown lists**: <br>
 >_**Rank scale** *(single selection)*_
 >Every rank (Iron, Bronze, Silver,...)
 >Every second division (Iron IV-III, Iron II-I, Bronze IV-III,...) 
