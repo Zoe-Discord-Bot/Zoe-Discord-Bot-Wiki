@@ -2,7 +2,7 @@
 title: /delete infochannel - Befehl
 description: Informationen über den Befehl /delete infochannel
 published: true
-date: 2023-08-22T06:14:52.188Z
+date: 2024-01-09T17:24:50.433Z
 tags: delete infochannel, infokanal, infokanal löschen, löschen
 editor: markdown
 dateCreated: 2023-08-22T06:14:52.188Z
@@ -19,8 +19,8 @@ dateCreated: 2023-08-22T06:14:52.188Z
 >{.is-success}
 
 >### Verwandte Befehle:
->-   [/create infochannel](/en/commands/create/infoChannel/)
->-   [Infokanal (feature)](/en/features/infoChannel/)
+>-   [/create infochannel](/de/commands/create/infoChannel/)
+>-   [Infokanal (feature)](/de/features/infoChannel/)
 
 <br>
 
