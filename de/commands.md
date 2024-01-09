@@ -2,7 +2,7 @@
 title: Zoe Befehle
 description: Hier findest du alle Befehle aufgelistet.
 published: true
-date: 2024-01-09T17:13:09.456Z
+date: 2024-01-09T17:13:26.725Z
 tags: commands, cmd, cmds, command, befehl, befehle
 editor: markdown
 dateCreated: 2023-08-12T20:13:29.760Z
@@ -72,7 +72,7 @@ dateCreated: 2023-08-12T20:13:29.760Z
 - [/show players *Mit diesem Befehl bekommst du alle Spieler auf deinem Server mit all ihren Accounts angezeigt.*](/de/commands/important/show-players/)
 {.links-list}
 
-# Accountbefehle
+# Kontobefehle
 
 - [/add account *Dieser Befehl wird verwendet, um einen anderen/sekundären League of Legends-Kontos mit einem Spieler in Discord zu verbinden.*](/de/commands/add/account/)
 - [/remove account *Entfernt das genannte Konto von dem genannten Spieler.*](/de/commands/remove/account/)
@@ -89,7 +89,7 @@ dateCreated: 2023-08-12T20:13:29.760Z
 
 <br>
 
-# Stats Befehle
+# Stats-Befehle
 
 - [/stats profile *Zoe liefert einige Informationen über das ausgewählte Profil.*](/de/commands/stats/profile/)
 - [/stats predictrole *Zoe sagt die Rolle von 5 bestimmten Konten voraus, wenn sie zusammen spielen.*](/de/commands/stats/predictRole/)
