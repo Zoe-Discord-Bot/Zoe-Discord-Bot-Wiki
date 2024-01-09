@@ -2,7 +2,7 @@
 title: /delete leaderboard - Befehl
 description: Informationen über den Befehl /delete leaderboard
 published: true
-date: 2023-08-22T07:39:41.730Z
+date: 2024-01-09T17:27:31.020Z
 tags: delete leaderboard, löschen, bestenliste, bestenliste löschen
 editor: markdown
 dateCreated: 2023-08-22T07:39:41.730Z
@@ -19,7 +19,7 @@ dateCreated: 2023-08-22T07:39:41.730Z
 >{.is-success}
 
 >### Verwandte Befehle:
->-   [/create leaderboard](/en/commands/create/leaderboard/)
+>-   [/create leaderboard](/de/commands/create/leaderboard/)
 
 <br>
 
