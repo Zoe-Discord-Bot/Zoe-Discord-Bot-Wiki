@@ -2,7 +2,7 @@
 title: /boost - Befehl
 description: Informationen über den /boost Befehl
 published: true
-date: 2023-08-21T13:03:03.771Z
+date: 2024-01-09T17:23:29.275Z
 tags: abonnement, premium, boost, server boost, boosten
 editor: markdown
 dateCreated: 2023-08-21T13:03:03.771Z
@@ -19,8 +19,8 @@ dateCreated: 2023-08-21T13:03:03.771Z
 >{.is-success}
 
 >### Verwandte Befehle/Seiten:
->-   [Zoe unterstützen](https://wiki.zoe-discord-bot.ch/en/support)
->-   [Zoe Punkte & Boosting](https://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting)
+>-   [Zoe unterstützen](/en/support)
+>-   [Zoe Punkte & Boosting](/en/Zoe-Points-And-Boosting)
 
 <br>
 
