@@ -2,7 +2,7 @@
 title: Zoe Befehle
 description: Hier findest du alle Befehle aufgelistet.
 published: true
-date: 2024-01-09T17:13:26.725Z
+date: 2024-01-09T17:21:40.848Z
 tags: commands, cmd, cmds, command, befehl, befehle
 editor: markdown
 dateCreated: 2023-08-12T20:13:29.760Z
@@ -15,7 +15,7 @@ dateCreated: 2023-08-12T20:13:29.760Z
 
 - [/setup *Mit diesem Befehl erhältst du Informationen darüber, wie du Zoe auf deinem Discord-Server einrichten kannst. Nützlich, wenn du Zoe nach einem Reset neu einrichten musst.*](/de/commands/important/setup/) 
 - [/language *Mit diesem Befehl kannst du die Sprache auswählen, die Zoe auf deinem Discord-Server spricht.*](/de/commands/important/language/)
-- [/config *Dieser Befehl öffnet eine interaktive Meldung, in der du Zoe für die Navigation mit Reaktionen konfigurieren kannst.*](/en/commands/important/config/)
+- [/config *Dieser Befehl öffnet eine interaktive Meldung, in der du Zoe für die Navigation mit Reaktionen konfigurieren kannst.*](/de/commands/important/config/)
 - [/refresh *Mit diesem Befehl werden die Infotafel und jede Rangliste manuell aktualisiert.*](/de/commands/important/refresh/)
 - [/help *Wenn du diesen Befehl ausführst, sendet Zoe eine Hilfemeldung mit hilfreichen Wiki-Seiten.*](/de/commands/important/help/)
 - [/reset *Der Befehl führt einen Reset für deinen Server durch. Er setzt die aktuelle Konfiguration deines Servers zurück. Versuche diesen Befehl zu verwenden, wenn etwas nicht richtig läuft.*](/de/commands/important/reset/)
