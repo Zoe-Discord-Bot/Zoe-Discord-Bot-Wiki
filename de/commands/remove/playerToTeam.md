@@ -1,9 +1,9 @@
 ---
-title: /remove player - Befehl
+title: /remove playerFromTeam - Befehl
 description: Lerne wie man einen Spieler von einem Team entfernt.
 published: true
-date: 2024-01-08T21:10:01.280Z
-tags: player, remove, remove player
+date: 2024-01-09T13:52:45.040Z
+tags: player, team, remove, remove player from team, remove player, from
 editor: markdown
 dateCreated: 2024-01-08T21:10:01.280Z
 ---
