@@ -2,7 +2,7 @@
 title: Rangrollen - Feature
 description: Informationen über die automatisierten Rangrollen.
 published: true
-date: 2024-01-09T14:29:52.754Z
+date: 2024-01-09T14:30:04.715Z
 tags: rang, ränge, rolle, rollen, verbesserte, verbesserte rangrollen
 editor: markdown
 dateCreated: 2023-08-12T19:12:57.016Z
@@ -33,11 +33,11 @@ dateCreated: 2023-08-12T19:12:57.016Z
 >{.is-info}
 
 >Lese ggf. die Beschreibung und bestätige die Aktivierung mit :white_check_mark:und wähle dann aus, für welche Warteschlangen/Modi die Rollen gelten sollen. Verwende die Schaltflächen, um die Kategorien zu aktivieren oder zu deaktivieren. Du hast die Wahl zwischen Solo/DuoQ, Flex und TFT. Bestätige diese Auswahl anschließend mit `Aktivieren`.
-![basic_rankroles_3-4.png](/basic_rankroles_3-4.png)
+![](/basic_rankroles_3-4.png)
 >{.is-info}
 
 >Dies dauert einen kurzen Moment, da Zoe für jeden League of Legends-Rang eine Rolle erstellen muss. Nach einem Refresh werden die Rollen dann allen registrierten Spielern zugewiesen.
-![basic_rankroles_6.png](/basic_rankroles_6.png)
+![](/basic_rankroles_6.png)
 >{.is-info}
 ---
 >Um die gewählte Warteschlangenkonfiguration zu ändern, kehre zur gleichen Konfigurationsoption zurück und aktualisieren sie einfach mit den Schaltflächen. Danach drücke `Aktualisieren`.
