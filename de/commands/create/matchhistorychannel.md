@@ -2,7 +2,7 @@
 title: /create matchhistorychannel - Befehl
 description: Informationen über den Befehl /create matchhistorychannel
 published: true
-date: 2023-08-22T07:15:57.585Z
+date: 2024-01-09T17:27:07.367Z
 tags: spielverlauf, spielverlaufskanal, spiele, spielverlaufskanal erstellen, create matchhistorychannel
 editor: markdown
 dateCreated: 2023-08-22T07:15:57.585Z
@@ -19,7 +19,7 @@ dateCreated: 2023-08-22T07:15:57.585Z
 >{.is-success}
 
 >### Verwandte Befehle:
->-   [/delete matchhistorychannel](https://wiki.zoe-discord-bot.ch/en/commands/delete/matchhistorychannel)
+>-   [/delete matchhistorychannel](/en/commands/delete/matchhistorychannel)
 
 <br>
 
