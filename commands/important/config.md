@@ -2,7 +2,7 @@
 title: /config - Command
 description: Information about the /config command
 published: true
-date: 2024-01-09T17:20:51.174Z
+date: 2024-01-09T17:21:05.277Z
 tags: config, configuration, setting, settings, option, options
 editor: markdown
 dateCreated: 2021-07-05T18:08:13.504Z
@@ -20,10 +20,10 @@ dateCreated: 2021-07-05T18:08:13.504Z
 
 >### Related commands/pages:
 >-   [Zoe Setup](/de/setup/)
->-   [/language](/en/commands/important/language/)
->-   [/reset](/en/commands/important/reset/)
+>-   [/language](/de/commands/important/language/)
+>-   [/reset](/de/commands/important/reset/)
 
->If you want to learn more about what you can configure, visit this Wiki page: [Configuration](/en/Zoe-Configuration/)
+>If you want to learn more about what you can configure, visit this Wiki page: [Configuration](/de/Zoe-Configuration/)
 >{.is-warning}
 
 <br>
