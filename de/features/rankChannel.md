@@ -2,7 +2,7 @@
 title: Rangkanal - Feature
 description: Informationen über den Rangkanal
 published: true
-date: 2024-01-08T14:19:12.191Z
+date: 2024-01-09T14:27:58.217Z
 tags: kanal, rangkanal, rang, ränge
 editor: markdown
 dateCreated: 2023-08-12T18:35:58.064Z
@@ -12,7 +12,7 @@ dateCreated: 2023-08-12T18:35:58.064Z
 
 <br>
 
->**Im Rangkanal ist es möglich, den Fortschritt der [Spieler](/en/terms/player) im Ranglistenaufstieg zu verfolgen. Zoe schickt nach jedem Ranglistenspiel eines [registrierten Spielers](/en/terms/player) eine kurze Zusammenfassung des Spiels. Bei den Aufstiegen in einen höheren Rang wird dieser ebenfalls angezeigt und man kann verfolgen, wie es dann weitergeht. Tägliche, wöchentliche und monatliche [Rangupdates](/de/commands/stats/rankupdate) werden ebenfalls hierher geschickt.**
+>**Im Rangkanal ist es möglich, den Fortschritt der [Spieler](/de/terms/player) im Ranglistenaufstieg zu verfolgen. Zoe schickt nach jedem Ranglistenspiel eines [registrierten Spielers](/de/terms/player) eine kurze Zusammenfassung des Spiels. Bei den Aufstiegen in einen höheren Rang wird dieser ebenfalls angezeigt und man kann verfolgen, wie es dann weitergeht. Tägliche, wöchentliche und monatliche [Rangupdates](/de/commands/stats/rankupdate) werden ebenfalls hierher geschickt.**
 >{.is-info}
 
 >### Verwandte Befehle/Seiten:
