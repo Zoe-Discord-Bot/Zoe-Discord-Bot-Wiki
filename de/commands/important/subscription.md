@@ -2,7 +2,7 @@
 title: /subscription - Befehl
 description: Informationen über den /subscription Befehl
 published: true
-date: 2024-01-09T17:23:50.172Z
+date: 2024-01-09T17:24:18.061Z
 tags: subscription, abonnement, boost, abo
 editor: markdown
 dateCreated: 2023-08-21T13:07:04.396Z
@@ -19,8 +19,8 @@ dateCreated: 2023-08-21T13:07:04.396Z
 >{.is-success}
 
 >### Verwandte Befehle/Seiten:
->-   [Zoe unterstützen](/en/support)
->-   [Zoe Punkte & Boosting](/en/Zoe-Points-And-Boosting)
+>-   [Zoe unterstützen](/de/support)
+>-   [Zoe Punkte & Boosting](/de/Zoe-Points-And-Boosting)
 
 <br>
 
@@ -30,4 +30,4 @@ dateCreated: 2023-08-21T13:07:04.396Z
 
 ## Beispiel
 
-![](/new_subscription.png)
+![en_subscription.png](/en_/en_subscription.png)
