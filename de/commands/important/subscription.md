@@ -2,7 +2,7 @@
 title: /subscription - Befehl
 description: Informationen über den /subscription Befehl
 published: true
-date: 2024-01-09T17:24:18.061Z
+date: 2024-01-09T17:24:22.870Z
 tags: subscription, abonnement, boost, abo
 editor: markdown
 dateCreated: 2023-08-21T13:07:04.396Z
@@ -30,4 +30,4 @@ dateCreated: 2023-08-21T13:07:04.396Z
 
 ## Beispiel
 
-![en_subscription.png](/en_/en_subscription.png)
+![](/en_/en_subscription.png)
