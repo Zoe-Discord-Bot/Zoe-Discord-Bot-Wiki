@@ -2,7 +2,7 @@
 title: Bestenlisten - Feature
 description: Informationen über alle Bestenlisten.
 published: true
-date: 2024-01-08T14:31:04.370Z
+date: 2024-01-09T14:28:23.035Z
 tags: top 10, top 20, top 50, top 100, ränge, bestenlisten, ranglisten, listen, bester spieler, beste spieler
 editor: markdown
 dateCreated: 2023-08-12T18:42:13.942Z
@@ -12,7 +12,7 @@ dateCreated: 2023-08-12T18:42:13.942Z
 
 <br>
 
->**In Bestenlisten können sich bis zu 100 Spieler (auf einem [geboosteten Server](https://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting), sonst 10 Spieler) in verschiedenen Kategorien miteinander vergleichen. Diese kannst du bei der Erstellung auswählen. <br>
+>**In Bestenlisten können sich bis zu 100 Spieler (auf einem [geboosteten Server](/de/Zoe-Points-And-Boosting), sonst 10 Spieler) in verschiedenen Kategorien miteinander vergleichen. Diese kannst du bei der Erstellung auswählen. <br>
 Die folgenden Ziele können angestrebt werden: Gesamtmeisterschaftspunkte, Meisterschaftspunkte auf einen Champion, Rang in einer Warteschlange (Solo/Duo, Flexi, etc.), Rang in der gesamten Warteschlange, durchschnittliche KDA, durchschnittliche KDA auf einen Champion, bester Champion ("OTP") & Kontolevel**
 >{.is-info}
 
