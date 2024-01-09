@@ -2,7 +2,7 @@
 title: /clash refresh - Befehl
 description: Informationen über den Befehl /clash refresh
 published: true
-date: 2023-08-22T07:05:39.233Z
+date: 2024-01-09T17:26:39.376Z
 tags: clash, clash refresh, aktualisieren, aktualisierung
 editor: markdown
 dateCreated: 2023-08-22T07:05:39.233Z
@@ -19,7 +19,7 @@ dateCreated: 2023-08-22T07:05:39.233Z
 >{.is-success}
 
 >### Verwandte Befehle:
->-   [/create clashchannel](/en/commands/create/clashChannel/)
+>-   [/create clashchannel](/de/commands/create/clashChannel/)
 
 <br>
 
