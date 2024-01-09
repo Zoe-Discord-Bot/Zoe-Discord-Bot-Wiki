@@ -2,7 +2,7 @@
 title: /create player - Befehl
 description: Lerne mehr über den /create player Befehl.
 published: true
-date: 2024-01-08T20:38:35.414Z
+date: 2024-01-09T17:27:59.861Z
 tags: create, player, spieler, erstellung, erstellen
 editor: markdown
 dateCreated: 2023-09-18T09:25:00.382Z
@@ -29,7 +29,7 @@ dateCreated: 2023-09-18T09:25:00.382Z
 
 
 >### Verwandte Befehle:
->-   [/delete player](/en/commands/delete/player/)
+>-   [/delete player](/de/commands/delete/player/)
 
 <br>
 
