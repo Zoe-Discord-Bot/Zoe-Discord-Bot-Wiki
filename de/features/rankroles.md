@@ -2,7 +2,7 @@
 title: Rangrollen - Feature
 description: Informationen über die automatisierten Rangrollen.
 published: true
-date: 2023-08-12T19:12:57.016Z
+date: 2024-01-09T14:29:52.754Z
 tags: rang, ränge, rolle, rollen, verbesserte, verbesserte rangrollen
 editor: markdown
 dateCreated: 2023-08-12T19:12:57.016Z
@@ -24,7 +24,7 @@ dateCreated: 2023-08-12T19:12:57.016Z
 >Dieses Feature ist für alle Server verfügbar.
 >{.is-success}
 
->Um Rangrollen zu aktivieren, verwende den Befehl [`/config`](/en/commands/important/config) und wähle die Option `Automatisierte Rank-Rollen-Funktionen` im Dropdownmenü.
+>Um Rangrollen zu aktivieren, verwende den Befehl [`/config`](/de/commands/important/config) und wähle die Option `Automatisierte Rank-Rollen-Funktionen` im Dropdownmenü.
 <img src="/basic_rankroles_1.png" width="40%"  />
 >{.is-info}
 
@@ -44,7 +44,7 @@ dateCreated: 2023-08-12T19:12:57.016Z
 >{.is-info}
 
 ### **Verbesserte Rangrollen**
->Diese Funktion ist nur verfügbar für [geboostete](http://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting) Server.
+>Diese Funktion ist nur verfügbar für [geboostete Server](http://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting).
 >{.is-success}
 
 >Um verbesserte Rangrollen zu aktivieren, verwende den Befehl [`/config`](/en/commands/important/config) und wähle die Option `Automatisierte Rank-Rollen-Funktionen` im Dropdownmenü.
