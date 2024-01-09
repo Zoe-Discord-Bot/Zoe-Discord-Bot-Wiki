@@ -2,7 +2,7 @@
 title: /delete team - Befehl
 description: Lerne mehr über den /delete team Befehl.
 published: true
-date: 2024-01-08T20:45:08.394Z
+date: 2024-01-09T17:29:37.445Z
 tags: team, delete, delete team
 editor: markdown
 dateCreated: 2024-01-08T20:44:45.042Z
@@ -11,7 +11,7 @@ dateCreated: 2024-01-08T20:44:45.042Z
 # /delete team team-name
 
 >### Informationen
->**Dieser Befehl löscht das genannte Team von Zoe auf deinem Server. Die [Spieler](/en/terms/player) des Teams werden nicht gelöscht.**
+>**Dieser Befehl löscht das genannte Team von Zoe auf deinem Server. Die [Spieler](/de/terms/player) des Teams werden nicht gelöscht.**
 >{.is-info}
 
 >### Erforderliche Berechtigungen: 
