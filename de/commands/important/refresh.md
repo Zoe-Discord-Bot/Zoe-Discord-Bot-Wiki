@@ -2,7 +2,7 @@
 title: /refresh - Befehl
 description: Informationen über den /refresh Befehl
 published: true
-date: 2023-08-21T11:28:36.252Z
+date: 2024-01-09T17:22:42.343Z
 tags: refresh, aktualisieren, aktualisierung, manuell
 editor: markdown
 dateCreated: 2023-08-21T11:28:36.252Z
@@ -18,7 +18,7 @@ dateCreated: 2023-08-21T11:28:36.252Z
 > |     | Infokanal | Rangkanal | Bestenlisten | Clashkanal |
 > | Aktualisierungsbefehl | Ja | Ja | Ja | Nein\* |
 >
-> **Der Clashkanal kann mit dem Befehl** [`/clash refresh`](/en/commands/clash/refresh/) **aktualisiert werden**.
+> **Der Clashkanal kann mit dem Befehl** [`/clash refresh`](/de/commands/clash/refresh/) **aktualisiert werden**.
 >{.is-info}
 
 >### Erforderliche Berechtigungen:
