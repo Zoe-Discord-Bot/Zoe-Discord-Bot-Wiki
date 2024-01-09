@@ -2,7 +2,7 @@
 title: /delete matchhistorychannel - Befehl
 description: Informationen über den Befehl /delete matchhistorychannel
 published: true
-date: 2023-08-22T07:18:37.919Z
+date: 2024-01-09T17:27:18.073Z
 tags: spielverlaufskanal, löschen, spielverlaufskanal löschen, delete matchhistorychannel
 editor: markdown
 dateCreated: 2023-08-22T07:18:37.919Z
@@ -19,7 +19,7 @@ dateCreated: 2023-08-22T07:18:37.919Z
 >{.is-success}
 
 >### Verwandte Befehle:
->-   [/create matchhistorychannel](/en/commands/create/matchhistorychannel)
+>-   [/create matchhistorychannel](/de/commands/create/matchhistorychannel)
 
 <br>
 
