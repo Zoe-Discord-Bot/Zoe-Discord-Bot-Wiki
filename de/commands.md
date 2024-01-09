@@ -2,7 +2,7 @@
 title: Zoe Befehle
 description: Hier findest du alle Befehle aufgelistet.
 published: true
-date: 2024-01-09T17:12:30.284Z
+date: 2024-01-09T17:12:58.202Z
 tags: commands, cmd, cmds, command, befehl, befehle
 editor: markdown
 dateCreated: 2023-08-12T20:13:29.760Z
@@ -11,7 +11,7 @@ dateCreated: 2023-08-12T20:13:29.760Z
 > Klicke auf einen Befehl, um dessen detailliertere Seite zu sehen.
 >{.is-info}
 
-# Wichtige Commands
+# Wichtige Befehle
 
 - [/setup *Mit diesem Befehl erhältst du Informationen darüber, wie du Zoe auf deinem Discord-Server einrichten kannst. Nützlich, wenn du Zoe nach einem Reset neu einrichten musst.*](/de/commands/important/setup/) 
 - [/language *Mit diesem Befehl kannst du die Sprache auswählen, die Zoe auf deinem Discord-Server spricht.*](/de/commands/important/language/)
@@ -25,7 +25,7 @@ dateCreated: 2023-08-12T20:13:29.760Z
 
 <br>
 
-# Kanalfeature Befehle
+# Kanalfeaturebefehle
 ## Infokanal
 
 - [/create infochannel *Dieser Befehl erstellt einen neuen Infokanal, in den Zoe Informationen über die aktuellen Spiele der registrierten Spieler senden kann.*](/de/commands/create/infoChannel/)
