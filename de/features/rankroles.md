@@ -2,7 +2,7 @@
 title: Rangrollen - Feature
 description: Informationen über die automatisierten Rangrollen.
 published: true
-date: 2024-01-09T14:32:41.882Z
+date: 2024-01-09T14:33:07.887Z
 tags: rang, ränge, rolle, rollen, verbesserte, verbesserte rangrollen
 editor: markdown
 dateCreated: 2023-08-12T19:12:57.016Z
@@ -65,13 +65,13 @@ Danach erfolgt die Erstellung auf die gleiche Weise wie bei verbesserten Rangrol
 <img src="/improved_rankroles_2.png" width="70%"  />
 >{.is-info}
 
->### Nun zu den Einstellungen. Oben in der Nachricht siehst dz die aktuelle Konfiguration.
+> Nun zu den Einstellungen. Oben in der Nachricht siehst du die aktuelle Konfiguration.
 ><img src="/improved_rankroles_settings_1.png" width="50%"  /> <br>
->### Direkt darunter findest du Beispiele für die Rollen, die erstellt werden sollen.
+> Direkt darunter findest du Beispiele für die Rollen, die erstellt werden sollen.
 ><img src="/improved_rankroles_settings_2.png" width="50%"  /> <br>
 >{.is-info}
 
-> ### Im unteren Bereich kannst du über die **4 Dropdown-Listen** folgenden Einstellungen vornehmen: <br>
+> Im unteren Bereich kannst du über die **4 Dropdown-Listen** folgenden Einstellungen vornehmen: <br>
 >_**Rangskala** *(Einfachauswahl)*_
 >Jeder Rang (Eisen, Bronze, Silber,...)
 >Jede zweite Division (Eisen IV-III, Eisen II-I, Bronze IV-III,...) 
