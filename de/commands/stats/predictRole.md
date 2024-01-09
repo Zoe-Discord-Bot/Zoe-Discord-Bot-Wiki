@@ -2,7 +2,7 @@
 title: /stats predictrole  - Befehl
 description: Informationen über den Befehl /stats predictrole
 published: true
-date: 2024-01-08T17:18:36.787Z
+date: 2024-01-09T17:30:20.445Z
 tags: predict role, predict, role, rolle, rollen, vorhersage, lane, lanes
 editor: markdown
 dateCreated: 2023-08-17T11:29:10.289Z
@@ -11,7 +11,7 @@ dateCreated: 2023-08-17T11:29:10.289Z
 # /stats predictrole
 
 >### Informationen
->**Wenn du diesen Befehl ausführst, musst du 5 Konten mit deren [`Riot ID`](/en/terms/riotid) angeben, damit Zoe eine Analyse starten kann. Zoe wertet aus, wer auf welcher Position spielen könnte.**
+>**Wenn du diesen Befehl ausführst, musst du 5 Konten mit deren [`Riot ID`](/de/terms/riotid) angeben, damit Zoe eine Analyse starten kann. Zoe wertet aus, wer auf welcher Position spielen könnte.**
 >{.is-info}
 
 >### Erforderliche Berechtigungen:
