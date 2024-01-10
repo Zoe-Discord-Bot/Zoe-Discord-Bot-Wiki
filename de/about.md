@@ -2,7 +2,7 @@
 title: Über das Projekt
 description: Lerne mehr über Zoe
 published: true
-date: 2024-01-08T12:10:15.571Z
+date: 2024-01-10T09:13:29.109Z
 tags: info, about, über, informationen
 editor: markdown
 dateCreated: 2023-09-16T07:44:08.961Z
@@ -74,7 +74,7 @@ Egal, ob es darum geht, zu sehen, was dir an deinen Statistiken am wichtigsten i
 - <i class="mdi mdi-translate"></i>  &nbsp; **Übersetzungssprachen** | 26 *(08.01.2024)*{.caption .red--text}
 - <i class="mdi mdi-translate"></i>  &nbsp; **Verfügbare Zeichenfolgen für die Übersetzung** | 1.206 *(08.01.2024)*{.caption .red--text}	
 - <i class="mdi mdi-translate"></i>  &nbsp; **Gesamtstatus der Übersetzung** | 19% *(08.01.2024)*{.caption .red--text}
-- <i class="mdi mdi-library"></i>  &nbsp; **Wiki-Seiten insgesamt** | 162 *(08.01.2024)*{.caption .red--text}
+- <i class="mdi mdi-library"></i>  &nbsp; **Wiki-Seiten insgesamt** | 180 *(08.01.2024)*{.caption .red--text}
 - <i class="mdi mdi-account"></i>  &nbsp; **Wiki-Editoren insgesamt** | 1 *(08.01.2024)*{.caption .red--text}
 - <i class="mdi mdi-gift"></i>  &nbsp; **Ko-Fi-Überstützer insgesamt** | 128 *(08.01.2024, von Ko-Fi)*{.caption .red--text}
 {.grid-list}
