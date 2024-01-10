@@ -2,7 +2,7 @@
 title: About the project
 description: Learn about Zoe and it's background.
 published: true
-date: 2024-01-08T12:10:12.608Z
+date: 2024-01-10T09:12:53.723Z
 tags: info, about, information, system, links
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
@@ -73,7 +73,7 @@ Whether it's seeing what's most important in your stats and monitoring your perf
 - <i class="mdi mdi-translate"></i>  &nbsp; **Added translation languages** | 26 *(08.01.2024)*{.caption .red--text}
 - <i class="mdi mdi-translate"></i>  &nbsp; **Available strings for translation** | 1.206 *(08.01.2024)*{.caption .red--text}	
 - <i class="mdi mdi-translate"></i>  &nbsp; **Overall translation status** | 19% *(08.01.2024)*{.caption .red--text}
-- <i class="mdi mdi-library"></i>  &nbsp; **Total wiki pages** | 162 *(15.09.2023)*{.caption .red--text}
+- <i class="mdi mdi-library"></i>  &nbsp; **Total wiki pages** | 180 *(15.09.2023)*{.caption .red--text}
 - <i class="mdi mdi-account"></i>  &nbsp; **Total wiki editors** | 1 *(15.09.2023)*{.caption .red--text}
 - <i class="mdi mdi-gift"></i>  &nbsp; **Total Ko-Fi supporters** | 128 *(08.01.2024, data by Ko-Fi)*{.caption .red--text}
 {.grid-list}
