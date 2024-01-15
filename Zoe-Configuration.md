@@ -2,7 +2,7 @@
 title: Zoe Configuration
 description: Find out about how you can configure Zoe.
 published: true
-date: 2024-01-15T15:40:46.931Z
+date: 2024-01-15T15:43:54.120Z
 tags: config, configuration, setting, settings, option, options
 editor: markdown
 dateCreated: 2023-04-13T06:38:44.182Z
@@ -11,7 +11,7 @@ dateCreated: 2023-04-13T06:38:44.182Z
 # Zoe Configuration
 ### On this page ou can learn about how you can configure Zoe yourself using the command `/config`.
 
-When you enter the command /config a message appears so that you can select a category where you can find the settings you want to change. 
+When you enter the command `/config` a message appears so that you can select a category where you can find the settings you want to change. 
 
 ![](/configuration_choices.png)
 
