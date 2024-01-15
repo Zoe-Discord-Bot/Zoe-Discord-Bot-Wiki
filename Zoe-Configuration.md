@@ -2,7 +2,7 @@
 title: Zoe Configuration
 description: Find out about how you can configure Zoe.
 published: true
-date: 2024-01-15T15:43:54.120Z
+date: 2024-01-15T15:47:01.958Z
 tags: config, configuration, setting, settings, option, options
 editor: markdown
 dateCreated: 2023-04-13T06:38:44.182Z
@@ -26,7 +26,7 @@ When you enter the command `/config` a message appears so that you can select a 
 ## 🗒️ Infochannel Settings
 -  [1️⃣ Hide Infochannel*Let Zoe create a role for the infochannel which hides it to every player that isnt registered on Zoe.*](/en/Zoe-Configuration/Infochannel/Hide-Infochannel)
 -  [2️⃣ Gamecards*Enable/Disable the gamecards in the infochannel.*](/en/Zoe-Configuration/Infochannel/Gamecards/)
--  [3️⃣Infopanel Rank*Enable/Disable ranks shown in the infopanel.*](/en/Zoe-Configuration/Infochannel/Infochannel-Ranks)
+-  [3️⃣ Infopanel Rank*Enable/Disable ranks shown in the infopanel.*](/en/Zoe-Configuration/Infochannel/Infochannel-Ranks)
 -  [4️⃣ Gamecard Filter*Lets you filter the gamecards in infochannel by game type (if enabled).*](/en/Zoe-Configuration/Infochannel/Gamecard-Filter)
 -  [5️⃣ Infopanel Player Order*Order the players in infopanel by certain parameters.*](/en/Zoe-Configuration/Infochannel/Infochannel-Order)
 -  [6️⃣ Infopanel Rank Filter*Select which ranks are shown in the infopanel (if enabled).*](/en/Zoe-Configuration/Infochannel/Infochannel-Rankfilter)
