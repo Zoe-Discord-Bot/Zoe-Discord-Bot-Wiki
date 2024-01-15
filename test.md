@@ -2,62 +2,62 @@
 title: Testing Page
 description: 
 published: false
-date: 2024-01-15T15:39:44.287Z
+date: 2024-01-15T15:51:17.479Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-09T15:07:03.078Z
 ---
 
-# Zoe Configuration
-### On this page ou can learn about how you can configure Zoe yourself using the command `/config`.
+# Zoe Konfiguration
+### Auf dieser Seite erfährst du, wie du Zoe selbst mit dem Befehl `/config` konfigurieren kannst.
 
-When you enter the command /config a message appears so that you can select a category where you can find the settings you want to change. 
+Wenn du den Befehl `/config` eingibst, erscheint eine Meldung, in der du eine Kategorie auswählen kannst, unter der du die Einstellungen findest, die du ändern möchtest.
 
 ![](/configuration_choices.png)
 
 <br>
 
-## 🌍 General Settings
--  [1️⃣ Default server region*Define the default server region for players on your server.*](/en/Zoe-Configuration/General/Serverregion)
+## 🌍 Allgemeine Einstellungen
+-  [1️⃣ Standard-Serverregion*Definiere die Standard-Serverregion für Spieler auf deinem Server.*](/en/Zoe-Configuration/General/Serverregion)
 {.links-list}
 
 <br>
 
-## 🗒️ Infochannel Settings
--  [1️⃣ Hide Infochannel*Let Zoe create a role for the infochannel which hides it to every player that isnt registered on Zoe.*](/en/Zoe-Configuration/Infochannel/Hide-Infochannel)
--  [2️⃣ Gamecards*Enable/Disable the gamecards in the infochannel.*](/en/Zoe-Configuration/Infochannel/Gamecards/)
--  [3️⃣Infopanel Rank*Enable/Disable ranks shown in the infopanel.*](/en/Zoe-Configuration/Infochannel/Infochannel-Ranks)
--  [4️⃣ Gamecard Filter*Lets you filter the gamecards in infochannel by game type (if enabled).*](/en/Zoe-Configuration/Infochannel/Gamecard-Filter)
--  [5️⃣ Infopanel Player Order*Order the players in infopanel by certain parameters.*](/en/Zoe-Configuration/Infochannel/Infochannel-Order)
--  [6️⃣ Infopanel Rank Filter*Select which ranks are shown in the infopanel (if enabled).*](/en/Zoe-Configuration/Infochannel/Infochannel-Rankfilter)
+## 🗒️ Infokanal Einstellungen
+-  [1️⃣ Infokanal ausblenden*Lasse Zoe eine Rolle für den Infokanal erstellen, die ihn für jeden Spieler verbirgt, der nicht bei Zoe registriert ist.*](/en/Zoe-Configuration/Infochannel/Hide-Infochannel)
+-  [2️⃣ Spielkarten*Aktivieren/Deaktivieren der Spielkarten im Infokanal.*](/en/Zoe-Configuration/Infochannel/Gamecards/)
+-  [3️⃣ Infotafel-Rang*Aktivieren/Deaktivieren der in der Infotafel angezeigten Ränge.*](/en/Zoe-Configuration/Infochannel/Infochannel-Ranks)
+-  [4️⃣ Spielkartenfilter*Ermöglicht das Filtern der Spielkarten im Infokanal nach Spieltyp (falls aktiviert).*](/en/Zoe-Configuration/Infochannel/Gamecard-Filter)
+-  [5️⃣ Infotafel-Spielersortierung*Ordne die Spieler in der Infotafel nach bestimmten Parametern.*](/en/Zoe-Configuration/Infochannel/Infochannel-Order)
+-  [6️⃣ Infotafel-Rangfilter*Wähle aus, welche Ränge in der Infotafel angezeigt werden sollen (falls aktiviert).*](/en/Zoe-Configuration/Infochannel/Infochannel-Rankfilter)
 {.links-list}
 
 <br>
 
-## 🏆 Rankchannel Settings
--  [1️⃣ Filter rankchannel messages*Lets you filter the messages in the rankchannel by game type.*](/en/Zoe-Configuration/Rankchannel/Rankchannel-Filter)
+## 🏆 Rangkanal Einstellungen
+-  [1️⃣ Rangkanalnachrichten filtern*Ermöglicht es, die Nachrichten im Rangkanal nach Spieltyp zu filtern.*](/en/Zoe-Configuration/Rankchannel/Rankchannel-Filter)
 {.links-list}
 
 <br>
 
-## 🔧 User Management Settings
--  [1️⃣ Register permissions*Enables/Disables the /register command for everyone.*](/en/Zoe-Configuration/Usermanagment/Register)
--  [2️⃣ Force Verification*Enables/Disables the account verification before creating/registering a player for your server.*](/en/Zoe-Configuration/Usermanagment/Verification)
--  [3️⃣ Leaving players*Decide if players that leave the server should be deleted or not.*](/en/Zoe-Configuration/Usermanagment/Delete-Leavers)
+## 🔧 Benutzerverwaltungseinstellungen
+-  [1️⃣ Registrierungsberechtigungen*Aktiviert/deaktiviert den Befehl /register für jeden.*](/en/Zoe-Configuration/Usermanagment/Register)
+-  [2️⃣ Verifizierung erzwingen*Aktiviert/deaktiviert die Kontoverifizierung vor der Erstellung/Registrierung eines Spielers für deinen Server.*](/en/Zoe-Configuration/Usermanagment/Verification)
+-  [3️⃣ Abgehende Spieler*Entscheide, ob Spieler, die den Server verlassen, gelöscht werden sollen oder nicht.*](/en/Zoe-Configuration/Usermanagment/Delete-Leavers)
 {.links-list}
 
 <br>
 
-## 📈 Automated rank-role features
--  [1️⃣ Basic rank roles*Enables the basic feature to assign rank roles to discord users by their rank in League of Legends.*](/en/features/rankroles)
--  [2️⃣ Improved rank roles*Enables the improved feature to assign detailed rank roles to discord users by their current rank in League of Legends.*](/en/features/rankroles)
--  [3️⃣ Improved rank roles by peak elo*Enables the improved feature to assign detailed rank roles to discord users by their peak rank in League of Legends.*](/en/features/rankroles)
+## 📈 Automatisierte Rangrollen Einstellungen
+-  [1️⃣ Grundlegende Rangrollen*Ermöglicht die grundlegende Funktion, Discord-Benutzern Rangrollen nach ihrem Rang in League of Legends zuzuweisen.*](/en/features/rankroles)
+-  [2️⃣ Verbesserte Rangrollen*Ermöglicht die verbesserte Funktion, Discord-Benutzern detaillierte Rangrollen nach ihrem aktuellen Rang in League of Legends zuzuweisen.*](/en/features/rankroles)
+-  [3️⃣ Verbesserte Rangrollen nach Spitzenelo*Ermöglicht die verbesserte Funktion, Discord-Benutzern detaillierte Rangrollen nach ihrem höchsten Rang in League of Legends zuzuweisen.*](/en/features/rankroles)
 {.links-list}
 
 <br>
 
-## ✅ Additional features
--  [1️⃣ Clean channel*Creates a “clean channel” in which Zoe commands/all messages can be deleted automatically after a few seconds.*](/en/Zoe-Configuration/Additional/Cleanchannel)
+## ✅ Zusätzliche Features
+-  [1️⃣ "Clean channel"*Erzeugt einen "sauberen Kanal", in dem Zoe-Befehle/alle Nachrichten nach einigen Sekunden automatisch gelöscht werden können.*](/en/Zoe-Configuration/Additional/Cleanchannel)
 {.links-list}
 
 <br>
