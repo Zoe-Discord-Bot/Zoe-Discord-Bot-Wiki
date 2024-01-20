@@ -2,7 +2,7 @@
 title: FAQ - Häufig gestellte Fragen
 description: Hier findest du Antworten auf häufig gestellte Fragen.
 published: true
-date: 2024-01-08T13:52:29.750Z
+date: 2024-01-20T18:40:30.031Z
 tags: faq, häufig, gestellte, fragen
 editor: markdown
 dateCreated: 2023-05-19T09:56:31.780Z
@@ -20,7 +20,7 @@ dateCreated: 2023-05-19T09:56:31.780Z
 
 <br>
 
-## Kann ich mehrere Kanäle ([Infokanal](/de/features/infoChannel) & [Rangkanal](/de/features/rankChannel)) in einem Textkanal definieren?
+## Kann ich mehrere Kanäle in einem Textkanal definieren?
 
 > Ja und Nein. Das funktioniert grundsätzlich, aber nicht wirklich, denn alle Nachrichten in Zoes [Infokanal](/de/features/infoChannel), die dort nicht hingehören, werden gelöscht, auch die aus dem [Rangkanal](/de/features/rankChannel).  Wenn du das Problem hast, dass die Nachrichten gelöscht werden, kannst du einen der beiden Kanäle deaktivieren und ihn in einem anderen Textkanal neu definieren.
 
