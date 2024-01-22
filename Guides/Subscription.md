@@ -2,11 +2,14 @@
 title: Subscribe to Zoe Premium and use it on your server
 description: Follow these steps to take a Zoe Premium subscription and enable benefits on your server.
 published: true
-date: 2023-11-29T12:52:30.092Z
+date: 2024-01-22T12:20:50.275Z
 tags: subscription, premium, guide, kofi
 editor: markdown
 dateCreated: 2023-11-29T09:15:41.215Z
 ---
+
+>Please note that you must remain on the Zoe Support & Development discord server to take benefit of your premium subscription.
+>{.is-warning}
 
 >**If you want to support Zoes development and have some neat [benefits (article)](/en/support) you can find out how to do so here:**
 
