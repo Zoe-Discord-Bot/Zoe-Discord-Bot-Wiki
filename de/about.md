@@ -2,7 +2,7 @@
 title: Über das Projekt
 description: Lerne mehr über Zoe
 published: true
-date: 2024-01-20T21:30:45.805Z
+date: 2024-02-02T15:52:49.896Z
 tags: info, about, über, informationen
 editor: markdown
 dateCreated: 2023-09-16T07:44:08.961Z
@@ -66,7 +66,7 @@ Egal, ob es darum geht, zu sehen, was dir an deinen Statistiken am wichtigsten i
 ## Fakten & Zahlen
 
 - <i class="mdi mdi-calendar"></i>  &nbsp; **Offizieller Start des Projekts** | 12.04.2019	
-- <i class="mdi mdi-code-tags"></i>  &nbsp; **Aktuelle Version von Zoe** | v1.13.4 *(08.01.2024)*{.caption .red--text}
+- <i class="mdi mdi-code-tags"></i>  &nbsp; **Aktuelle Version von Zoe** | v1.13.5 *(02.02.2024)*{.caption .red--text}
 - <i class="mdi mdi-slash-forward-box"></i>  &nbsp; **Aktuelle Version von Zoe** | 41 *(08.01.2024)*{.caption .red--text}
 - <i class="mdi mdi-account"></i>  &nbsp; **Insgesamt erstellte Zoe-Spieler** | > 57.000 *(08.01.2024)*{.caption .red--text}
 - <i class="mdi mdi-server"></i>  &nbsp; **Server auf denen Zoe ist** | > 8.400 *(08.01.2024)*{.caption .red--text}
