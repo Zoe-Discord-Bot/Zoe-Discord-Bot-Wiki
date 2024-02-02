@@ -2,7 +2,7 @@
 title: Zoe Patchnotes
 description: Here you can have a look at Zoe's patchnotes.
 published: true
-date: 2024-01-19T19:25:19.907Z
+date: 2024-02-02T15:51:49.193Z
 tags: patch, patch notes, version, patch note
 editor: ckeditor
 dateCreated: 2021-07-13T11:20:02.526Z
@@ -18,15 +18,15 @@ dateCreated: 2021-07-13T11:20:02.526Z
     <tbody>
       <tr>
         <th><strong>Current version:</strong></th>
-        <td><strong>v1.13.4a</strong></td>
+        <td><strong>v1.13.5</strong></td>
       </tr>
       <tr>
         <th><strong>Main novelty(s):</strong></th>
-        <td>TFT Request caching</td>
+        <td>Rank/Matchhistorychannel accuracy</td>
       </tr>
       <tr>
         <th><strong>Date of update:</strong></th>
-        <td><strong>19/01/2024</strong></td>
+        <td><strong>01/02/2024</strong></td>
       </tr>
       <tr>
         <th>&nbsp;</th>
@@ -38,7 +38,7 @@ dateCreated: 2021-07-13T11:20:02.526Z
       </tr>
       <tr>
         <th>Last update:</th>
-        <td>v1.13.4 - 22/11/2023</td>
+        <td>v1.13.4a - 19/01/2024</td>
       </tr>
     </tbody>
   </table>
@@ -63,6 +63,25 @@ dateCreated: 2021-07-13T11:20:02.526Z
     </thead>
     <tbody>
       <tr>
+        <td>v1.13.5</td>
+        <td>01/02/2024</td>
+        <td>
+          <h2>Accuracy update</h2>
+          <h3><strong>V1.13.4a → V1.13.5</strong></h3>
+          <p>I finally have a little more time for Zoe for a few weeks! I have a few things planned for the next few weeks. I can't wait to get to work! This is the first patch to my plans. My first goal is to make Zoe more accurate in these posts in general, especially on the Rank channels side. I will start with this patch to completely rework the way Zoe refreshes the information it collects to be more accurate. This first patch is a step in that direction. Here is the patch note:</p>
+          <p>Changelist:</p>
+          <ul>
+            <li><strong>QOL </strong>Match History Channel The match history channel feature is now more reliable. A message is always sent to the channel as soon as a running game is detected, even if it is impossible to retrieve it via the API! This means that custom games are now also displayed in the game history! (with limited information, but still).</li>
+            <li><strong>Experimental QOL</strong> Rank Channel Zoe now shows games with 0 LP changes. The next patch will mainly focus on the accuracy of this message. This is something i want to improve!</li>
+            <li><strong>Experimental Optimisation</strong> Better utilization of the entire Riot server for some API calls.</li>
+            <li><i>Dev Tools </i>Addition of internal tools to better record the usage of some features (buttons and selections).</li>
+          </ul>
+          <p><i>As always, if you have any bugs, comments or requests, you can report them in the appropriate channels.</i></p>
+          <p>If you want to support me in the development of Zoe and get access to the new features, you can do so here: https://bit.ly/support-zoe (Ty so much!).</p>
+          <p><strong>A big thank you to everyone who supports me, including Yana Kaplan, PhoenixXJ, EloHunters Baz, Alexandre, timfernix, Benjamin Cunningham, aclcdarktronic, SUNBOOP and all the other lower tiers!</strong></p>
+        </td>
+      </tr>
+      <tr>
         <td>v1.13.4a</td>
         <td>19/01/2024</td>
         <td>
@@ -84,7 +103,6 @@ dateCreated: 2021-07-13T11:20:02.526Z
         <td>
           <h2>Minor update: Transition to Riot IDs</h2>
           <h3><strong>V1.13.3a → V1.13.4</strong></h3>
-          <p>&nbsp;</p>
           <p>A minor update today to allow for the transition to the new nickname system. All commands have been updated to reflect this and display Riot IDs instead of Summonernames.</p>
           <p><strong>Since a lot of code has been changed everywhere in a short amount of time, please report any issues! It's possible I missed some bugs.</strong></p>
           <p>I also took this opportunity to rework the <code>/stats teamanalysis</code> and <code>/stats predictrole</code> commands, which now require multiple players to be added in a row. This should greatly improve usability!</p>
