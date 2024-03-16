@@ -2,7 +2,7 @@
 title: Zoe Development Status
 description: If you are interested in what features await you in the future, you can get an insight here.
 published: true
-date: 2024-02-14T11:47:36.144Z
+date: 2024-03-16T10:13:16.672Z
 tags: dev, status, dev status, development, development status, future, next features
 editor: markdown
 dateCreated: 2023-05-11T20:07:22.784Z
@@ -32,7 +32,7 @@ dateCreated: 2023-05-11T20:07:22.784Z
 
 ### <span style="color:#1565c0">1.14</span> &nbsp; <span style="color:#757575"> AI Match Summary and Quality of Life</span>
 
--   🟡 **Feature**: AI Match Summary (summarizes a game in text in a way that you can choose)
+-   🔵 **Feature**: AI Match Summary (summarizes a game in text in a way that you can choose)
 -   ⚪ **Command**: Adding Champion analysis as seperate command
 -   ⚪ **QoL (Feature)**: Add recent playtime, recent most played champions and total, normal and soloQ winrate to `/stats profile` command
 -   ⚪ **QoL (Feature)**: Add another digit to make average KDA more detailed
