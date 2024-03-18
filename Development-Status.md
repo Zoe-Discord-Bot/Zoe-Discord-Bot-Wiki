@@ -2,7 +2,7 @@
 title: Zoe Development Status
 description: If you are interested in what features await you in the future, you can get an insight here.
 published: true
-date: 2024-03-16T10:13:16.672Z
+date: 2024-03-18T14:27:42.130Z
 tags: dev, status, dev status, development, development status, future, next features
 editor: markdown
 dateCreated: 2023-05-11T20:07:22.784Z
@@ -45,6 +45,7 @@ dateCreated: 2023-05-11T20:07:22.784Z
 -   ⚪ **QoL (Feature)**: All Mastery Leaderboards (Total Mastery Points, Mastery Points on a specific champion & OTP (Best champion) Leaderboard) will now show the total amount of Mastery points of all account of a player instead of the highest amount of one account.
 -   ⚪ **QoL (Feature)**: Show killparticipation in rankchannel messages
 -   🟡 **QoL (Feature)**: Clean up champion analysis
+-   ⚪ **QoL (Feature)**: Show Riot Tags for every player in Infopanel (Replaces "Currently not ingame")
 
 <br>
 
