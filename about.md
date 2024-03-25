@@ -2,7 +2,7 @@
 title: About the project
 description: Learn about Zoe and it's background.
 published: true
-date: 2024-03-24T11:25:23.733Z
+date: 2024-03-25T13:16:00.346Z
 tags: info, about, information, system, links
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
@@ -65,7 +65,7 @@ Whether it's seeing what's most important in your stats and monitoring your perf
 ## Facts & Numbers
 
 - <i class="mdi mdi-calendar"></i>  &nbsp; **Official start of the project** | 12.04.2019	
-- <i class="mdi mdi-code-tags"></i>  &nbsp; **Current version of Zoe** | v1.14 *(02.02.2024)*{.caption .red--text}
+- <i class="mdi mdi-code-tags"></i>  &nbsp; **Current version of Zoe** | v1.13.6 *(02.02.2024)*{.caption .red--text}
 - <i class="mdi mdi-slash-forward-box"></i>  &nbsp; **Total Zoe commands** | 42 *(24.03.2024)*{.caption .red--text}
 - <i class="mdi mdi-account"></i>  &nbsp; **Total created Zoe players** | > 62.000 *(24.03.2024)*{.caption .red--text}
 - <i class="mdi mdi-server"></i>  &nbsp; **Total servers Zoe is on** | > 9.000 *(08.01.2024)*{.caption .red--text}
