@@ -2,7 +2,7 @@
 title: Support Zoe
 description: On this site you can learn about how you can support the project.
 published: true
-date: 2023-11-29T10:12:26.901Z
+date: 2024-03-25T13:44:50.315Z
 tags: support, membership, tier, tiers, subscription, abonnement
 editor: markdown
 dateCreated: 2021-08-07T08:35:31.575Z
@@ -30,6 +30,7 @@ dateCreated: 2021-08-07T08:35:31.575Z
 -   **Filter [leaderboards](/en/features/leaderboards)** by server (EUW, NA, KR, …)
 -   **Filter [gamecards](/en/features/gamecards)** by game type in the [infochannel](/en/features/infoChannel)
 -   **Sort players in [infopanel](/en/features/infoChannel)** by rank
+- Access to the [**`/rawserverdata`**](/en/commands/other/rawserverdata) command
 <br>
 -   **Early access** to new features
 -   **Zoe Points** (Unlocks premium features in servers: [More info](/en/Zoe-Points-And-Boosting))
