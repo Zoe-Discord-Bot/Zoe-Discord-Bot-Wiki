@@ -2,7 +2,7 @@
 title: Zoe Commands
 description: In here you find all commands listed.
 published: true
-date: 2024-01-09T16:49:15.075Z
+date: 2024-03-25T13:43:47.556Z
 tags: commands, cmd, cmds, order, orders, command
 editor: markdown
 dateCreated: 2021-07-05T11:30:13.397Z
@@ -103,4 +103,5 @@ dateCreated: 2021-07-05T11:30:13.397Z
 # Other Commands
 
 - [/patchnotes *This command sends you the current Zoe patchnotes which are in English.*](/en/commands/other/patchNotes/)
+- [/rawserverdata *When you execute this command, Zoe sends you the raw data of the players of your server.*](/en/commands/other/rawserverdata)
 {.links-list}
