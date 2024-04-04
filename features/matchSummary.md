@@ -2,7 +2,7 @@
 title: Match Summary - Feature
 description: Information about the match summary feature.
 published: false
-date: 2024-04-04T19:16:14.127Z
+date: 2024-04-04T19:25:44.633Z
 tags: match, summary, matchsummary, ai
 editor: markdown
 dateCreated: 2024-03-10T16:24:00.043Z
@@ -21,8 +21,10 @@ It is possible to use an existing template or get creative yourself to customize
 
 <br>
 
-## Guidelines, terms and conditions
-- [<i class="mdi mdi-shield-check"></i> Guidelines *Please follow these guidelines in order to use the match summary feature.*](/en/features/matchSummary/rules)
+## Terms & Conditions, Guide
+- [<i class="mdi mdi-shield-check"></i> Terms & Conditions *Please follow these guidelines in order to use the match summary feature.*](/en/features/matchSummary/rules)
+- [<i class="mdi mdi-book-open-page-variant-outline"></i> Guide *Let this guide help you create an effective template for everyone.*](/en/Guides/matchSummaryTemplates)
+
 {.links-list}
 
 <br>
