@@ -2,7 +2,7 @@
 title: timfernix' Wiki/Markdown/HTML help
 description: 
 published: true
-date: 2023-09-15T15:46:25.751Z
+date: 2024-04-04T19:15:27.575Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-13T20:20:07.754Z
@@ -68,7 +68,9 @@ _Underlined text_
 ![Asset](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/800px-Markdown-mark.svg.png =100x)
 ```
 
-![Asset](link.png =100x)
+![Asset](link.png)
+OR
+<img src="link.png" width="800">
 ```
 <br>
 
