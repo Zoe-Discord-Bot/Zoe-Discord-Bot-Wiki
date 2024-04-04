@@ -2,7 +2,7 @@
 title: Spielzusammenfassung - Regeln
 description: Bei der Benutzung der Spielzusammenfassung müssen folgende Regeln beachtet werden
 published: false
-date: 2024-04-04T19:41:01.880Z
+date: 2024-04-04T19:41:46.404Z
 tags: spielzusammenfassung, regeln, zusammenfassung
 editor: markdown
 dateCreated: 2024-04-04T19:32:11.315Z
@@ -30,7 +30,7 @@ dateCreated: 2024-04-04T19:32:11.315Z
 > <ins>**Regel 4:</ins> Kritisches Nachlesen** <br> Prüfe den generierten Text kritisch und genau bevor du den Text oder die Vorlage veröffentlichst. Eine KI kann zwar Texte in hoher Qualität generieren, jedoch kann sie nicht den Kontext oder die Umstände ausserhalb deiner Beschreibung erkennen. Sei dir also sicher, dass der Text diesen Umständen entsprechend ist.
 >{.is-success}
 
-> <ins>**Regel 5:</ins> Feedback und Meldungen** <br> Solltest du ein Problem haben oder eine unangemessene Vorlage finden, melde es bitte umgehend dem Team damit wir die Commuinity schützen können.
+> <ins>**Regel 5:</ins> Feedback und Meldungen** <br> Solltest du ein Problem haben oder eine unangemessene Vorlage finden, melde es bitte umgehend dem Team damit wir die Community schützen können.
 >{.is-success}
 
 ###### DONTs
