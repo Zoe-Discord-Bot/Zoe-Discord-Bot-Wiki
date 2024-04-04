@@ -2,7 +2,7 @@
 title: Spielzusammenfassung - Regeln
 description: Bei der Benutzung der Spielzusammenfassung müssen folgende Regeln beachtet werden
 published: false
-date: 2024-04-04T19:41:46.404Z
+date: 2024-04-04T21:47:41.029Z
 tags: spielzusammenfassung, regeln, zusammenfassung
 editor: markdown
 dateCreated: 2024-04-04T19:32:11.315Z
@@ -14,7 +14,7 @@ dateCreated: 2024-04-04T19:32:11.315Z
 > Der KI Textgenerator ist ein Feature, das es mit Verantwortung und Effektivität zu benutzen gilt.
 >{.is-info}
 
->Wie auch sonst bei Zoe gelte vorallem bei diesem Feature auch die [Discord TOS](https://discord.com/terms) und [Community Guidelines](https://discord.com/guidelines).
+>Wie auch sonst bei Zoe gelten vorallem bei diesem Feature auch die [Discord TOS](https://discord.com/terms) und [Community Guidelines](https://discord.com/guidelines).
 >{.is-info}
 
 ###### DOs
