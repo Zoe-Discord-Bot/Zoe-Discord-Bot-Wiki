@@ -2,7 +2,7 @@
 title: Match summary - Rules
 description: These rules must be followed when using the match summary
 published: false
-date: 2024-04-04T18:38:01.665Z
+date: 2024-04-05T09:14:26.633Z
 tags: match, summary, matchsummary, rules
 editor: markdown
 dateCreated: 2024-03-10T16:25:40.038Z
@@ -21,7 +21,7 @@ dateCreated: 2024-03-10T16:25:40.038Z
 > <ins>**Rule 1:</ins> Harness its creativity** <br> Use this feature to brainstorm ideas, generate different writing styles & tones.
 >{.is-success}
 
-> <ins>**Rule 2:</ins> Think twice before generating** <br> Would you be comfortable saying it yourself? Avoid using this feature to create offensive or discriminatory content.
+> <ins>**Rule 2:</ins> Think twice before generating** <br> Would you be comfortable saying it yourself? Slightly vulgar or offensive language is allowed. However, avoid using this feature to intentionally create offensive or discriminatory content that pushes the boundaries.
 >{.is-success}
 
 > <ins>**Rule 3:</ins> Be clear about what you want** <br> The better you instruct what you want, the better the results. Don't expect magic; provide clear prompts and relevant information.
