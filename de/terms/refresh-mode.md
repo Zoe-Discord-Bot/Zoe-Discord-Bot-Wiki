@@ -2,7 +2,7 @@
 title: Aktualisierung & Aktualisierungsmodus
 description: 
 published: false
-date: 2024-04-05T10:06:42.756Z
+date: 2024-04-05T10:07:35.269Z
 tags: aktualisieren, aktualisierung, modus, zoe modus
 editor: markdown
 dateCreated: 2024-04-05T10:06:42.756Z
@@ -35,6 +35,6 @@ Bitte beende deinen Stream oder deaktiviere den Aktivitätsstatus für das ausge
 
 ## Aktualisierungsbefehl
 
-> Der [`/refresh`](/de/commands/important/refresh) Befehl löst eine manuelle Aktualisierung auf dem Server aus, auf welchem du den Befehl benutzt hast. 
+> Der Befehl [`/refresh`](/de/commands/important/refresh) löst eine manuelle Aktualisierung auf dem Server aus, auf welchem du den Befehl benutzt hast. 
 >Jede Funktion ausser dem [Clashkanal](/en/features/clashChannel) wird mit diesem Befehl aktualisiert. Der [Clashkanal](/de/features/clashChannel) kann mit dem Befehl [`/clash refresh`](/de/commands/clash/refresh/) aktualisiert werden.
 >{.is-info}
