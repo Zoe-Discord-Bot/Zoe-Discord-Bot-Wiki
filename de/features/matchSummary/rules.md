@@ -2,7 +2,7 @@
 title: Spielzusammenfassung - Regeln
 description: Bei der Benutzung der Spielzusammenfassung müssen folgende Regeln beachtet werden
 published: false
-date: 2024-04-04T21:47:41.029Z
+date: 2024-04-05T09:16:16.528Z
 tags: spielzusammenfassung, regeln, zusammenfassung
 editor: markdown
 dateCreated: 2024-04-04T19:32:11.315Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-04T19:32:11.315Z
 > <ins>**Regel 1:</ins> Teste die Grenzen deiner Kreativität** <br> Benutze dieses Feature um Ideen und unterschiedlichste Schreibstile zu testen und generiere Texte nach deinen Präferenzen.
 >{.is-success}
 
-> <ins>**Regel 2:</ins> Nochmal überdenken** <br> Wäre es dir unangenehm so etwas selber zu sagen? Benutze dieses Feature nicht um provokante oder verletzende Texte zu generieren.
+> <ins>**Regel 2:</ins> Nochmal überdenken** <br> Wäre es dir unangenehm so etwas selber zu sagen? Leicht vulgäre oder beleidigende Sprache ist erlaubt. Benutze dieses Feature jedoch nicht, um absichtlich beleidigende oder diskriminierende Inhalte zu erstellen, die die Grenzen überschreiten.
 >{.is-success}
 
 > <ins>**Regel 3:</ins> Sei spezifisch** <br> Eine KI ist kein Zauberstab! Je besser du beschreibst was du möchtest, desto besser wird das Resultat; nutze klare und relevante Informationen.
