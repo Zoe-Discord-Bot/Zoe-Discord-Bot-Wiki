@@ -2,7 +2,7 @@
 title: Aktualisierung & Aktualisierungsmodus
 description: 
 published: false
-date: 2024-04-05T10:00:53.068Z
+date: 2024-04-05T10:03:13.182Z
 tags: aktualisieren, aktualisierung, modus, zoe-modus, aktualisierungs modus, zoe modus
 editor: markdown
 dateCreated: 2024-04-05T10:00:53.068Z
