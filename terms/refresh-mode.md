@@ -2,8 +2,8 @@
 title: Refresh & Refresh mode
 description: Learn about how Zoe's refresh works.
 published: true
-date: 2023-08-23T17:29:07.016Z
-tags: update, refreh, mode, refresh mode, zoe mode
+date: 2024-04-05T08:39:59.384Z
+tags: refresh, update, mode, refresh mode, zoe mode
 editor: markdown
 dateCreated: 2021-07-07T19:15:54.142Z
 ---
