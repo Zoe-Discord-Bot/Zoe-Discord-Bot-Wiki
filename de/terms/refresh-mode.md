@@ -2,7 +2,7 @@
 title: Aktualisierung & Aktualisierungsmodus
 description: 
 published: false
-date: 2024-04-05T10:07:35.269Z
+date: 2024-04-05T10:08:13.595Z
 tags: aktualisieren, aktualisierung, modus, zoe modus
 editor: markdown
 dateCreated: 2024-04-05T10:06:42.756Z
@@ -11,7 +11,7 @@ dateCreated: 2024-04-05T10:06:42.756Z
 # Aktualisieren & Aktualisierungsmodus
 
 >### Information
->**Alle Server aktualisieren sich mindestens einmal die Stunde. Leider gibt es momentan noch keine zuverlässige Variante um diese Frequenz zu erhöhen.** <br>
+>**Alle Server aktualisieren sich mindestens einmal die Stunde. Leider gibt es momentan noch keine zuverlässige Möglichkeit um diese Frequenz zu erhöhen.** <br>
 >**Du kannst jedoch auf Discord Online sein und aktiviere den Aktivitätsstatus. Zoe erkennt den Start und das Ende einer Runde und aktualisiert dann direkt zur richtigen Zeit. Für die meisten Fälle ist dies ausreichend.** <br>
 >**Es bestehen Pläne, das Aktualisierungssystem zu erneuen und es intelligenter zu machen, essenziel dafür zu sorgen dass es die stündliche Aktivität pro Account feststellt und sich öfter aktualisiert in diesen Zeiten. Dies ist jedoch noch nicht implementiert.**
 >{.is-info}
