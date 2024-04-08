@@ -2,7 +2,7 @@
 title: Zoe Befehle
 description: Hier findest du alle Befehle aufgelistet.
 published: true
-date: 2024-01-09T17:21:40.848Z
+date: 2024-04-08T23:30:44.409Z
 tags: commands, cmd, cmds, command, befehl, befehle
 editor: markdown
 dateCreated: 2023-08-12T20:13:29.760Z
@@ -85,6 +85,7 @@ dateCreated: 2023-08-12T20:13:29.760Z
 - [/delete team *Verwende diesen Befehl, um das genannte Team aus dem System deines Servers zu löschen.*](/de/commands/delete/team/)
 - [/add playertoteam *Dieser Befehl fügt den erwähnten Spieler zum genannten Team hinzu.*](/de/commands/add/playerToTeam/)
 - [/remove playerfromteam *Entfernt den genannten Spieler aus dem genannten Team.*](/de/commands/remove/playerToTeam/)
+- [/show team *Mit diesem Befehl bekommst du eine kurze Übersicht über alle Spieler eines Teams angezeigt.*](/de/commands/important/show-team)
 {.links-list}
 
 <br>
