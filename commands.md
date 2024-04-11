@@ -2,7 +2,7 @@
 title: Zoe Commands
 description: In here you find all commands listed.
 published: true
-date: 2024-04-08T22:59:54.942Z
+date: 2024-04-11T13:07:55.149Z
 tags: commands, cmd, cmds, order, orders, command
 editor: markdown
 dateCreated: 2021-07-05T11:30:13.397Z
@@ -85,7 +85,9 @@ dateCreated: 2021-07-05T11:30:13.397Z
 - [/delete team *Use this command to delete the mentioned team from the system in your server.*](/en/commands/delete/team/)
 - [/add playertoteam *This command adds the mentioned player to the named team.*](/en/commands/add/playerToTeam/)
 - [/remove playerfromteam *Removes the mentioned player from the named team.*](/en/commands/remove/playerToTeam/)
-- [/show team *With this command you will get displayed a short overview over all players of one Team.*](/en/commands/important/show-team)
+- [/show team *With this command you will get displayed a short overview over all players of one team.*](/en/commands/important/show-team)
+- [/join *Allows a player to join a team by themselves.*](/en/commands/other/join)
+- [/leave *Allows a player to leave a team by themselves.*](/en/commands/other/leave)
 {.links-list}
 
 <br>
