@@ -2,7 +2,7 @@
 title: /refresh - Command
 description: Information about the /refresh command
 published: false
-date: 2024-04-22T12:57:22.757Z
+date: 2024-04-22T12:57:50.775Z
 tags: command, refresh
 editor: markdown
 dateCreated: 2024-04-22T08:32:16.776Z
@@ -14,9 +14,9 @@ dateCreated: 2024-04-22T08:32:16.776Z
  |     |     |     |     |     |
  | --- | --- | --- | --- | --- |
  |     | [Infochannel](/en/features/infoChannel) | [Rankchannel](/en/features/rankChannel) | [Leaderboards](/en/features/leaderboards) |[Matchhistorychannel](/en/features/matchhistoryChannel) | [Clashchannel](/en/features/clashChannel) |
- | **refresh command** | **Yes** | **Yes** | **Yes** | **Yes** | **No[^1]** |
+ | **refresh command** | **Yes** | **Yes** | **Yes** | **Yes** | **No*** |
 
-[^1]: The [Clashchannel](/en/features/clashChannel) can be refreshed with the command [`/clash refresh`](/en/commands/clash/refresh/).
+*The [Clashchannel](/en/features/clashChannel) can be refreshed with the command [`/clash refresh`](/en/commands/clash/refresh/).
 
 <br>
 
