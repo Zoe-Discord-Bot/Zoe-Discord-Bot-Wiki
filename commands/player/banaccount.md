@@ -2,7 +2,7 @@
 title: /banaccount - Command
 description: Information about the /banaccount command
 published: false
-date: 2024-04-22T16:34:51.837Z
+date: 2024-04-22T16:37:10.507Z
 tags: command, banaccount
 editor: markdown
 dateCreated: 2024-04-22T16:28:43.849Z
@@ -15,6 +15,8 @@ dateCreated: 2024-04-22T16:28:43.849Z
 
 ### Permissions needed:
 >**None** - every user on a server can use this command (as long as not further restricted by permission) {.is-success}
+
+>**Account ownership** - this command requires verification of ownership of a league account (not discord-related) {.is-info}
 
 <br>
 
@@ -48,6 +50,3 @@ Restricts everyone from adding your account, but its not deleted from any server
 
 ## How to completely remove your account
 So if you want to completely remove your account from Zoe use `@Zoe ban` (to no longer allow adding the account on Zoe) and `@Zoe kick all` (to remove it from all servers it is currently added to).
-
-
-
