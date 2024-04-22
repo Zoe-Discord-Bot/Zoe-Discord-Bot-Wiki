@@ -1,33 +1,35 @@
 ---
 title: Testing Page
-description: 
+description: Page for testing purposes.
 published: false
-date: 2024-04-22T08:46:44.641Z
+date: 2024-04-22T09:10:01.961Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-09T15:07:03.078Z
 ---
 
-# /subscription
+# /command
+### Information
+**This command does this and that.**
+<br>
 
->### Information
->**This command shows you your current Zoe subscription status, roles, used and available Zoe points and your benefits.**
->{.is-info}
+### Permissions needed:
+>None {.is-success}
 
->### Permissions needed:
->*none*
->{.is-success}
-
->### Related commands/pages:
->-   [Support Zoe](https://wiki.zoe-discord-bot.ch/en/support)
->-   [Zoe Points & Boosting](https://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting)
+> Manage channels {.is-warning}
 
 <br>
 
-## Usage
-
+### Usage
 ![](/en_/en_subscription_command.gif)
-
-## Example
-
+ <br>
+ 
+### Example
 ![](/en_/en_subscription.png)
+ <br>
+ 
+### Related commands/pages:
+
+- [Page 1](https://wiki.zoe-discord-bot.ch/en/support)
+- [Page 2](https://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting)
+{.links-list}
