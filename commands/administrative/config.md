@@ -1,8 +1,8 @@
 ---
 title: /config - Command
 description: Information about the /config command
-published: true
-date: 2024-04-22T08:06:24.618Z
+published: false
+date: 2024-04-22T08:13:19.531Z
 tags: command, config, configuration
 editor: markdown
 dateCreated: 2024-04-22T08:06:24.618Z
