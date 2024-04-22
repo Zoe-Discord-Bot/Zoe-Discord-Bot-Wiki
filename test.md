@@ -2,7 +2,7 @@
 title: Testing Page
 description: Page for testing purposes.
 published: false
-date: 2024-04-22T09:43:58.199Z
+date: 2024-04-22T09:44:09.047Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-09T15:07:03.078Z
@@ -30,6 +30,5 @@ dateCreated: 2024-01-09T15:07:03.078Z
  
 ## Related commands/pages:
 
-- [Page 1]()
-- [Page 2]()
+- [Page]()
 {.links-list}
