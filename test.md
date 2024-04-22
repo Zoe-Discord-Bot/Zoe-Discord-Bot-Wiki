@@ -2,7 +2,7 @@
 title: Testing Page
 description: Page for testing purposes.
 published: false
-date: 2024-04-22T09:30:35.508Z
+date: 2024-04-22T09:38:28.442Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-09T15:07:03.078Z
@@ -16,7 +16,7 @@ dateCreated: 2024-01-09T15:07:03.078Z
 ### Permissions needed:
 >None {.is-success}
 
-> Manage channels {.is-warning}
+>Manage channels {.is-warning}
 
 <br>
 
