@@ -1,8 +1,8 @@
 ---
 title: /setup - Command
 description: Information about the /setup command
-published: true
-date: 2024-04-22T08:02:21.200Z
+published: false
+date: 2024-04-22T08:14:11.050Z
 tags: setup, command, start
 editor: markdown
 dateCreated: 2024-04-22T08:02:21.200Z
