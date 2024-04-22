@@ -2,7 +2,7 @@
 title: /stats matchhistory - Command
 description: Information about the /stats matchhistory command
 published: true
-date: 2024-04-22T11:59:33.578Z
+date: 2024-04-22T12:00:33.777Z
 tags: command, stats, statistics, matchhistory
 editor: markdown
 dateCreated: 2023-04-09T12:03:20.071Z
@@ -24,8 +24,8 @@ For [players](/en/terms/player) which are registered on your server you can simp
 <br>
   
 For all other players fill in their [region](/en/terms/region), [gamename and tag (Riot ID)](/en/terms/riotid): `/stats matchhistory region gamename tag`
-![](/en_/en_stats_profile_riotid.png)
- <br>
+<img src="/en_/en_stats_profile_riotid.png" width="900">
+<br>
  
 ## Example
 ### Example of the stats matchhistory overview
