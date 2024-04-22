@@ -2,7 +2,7 @@
 title: /stats profile - Command
 description: Information about the /stats profile command
 published: true
-date: 2024-04-22T10:04:33.730Z
+date: 2024-04-22T11:36:47.638Z
 tags: stats, stats profile, player stats, profile, riotid
 editor: markdown
 dateCreated: 2021-07-13T10:38:02.384Z
@@ -23,13 +23,13 @@ dateCreated: 2021-07-13T10:38:02.384Z
 ###### For yourself
 For your own profile you can simply use the command without parameters.
 **Usage:** `/stats profile`
-<img src="/en_/en_stats_profile_self.png" width="400">
+<img src="/en_/en_stats_profile_self.png" width="300">
 <br>
 
 ###### For registered players on your sever
 For [players](/en/terms/player) that are registered on your server you can simply mention them.
 **Usage:** `/stats profile @DiscordUser`
-<img src="/en_/en_stats_profile_user.png" width="650">
+<img src="/en_/en_stats_profile_user.png" width="500">
 <br>
 
 ###### For every other account
@@ -39,7 +39,7 @@ For all other profiles fill in their [region](/en/terms/region), [gamename and t
 <br>
 
 ## Example
-![](/en_/en_stats_profile.png)
+<img src="/en_/en_stats_profile.png" width="400">
  <br>
  
 ## Related commands/pages:
