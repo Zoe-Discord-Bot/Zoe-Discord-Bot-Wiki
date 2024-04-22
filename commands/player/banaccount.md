@@ -2,7 +2,7 @@
 title: /banaccount - Command
 description: Information about the /banaccount command
 published: false
-date: 2024-04-22T16:30:14.083Z
+date: 2024-04-22T16:34:51.837Z
 tags: command, banaccount
 editor: markdown
 dateCreated: 2024-04-22T16:28:43.849Z
@@ -20,11 +20,10 @@ dateCreated: 2024-04-22T16:28:43.849Z
 
 ## Usage
 :one: You start with issuing the command as seen below, just type your corresponding details for [region](/en/terms/region), [gamename and tag](/en/terms/riotid):
-<img src="/en_/en_banaccount_riotid.png" width="80%" img>
+<img src="/en_/en_banaccount_riotid.png" width="70%" img>
 
 :two: After that you will see the verification message with an summonericon which you must set for the account specified before.
-<img src="/en_/en_banaccount_riotid_2.png" width="55%" img>
->{.is-info} 
+<img src="/en_/en_banaccount_riotid_2.png" width="50%" img>
 
 :three: Open the League of Legends client and log in if necessary. Click on your profile and summonericon to change it.
 <img src="/en_/en_banaccount_riotid_3.png" width="60%" img>
