@@ -2,7 +2,7 @@
 title: /stats matchhistory - Command
 description: Information about the /stats matchhistory command
 published: true
-date: 2024-04-22T11:56:00.430Z
+date: 2024-04-22T11:59:33.578Z
 tags: command, stats, statistics, matchhistory
 editor: markdown
 dateCreated: 2023-04-09T12:03:20.071Z
@@ -20,7 +20,7 @@ dateCreated: 2023-04-09T12:03:20.071Z
 
 ## Usage
 For [players](/en/terms/player) which are registered on your server you can simply mention them: `/stats matchhistory @DiscordUser`
-![](/en_/en_stats_profile_user.png)
+<img src="/en_/en_stats_profile_user.png" width="500">
 <br>
   
 For all other players fill in their [region](/en/terms/region), [gamename and tag (Riot ID)](/en/terms/riotid): `/stats matchhistory region gamename tag`
@@ -29,14 +29,12 @@ For all other players fill in their [region](/en/terms/region), [gamename and ta
  
 ## Example
 ### Example of the stats matchhistory overview
-
-![](/en_/en_stats_matchhistory_overview.png)
+<img src="/en_/en_stats_matchhistory_overview.png" width="600">
 <br>
 
 ### Example of a stats matchhistory game 
-
-![](/en_/en_matchhistorychannel_message_extended.png)
- <br>
+<img src="/en_/en_matchhistorychannel_message_extended.png" width="600">
+<br>
  
 ## Related commands/pages:
 
