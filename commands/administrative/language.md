@@ -1,8 +1,8 @@
 ---
 title: /language - Command
 description: Information about the /language command
-published: true
-date: 2024-04-22T08:05:05.297Z
+published: false
+date: 2024-04-22T08:13:44.522Z
 tags: command, language, languages
 editor: markdown
 dateCreated: 2024-04-22T08:05:05.297Z
