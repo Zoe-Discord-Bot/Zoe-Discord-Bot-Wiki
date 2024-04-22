@@ -2,32 +2,29 @@
 title: /help - Command
 description: Information about the /help command
 published: false
-date: 2024-04-22T08:31:37.839Z
+date: 2024-04-22T12:50:14.102Z
 tags: command, help
 editor: markdown
 dateCreated: 2024-04-22T08:31:37.839Z
 ---
 
 # /help
+## Information
+**When you execute this command, Zoe sends you a help message with the wiki pages for [troubleshooting](/en/troubleshooting), [all commands](/en/commands), [all features](/en/features) and [the configuration](/en/Zoe-Configuration).**
+<br>
 
->### Information
->**When you execute this command, Zoe sends you a help message with the wiki pages for [troubleshooting](/en/troubleshooting), [all commands](/en/commands), [all features](/en/features) and [the configuration](/en/Zoe-Configuration).**
->{.is-info}
-
->### Permissions needed:
->*none*
->{.is-success}
-
->### Related commands/pages:
->*none*
+### Permissions needed:
+>**None** - every user on a server can use this command (as long as not further restricted by permission) {.is-success}
 
 <br>
 
 ## Usage
-![en_help_command.gif](/en_/en_help_command.gif)
-
+![](/en_/en_help_command.gif)
 <br>
-
-## Help message
-
-![en_help_command_example.png](/en_/en_help_command_example.png)
+ 
+## Example
+![](/en_/en_help_command_example.png)
+<br>
+ 
+## Related commands/pages:
+none
