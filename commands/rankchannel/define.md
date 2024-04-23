@@ -2,7 +2,7 @@
 title: /define rankchannel  - Command
 description: Information about the /define rankchannel command
 published: false
-date: 2024-04-23T07:13:19.421Z
+date: 2024-04-23T07:13:30.355Z
 tags: command, rankchannel, define
 editor: markdown
 dateCreated: 2024-04-23T07:13:19.421Z
@@ -23,5 +23,5 @@ dateCreated: 2024-04-23T07:13:19.421Z
 <br>
  
 ## Related commands/pages:
-- [/create rankchannel](/en/commands/create/rankChannel/)  
+- [/create rankchannel](/en/commands/create/rankChannel/) 
 {.links-list}
