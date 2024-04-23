@@ -2,7 +2,7 @@
 title: /clash refresh - Command
 description: Information about the /clash refresh command
 published: false
-date: 2024-04-23T07:36:52.658Z
+date: 2024-04-23T18:39:15.169Z
 tags: command, clash, refresh
 editor: markdown
 dateCreated: 2024-04-23T07:36:52.658Z
@@ -15,8 +15,6 @@ dateCreated: 2024-04-23T07:36:52.658Z
 
 ### Permissions needed:
 >**None** - every user on a server can use this command (as long as not further restricted by permission) {.is-success}
-
->**Manage channels** - only users with this permission ("moderators"/"administrators") can use this command as it affects Zoe for the server more deeply {.is-warning}
 
 <br>
 
