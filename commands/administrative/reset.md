@@ -2,7 +2,7 @@
 title: /reset - Command
 description: Information about the /reset command
 published: false
-date: 2024-04-22T13:04:15.769Z
+date: 2024-04-24T13:29:43.622Z
 tags: command, reset
 editor: markdown
 dateCreated: 2024-04-22T08:37:18.101Z
@@ -10,7 +10,8 @@ dateCreated: 2024-04-22T08:37:18.101Z
 
 # /reset
 ## Information
-**The command performs a reset for your server. It resets the current configuration of your server. You must confirm this with `YES` otherwise answer with `NO`. <br>
+**The command performs a reset for your server. It resets the current configuration of your server to the default values.
+You must confirm this with `YES` otherwise answer with `NO`. <br>
 Try to use this command if something is not working properly.**
 <br>
 
