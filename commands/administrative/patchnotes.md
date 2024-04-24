@@ -2,7 +2,7 @@
 title: /patchnotes  - Command
 description: Information about the /patchnotes command
 published: false
-date: 2024-04-22T13:46:02.928Z
+date: 2024-04-24T14:05:47.027Z
 tags: command, patchnotes
 editor: markdown
 dateCreated: 2024-04-22T13:46:02.928Z
@@ -10,7 +10,7 @@ dateCreated: 2024-04-22T13:46:02.928Z
 
 # /patchnotes
 ## Information
-**This command sends you the link to the current [Zoe patchnotes and patchnote history page](/en/patchnotes) in the wiki which are in English.**
+**This command sends you the link to the current [Zoe patchnotes and patchnote history page](/en/patchnotes) in the wiki which are in English. If you are interested in whats new in Zoe, you can check that there.**
 <br>
 
 ### Permissions needed:
