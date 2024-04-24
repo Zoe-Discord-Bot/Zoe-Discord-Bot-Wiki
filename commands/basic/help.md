@@ -2,7 +2,7 @@
 title: /help - Command
 description: Information about the /help command
 published: false
-date: 2024-04-22T12:50:14.102Z
+date: 2024-04-24T12:41:36.572Z
 tags: command, help
 editor: markdown
 dateCreated: 2024-04-22T08:31:37.839Z
@@ -10,7 +10,7 @@ dateCreated: 2024-04-22T08:31:37.839Z
 
 # /help
 ## Information
-**When you execute this command, Zoe sends you a help message with the wiki pages for [troubleshooting](/en/troubleshooting), [all commands](/en/commands), [all features](/en/features) and [the configuration](/en/Zoe-Configuration).**
+**When you execute this command, Zoe sends you a help message with the wiki pages for [troubleshooting](/en/troubleshooting), [all commands](/en/commands), [all features](/en/features) and [the configuration](/en/Zoe-Configuration) and the link to the support server.**
 <br>
 
 ### Permissions needed:
