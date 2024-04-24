@@ -2,7 +2,7 @@
 title: /subscription - Command
 description: Information about the /subscription command
 published: false
-date: 2024-04-22T13:13:31.942Z
+date: 2024-04-24T13:35:30.954Z
 tags: command, subscription
 editor: markdown
 dateCreated: 2024-04-22T08:43:14.903Z
@@ -10,7 +10,7 @@ dateCreated: 2024-04-22T08:43:14.903Z
 
 # /subscription
 ## Information
-**This command shows you your current Zoe subscription status, roles, used and available Zoe points and your benefits.**
+**This command shows your current Zoe subscription status, roles (subscription level etc), used & available Zoe points and your & more benefits.**
 <br>
 
 ### Permissions needed:
