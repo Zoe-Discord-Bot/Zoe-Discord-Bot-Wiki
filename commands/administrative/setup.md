@@ -2,7 +2,7 @@
 title: /setup - Command
 description: Information about the /setup command
 published: false
-date: 2024-04-22T12:44:48.396Z
+date: 2024-04-24T12:37:25.918Z
 tags: setup, command, start
 editor: markdown
 dateCreated: 2024-04-22T08:02:21.200Z
@@ -10,7 +10,7 @@ dateCreated: 2024-04-22T08:02:21.200Z
 
 # /setup
 ## Information
-**This command sends you the information needed, when you want to set up Zoe on your Discord server. This is useful when setting up Zoe again on a server she was before.**
+**This command sends you the information needed, when you want to set Zoe up on your Discord server. This is useful when setting up Zoe again on a server it was before or after a reset. You get information about the standard channels and how to use them.**
 <br>
 
 ### Permissions needed:
