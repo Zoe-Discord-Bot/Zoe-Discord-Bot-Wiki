@@ -2,7 +2,7 @@
 title: /delete leaderboard - Command
 description: Information about the /delete leaderboard command
 published: false
-date: 2024-04-22T13:58:28.506Z
+date: 2024-04-24T14:13:23.663Z
 tags: leaderboard, delete
 editor: markdown
 dateCreated: 2024-04-22T13:58:28.506Z
@@ -10,7 +10,7 @@ dateCreated: 2024-04-22T13:58:28.506Z
 
 # /delete leaderboard
 ## Information
-**This command deletes an existing [leaderboard](/en/features/leaderboards). You have to choose which [leaderboard](/en/features/leaderboards) you want to delete.**
+**This command deletes an existing [leaderboard](/en/features/leaderboards). You have to choose which [leaderboard](/en/features/leaderboards) you want to delete with reactions and confirm your choice.**
 <br>
 
 ### Permissions needed:
