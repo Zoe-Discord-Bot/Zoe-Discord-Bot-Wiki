@@ -2,7 +2,7 @@
 title: /create leaderboard - Command
 description: Information about the /create leaderboard command
 published: false
-date: 2024-04-22T13:56:07.032Z
+date: 2024-04-24T14:07:55.018Z
 tags: create, leaderboard
 editor: markdown
 dateCreated: 2024-04-22T13:56:07.032Z
@@ -11,10 +11,10 @@ dateCreated: 2024-04-22T13:56:07.032Z
 # /create leaderboard
 ## Information
 
-**If you use this command, the creation wizard for a [leaderboard](/en/features/leaderboards) will start.You can create [leaderboards](/en/features/leaderboards) that are the top 10 (on premium servers: 100) registered [players](/en/terms/player) in a category of your choice. Categories are:**
+**If you use this command, the creation wizard for a [leaderboard](/en/features/leaderboards) will start. You can create [leaderboards](/en/features/leaderboards) that show the top 10 (on premium servers: 100) registered [players](/en/terms/player) in a category of your choice. Categories to choose are:**
 - **Total Mastery points**
 - **Mastery points on a specific champion**
-- **All queue rank (best)**
+- **All queue rank (Best)**
 - **Specific queue rank (Solo/DuoQ, Flex or TFT)**
 - **Average KDA**
 - **Average KDA on a specific champion**
