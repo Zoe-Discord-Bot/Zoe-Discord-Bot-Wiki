@@ -2,7 +2,7 @@
 title: /config - Command
 description: Information about the /config command
 published: false
-date: 2024-04-22T12:21:05.120Z
+date: 2024-04-24T12:11:47.457Z
 tags: command, config, configuration
 editor: markdown
 dateCreated: 2024-04-22T08:06:24.618Z
@@ -10,7 +10,7 @@ dateCreated: 2024-04-22T08:06:24.618Z
 
 # /config
 ## Information
-**This command opens an interactive message where you can navigate with reactions to adjust your server settings. Read more here: [Configuration](/en/Zoe-Configuration/).**
+**This command opens the configuration menu for your server. You can move around the menu and then change the settings you want. Read more here: [Configuration](/en/Zoe-Configuration/).**
 <br>
 
 ### Permissions needed:
