@@ -2,7 +2,7 @@
 title: Testing Page
 description: Page for testing purposes.
 published: false
-date: 2024-04-22T13:37:20.318Z
+date: 2024-04-24T13:59:48.949Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-09T15:07:03.078Z
@@ -21,6 +21,8 @@ dateCreated: 2024-01-09T15:07:03.078Z
 >**Administrator** - only administrators can use this command, as it can output potentially sensitive data {.is-danger}
 
 >**Account ownership** - this command requires verification of ownership of a league account (not discord-related) {.is-info}
+
+> **:star:Premium feature/command :star:** - this feature/command can only be used on boosted servers (required a Zoe premium subscription)
 
 <br>
 
