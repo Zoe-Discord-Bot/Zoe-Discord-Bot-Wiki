@@ -2,7 +2,7 @@
 title: /stats matchhistory - Command
 description: Information about the /stats matchhistory command
 published: true
-date: 2024-04-22T12:00:33.777Z
+date: 2024-04-24T11:50:18.745Z
 tags: command, stats, statistics, matchhistory
 editor: markdown
 dateCreated: 2023-04-09T12:03:20.071Z
@@ -10,7 +10,7 @@ dateCreated: 2023-04-09T12:03:20.071Z
 
 # /stats matchhistory
 ## Information
-**The matchhistory command which will allow you to browse the match history of League of Legends accounts and view match statistics. This feature incorporates a new experimental AI based feature that summarizes your game in one line.**
+**The matchhistory command which will allow you to browse the match history of League of Legends accounts and view basic statistics like gamemode, champion and KDA. This feature incorporates a new experimental AI based feature that summarizes your game in one line. You can select a game to show more details about the game like CS, ranks and killparticipation.**
 <br>
 
 ### Permissions needed:
