@@ -2,7 +2,7 @@
 title: /refresh - Command
 description: Information about the /refresh command
 published: false
-date: 2024-04-22T12:59:13.032Z
+date: 2024-04-24T13:23:18.201Z
 tags: command, refresh
 editor: markdown
 dateCreated: 2024-04-22T08:32:16.776Z
@@ -10,14 +10,14 @@ dateCreated: 2024-04-22T08:32:16.776Z
 
 # /refresh
 ## Information
-**When you execute the command, the [information panel](/en/features/infoChannel) and the [leaderboards](/en/features/leaderboards) are updated manually. More specifically, the cache is also updated (which normally happens every 24 hours).**  
- |     |     |     |     |     |     |     |
- | --- | --- | --- | --- | --- | --- | --- |
- |     | [Infochannel](/en/features/infoChannel) | [Rankchannel](/en/features/rankChannel) | [Leaderboards](/en/features/leaderboards) |[Matchhistorychannel](/en/features/matchhistoryChannel) | [Clashchannel](/en/features/clashChannel) | [Rank roles](/en/features/rankroles) |
- | **refresh command** | **Yes** | **Yes** | **Yes** | **Yes** | **No[^1]** | **Yes** |
-
-[^1]:The [Clashchannel](/en/features/clashChannel) can be refreshed with the command [`/clash refresh`](/en/commands/clash/refresh/).
-
+**When you execute the command your server is updated manually. More specifically, the cache is also updated (which normally happens every 24 hours).**  <br>
+**Refresh command refreshes:**
+- [x] Infochannel
+- [x] Rankchannel
+- [x] Leaderboards
+- [x] Matchhistorychannel
+- [x] Rank roles
+- [ ] Clashchannel (The [Clashchannel](/en/features/clashChannel) can be refreshed with the command [`/clash refresh`](/en/commands/clash/refresh/).)
 <br>
 
 ### Permissions needed:
