@@ -2,7 +2,7 @@
 title: /boost - Command
 description: Information about the /boost command
 published: false
-date: 2024-04-22T13:11:08.472Z
+date: 2024-04-24T13:32:18.462Z
 tags: command, boost
 editor: markdown
 dateCreated: 2024-04-22T08:40:33.152Z
@@ -10,7 +10,7 @@ dateCreated: 2024-04-22T08:40:33.152Z
 
 # /boost
 ## Information
-**This command lets you boost the server you're using the command on to a premium server. This will allow the server to use all [premium features](/en/support).**
+**This command lets you boost the server you're using the command on to a Zoe premium server. This will allow the server to use all [Zoe premium features](/en/support) until the boost is cancelled.**
 <br>
 
 ### Permissions needed:
