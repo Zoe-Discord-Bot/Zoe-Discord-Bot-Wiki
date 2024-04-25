@@ -2,7 +2,7 @@
 title: /show players - Command
 description: Information about the /show players command
 published: false
-date: 2024-04-22T15:49:58.904Z
+date: 2024-04-25T07:52:23.186Z
 tags: command, players, show
 editor: markdown
 dateCreated: 2024-04-22T15:49:58.904Z
@@ -10,7 +10,7 @@ dateCreated: 2024-04-22T15:49:58.904Z
 
 # /show players
 ## Information
-**With this command you will get all [players](/en/terms/player) on your server with all added accounts displayed in one message.**
+**With this command you will get all [players](/en/terms/player) on your server with all of their added accounts and their rank displayed in one message.**
 <br>
 
 ### Permissions needed:
