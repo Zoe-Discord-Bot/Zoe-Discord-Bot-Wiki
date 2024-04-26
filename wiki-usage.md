@@ -2,7 +2,7 @@
 title: timfernix' Wiki/Markdown/HTML help
 description: 
 published: true
-date: 2024-04-04T19:15:27.575Z
+date: 2024-04-26T12:19:42.731Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-13T20:20:07.754Z
@@ -226,5 +226,6 @@ Tabset Description
 Footnotes [^1]
 ```
 Footnotes [^1]
+[^1]: Footnote 
 ```
 [^1]: Footnote 
