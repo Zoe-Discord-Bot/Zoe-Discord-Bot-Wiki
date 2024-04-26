@@ -1,8 +1,8 @@
 ---
 title: /delete clashchannel - Command
 description: Information about the /delete clashchannel command
-published: false
-date: 2024-04-26T16:28:32.265Z
+published: true
+date: 2024-04-26T18:36:15.830Z
 tags: command, clashchannel, delete
 editor: markdown
 dateCreated: 2024-04-23T07:33:26.760Z
