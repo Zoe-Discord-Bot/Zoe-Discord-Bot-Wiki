@@ -2,7 +2,7 @@
 title: Testing Page
 description: Page for testing purposes.
 published: false
-date: 2024-04-24T14:00:14.411Z
+date: 2024-04-26T09:43:42.493Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-09T15:07:03.078Z
@@ -40,3 +40,22 @@ dateCreated: 2024-01-09T15:07:03.078Z
 
 - [Page]()
 {.links-list}
+
+
+>Deletes your player from all servers at once.
+Restricts everyone from adding your account, but its not deleted from any server.
+
+-----------------
+
+## Commands {.tabset}
+### `@Zoe kick server-number`
+>Removes your account from the corresponding sever.{.is-success} 
+
+>Doesnt restrict users to add your account again.{.is-danger}
+
+Example:
+<img src="/en_/en_ban_account_7.png" width="25%" img> <br>
+### `@Zoe kick all`
+<img src="/en_/en_ban_account_8.png" width="20%" img> <br>
+### `@Zoe ban`
+<img src="/en_/en_ban_account_9.png" width="20%" img> <br>
