@@ -2,7 +2,7 @@
 title: Leaderboards - Feature
 description: Information about all leaderboards.
 published: true
-date: 2023-12-27T13:20:56.204Z
+date: 2024-04-26T17:44:31.980Z
 tags: leaderboard, leader, leaderboards, top 10, top 20, top 50, top 100, best player
 editor: markdown
 dateCreated: 2021-07-06T10:11:35.527Z
@@ -12,7 +12,7 @@ dateCreated: 2021-07-06T10:11:35.527Z
 
 <br>
 
->**In leaderboards up to 100 [players](/en/terms/player) (on a [boosted server](https://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting), else 10) can compare themselves in a selected category. You can select these in a creation wizard. <br>
+>**In leaderboards up to 100 [players](/en/terms/player) (on a [boosted server](/en/Zoe-Points-And-Boosting), else 10) can compare themselves in a selected category. You can select these in a creation wizard. <br>
 The following goals can be aimed at: Total Mastery Points, Mastery Points on a champion, Rank in a Queue (Solo/DuoQ, Flex, etc.), All Queue Rank, Average KDA, Average KDA on a champion, Best Champion ("OTP") & Account Level**
 >{.is-info}
 
@@ -20,14 +20,12 @@ The following goals can be aimed at: Total Mastery Points, Mastery Points on a c
 >{.is-warning}
 
 >### Related commands/pages:
->-   [/create leaderboard](/en/commands/create/leaderboard/)
->-   [/delete leaderboard](/en/commands/delete/leaderboard/)
+>-   [/create leaderboard](/en/commands/leaderboard/create)
+>-   [/delete leaderboard](/en/commands/leaderboard/delete)
 
 <br>
 
 ## Example leaderboards
-
-|     |     |     |
 | --- | --- | --- |
 | **Leaderboard** | **Details** | **Example** |
 | **Total Mastery Points** | Account with highest total mastery points is shown. The mastery points are not summarised. | ![](/en_/en_leaderboard_totalmasterypoints.png) |
