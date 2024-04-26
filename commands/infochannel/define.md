@@ -1,8 +1,8 @@
 ---
 title: /define infochannel  - Command
 description: Information about the /define infochannel command
-published: false
-date: 2024-04-26T16:20:21.670Z
+published: true
+date: 2024-04-26T18:37:23.665Z
 tags: command, infochannel, define
 editor: markdown
 dateCreated: 2024-04-23T06:41:58.423Z
