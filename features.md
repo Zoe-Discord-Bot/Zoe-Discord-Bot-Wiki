@@ -2,39 +2,39 @@
 title: Zoe Features
 description: In here you find all core features explained.
 published: true
-date: 2024-04-26T18:01:07.163Z
+date: 2024-04-26T19:05:55.042Z
 tags: features, core, core features, feature
 editor: markdown
 dateCreated: 2021-07-06T09:25:25.035Z
 ---
 
 
--  [<i class="mdi mdi-information-outline"></i> Infochannel *Zoe provides an information panel with information about the players in a game and the current games with champions played, SoloQ rank or winrate with a champion played. You can also get champion tips for every champion played in a game.*](/en/features/infochannel/) <br> <img src="/en_/en_infochannel.png" img>
+-  [<i class="mdi mdi-information-outline"></i> Infochannel *Zoe provides an information panel with information about the players in a game and the current games with champions played, SoloQ rank or winrate with a champion played. You can also get champion tips for every champion played in a game.*](/en/features/infochannel) <br> <img src="/en_/en_infochannel.png" img>
 {.links-list}
 
 <br> 
   
--  [<i class="mdi mdi-trophy-outline"></i> Rankchannel *In the rankchannel it is possible to track the players' ranked progress.*](/en/features/rankchannel/) <br> <img src="/en_/en_rankchannel_message.png" img>
+-  [<i class="mdi mdi-trophy-outline"></i> Rankchannel *In the rankchannel it is possible to track the players' ranked progress.*](/en/features/rankchannel) <br> <img src="/en_/en_rankchannel_message.png" img>
 {.links-list}
 
 <br> 
 
--  [<i class="mdi mdi-dice-d10-outline"></i> Leaderboards *With leaderboards up to 100 players can compare themselves in a selected category.*](/en/features/leaderboards/) <br> <img src="/en_/en_leaderboard_championmasterypoints.png" height="310" img>
+-  [<i class="mdi mdi-dice-d10-outline"></i> Leaderboards *With leaderboards up to 100 players can compare themselves in a selected category.*](/en/features/leaderboards) <br> <img src="/en_/en_leaderboard_championmasterypoints.png" height="310" img>
 {.links-list}
 
 <br>
 
--  [<i class="mdi mdi-tournament"></i> Clashchannel *Zoe performs an analysis of a team to help with pick and ban decisions.*](/en/features/clashchannel/) <br> <img src="/en_/en_clashchannel_active.png" height="500" img>
+-  [<i class="mdi mdi-tournament"></i> Clashchannel *Zoe performs an analysis of a team to help with pick and ban decisions.*](/en/features/clashchannel) <br> <img src="/en_/en_clashchannel_active.png" height="500" img>
 {.links-list}
 
 <br> 
 
--  [<i class="mdi mdi-card-account-details-outline"></i> stats profile *Zoe provides information about a profile, including the top 3 highest champions, a summary of all masteries, the last 3 games played, ranking statistics of the player and a chart with the 6 highest mastery champions.*](/en/commands/stats/profile/) <br> <img src="/en_/en_stats_profile.png" height="500" img>
+-  [<i class="mdi mdi-card-account-details-outline"></i> stats profile *Zoe provides information about a profile, including the top 3 highest champions, a summary of all masteries, the last 3 games played, ranking statistics of the player and a chart with the 6 highest mastery champions.*](/en/commands/stats/profile) <br> <img src="/en_/en_stats_profile.png" height="500" img>
 {.links-list}
 
 <br> 
 
--  [<i class="mdi mdi-account-group-outline"></i> stats teamanalysis *Zoe starts an analysis for picked and banned champions and lanes.*](/en/commands/stats/teamAnalysis/) <br> <img src="/en_/en_stats_teamanalysis_picks.png" height="500" img>
+-  [<i class="mdi mdi-account-group-outline"></i> stats teamanalysis *Zoe starts an analysis for picked and banned champions and lanes.*](/en/commands/stats/teamAnalysis) <br> <img src="/en_/en_stats_teamanalysis_picks.png" height="500" img>
 {.links-list}
 
 <br> 
