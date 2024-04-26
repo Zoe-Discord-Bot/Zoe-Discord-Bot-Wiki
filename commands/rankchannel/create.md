@@ -2,7 +2,7 @@
 title: /create rankchannel - Command
 description: Information about the /create rankchannel command
 published: false
-date: 2024-04-23T07:10:21.567Z
+date: 2024-04-26T16:24:20.271Z
 tags: create, command, rankchannel
 editor: markdown
 dateCreated: 2024-04-23T07:10:21.567Z
@@ -10,7 +10,7 @@ dateCreated: 2024-04-23T07:10:21.567Z
 
 # /create rankchannel rankchannel-name
 ## Information
-**With this command you create a [rankchannel](/en/features/rankChannel) in which Zoe sends an message after each ranked match of a registered [player](/en/terms/player). This message contains information about the KDA, the played champion, if the match is won or lost, how much LP won/lost, the match length and the cs.**
+**With this command you create a [rankchannel](/en/features/rankchannel) in which Zoe sends an message after each ranked match of a registered [player](/en/terms/player). This message contains information about the KDA, the played champion, if the match is won or lost, how much LP won/lost, the match length and the cs.**
 <br>
 
 ### Permissions needed:
@@ -23,6 +23,6 @@ dateCreated: 2024-04-23T07:10:21.567Z
 <br>
  
 ## Related commands/pages:
--   [/delete rankchannel](/en/commands/delete/rankChannel/)
--   [/define rankchannel](/en/commands/define/rankChannel/)
+-   [/delete rankchannel](/en/commands/rankchannel/delete)
+-   [/define rankchannel](/en/commands/rankchannel/define)
 {.links-list}
