@@ -2,7 +2,7 @@
 title: /delete team - Command
 description: Information about the /delete team command
 published: false
-date: 2024-04-22T17:19:09.362Z
+date: 2024-04-26T10:20:57.997Z
 tags: command, team, delete
 editor: markdown
 dateCreated: 2024-04-22T17:19:09.362Z
@@ -11,7 +11,7 @@ dateCreated: 2024-04-22T17:19:09.362Z
 # /delete team team-name
 
 ## Information
-**This command deletes the mentioned team from Zoe in your server. The [players](/en/terms/player) of the team will not be deleted.**
+**This command deletes the mentioned team from Zoe in your server. The [players](/en/terms/player) of the team will not be deleted and can be added to a new team.**
 <br>
 
 ### Permissions needed:
