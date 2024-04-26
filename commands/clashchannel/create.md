@@ -1,8 +1,8 @@
 ---
 title: /create clashchannel - Command
 description: Information about the /create clashchannel command
-published: false
-date: 2024-04-26T16:27:32.077Z
+published: true
+date: 2024-04-26T18:36:24.182Z
 tags: create, command, clashchannel
 editor: markdown
 dateCreated: 2024-04-23T07:29:57.900Z
