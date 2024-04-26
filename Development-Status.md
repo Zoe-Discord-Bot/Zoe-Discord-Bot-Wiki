@@ -2,7 +2,7 @@
 title: Zoe Development Status
 description: If you are interested in what features await you in the future, you can get an insight here.
 published: true
-date: 2024-04-26T12:42:46.707Z
+date: 2024-04-26T12:43:22.492Z
 tags: dev, status, dev status, development, development status, future, next features
 editor: markdown
 dateCreated: 2023-05-11T20:07:22.784Z
@@ -40,7 +40,7 @@ dateCreated: 2023-05-11T20:07:22.784Z
 -   ⚪ **QoL (Feature)**: Increase listed matches in matchhistory command (5 > 10)
 -   🟡 **QoL (Feature)**: Small change to matchhistorychannel and command to increase visibility of KDA
 -   ⚪ **QoL (Command)**: Auto refresh after `/register` was done to instantly add the registered player to infopanel and give their rank.
--   ⚪ **QoL (Config)**: Add a setting that allows to enable the command to add a player to a team for everyone
+-   🏁 **QoL (Config)**: Add a setting that allows to enable the command to add a player to a team for everyone
 -   🏁 **QoL (Feature)**: Leaderboards will stop showing calls for action in the middle of larger leaderboards.
 -   ⚪ **QoL (Feature)**: All Mastery Leaderboards (Total Mastery Points, Mastery Points on a specific champion & OTP (Best champion) Leaderboard) will now show the total amount of Mastery points of all account of a player instead of the highest amount of one account.
 -   ⚪ **QoL (Feature)**: Show killparticipation in rankchannel messages
