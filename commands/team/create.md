@@ -2,7 +2,7 @@
 title: /create team - Command
 description: Information about the /create team command
 published: false
-date: 2024-04-26T10:16:31.188Z
+date: 2024-04-26T16:55:33.769Z
 tags: create, command, team
 editor: markdown
 dateCreated: 2024-04-22T17:16:51.262Z
@@ -10,7 +10,7 @@ dateCreated: 2024-04-22T17:16:51.262Z
 
 # /create team team-name
 ## Information
-**When you create a team with the chosen `team-name` with this command, the [players](/en/terms/player) (that you still have to add with [`/add playertoteam`](/en/commands/add/playerToTeam) will be displayed in the  [infopanel](/en/features/infoChannel) under this team-name separately from all other registered [players](/en/terms/player). You can also get a quick overview over a team with the command [`/show team`](/en/commands/important/show-team).**
+**When you create a team with the chosen `team-name` with this command, the [players](/en/terms/player) (that you still have to add with [`/add playertoteam`](/en/commands/team/addplayer) will be displayed in the  [infopanel](/en/features/infochannel) under this team-name separately from all other registered [players](/en/terms/player). You can also get a quick overview over a team with the command [`/show team`](/en/commands/team/show).**
 <br>
 
 ### Permissions needed:
@@ -23,6 +23,6 @@ dateCreated: 2024-04-22T17:16:51.262Z
 <br>
 
 ## Related commands/pages:
--   [/delete team](/en/commands/delete/team/)
--   [/add playertoteam](/en/commands/add/playerToTeam/)
+-   [/delete team](/en/commands/team/delete)
+-   [/add playertoteam](/en/commands/team/addplayer)
 {.links-list}
