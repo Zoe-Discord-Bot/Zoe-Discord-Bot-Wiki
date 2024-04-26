@@ -1,8 +1,8 @@
 ---
 title: /refresh - Command
 description: Information about the /refresh command
-published: false
-date: 2024-04-26T16:40:55.796Z
+published: true
+date: 2024-04-26T18:43:39.957Z
 tags: command, refresh
 editor: markdown
 dateCreated: 2024-04-22T08:32:16.776Z
