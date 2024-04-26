@@ -2,7 +2,7 @@
 title: Testing Page
 description: Page for testing purposes.
 published: false
-date: 2024-04-26T09:54:26.443Z
+date: 2024-04-26T09:54:59.349Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-09T15:07:03.078Z
@@ -40,25 +40,3 @@ dateCreated: 2024-01-09T15:07:03.078Z
 
 - [Page]()
 {.links-list}
-
------------------
-
-## Commands {.tabset}
-### `@Zoe kick server-number`
-Example:
-<img src="/en_/en_ban_account_7.png" width="25%" img> <br>
->**Removes your account** from the corresponding sever.{.is-success} 
-
->**Doesn't restrict** users from **adding** your account again.{.is-danger}
-
-### `@Zoe kick all`
-<img src="/en_/en_ban_account_8.png" width="20%" img> <br>
->**Removes your account** from all servers.{.is-success} 
-
->**Doesn't restrict** users from **adding** your account again.{.is-danger}
-
-### `@Zoe ban`
-<img src="/en_/en_ban_account_9.png" width="20%" img> <br>
->**Restricts** everyone from **adding** your account on any server.{.is-success} 
-
->Your account **isn't removed from any server** its currently on.{.is-danger}
