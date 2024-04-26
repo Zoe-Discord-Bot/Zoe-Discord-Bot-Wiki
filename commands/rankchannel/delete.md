@@ -1,8 +1,8 @@
 ---
 title: /delete rankchannel - Command
 description: Information about the /delete rankchannel command
-published: false
-date: 2024-04-26T16:24:58.890Z
+published: true
+date: 2024-04-26T18:36:55.817Z
 tags: command, rankchannel, delete
 editor: markdown
 dateCreated: 2024-04-23T07:11:39.090Z
