@@ -2,7 +2,7 @@
 title: Infochannel - Feature
 description: Information about the infochannel
 published: true
-date: 2024-01-30T21:18:05.483Z
+date: 2024-04-26T17:42:21.700Z
 tags: info, infochannel, info panel, infopanel, info channel
 editor: markdown
 dateCreated: 2021-07-06T09:41:09.360Z
@@ -18,13 +18,12 @@ dateCreated: 2021-07-06T09:41:09.360Z
 > ### Related commands/pages:
 >- [Gamecards](/en/features/gamecards/)
 >- [Champion analysis](/en/features/champion-analysis)
->- [/create infochannel](/en/commands/create/infoChannel/)
->- [/delete infochannel](/en/commands/delete/infoChannel/)
->- [/create player](/en/commands/create/player/)  
+>- [/create infochannel](/en/commands/infochannel/create)
+>- [/delete infochannel](/en/commands/infochannel/delete)
+>- [/create player](/en/commands/player/create)  
 > {.is-info}
 
 <br>
 
 ## Example of an Infopanel
-
 ![](/en_/en_infochannel.png)
