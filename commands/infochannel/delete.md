@@ -1,8 +1,8 @@
 ---
 title: /delete infochannel - Command
 description: Information about the /delete infochannel command
-published: false
-date: 2024-04-26T16:21:49.680Z
+published: true
+date: 2024-04-26T18:37:34.939Z
 tags: command, infochannel, delete
 editor: markdown
 dateCreated: 2024-04-23T06:38:54.203Z
