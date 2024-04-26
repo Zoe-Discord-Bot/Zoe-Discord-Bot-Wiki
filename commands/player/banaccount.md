@@ -2,7 +2,7 @@
 title: /banaccount - Command
 description: Information about the /banaccount command
 published: false
-date: 2024-04-26T10:03:10.828Z
+date: 2024-04-26T16:52:44.066Z
 tags: command, banaccount
 editor: markdown
 dateCreated: 2024-04-22T16:28:43.849Z
