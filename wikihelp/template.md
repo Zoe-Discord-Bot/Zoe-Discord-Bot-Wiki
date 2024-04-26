@@ -1,8 +1,8 @@
 ---
-title: Testing Page
-description: Page for testing purposes.
+title: Template page
+description: Feature/Command template
 published: false
-date: 2024-04-26T11:05:39.368Z
+date: 2024-04-26T15:42:31.236Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-09T15:07:03.078Z
