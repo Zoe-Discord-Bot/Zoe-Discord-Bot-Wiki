@@ -2,7 +2,7 @@
 title: /refresh - Command
 description: Information about the /refresh command
 published: false
-date: 2024-04-24T13:26:07.971Z
+date: 2024-04-26T16:40:55.796Z
 tags: command, refresh
 editor: markdown
 dateCreated: 2024-04-22T08:32:16.776Z
@@ -33,5 +33,3 @@ dateCreated: 2024-04-22T08:32:16.776Z
 ## Related commands/pages:
 - [refresh & refresh mode](/en/terms/refresh-mode/) 
 {.links-list}
-
-<br> 
