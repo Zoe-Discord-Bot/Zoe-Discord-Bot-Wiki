@@ -1,8 +1,8 @@
 ---
 title: /create rankchannel - Command
 description: Information about the /create rankchannel command
-published: false
-date: 2024-04-26T16:24:20.271Z
+published: true
+date: 2024-04-26T18:37:05.215Z
 tags: create, command, rankchannel
 editor: markdown
 dateCreated: 2024-04-23T07:10:21.567Z
