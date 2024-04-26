@@ -2,7 +2,7 @@
 title: Zoe Configuration - Team Self Adding
 description: 
 published: false
-date: 2024-04-26T10:59:38.778Z
+date: 2024-04-26T17:00:19.636Z
 tags: team, join, leave, self, adding
 editor: markdown
 dateCreated: 2024-04-11T12:31:18.078Z
@@ -10,10 +10,10 @@ dateCreated: 2024-04-11T12:31:18.078Z
 
 # Team self adding
 
->Here you can select whether the commandd [`/join`](/en/commands/other/join/) and [`/leave`](/en/commands/other/leave/) should be enabled. If this is the case, every Discord user can add themself to a [team](/en/terms/team) on the server.
+>Here you can select whether the commandd [`/join`](/en/commands/team/join/) and [`/leave`](/en/commands/team/leave/) should be enabled. If this is the case, every Discord user can add themself to a [team](/en/terms/team) on the server.
 >{.is-info}
 
->If this option is enabled, anyone can [add themself to a team](/en/commands/other/join). If you want to prevent this, it is recommended that you disable the commands.
+>If this option is enabled, anyone can [add themself to a team](/en/commands/team/join). If you want to prevent this, it is recommended that you disable the commands.
 >{.is-warning}
 
 > Click on the corresponding setting :one:in the configuration menu.
