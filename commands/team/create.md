@@ -1,8 +1,8 @@
 ---
 title: /create team - Command
 description: Information about the /create team command
-published: false
-date: 2024-04-26T16:55:33.769Z
+published: true
+date: 2024-04-26T18:38:36.477Z
 tags: create, command, team
 editor: markdown
 dateCreated: 2024-04-22T17:16:51.262Z
