@@ -2,7 +2,7 @@
 title: /delete team - Command
 description: Information about the /delete team command
 published: false
-date: 2024-04-26T10:20:57.997Z
+date: 2024-04-26T16:56:09.102Z
 tags: command, team, delete
 editor: markdown
 dateCreated: 2024-04-22T17:19:09.362Z
@@ -24,6 +24,5 @@ dateCreated: 2024-04-22T17:19:09.362Z
 <br>
 
 ## Related commands/pages:
-
-- [/create team](/en/commands/create/team/)
+- [/create team](/en/commands/team/create)
 {.links-list}
