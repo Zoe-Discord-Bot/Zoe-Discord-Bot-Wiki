@@ -1,8 +1,8 @@
 ---
 title: /add account  - Command
 description: Information about the /add account command
-published: false
-date: 2024-04-26T16:51:33.517Z
+published: true
+date: 2024-04-26T18:39:13.035Z
 tags: command, account, add
 editor: markdown
 dateCreated: 2024-04-22T16:00:47.644Z
