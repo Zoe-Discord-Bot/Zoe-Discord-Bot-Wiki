@@ -1,8 +1,8 @@
 ---
 title: /define rankchannel  - Command
 description: Information about the /define rankchannel command
-published: false
-date: 2024-04-26T16:25:36.233Z
+published: true
+date: 2024-04-26T18:36:45.857Z
 tags: command, rankchannel, define
 editor: markdown
 dateCreated: 2024-04-23T07:13:19.421Z
