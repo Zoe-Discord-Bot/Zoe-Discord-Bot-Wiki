@@ -1,8 +1,8 @@
 ---
 title: /boost - Command
 description: Information about the /boost command
-published: false
-date: 2024-04-26T16:42:02.193Z
+published: true
+date: 2024-04-26T18:43:59.494Z
 tags: command, boost
 editor: markdown
 dateCreated: 2024-04-22T08:40:33.152Z
