@@ -2,7 +2,7 @@
 title: /remove account - Command
 description: Information about the /remove account command
 published: false
-date: 2024-04-22T16:19:55.082Z
+date: 2024-04-26T07:51:06.417Z
 tags: command, remove account
 editor: markdown
 dateCreated: 2024-04-22T16:19:55.082Z
@@ -10,7 +10,7 @@ dateCreated: 2024-04-22T16:19:55.082Z
 
 # /remove account @DiscordUser region gamename tag
 ## Information
-**This command removes the named account from the mentioned [player](/en/terms/player). Just simply specify the [`region`](/en/terms/region), [`gamename and tag (Riot ID)`](/en/terms/riotid) in the syntax.**
+**This command removes the named account from the mentioned [player](/en/terms/player) on your discord server. Just simply specify the [`region`](/en/terms/region), [`gamename and tag (Riot ID)`](/en/terms/riotid) in the syntax.**
 <br>
 
 ### Permissions needed:
