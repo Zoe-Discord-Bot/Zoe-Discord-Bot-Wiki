@@ -2,7 +2,7 @@
 title: Zoe Configuration
 description: Find out about how you can configure Zoe.
 published: true
-date: 2024-04-11T12:31:44.546Z
+date: 2024-04-26T18:01:48.862Z
 tags: config, configuration, setting, settings, option, options
 editor: markdown
 dateCreated: 2023-04-13T06:38:44.182Z
@@ -11,8 +11,7 @@ dateCreated: 2023-04-13T06:38:44.182Z
 # Zoe Configuration
 ### On this page ou can learn about how you can configure Zoe yourself using the command `/config`.
 
-When you enter the command `/config` a message appears so that you can select a category where you can find the settings you want to change. 
-
+When you enter the command [`/config`](/en/commands/administrative/config) a message appears so that you can select a category where you can find the settings you want to change. 
 ![](/configuration_choices.png)
 
 <br>
@@ -60,5 +59,3 @@ When you enter the command `/config` a message appears so that you can select a 
 ## ✅ Additional features
 -  [:one: Clean channel*Creates a “clean channel” in which Zoe commands/all messages can be deleted automatically after a few seconds.*](/en/Zoe-Configuration/Additional/Cleanchannel)
 {.links-list}
-
-<br>
