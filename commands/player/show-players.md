@@ -2,7 +2,7 @@
 title: /show players - Command
 description: Information about the /show players command
 published: false
-date: 2024-04-25T07:52:23.186Z
+date: 2024-04-26T16:50:14.444Z
 tags: command, players, show
 editor: markdown
 dateCreated: 2024-04-22T15:49:58.904Z
@@ -33,7 +33,3 @@ To list all accounts of one player by their Discord ID:
  
 ## Example
 ![](/en_/en_show_players_list.png)
-<br>
- 
-## Related commands/pages:
-none
