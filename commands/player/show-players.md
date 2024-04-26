@@ -1,8 +1,8 @@
 ---
 title: /show players - Command
 description: Information about the /show players command
-published: false
-date: 2024-04-26T16:50:14.444Z
+published: true
+date: 2024-04-26T18:39:38.665Z
 tags: command, players, show
 editor: markdown
 dateCreated: 2024-04-22T15:49:58.904Z
