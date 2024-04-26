@@ -2,7 +2,7 @@
 title: /create clashchannel - Command
 description: Information about the /create clashchannel command
 published: false
-date: 2024-04-23T07:30:21.219Z
+date: 2024-04-26T16:27:32.077Z
 tags: create, command, clashchannel
 editor: markdown
 dateCreated: 2024-04-23T07:29:57.900Z
@@ -10,7 +10,7 @@ dateCreated: 2024-04-23T07:29:57.900Z
 
 # /create clashchannel clashchannel-name
 ## Information
-**If you want to create a [clashchannel](/en/features/clashChannel), use this command and select a name you like for `clashchannel-name`, you still have to specify a [player](/en/terms/player) for the [clashchannel](/en/features/clashChannel) and select the appropriate time zone. To do this, you have to navigate through the pages or send Zoe the fitting details. The [clashchannel](/en/features/clashChannel) is now created and the next clash dates are displayed. If a clash takes place, you can start a team analysis here, for more information see [/clash analysis](/en/commands/clash/analysis).**<br>
+**If you want to create a [clashchannel](/en/features/clashchannel), use this command and select a name you like for `clashchannel-name`, you still have to specify a [player](/en/terms/player) for the [clashchannel](/en/features/clashchannel) and select the appropriate time zone. To do this, you have to navigate through the pages or send Zoe the fitting details. The [clashchannel](/en/features/clashchannel) is now created and the next clash dates are displayed. If a clash takes place, you can start a team analysis here, for more information see [/clash analysis](/en/commands/clashchannel/analysis).**<br>
 
 ### Permissions needed:
 >**Manage channels** - only users with this permission ("moderators"/"administrators") can use this command as it affects Zoe for the server more deeply {.is-warning}
@@ -37,5 +37,5 @@ dateCreated: 2024-04-23T07:29:57.900Z
 <br>
  
 ## Related commands/pages:
--   [/clash analysis](/en/commands/clash/analysis/)
+-   [/clash analysis](/en/commands/clashchannel/analysis/)
 {.links-list}
