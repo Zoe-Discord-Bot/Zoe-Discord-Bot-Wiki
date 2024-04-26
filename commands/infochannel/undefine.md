@@ -1,8 +1,8 @@
 ---
 title: /undefine infochannel  - Command
 description: Information about the /undefine infochannel command
-published: false
-date: 2024-04-26T16:23:40.034Z
+published: true
+date: 2024-04-26T18:37:13.861Z
 tags: command, infochannel, undefine
 editor: markdown
 dateCreated: 2024-04-23T07:05:32.693Z
