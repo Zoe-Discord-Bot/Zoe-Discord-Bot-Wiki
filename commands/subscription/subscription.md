@@ -1,8 +1,8 @@
 ---
 title: /subscription - Command
 description: Information about the /subscription command
-published: false
-date: 2024-04-26T16:42:33.285Z
+published: true
+date: 2024-04-26T18:44:11.843Z
 tags: command, subscription
 editor: markdown
 dateCreated: 2024-04-22T08:43:14.903Z
