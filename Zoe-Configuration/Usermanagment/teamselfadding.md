@@ -1,8 +1,8 @@
 ---
 title: Zoe Configuration - Team Self Adding
 description: 
-published: false
-date: 2024-04-26T17:12:34.066Z
+published: true
+date: 2024-04-26T17:37:53.243Z
 tags: team, join, leave, self, adding
 editor: markdown
 dateCreated: 2024-04-11T12:31:18.078Z
