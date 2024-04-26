@@ -1,8 +1,8 @@
 ---
 title: /undefine rankchannel  - Command
 description: Information about the /undefine rankchannel command
-published: false
-date: 2024-04-26T16:26:40.872Z
+published: true
+date: 2024-04-26T18:36:34.449Z
 tags: command, rankchannel, undefine
 editor: markdown
 dateCreated: 2024-04-23T07:15:30.694Z
