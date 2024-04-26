@@ -2,7 +2,7 @@
 title: Zoe Translation
 description: Here you can learn about how Zoe is translated.
 published: true
-date: 2023-08-23T09:53:57.484Z
+date: 2024-04-26T18:04:26.701Z
 tags: translation, language, weblate, community, help
 editor: markdown
 dateCreated: 2021-07-05T13:12:06.399Z
@@ -31,11 +31,11 @@ Zoe is available in several languages. These are: **English and German** (comple
 All translations have been done by the community. If you notice a **mistake**, you can **report it on the** [**Discord server**](https://discord.gg/k3SamTndZZ).
 
 If you would like to **help finish a translation** that is not yet complete or **add a new language** (that you can translate [join the Discord server](https://discord.gg/k3SamTndZZ) and message the team in `#translation-info` or `#contributions`.
-<p>
 
 > If you want to help us translate Zoe, please follow our [Guidelines for translating](/en/translation/guidelines)
 >{.is-warning}
-<p>
+
+<br>
 
 ## Website and Tutorial
 
