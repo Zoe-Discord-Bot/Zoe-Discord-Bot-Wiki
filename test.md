@@ -2,7 +2,7 @@
 title: Testing Page
 description: Page for testing purposes.
 published: false
-date: 2024-04-26T09:54:59.349Z
+date: 2024-04-26T11:05:39.368Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-09T15:07:03.078Z
@@ -19,6 +19,8 @@ dateCreated: 2024-01-09T15:07:03.078Z
 >**Manage channels** - only users with this permission ("moderators"/"administrators") can use this command as it affects Zoe for the server more deeply {.is-warning}
 
 >**Administrator** - only administrators can use this command, as it can output potentially sensitive data {.is-danger}
+
+>**Configuration** - in order for this command to be used, it must be enabled in the configuration beforehand {.is-info}
 
 >**Account ownership** - this command requires verification of ownership of a league account (not discord-related) {.is-info}
 
