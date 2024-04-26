@@ -2,7 +2,7 @@
 title: timfernix' Wiki/Markdown/HTML help
 description: 
 published: true
-date: 2024-04-26T15:37:41.848Z
+date: 2024-04-26T15:38:48.673Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-13T20:20:07.754Z
@@ -122,16 +122,12 @@ code blocks<br>
 ```
 ---
 - [x] Checked task item
-
 - [x] Another checked task item
-
 - [ ] Unchecked task item
 ```
 
 - [x] Checked task item
-
 - [x] Another checked task item
-
 - [ ] Unchecked task item
 ```
 
