@@ -1,8 +1,8 @@
 ---
 title: /remove playerfromteam - Command
 description: Information about the /remove playerfromteam command
-published: false
-date: 2024-04-26T16:59:12.693Z
+published: true
+date: 2024-04-26T18:38:10.158Z
 tags: command, remove player from team
 editor: markdown
 dateCreated: 2024-04-22T17:23:02.623Z
