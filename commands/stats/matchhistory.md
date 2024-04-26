@@ -2,7 +2,7 @@
 title: /stats matchhistory - Command
 description: Information about the /stats matchhistory command
 published: true
-date: 2024-04-24T11:50:18.745Z
+date: 2024-04-26T16:33:02.854Z
 tags: command, stats, statistics, matchhistory
 editor: markdown
 dateCreated: 2023-04-09T12:03:20.071Z
@@ -37,6 +37,5 @@ For all other players fill in their [region](/en/terms/region), [gamename and ta
 <br>
  
 ## Related commands/pages:
-
 - [All stats commands](/en/commands/stats)
 {.links-list}
