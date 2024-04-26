@@ -1,8 +1,8 @@
 ---
 title: /join - Command
 description: Information to the /join command.
-published: false
-date: 2024-04-26T17:21:19.803Z
+published: true
+date: 2024-04-26T18:38:01.334Z
 tags: command, team, join
 editor: markdown
 dateCreated: 2024-04-22T17:33:33.724Z
