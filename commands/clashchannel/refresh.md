@@ -1,8 +1,8 @@
 ---
 title: /clash refresh - Command
 description: Information about the /clash refresh command
-published: false
-date: 2024-04-26T16:31:41.609Z
+published: true
+date: 2024-04-26T18:36:04.658Z
 tags: command, clash, refresh
 editor: markdown
 dateCreated: 2024-04-23T07:36:52.658Z
