@@ -2,7 +2,7 @@
 title: Zoe Configuration - Gamecards
 description: Learn more about configuring the gamecards.
 published: true
-date: 2023-08-18T08:43:35.886Z
+date: 2024-04-26T17:32:47.059Z
 tags: config, game, card, gamecards, gamecard, infocard
 editor: markdown
 dateCreated: 2023-04-23T15:47:13.984Z
@@ -10,7 +10,7 @@ dateCreated: 2023-04-23T15:47:13.984Z
 
 # Gamecards
 
->With this setting you enable or disable the [gamecards](/en/features/gamecards/) in the [infochannel](/en/features/infoChannel/). After the deactivation there will no messages about current games be sent in the [infochannel](/en/features/infoChannel/).
+>With this setting you enable or disable the [gamecards](/en/features/gamecards/) in the [infochannel](/en/features/infochannel/). After the deactivation there will no messages about current games be sent in the [infochannel](/en/features/infochannel/).
 >{.is-info}
 
 > Click on the corresponding setting :two:in the configuration menu.
