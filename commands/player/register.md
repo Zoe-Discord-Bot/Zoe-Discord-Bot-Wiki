@@ -2,7 +2,7 @@
 title: /register- Command
 description: Information about the /register command
 published: true
-date: 2024-04-26T18:33:45.628Z
+date: 2024-04-26T18:33:49.578Z
 tags: command, register
 editor: markdown
 dateCreated: 2024-04-26T11:24:14.774Z
