@@ -2,7 +2,7 @@
 title: /remove playerfromteam - Command
 description: Information about the /remove playerfromteam command
 published: false
-date: 2024-04-22T17:23:02.623Z
+date: 2024-04-26T10:42:25.720Z
 tags: command, remove player from team
 editor: markdown
 dateCreated: 2024-04-22T17:23:02.623Z
@@ -10,7 +10,7 @@ dateCreated: 2024-04-22T17:23:02.623Z
 
 # /remove playerfromteam @DiscordUser
 ## Information
-**This command removes the mentioned [player](/en/terms/player) from every team.**
+**This command removes the mentioned [player](/en/terms/player) from their team. Afterwards the player can be added to a team again.**
 <br>
 
 ### Permissions needed:
