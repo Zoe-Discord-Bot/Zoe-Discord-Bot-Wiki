@@ -1,8 +1,8 @@
 ---
 title: /show team - Command
 description: Learn more about the /show team command.
-published: false
-date: 2024-04-26T16:54:21.927Z
+published: true
+date: 2024-04-26T18:38:46.754Z
 tags: command, show team
 editor: markdown
 dateCreated: 2024-04-22T17:09:01.349Z
