@@ -2,7 +2,7 @@
 title: /boost - Command
 description: Information about the /boost command
 published: false
-date: 2024-04-24T13:32:18.462Z
+date: 2024-04-26T16:42:02.193Z
 tags: command, boost
 editor: markdown
 dateCreated: 2024-04-22T08:40:33.152Z
@@ -32,11 +32,11 @@ dateCreated: 2024-04-22T08:40:33.152Z
 <img src="/en_/en_boost_command_4.png" width="500">
 <br>
 
-This message is shown in the servers infochannel.
+This message is shown in the servers infochannel:
 <img src="/en_/en_boost_command_5.png" width="700">
 <br>
 
-And this message is sent to the server owner.
+And this message is sent to the server owner:
 <img src="/en_/en_boost_command_6.png" width="900">
  
 ## Related commands/pages:
