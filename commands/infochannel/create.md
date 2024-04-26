@@ -2,7 +2,7 @@
 title: /create infochannel - Command
 description: Information about the /create infochannel command
 published: false
-date: 2024-04-23T06:34:54.293Z
+date: 2024-04-26T16:07:54.331Z
 tags: create, command, infochannel
 editor: markdown
 dateCreated: 2024-04-23T06:34:54.293Z
@@ -10,7 +10,7 @@ dateCreated: 2024-04-23T06:34:54.293Z
 
 # /create infochannel infochannel-name
 ## Information
-**This command creates a new [infochannel](/en/features/infoChannel) with the name you choose for the parameter `infochannel-name`. In this channel, Zoe sends the so-called [infopanel](/en/features/infoChannel) in which information about the registered [players](/en/terms/player), their accounts and (if enabled) their rank of a certain queue or the last game played is shown. Zoe also sends the [gamecards](/en/features/gamecards) to this channel (if enabled). You can also get [champion tips](/en/features/champion-analysis) for every champion played in a game.** 
+**This command creates a new [infochannel](/en/features/infochannel) with the name you choose for the parameter `infochannel-name`. In this channel, Zoe sends the so-called [infopanel](/en/features/infochannel) in which information about the registered [players](/en/terms/player), their accounts and (if enabled) their rank of a certain queue or the last game played is shown. Zoe also sends the [gamecards](/en/features/gamecards) to this channel (if enabled). You can also get [champion tips](/en/features/champion-analysis) for every champion played in a game.** 
 <br>
 
 ### Permissions needed:
@@ -27,6 +27,6 @@ dateCreated: 2024-04-23T06:34:54.293Z
 <br>
  
 ## Related commands/pages:
--   [/create player](/en/commands/create/player/)
--   [/delete infochannel](/en/commands/delete/infoChannel/)
+-   [/create player*Command to create a player*](/en/commands/create/player/)
+-   [/delete infochannel*Command to delete an infochannel*](/en/commands/delete/infoChannel/)
 {.links-list}
