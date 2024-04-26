@@ -2,7 +2,7 @@
 title: /create leaderboard - Command
 description: Information about the /create leaderboard command
 published: false
-date: 2024-04-24T14:07:55.018Z
+date: 2024-04-26T16:46:11.408Z
 tags: create, leaderboard
 editor: markdown
 dateCreated: 2024-04-22T13:56:07.032Z
@@ -33,6 +33,5 @@ dateCreated: 2024-04-22T13:56:07.032Z
 <br>
  
 ## Related commands/pages:
-
 - [Leaderboard (feature)](/en/features/leaderboards/)
 {.links-list}
