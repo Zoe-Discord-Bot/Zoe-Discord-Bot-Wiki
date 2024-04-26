@@ -1,8 +1,8 @@
 ---
 title: /rawserverdata - Command
 description: Learn more about the /rawserverdata command.
-published: false
-date: 2024-04-26T16:43:04.232Z
+published: true
+date: 2024-04-26T18:44:21.343Z
 tags: command, server, raw, data, rawserverdata
 editor: markdown
 dateCreated: 2024-04-22T13:38:08.723Z
