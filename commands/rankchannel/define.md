@@ -2,7 +2,7 @@
 title: /define rankchannel  - Command
 description: Information about the /define rankchannel command
 published: false
-date: 2024-04-23T07:13:30.355Z
+date: 2024-04-26T16:25:36.233Z
 tags: command, rankchannel, define
 editor: markdown
 dateCreated: 2024-04-23T07:13:19.421Z
@@ -10,7 +10,7 @@ dateCreated: 2024-04-23T07:13:19.421Z
 
 # /define rankchannel #channelselected
 ## Information
-**Creates a [rankchannel](/en/features/rankChannel) like the [`/create rankchannel`](/en/commands/create/rankChannel) command, with the difference that the text channel already exists and the [rankchannel](/en/features/rankChannel) functionality is only defined.**
+**Creates a [rankchannel](/en/features/rankchannel) like the [`/create rankchannel`](/en/commands/rankchannel/create) command, with the difference that the text channel already exists and the [rankchannel](/en/features/rankchannel) functionality is only defined.**
 <br>
 
 ### Permissions needed:
@@ -23,5 +23,5 @@ dateCreated: 2024-04-23T07:13:19.421Z
 <br>
  
 ## Related commands/pages:
-- [/create rankchannel](/en/commands/create/rankChannel/) 
+- [/create rankchannel](/en/commands/rankchannel/create) 
 {.links-list}
