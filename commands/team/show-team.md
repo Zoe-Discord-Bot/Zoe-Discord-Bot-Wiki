@@ -2,7 +2,7 @@
 title: /show team - Command
 description: Learn more about the /show team command.
 published: false
-date: 2024-04-22T17:09:01.349Z
+date: 2024-04-26T10:10:24.247Z
 tags: command, show team
 editor: markdown
 dateCreated: 2024-04-22T17:09:01.349Z
@@ -10,7 +10,7 @@ dateCreated: 2024-04-22T17:09:01.349Z
 
 # /show team
 ## Information
-**With this command you will get a brief overview over all [players](/en/terms/player) in one of your teams that you selected in one message.**
+**With this command you will get a brief overview over all [players](/en/terms/player) in one of your teams that you selected, in one message showing their rank, played champions and Winrate.**
 <br>
 
 ### Permissions needed:
@@ -25,7 +25,3 @@ You need to choose a team with the autocompletion in order for the command to wo
  
 ## Example
 ![](/en_/en_showteam_result.png)
-<br>
- 
-## Related commands/pages:
-none
