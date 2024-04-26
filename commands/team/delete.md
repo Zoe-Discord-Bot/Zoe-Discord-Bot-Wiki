@@ -1,8 +1,8 @@
 ---
 title: /delete team - Command
 description: Information about the /delete team command
-published: false
-date: 2024-04-26T16:56:09.102Z
+published: true
+date: 2024-04-26T18:38:27.512Z
 tags: command, team, delete
 editor: markdown
 dateCreated: 2024-04-22T17:19:09.362Z
