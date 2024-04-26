@@ -1,8 +1,8 @@
 ---
 title: /delete matchhistorychannel - Command
 description: Information about the /delete matchhistorychannel command
-published: false
-date: 2024-04-26T16:31:10.566Z
+published: true
+date: 2024-04-26T18:34:12.253Z
 tags: command, delete, matchhistorychannel
 editor: markdown
 dateCreated: 2024-04-23T07:51:34.244Z
