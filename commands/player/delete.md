@@ -2,7 +2,7 @@
 title: /delete player - Command
 description: Information about the /delete player command
 published: false
-date: 2024-04-22T15:57:23.943Z
+date: 2024-04-26T07:21:59.327Z
 tags: command, player, delete
 editor: markdown
 dateCreated: 2024-04-22T15:57:23.943Z
@@ -10,7 +10,7 @@ dateCreated: 2024-04-22T15:57:23.943Z
 
 # /delete player
 ## Information
-**This command deletes the mentioned [player](/en/terms/player) from Zoe in your server. They will be removed from all features.**
+**This command deletes the mentioned [player](/en/terms/player) from Zoe in your server. They will be removed from all features after a refresh.**
 <br>
 
 ### Permissions needed:
