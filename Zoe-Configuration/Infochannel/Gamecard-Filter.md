@@ -2,7 +2,7 @@
 title: Zoe Configuration - Gamecard Filter
 description: Learn more about configuring the gamecard filter.
 published: true
-date: 2023-04-23T17:28:49.288Z
+date: 2024-04-26T17:33:18.948Z
 tags: config, gamecard, infocard, filter, gamecard filter
 editor: markdown
 dateCreated: 2023-04-23T17:28:49.288Z
@@ -10,7 +10,7 @@ dateCreated: 2023-04-23T17:28:49.288Z
 
 # Gamecard Filter by Game Type
 
->With this setting you can filter the [gamecards](/en/features/gamecards) being sent in the [infochannel](/en/features/infoChannel) by League of Legends game type.
+>With this setting you can filter the [gamecards](/en/features/gamecards) being sent in the [infochannel](/en/features/infochannel) by League of Legends game type.
 >{.is-info}
 
 >Keep in mind that [gamecards need to be enabled](/en/Zoe-Configuration/Infochannel/Gamecards/) for them to be filtered!
