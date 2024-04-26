@@ -2,7 +2,7 @@
 title: /banaccount - Command
 description: Information about the /banaccount command
 published: true
-date: 2024-01-08T17:40:41.223Z
+date: 2024-04-26T18:16:32.901Z
 tags: account, ban, banaccount, ban account, riotid
 editor: markdown
 dateCreated: 2021-07-13T09:52:24.528Z
@@ -59,5 +59,3 @@ dateCreated: 2021-07-13T09:52:24.528Z
 > ## How to completely remove your account
 > So if you want to completely remove your account from Zoe use `@Zoe ban` (to no longer allow adding the account on Zoe) and `@Zoe kick all` (to remove it from all servers it is currently added to).
 >{.is-info} 
-
-
