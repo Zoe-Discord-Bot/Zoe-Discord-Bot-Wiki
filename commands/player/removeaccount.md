@@ -1,8 +1,8 @@
 ---
 title: /remove account - Command
 description: Information about the /remove account command
-published: false
-date: 2024-04-26T16:52:19.475Z
+published: true
+date: 2024-04-26T18:39:04.886Z
 tags: command, remove account
 editor: markdown
 dateCreated: 2024-04-22T16:19:55.082Z
