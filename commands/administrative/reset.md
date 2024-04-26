@@ -1,8 +1,8 @@
 ---
 title: /reset - Command
 description: Information about the /reset command
-published: false
-date: 2024-04-26T16:41:26.261Z
+published: true
+date: 2024-04-26T18:43:49.823Z
 tags: command, reset
 editor: markdown
 dateCreated: 2024-04-22T08:37:18.101Z
