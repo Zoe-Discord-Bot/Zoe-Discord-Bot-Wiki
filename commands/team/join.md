@@ -2,7 +2,7 @@
 title: /join - Command
 description: 
 published: false
-date: 2024-04-26T11:11:08.119Z
+date: 2024-04-26T17:13:11.272Z
 tags: command, team, join
 editor: markdown
 dateCreated: 2024-04-22T17:33:33.724Z
@@ -25,6 +25,5 @@ dateCreated: 2024-04-22T17:33:33.724Z
 <br>
 
 ## Related commands/pages:
-
 - [/leave](/en/commands/team/leave)
 {.links-list}
