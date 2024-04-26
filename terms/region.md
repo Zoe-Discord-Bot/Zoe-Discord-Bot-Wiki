@@ -2,7 +2,7 @@
 title: Region
 description: Learn what a region is.
 published: true
-date: 2023-08-18T07:16:27.109Z
+date: 2024-04-26T18:19:17.063Z
 tags: server, region, server region, tag, region tag
 editor: markdown
 dateCreated: 2023-08-18T07:16:27.109Z
@@ -16,17 +16,14 @@ These servers are located in certain regions and are abbreviated with tags that 
 In order for Zoe to find your account on the right server, you must specify the region when creating, registering or adding an account.**
 >{.is-info}
 
-
-
 >### Related commands/pages:
->-   [`/create player`](/en/commands/create/player)
->-   [`/register`](/en/commands/important/register)
->-   [`/add account`](/en/commands/add/account)  
+>-   [`/create player`](/en/commands/player/create)
+>-   [`/register`](/en/commands/player/register)
+>-   [`/add account`](/en/commands/player/addaccount)  
 
 <br>
 
 ## List of regions
-<br>
 
 | Tag  | Region                          |
 |------|---------------------------------|
