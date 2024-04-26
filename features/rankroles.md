@@ -2,7 +2,7 @@
 title: Rank roles - Feature
 description: Information about the automated rank roles.
 published: true
-date: 2024-01-09T14:33:34.704Z
+date: 2024-04-26T17:38:51.864Z
 tags: ranks, rank, role, roles, improved, improved rank roles, peak elo
 editor: markdown
 dateCreated: 2023-04-13T08:11:20.807Z
@@ -24,7 +24,7 @@ dateCreated: 2023-04-13T08:11:20.807Z
 >This feature is available for all servers.
 >{.is-success}
 
->To activate rank roles use the command [`/config`](/en/commands/important/config) and select the option `Automated rank-role features` in the dropdown menu.
+>To activate rank roles use the command [`/config`](/en/commands/administrative/config) and select the option `Automated rank-role features` in the dropdown menu.
 <img src="/basic_rankroles_1.png" width="40%"  />
 >{.is-info}
 
@@ -33,21 +33,21 @@ dateCreated: 2023-04-13T08:11:20.807Z
 >{.is-info}
 
 >If necessary, read the description and confirm the activation with :white_check_mark:and then select for which queues/modes the roles should count. Use the buttons to activate or deactivate the categories. You have the choice between Solo/DuoQ, Flex and TFT. Then confirm this selection with `Activate`.
-![basic_rankroles_3-4.png](/basic_rankroles_3-4.png)
+![](/basic_rankroles_3-4.png)
 >{.is-info}
 
 >This takes a short moment, because Zoe has to create a role for each League of Legends rank. After a refresh the roles are then assigned to all [registered players](/en/terms/player).
-![basic_rankroles_6.png](/basic_rankroles_6.png)
+![](/basic_rankroles_6.png)
 >{.is-info}
 ---
 >To change your chosen queue configuration head back to the same config option and simply update it using the buttons. After that press `Update`.
 >{.is-info}
 
 ### **Improved rank roles**
->This feature is only available for [boosted](http://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting) servers.
+>This feature is only available for [boosted](/en/Zoe-Points-And-Boosting) servers.
 >{.is-success}
 
->To activate improved rank roles use the command [`/config`](/en/commands/important/config) and select the option `Automated rank-role features` in the dropdown menu.
+>To activate improved rank roles use the command [`/config`](/en/commands/administrative/config) and select the option `Automated rank-role features` in the dropdown menu.
 <img src="/basic_rankroles_1.png" width="40%"  />
 >{.is-info}
 
