@@ -2,7 +2,7 @@
 title: Zoe Configuration - Default Server Region
 description: Learn more about configuring the default server region.
 published: true
-date: 2023-08-18T08:40:43.109Z
+date: 2024-04-26T17:29:58.807Z
 tags: config, default, server, region, server region, default server region
 editor: markdown
 dateCreated: 2023-04-23T14:46:17.067Z
