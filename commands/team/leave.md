@@ -1,8 +1,8 @@
 ---
 title: /leave - Command
-description: 
+description: Information to the /leave command.
 published: false
-date: 2024-04-26T17:13:28.413Z
+date: 2024-04-26T17:21:04.412Z
 tags: command, team, leave
 editor: markdown
 dateCreated: 2024-04-22T17:44:17.770Z
