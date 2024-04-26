@@ -1,8 +1,8 @@
 ---
 title: /create player - Command
 description: Information about the /create player command
-published: false
-date: 2024-04-26T16:50:43.219Z
+published: true
+date: 2024-04-26T18:39:30.565Z
 tags: create, command, player
 editor: markdown
 dateCreated: 2024-04-22T15:54:53.356Z
