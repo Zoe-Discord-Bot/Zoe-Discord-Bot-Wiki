@@ -2,7 +2,7 @@
 title: /create player - Command
 description: Information about the /create player command
 published: false
-date: 2024-04-25T07:57:31.349Z
+date: 2024-04-26T16:50:43.219Z
 tags: create, command, player
 editor: markdown
 dateCreated: 2024-04-22T15:54:53.356Z
@@ -25,6 +25,5 @@ dateCreated: 2024-04-22T15:54:53.356Z
 <br>
  
 ## Related commands/pages:
-
-- [/delete player](/en/commands/delete/player/)
+- [/delete player](/en/commands/player/delete)
 {.links-list}
