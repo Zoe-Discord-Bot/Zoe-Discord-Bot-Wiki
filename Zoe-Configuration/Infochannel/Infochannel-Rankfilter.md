@@ -2,7 +2,7 @@
 title: Zoe Configuration - Infochannel Rank Filter
 description: Learn more about configuring the rank filter for the infochannel.
 published: true
-date: 2023-08-31T19:41:51.047Z
+date: 2024-04-26T17:34:06.999Z
 tags: infochannel, config, rank, filter, rank filter, infochannel rank filter
 editor: markdown
 dateCreated: 2023-04-23T17:57:35.043Z
@@ -10,10 +10,10 @@ dateCreated: 2023-04-23T17:57:35.043Z
 
 # Infochannel Rank Filter
 
->With this setting you can filter the ranks being shown in the [infochannel](/en/features/infoChannel) by League of Legends gametype.
+>With this setting you can filter the ranks being shown in the [infochannel](/en/features/infochannel) by League of Legends gametype.
 >{.is-info}
 
->Keep in mind that [ranks in infochannel need to be enabled](https://wiki.zoe-discord-bot.ch/en/Zoe-Configuration/Infochannel/Infochannel-Ranks) for them to be filtered!
+>Keep in mind that [ranks in infochannel need to be enabled](/en/Zoe-Configuration/Infochannel/Infochannel-Ranks) for them to be filtered!
 >{.is-warning}
 
 > Click on the corresponding setting :six:in the configuration menu.
@@ -22,4 +22,3 @@ dateCreated: 2023-04-23T17:57:35.043Z
 <img src="/config_info_6_rankininfofilter_activation.png" width="60%" />
 <img src="/config_info_6_rankininfofilter_menu_choices.png" width="40%" /> <br>
 After that continue with these settings to finish the configuration.
-
