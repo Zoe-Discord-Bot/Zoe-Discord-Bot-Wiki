@@ -2,7 +2,7 @@
 title: About the project
 description: Learn about Zoe and it's background.
 published: true
-date: 2024-04-08T23:02:18.541Z
+date: 2024-04-26T17:48:22.640Z
 tags: info, about, information, system, links
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
@@ -29,7 +29,7 @@ Zoe is a advanced Discord bot designed specifically for the passionate League of
 <br>
 
 ###### Features
-With Zoe you get statistics like champions played, [tips for every champion](/en/features/champion-analysis), rank and winrate about [current games](/en/features/infoChannel), [ranked games](/en/features/rankChannel) with promotion tracking,  [matchhistory](/en/features/matchhistoryChannel) for players and teams, [leaderboards](/en/features/leaderboards) to compare yourself with others in various categories like total mastery points or average KDA even for specific champions and more, pick and ban suggestions through an [analysis of your and the enemy clashteam](/en/features/clashChannel), [rank roles](/en/features/rankroles) and much more. 
+With Zoe you get statistics like champions played, [tips for every champion](/en/features/champion-analysis), rank and winrate about [current games](/en/features/infochannel), [ranked games](/en/features/rankchannel) with promotion tracking,  [matchhistory](/en/features/matchhistorychannel) for players and teams, [leaderboards](/en/features/leaderboards) to compare yourself with others in various categories like total mastery points or average KDA even for specific champions and more, pick and ban suggestions through an [analysis of your and the enemy clashteam](/en/features/clashchannel), [rank roles](/en/features/rankroles) and much more. 
 
 <br>
 
@@ -105,5 +105,3 @@ Whether it's seeing what's most important in your stats and monitoring your perf
 - [<i class="mdi mdi-shield-check-outline"></i> Terms of Service *zoe-discord-bot.ch/terms-of-service*](https://zoe-discord-bot.ch/terms-of-service.html)
 - [<i class="mdi mdi-shield-lock-outline"></i> Privacy Policy *zoe-discord-bot.ch/privacy-policy*](https://zoe-discord-bot.ch/privacy-policy.html)
 {.links-list}
-
-
