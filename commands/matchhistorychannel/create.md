@@ -1,8 +1,8 @@
 ---
 title: /create matchhistorychannel - Command
 description: Information about the /create matchhistorychannel command
-published: false
-date: 2024-04-26T16:30:25.516Z
+published: true
+date: 2024-04-26T18:35:41.512Z
 tags: create, command, matchhistorychannel
 editor: markdown
 dateCreated: 2024-04-23T07:41:42.526Z
