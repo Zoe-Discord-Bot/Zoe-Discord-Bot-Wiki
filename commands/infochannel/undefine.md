@@ -2,7 +2,7 @@
 title: /undefine infochannel  - Command
 description: Information about the /undefine infochannel command
 published: false
-date: 2024-04-23T07:05:32.693Z
+date: 2024-04-26T16:23:40.034Z
 tags: command, infochannel, undefine
 editor: markdown
 dateCreated: 2024-04-23T07:05:32.693Z
@@ -10,7 +10,7 @@ dateCreated: 2024-04-23T07:05:32.693Z
 
 # /undefine infochannel
 ## Information
-**This command undefines the current [infochannel](/en/features/infoChannel). This does not delete the text channel, Zoe will just not send anything in it anymore.**
+**This command undefines the current [infochannel](/en/features/infochannel). This does not delete the text channel, Zoe will just not send anything in it anymore.**
 <br>
 
 ### Permissions needed:
@@ -23,6 +23,6 @@ dateCreated: 2024-04-23T07:05:32.693Z
 <br>
  
 ## Related commands/pages:
--   [/create infochannel](/en/commands/create/infoChannel/)
--   [/define infochannel](/en/commands/define/infoChannel/)
+-   [/create infochannel](/en/commands/infochannel/create)
+-   [/define infochannel](/en/commands/infochannel/define)
 {.links-list}
