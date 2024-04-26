@@ -2,7 +2,7 @@
 title: /create infochannel - Command
 description: Information about the /create infochannel command
 published: false
-date: 2024-04-26T16:07:54.331Z
+date: 2024-04-26T16:21:22.515Z
 tags: create, command, infochannel
 editor: markdown
 dateCreated: 2024-04-23T06:34:54.293Z
@@ -27,6 +27,6 @@ dateCreated: 2024-04-23T06:34:54.293Z
 <br>
  
 ## Related commands/pages:
--   [/create player*Command to create a player*](/en/commands/create/player/)
--   [/delete infochannel*Command to delete an infochannel*](/en/commands/delete/infoChannel/)
+-   [/create player*Command to create a player*](/en/commands/player/create)
+-   [/delete infochannel*Command to delete an infochannel*](/en/commands/infochannel/delete)
 {.links-list}
