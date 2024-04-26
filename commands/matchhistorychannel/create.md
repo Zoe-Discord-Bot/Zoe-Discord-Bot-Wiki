@@ -2,7 +2,7 @@
 title: /create matchhistorychannel - Command
 description: Information about the /create matchhistorychannel command
 published: false
-date: 2024-04-23T07:41:42.526Z
+date: 2024-04-26T16:30:25.516Z
 tags: create, command, matchhistorychannel
 editor: markdown
 dateCreated: 2024-04-23T07:41:42.526Z
@@ -10,7 +10,7 @@ dateCreated: 2024-04-23T07:41:42.526Z
 
 # /create matchhistorychannel
 ## Information
-**Creates a [matchhistorychannel](/en/features/matchhistoryChannel) to display [players'](/en/terms/player) games with stats and graphs. You can create several channels per team, [player](/en/terms/player) or for the whole server.**
+**Creates a [matchhistorychannel](/en/features/matchhistorychannel) to display [players'](/en/terms/player) games with stats and graphs. You can create several channels per team, [player](/en/terms/player) or for the whole server.**
 <br>
 
 ### Permissions needed:
@@ -23,5 +23,5 @@ dateCreated: 2024-04-23T07:41:42.526Z
 <br>
  
 ## Related commands/pages:
--   [/delete matchhistorychannel](/en/commands/delete/matchhistorychannel)
+-   [/delete matchhistorychannel](/en/commands/matchhistorychannel/delete)
 {.links-list}
