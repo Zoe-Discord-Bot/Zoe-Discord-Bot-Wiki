@@ -2,13 +2,13 @@
 title: Registration with verification
 description: Here you can see how to register on a server with account verification enabled.
 published: true
-date: 2024-01-08T17:40:57.025Z
+date: 2024-04-26T18:16:17.279Z
 tags: registration, verification, riotid
 editor: markdown
 dateCreated: 2023-08-22T16:32:51.912Z
 ---
 
->   <span style="font-size:15pt">:one:Start by entering the command ([`/register region gamename tag`](/en/commands/important/register/)), as shown below. <br> Simply fill in the appropriate details for `region`, `gamename` and `tag`: </span>
+>   <span style="font-size:15pt">:one:Start by entering the command ([`/register region gamename tag`](/en/commands/player/register/)), as shown below. <br> Simply fill in the appropriate details for `region`, `gamename` and `tag`: </span>
 <img src="/en_/en_register_riotid.png" width="80%" img>
 >{.is-info}
 
@@ -43,4 +43,3 @@ dateCreated: 2023-08-22T16:32:51.912Z
 > >After that, you can change your summoner profile icon back. {.is-info}
 >  
 >{.is-success}
-
