@@ -2,13 +2,13 @@
 title: /add playerToTeam - Command
 description: Information about the /add playerToTeam command
 published: false
-date: 2024-04-22T17:21:20.687Z
+date: 2024-04-26T10:32:44.128Z
 tags: command, add player to team
 editor: markdown
 dateCreated: 2024-04-22T17:21:20.687Z
 ---
 
-# /add playerToTeam @DiscordUser teamName
+# /add playerToTeam @DiscordUser team-name
 ## Information
 **This command adds the mentioned [player](/en/terms/player) to the named team. For this, it must first be [created](/en/commands/create/team) and an [infopanel](/en/features/infoChannel) must exist on your server.**
 <br>
