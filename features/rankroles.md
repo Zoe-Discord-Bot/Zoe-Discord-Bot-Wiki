@@ -2,7 +2,7 @@
 title: Rank roles - Feature
 description: Information about the automated rank roles.
 published: true
-date: 2024-04-26T17:38:51.864Z
+date: 2024-04-26T17:46:57.270Z
 tags: ranks, rank, role, roles, improved, improved rank roles, peak elo
 editor: markdown
 dateCreated: 2023-04-13T08:11:20.807Z
@@ -10,14 +10,14 @@ dateCreated: 2023-04-13T08:11:20.807Z
 
 # Rank roles 
 
->**Discord roles for users of a Discord server are a great thing. Zoe provides rank roles based on the rank of the connected League of Legends account for every [player](/en/terms/player) and updates them regularly. You can still customise these roles in their name, color and permissions after they have been created. Keep in mind that Zoe needs to have the permissions to assign them still. <br>
-> If a role is deleted, the feature still works with the remaining roles (you can use this to show only a specific ranks if you wish).**
->{.is-info}
+**Discord roles for users of a Discord server are a great thing. Zoe provides rank roles based on the rank of the connected League of Legends account for every [player](/en/terms/player) and updates them regularly. You can still customise these roles in their name, color and permissions after they have been created. Keep in mind that Zoe needs to have the permissions to assign them still. <br>
+If a role is deleted, the feature still works with the remaining roles (you can use this to show only a specific ranks if you wish).**
+
 
 >There are two instances of rank roles. You need a premium server to access improved rank roles. Therefore, this page is divided into two parts. **If you want to learn more about improved rank roles click on the right tab**.
->{.is-warning}
+>{.is-info}
 
-<br><br>
+<br>
 
 ## Rank roles {.tabset}
 ### **Basic rank roles**
