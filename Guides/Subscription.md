@@ -2,7 +2,7 @@
 title: Subscribe to Zoe Premium and use it on your server
 description: Follow these steps to take a Zoe Premium subscription and enable benefits on your server.
 published: true
-date: 2024-01-22T12:20:50.275Z
+date: 2024-04-26T18:09:27.311Z
 tags: subscription, premium, guide, kofi
 editor: markdown
 dateCreated: 2023-11-29T09:15:41.215Z
@@ -29,14 +29,14 @@ dateCreated: 2023-11-29T09:15:41.215Z
 > :four:Complete the steps for Paypal/Creditcard until you see **" You Joined [...] Tier :tada:"** <br>
 >{.is-info}
 
-> :five:After that you can head back to Discord to check with the command [`/subscription`](/en/commands/important/subscription) to see if it worked.
+> :five:After that you can head back to Discord to check with the command [`/subscription`](/en/commands/subscription/subscription) to see if it worked.
 If it did you will see your subscription tier and benefits checked.
 > >The activation may take a few minutes. This is normal as we work with Kofi as an external service provider for our subscriptions.
 >
 ><img src="/en_/en_subscription.png" width="50%" /> <br>
 >{.is-info}
 
-> :six:To enable benefits for your server, now use [`/boost`](/en/commands/important/boost) on your server,  click on **"Boost this server! :star:"** and follow the instructions.
+> :six:To enable benefits for your server, now use [`/boost`](/en/commands/subscription/boost) on your server,  click on **"Boost this server! :star:"** and follow the instructions.
 ><img src="/en_/en_boost_command_2.png" width="80%" />
 >{.is-info}
 
@@ -46,4 +46,3 @@ If it did you will see your subscription tier and benefits checked.
 
 >Please note that you must remain on the Zoe Support & Development discord server to take benefit of your premium subscription.
 >{.is-warning}
-
