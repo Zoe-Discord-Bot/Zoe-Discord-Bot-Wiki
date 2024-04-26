@@ -2,7 +2,7 @@
 title: Support Zoe
 description: On this site you can learn about how you can support the project.
 published: true
-date: 2024-03-25T13:44:50.315Z
+date: 2024-04-26T18:05:21.242Z
 tags: support, membership, tier, tiers, subscription, abonnement
 editor: markdown
 dateCreated: 2021-08-07T08:35:31.575Z
@@ -20,7 +20,6 @@ dateCreated: 2021-08-07T08:35:31.575Z
 >Please note that you must remain on the Zoe Support & Development discord server to take benefit of your premium subscription.
 >{.is-warning}
 
-
 <br>
 
 ## The premium subscription offers:
@@ -28,9 +27,9 @@ dateCreated: 2021-08-07T08:35:31.575Z
 -   **[In-deepth rank role Discord system](/en/features/rankroles)**: Allows you to assign discord roles to LoL ranks. Zoe will assign them automatically. You can create your discord roles as you want with a lot of options (Filtering by [server region](/en/terms/region), by rank, by LP, etc.)
 -   Increase the **size of [leaderboards](/en/features/leaderboards)** up to max. 100 players
 -   **Filter [leaderboards](/en/features/leaderboards)** by server (EUW, NA, KR, …)
--   **Filter [gamecards](/en/features/gamecards)** by game type in the [infochannel](/en/features/infoChannel)
--   **Sort players in [infopanel](/en/features/infoChannel)** by rank
-- Access to the [**`/rawserverdata`**](/en/commands/other/rawserverdata) command
+-   **Filter [gamecards](/en/features/gamecards)** by game type in the [infochannel](/en/features/infochannel)
+-   **Sort players in [infopanel](/en/features/infochannel)** by rank
+- Access to the [**`/rawserverdata`**](/en/commands/administrative/rawserverdata) command
 <br>
 -   **Early access** to new features
 -   **Zoe Points** (Unlocks premium features in servers: [More info](/en/Zoe-Points-And-Boosting))
@@ -101,4 +100,3 @@ dateCreated: 2021-08-07T08:35:31.575Z
 
 >**Cost:** 30 € / month
 >{.is-info}
-
