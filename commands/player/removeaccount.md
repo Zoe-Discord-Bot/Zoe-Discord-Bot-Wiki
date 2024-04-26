@@ -2,7 +2,7 @@
 title: /remove account - Command
 description: Information about the /remove account command
 published: false
-date: 2024-04-26T07:51:06.417Z
+date: 2024-04-26T16:52:19.475Z
 tags: command, remove account
 editor: markdown
 dateCreated: 2024-04-22T16:19:55.082Z
@@ -23,6 +23,5 @@ dateCreated: 2024-04-22T16:19:55.082Z
 <br>
 
 ## Related commands/pages:
-
-- [/add account](/en/commands/add/account/) 
+- [/add account](/en/commands/player/addaccount) 
 {.links-list}
