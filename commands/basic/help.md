@@ -2,7 +2,7 @@
 title: /help - Command
 description: Information about the /help command
 published: false
-date: 2024-04-24T12:41:36.572Z
+date: 2024-04-26T16:40:17.243Z
 tags: command, help
 editor: markdown
 dateCreated: 2024-04-22T08:31:37.839Z
@@ -25,6 +25,3 @@ dateCreated: 2024-04-22T08:31:37.839Z
 ## Example
 ![](/en_/en_help_command_example.png)
 <br>
- 
-## Related commands/pages:
-none
