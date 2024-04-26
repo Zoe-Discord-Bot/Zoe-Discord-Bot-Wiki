@@ -2,7 +2,7 @@
 title: /leave - Command
 description: 
 published: false
-date: 2024-04-26T11:13:12.742Z
+date: 2024-04-26T17:13:28.413Z
 tags: command, team, leave
 editor: markdown
 dateCreated: 2024-04-22T17:44:17.770Z
@@ -25,6 +25,5 @@ dateCreated: 2024-04-22T17:44:17.770Z
 <br>
 
 ## Related commands/pages:
-
 - [/join](/en/commands/team/join)
 {.links-list}
