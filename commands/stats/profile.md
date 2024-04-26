@@ -2,7 +2,7 @@
 title: /stats profile - Command
 description: Information about the /stats profile command
 published: true
-date: 2024-04-22T11:36:47.638Z
+date: 2024-04-26T15:52:53.624Z
 tags: stats, stats profile, player stats, profile, riotid
 editor: markdown
 dateCreated: 2021-07-13T10:38:02.384Z
@@ -43,6 +43,5 @@ For all other profiles fill in their [region](/en/terms/region), [gamename and t
  <br>
  
 ## Related commands/pages:
-
 - [All stats commands](/en/commands/stats)
 {.links-list}
