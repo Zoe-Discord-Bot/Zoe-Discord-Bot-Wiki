@@ -1,8 +1,8 @@
 ---
 title: /help - Command
 description: Information about the /help command
-published: false
-date: 2024-04-26T16:40:17.243Z
+published: true
+date: 2024-04-26T18:43:27.973Z
 tags: command, help
 editor: markdown
 dateCreated: 2024-04-22T08:31:37.839Z
