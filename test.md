@@ -2,7 +2,7 @@
 title: Testing Page
 description: Page for testing purposes.
 published: false
-date: 2024-04-26T09:43:42.493Z
+date: 2024-04-26T09:54:26.443Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-09T15:07:03.078Z
@@ -41,21 +41,24 @@ dateCreated: 2024-01-09T15:07:03.078Z
 - [Page]()
 {.links-list}
 
-
->Deletes your player from all servers at once.
-Restricts everyone from adding your account, but its not deleted from any server.
-
 -----------------
 
 ## Commands {.tabset}
 ### `@Zoe kick server-number`
->Removes your account from the corresponding sever.{.is-success} 
-
->Doesnt restrict users to add your account again.{.is-danger}
-
 Example:
 <img src="/en_/en_ban_account_7.png" width="25%" img> <br>
+>**Removes your account** from the corresponding sever.{.is-success} 
+
+>**Doesn't restrict** users from **adding** your account again.{.is-danger}
+
 ### `@Zoe kick all`
 <img src="/en_/en_ban_account_8.png" width="20%" img> <br>
+>**Removes your account** from all servers.{.is-success} 
+
+>**Doesn't restrict** users from **adding** your account again.{.is-danger}
+
 ### `@Zoe ban`
 <img src="/en_/en_ban_account_9.png" width="20%" img> <br>
+>**Restricts** everyone from **adding** your account on any server.{.is-success} 
+
+>Your account **isn't removed from any server** its currently on.{.is-danger}
