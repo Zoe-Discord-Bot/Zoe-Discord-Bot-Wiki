@@ -1,8 +1,8 @@
 ---
 title: /add playerToTeam - Command
 description: Information about the /add playerToTeam command
-published: false
-date: 2024-04-26T16:58:40.997Z
+published: true
+date: 2024-04-26T18:38:18.556Z
 tags: command, add player to team
 editor: markdown
 dateCreated: 2024-04-22T17:21:20.687Z
