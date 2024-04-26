@@ -2,7 +2,7 @@
 title: How to select that the Solo/Duo rank is displayed in the infopanel?
 description: Follow these steps to show Solo/Duo rank in the infopanel.
 published: true
-date: 2023-11-29T07:43:46.184Z
+date: 2024-04-26T18:15:33.610Z
 tags: infopanel, solo/duo rank
 editor: markdown
 dateCreated: 2023-05-15T07:23:20.287Z
@@ -12,7 +12,7 @@ dateCreated: 2023-05-15T07:23:20.287Z
 >You can change this behaviour in Zoe's configuration as follows:
 
 
-> :one:Use `/config` to get into **Zoe's configuration** <br>
+> :one:Use [`/config`](/en/commands/administrative/config) to get into **Zoe's configuration** <br>
 <img src="/new_config.png" width="45%" /> <br>
 >{.is-info}
 
