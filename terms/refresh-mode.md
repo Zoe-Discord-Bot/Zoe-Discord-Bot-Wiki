@@ -2,14 +2,13 @@
 title: Refresh & Refresh mode
 description: Learn about how Zoe's refresh works.
 published: true
-date: 2024-04-05T08:39:59.384Z
+date: 2024-04-26T18:17:17.868Z
 tags: refresh, update, mode, refresh mode, zoe mode
 editor: markdown
 dateCreated: 2021-07-07T19:15:54.142Z
 ---
 
 # Refresh & Refresh mode
-
 >### Information
 >**All servers are updated at least once an hour. Unfortunately, there is currently no way to increase this in a stable way.** <br>
 >**What you can do is be online and activate Discord presence, Zoe will detect the start and end of your game and update directly at the right time. This is sufficient for most cases.** <br>
@@ -17,7 +16,7 @@ dateCreated: 2021-07-07T19:15:54.142Z
 >{.is-info}
 
 >### Related commands/pages:
->-   [/refresh](/en/commands/important/refresh/)
+>-   [/refresh](/en/commands/basic/refresh/)
 
 <br>
 
@@ -35,6 +34,6 @@ Please end your stream or turn off the Discord Presence of the program so that `
 
 ## Refresh command
 
-> The [`/refresh`](/en/commands/important/refresh) command triggers a refresh manually for the server you use it on. 
->Every feature is refreshed with this command besides the [clashchannel](/en/features/clashChannel). The [clashchannel](/en/features/clashChannel) can be refreshed with the command [`/clash refresh`](/en/commands/clash/refresh/).
+> The [`/refresh`](/en/commands/basic/refresh) command triggers a refresh manually for the server you use it on. 
+>Every feature is refreshed with this command besides the [clashchannel](/en/features/clashchannel). The [clashchannel](/en/features/clashchannel) can be refreshed with the command [`/clash refresh`](/en/commands/clashchannel/refresh/).
 >{.is-info}
