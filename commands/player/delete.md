@@ -1,8 +1,8 @@
 ---
 title: /delete player - Command
 description: Information about the /delete player command
-published: false
-date: 2024-04-26T16:51:05.001Z
+published: true
+date: 2024-04-26T18:39:21.928Z
 tags: command, player, delete
 editor: markdown
 dateCreated: 2024-04-22T15:57:23.943Z
