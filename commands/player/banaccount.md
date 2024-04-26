@@ -2,7 +2,7 @@
 title: /banaccount - Command
 description: Information about the /banaccount command
 published: false
-date: 2024-04-26T09:55:38.897Z
+date: 2024-04-26T10:03:10.828Z
 tags: command, banaccount
 editor: markdown
 dateCreated: 2024-04-22T16:28:43.849Z
@@ -72,4 +72,6 @@ Example:
 >Your account **isn't removed from any server** its currently on.{.is-danger}
 
 ## How to completely remove your account
-So if you want to completely remove your account from Zoe use `@Zoe ban` (to no longer allow adding the account on Zoe) and `@Zoe kick all` (to remove it from all servers it is currently added to).
+So if you want to completely remove your account from Zoe:
+- [x] Use @Zoe ban - To no longer allow adding the account on Zoe 
+- [x] Use @Zoe kick all - To remove it from all servers it is currently added to
