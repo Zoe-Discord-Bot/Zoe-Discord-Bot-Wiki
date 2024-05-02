@@ -2,7 +2,7 @@
 title: Leaderboards - Feature
 description: Information about all leaderboards.
 published: true
-date: 2024-05-02T12:49:23.208Z
+date: 2024-05-02T12:49:29.194Z
 tags: leaderboard, leader, leaderboards, top 10, top 20, top 50, top 100, best player
 editor: markdown
 dateCreated: 2021-07-06T10:11:35.527Z
@@ -18,7 +18,7 @@ The following goals can be aimed at: Total Mastery Points, Mastery Points on a c
 
 <br>
 
-## Example leaderboards
+## Examples
 |  |  |  |
 | --- | --- | --- |
 | **Leaderboard** | **Details** | **Example** |
