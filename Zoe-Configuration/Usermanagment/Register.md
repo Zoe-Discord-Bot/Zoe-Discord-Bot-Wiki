@@ -2,7 +2,7 @@
 title: Zoe Configuration - Register
 description: Learn more about configuring the register command.
 published: true
-date: 2024-04-26T17:36:42.010Z
+date: 2024-05-11T17:59:17.855Z
 tags: config, register
 editor: markdown
 dateCreated: 2023-04-23T18:41:00.403Z
@@ -10,7 +10,7 @@ dateCreated: 2023-04-23T18:41:00.403Z
 
 # Register command
 
->Here you can select whether the command [`/register`](/en/commands/administrative/register/) should be enabled. If this is the case, every Discord user can [register an account](/en/commands/administrative/register/) on the server.
+>Here you can select whether the command [`/register`](/en/commands/player/register) should be enabled. If this is the case, every Discord user can [register an account](/en/commands/player/register) on the server.
 >{.is-info}
 
 >If this option is enabled, anyone can [register accounts](/en/commands/administrative/register/) that do not belong to them. If you want to prevent this, it is recommended that you disable the command or [ensure the account owner verification](/en/Zoe-Configuration/Usermanagment/Verification). Note that this will lengthen the registration process.
