@@ -2,7 +2,7 @@
 title: Zoe Guides
 description: In here you find all quick guides listed.
 published: true
-date: 2024-04-26T18:00:25.413Z
+date: 2024-06-03T17:20:00.557Z
 tags: guides, list, quick guides
 editor: markdown
 dateCreated: 2023-05-19T09:21:52.767Z
@@ -34,5 +34,5 @@ dateCreated: 2023-05-19T09:21:52.767Z
 
 ### User Guides
 - [:key: Register with enabled owner verification *In this guide you will find intructions on how to register on a server which has the owner verification enabled.*](/en/Guides/RegisterWithVerification)
-- [:lock: Remove your account from Zoe *In this guide you will find intructions on how you can prevent your account from being tracked with Zoe.*](/en/commands/other/banAccount)
+- [:lock: Remove your account from Zoe *In this guide you will find intructions on how you can prevent your account from being tracked with Zoe.*](/en/commands/player/banaccount)
 {.links-list}
