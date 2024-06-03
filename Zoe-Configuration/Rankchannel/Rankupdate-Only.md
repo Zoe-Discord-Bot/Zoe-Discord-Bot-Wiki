@@ -1,8 +1,8 @@
 ---
 title: Zoe Configuration - Rankupdate Only Mode
 description: Learn more about configuring the rankupdate only mode.
-published: false
-date: 2024-06-03T18:43:33.924Z
+published: true
+date: 2024-06-03T18:43:42.378Z
 tags: config, rankchannel, mode, rankupdate
 editor: markdown
 dateCreated: 2024-06-03T18:43:33.924Z
