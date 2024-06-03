@@ -2,7 +2,7 @@
 title: Zoe Configuration
 description: Find out about how you can configure Zoe.
 published: true
-date: 2024-05-11T18:49:21.151Z
+date: 2024-06-03T18:43:48.806Z
 tags: config, configuration, setting, settings, option, options
 editor: markdown
 dateCreated: 2023-04-13T06:38:44.182Z
@@ -34,7 +34,9 @@ When you enter the command [`/config`](/en/commands/administrative/config) a mes
 <br>
 
 ## 🏆 Rankchannel Settings
--  [:one: Filter rankchannel messages*Lets you filter the messages in the rankchannel by game type.*](/en/Zoe-Configuration/Rankchannel/Rankchannel-Filter)
+-  [:one: Filter rankchannel messages*Lets you filter the ranked game messages in the rankchannel by game type.*](/en/Zoe-Configuration/Rankchannel/Rankchannel-Filter)
+-  [:two: Rank Update Message Management*Lets you filter the rankupdate intervals.*](/en/Zoe-Configuration/Rankchannel/Rankupdate-Filter)
+-  [:three: Rank Update Only Mode*Disables all other messages besides Rank update messages.*](/en/Zoe-Configuration/Rankchannel/Rankupdate-Only)
 {.links-list}
 
 <br>
