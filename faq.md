@@ -2,7 +2,7 @@
 title: FAQ - Frequently asked questions
 description: Find answers to frequently asked questions here.
 published: true
-date: 2024-07-03T07:19:57.210Z
+date: 2024-07-03T07:26:34.595Z
 tags: faq, frequently, asked, questions
 editor: markdown
 dateCreated: 2021-09-30T16:47:28.465Z
@@ -49,7 +49,7 @@ To do this, you must verify that you are the owner of the account. To do so you 
 We have set up a special page to inform you about upcoming features. Feel free to have a look there: [Development Status](/en/Development-Status).
 <br>
 
-## Do I need to do anything to get Zoe to update the [infopanel](/en/features/infoChannel), [gamecards](/en/features/gamecards) or [leaderboards](/en/features/leaderboards) etc?
+## Do I need to do anything to get Zoe to update the [infopanel](/en/features/infochannel), [gamecards](/en/features/gamecards) or [leaderboards](/en/features/leaderboards) etc?
 No, you don't have to do anything, but if you want to force a manual refresh you can use the [`/refresh`](/en/commands/basic/refresh/) command.
 
 <br>
