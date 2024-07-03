@@ -2,7 +2,7 @@
 title: About the project
 description: Learn about Zoe and it's background.
 published: true
-date: 2024-07-03T07:02:12.178Z
+date: 2024-07-03T07:13:58.394Z
 tags: info, about, information, system, links
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
@@ -65,17 +65,16 @@ Whether it's seeing what's most important in your stats and monitoring your perf
 ## Facts & Numbers
 
 - <i class="mdi mdi-calendar"></i>  &nbsp; **Official start of the project** | 12.04.2019	
-- <i class="mdi mdi-code-tags"></i>  &nbsp; **Current version of Zoe** | v1.13.6 *(02.02.2024)*{.caption .red--text}
-- <i class="mdi mdi-slash-forward-box"></i>  &nbsp; **Total Zoe commands** | 43 *(09.04.2024)*{.caption .red--text}
-- <i class="mdi mdi-account"></i>  &nbsp; **Total created Zoe players** | > 62.000 *(24.03.2024)*{.caption .red--text}
-- <i class="mdi mdi-server"></i>  &nbsp; **Total servers Zoe is on** | > 9.000 *(08.01.2024)*{.caption .red--text}
-- <i class="mdi mdi-account"></i>  &nbsp; **Total translators** | 79 *(18.10.2023)*{.caption .red--text}
+- <i class="mdi mdi-slash-forward-box"></i>  &nbsp; **Total Zoe commands** | 46 *(03.07.2024)*{.caption .red--text}
+- <i class="mdi mdi-account"></i>  &nbsp; **Total created Zoe players** | > 66.000 *(03.07.2024)*{.caption .red--text}
+- <i class="mdi mdi-server"></i>  &nbsp; **Total servers Zoe is on** | > 9.500 *(03.07.2024)*{.caption .red--text}
+- <i class="mdi mdi-account"></i>  &nbsp; **Total translators** | 88 *(18.10.2023, data by Weblate)*{.caption .red--text}
 - <i class="mdi mdi-translate"></i>  &nbsp; **Added translation languages** | 26 *(08.01.2024)*{.caption .red--text}
-- <i class="mdi mdi-translate"></i>  &nbsp; **Available strings for translation** | 1.369 *(24.03.2024)*{.caption .red--text}	
-- <i class="mdi mdi-translate"></i>  &nbsp; **Overall translation status** | 18% *(24.03.2024)*{.caption .red--text}
-- <i class="mdi mdi-library"></i>  &nbsp; **Total wiki pages** | 184 *(24.03.2024)*{.caption .red--text}
-- <i class="mdi mdi-account"></i>  &nbsp; **Total wiki editors** | 1 *(08.01.2024)*{.caption .red--text}
-- <i class="mdi mdi-gift"></i>  &nbsp; **Total Ko-Fi supporters** | 147 *(24.03.2024, data by Ko-Fi)*{.caption .red--text}
+- <i class="mdi mdi-translate"></i>  &nbsp; **Available strings for translation** | 1.454 *(03.07.2024)*{.caption .red--text}	
+- <i class="mdi mdi-translate"></i>  &nbsp; **Overall translation status** | 19% *(03.07.2024)*{.caption .red--text}
+- <i class="mdi mdi-library"></i>  &nbsp; **Total wiki pages** | 241 *(03.07.2024)*{.caption .red--text}
+- <i class="mdi mdi-account"></i>  &nbsp; **Total wiki editors** | 1 *(03.07.2024)*{.caption .red--text}
+- <i class="mdi mdi-gift"></i>  &nbsp; **Total Ko-Fi supporters** | 227 *(03.07.2024, data by Kofi)*{.caption .red--text}
 {.grid-list}
 
 <br>
