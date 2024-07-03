@@ -2,7 +2,7 @@
 title: Über das Projekt
 description: Lerne mehr über Zoe
 published: true
-date: 2024-06-26T12:15:02.427Z
+date: 2024-07-03T07:02:37.368Z
 tags: info, about, über, informationen
 editor: markdown
 dateCreated: 2023-09-16T07:44:08.961Z
@@ -16,7 +16,7 @@ dateCreated: 2023-09-16T07:44:08.961Z
 
 ###### Einführung
 
-Zoe ist ein fortschrittlicher Discord-Bot, der speziell für passionierte League of Legends-Spieler entwickelt wurde. Geschrieben in Java, wurde dieser Bot mit einer spezifischen Mission erstellt: Echtzeit-Informationen, hilfreiche Informationen nach deinen Spielen zu liefern, so dass du dich durch Statistiken aus der faszinierenden Welt von League of Legends verbessern kannst.
+Zoe ist ein fortschrittlicher Discord-Bot, der speziell für neue und passionierte League of Legends-Spieler entwickelt wurde. Geschrieben in Java, wurde dieser Bot mit einer spezifischen Mission erstellt: Echtzeit-Informationen, hilfreiche Informationen nach deinen Spielen zu liefern, so dass du dich durch Statistiken aus der faszinierenden Welt von League of Legends verbessern kannst.
 
 <br>
 
