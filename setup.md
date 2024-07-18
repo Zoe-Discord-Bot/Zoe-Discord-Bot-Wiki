@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2024-07-03T07:36:37.103Z
+date: 2024-07-18T23:16:31.760Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -74,7 +74,7 @@ The [infochannel](/en/features/infochannel) contains stats on [players](/en/term
 ![](/en_/en_infochannel.png)
 ![](/en_/en_gamecard.png)
 
-- [Infochannel *For more information about the infochannel click here.*](/en/features/infoChannel)
+- [Infochannel *For more information about the infochannel click here.*](/en/features/infochannel)
 {.links-list}
 
 <br>
@@ -84,7 +84,7 @@ The [rankchannel](/en/features/rankchannel) is, where a message will be sent aft
 
 ![](/en_/en_rankchannel_message.png)
 
-- [Rankchannel *For more information about the rankchannel click here.*](/en/features/rankChannel)
+- [Rankchannel *For more information about the rankchannel click here.*](/en/features/rankchannel)
 {.links-list}
   
 <br>
