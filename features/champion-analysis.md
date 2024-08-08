@@ -2,7 +2,7 @@
 title: Champion Analysis - Feature
 description: Learn more about the champion analysis.
 published: true
-date: 2024-05-02T12:45:15.142Z
+date: 2024-08-08T10:12:17.625Z
 tags: game, card, analysis, gamecard, champ, champion, champion analysis
 editor: markdown
 dateCreated: 2023-08-13T12:35:28.190Z
@@ -10,11 +10,13 @@ dateCreated: 2023-08-13T12:35:28.190Z
 
 # Infochannel / Champion analysis
 ## Information
-**With the champion analysis you get information about the champions played in a match. Select a champion and a position to see the following information:
-Start spell, first max spell, builds and boots each filtered by most common and winrate to make your selection as easy as possible and pick the build to secure your win.**
-<br>
-
+**On any displayed game in the inforchannel you can click on the button `Champion Info` to show the analysis for a champion (played in that game) you can select.
+With the champion analysis you get information about the champions played in a match. Select a champion and a position to see the following information: Start spell, first max spell, builds and boots each filtered by most common and winrate to make your selection as easy as possible and pick the build to secure your win.**
 ## Example
+###### Button
+![](/en_/en_champion_analysis_bbutton.png)
+<br>
+###### Champion anaylsis
 ![](/champion_analysis.png)
 <br>
 
