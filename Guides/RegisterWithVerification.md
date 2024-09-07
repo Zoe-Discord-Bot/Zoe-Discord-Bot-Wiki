@@ -2,7 +2,7 @@
 title: Registration with verification
 description: Here you can see how to register on a server with account verification enabled.
 published: true
-date: 2024-09-07T22:16:18.645Z
+date: 2024-09-07T22:17:09.422Z
 tags: registration, verification, riotid
 editor: markdown
 dateCreated: 2023-08-22T16:32:51.912Z
@@ -13,7 +13,7 @@ dateCreated: 2023-08-22T16:32:51.912Z
 <br>
 
 :two: You will then see the confirmation message with a summoner icon that you need to set for the account you previously specified.
-<img src="/en_/en_register_verification_1.png" width="50%" img>
+<img src="/en_/en_banaccount_riotid_2.png" width="50%" img>
 <br>
 
 :three: Open the League of Legends client and log in if necessary. Click on the profile icon and then on your summoner icon. Scroll to the end of the list of icons and select the icon from the list that is displayed in the Zoe message. 
