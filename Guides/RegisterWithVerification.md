@@ -2,7 +2,7 @@
 title: Registration with verification
 description: Here you can see how to register on a server with account verification enabled.
 published: true
-date: 2024-06-03T19:19:35.563Z
+date: 2024-09-07T22:14:12.079Z
 tags: registration, verification, riotid
 editor: markdown
 dateCreated: 2023-08-22T16:32:51.912Z
@@ -29,6 +29,6 @@ dateCreated: 2023-08-22T16:32:51.912Z
 <br>
 
 :six: Now click on the green `Done` button on Zoe's message. This should link your account.
-<img src="/en_/en_register_verification_5.png" width="50%" img> <br>
+<img src="/en_/en_banaccount_riotid_2.png" width="50%" img> <br>
 
 >After that, you can change your summoner profile icon back. {.is-info}
