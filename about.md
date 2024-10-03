@@ -2,7 +2,7 @@
 title: About the project
 description: Learn about Zoe and it's background.
 published: true
-date: 2024-07-03T07:13:58.394Z
+date: 2024-10-03T16:26:29.008Z
 tags: info, about, information, system, links
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
@@ -16,7 +16,7 @@ dateCreated: 2023-09-15T18:12:02.890Z
 
 ###### Introduction
 
-Zoe is a advanced Discord bot designed for new and passionate League of Legends players. Written in Java, this bot was created with a specific mission: to provide real-time information, helpful information after your games so that you can improve and statistics from the fascinating world of League of Legends.
+Zoe is an advanced Discord bot designed for new and passionate League of Legends players. Written in Java, this bot was created with a specific mission: to provide real-time information, helpful information after your games so that you can improve and statistics from the fascinating world of League of Legends.
 
 <br>
 
@@ -66,8 +66,8 @@ Whether it's seeing what's most important in your stats and monitoring your perf
 
 - <i class="mdi mdi-calendar"></i>  &nbsp; **Official start of the project** | 12.04.2019	
 - <i class="mdi mdi-slash-forward-box"></i>  &nbsp; **Total Zoe commands** | 46 *(03.07.2024)*{.caption .red--text}
-- <i class="mdi mdi-account"></i>  &nbsp; **Total created Zoe players** | > 66.000 *(03.07.2024)*{.caption .red--text}
-- <i class="mdi mdi-server"></i>  &nbsp; **Total servers Zoe is on** | > 9.500 *(03.07.2024)*{.caption .red--text}
+- <i class="mdi mdi-account"></i>  &nbsp; **Total created Zoe players** | > 70.000 *(03.10.2024)*{.caption .red--text}
+- <i class="mdi mdi-server"></i>  &nbsp; **Total servers Zoe is on** | > 10.000 *(03.10.2024)*{.caption .red--text}
 - <i class="mdi mdi-account"></i>  &nbsp; **Total translators** | 88 *(18.10.2023, data by Weblate)*{.caption .red--text}
 - <i class="mdi mdi-translate"></i>  &nbsp; **Added translation languages** | 26 *(08.01.2024)*{.caption .red--text}
 - <i class="mdi mdi-translate"></i>  &nbsp; **Available strings for translation** | 1.454 *(03.07.2024)*{.caption .red--text}	
