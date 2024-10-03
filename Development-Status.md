@@ -2,7 +2,7 @@
 title: Zoe Development Status
 description: If you are interested in what features await you in the future, you can get an insight here.
 published: true
-date: 2024-06-30T00:37:05.729Z
+date: 2024-10-03T16:32:19.578Z
 tags: dev, status, dev status, development, development status, future, next features
 editor: markdown
 dateCreated: 2023-05-11T20:07:22.784Z
@@ -34,6 +34,7 @@ dateCreated: 2023-05-11T20:07:22.784Z
 -   🏁 **QoL (Config)**: Add a setting that allows to enable the command to add a player to a team for everyone
 -   🏁 **QoL (Feature)**: Leaderboards will stop showing calls for action in the middle of larger leaderboards.
 -   🏁 **QoL (Feature)**: Improve team-analysis to add several players in one command
+-   🏁 **QoL (Feature)**: Infochannel Sorting by rank will also affect accounts of players
 
 -   🔴 **Feature**: AI Match Summary (summarizes a game in text in a way that you can choose)
 -   🔴 **Feature**: SoloQ Teammate finder
