@@ -2,7 +2,7 @@
 title: TFT Features
 description: This page lists all tft features Zoe has to offer.
 published: true
-date: 2024-11-23T14:29:25.421Z
+date: 2024-11-23T14:43:35.388Z
 tags: features, tft
 editor: markdown
 dateCreated: 2024-11-23T13:05:11.597Z
@@ -23,7 +23,7 @@ dateCreated: 2024-11-23T13:05:11.597Z
 - [ ] Clashchannel
 - [x] **stats commands** (partially)
 - [ ] Matchhistorychannel
-- [x] **Rank roles** (Premium only)
+- [x] **Rank roles**
 <br>
 
 #### Infochannel
@@ -43,5 +43,6 @@ Your TFT rank is shown on your [stats profile](/en/commands/stats/profile) card,
 <br>
 
 #### Rank roles
+For rank roles, your TFT rank is taken into account (if it's the highest rank of a player). 
 If you have a [premium subscription](/en/support), you can set `TFT` as the used queue in the configuration of the [improved rank roles](/en/features/rankroles).
 <br>
