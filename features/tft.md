@@ -2,7 +2,7 @@
 title: TFT Features
 description: This page lists all tft features Zoe has to offer.
 published: true
-date: 2024-11-23T14:27:54.119Z
+date: 2024-11-23T14:29:25.421Z
 tags: features, tft
 editor: markdown
 dateCreated: 2024-11-23T13:05:11.597Z
@@ -35,11 +35,11 @@ Your ranked TFT match results will be shown in the rankchannel, when [the corres
 <br>
 
 #### Leaderboards
-When creating a [leaderboard](/en/features/leaderboards) for a specific queue rank, you can select TFT to show the best ranked TFT players of your server.
+When creating a [leaderboard](/en/features/leaderboards) for a specific queue rank, you can select `TFT` to show the best ranked TFT players of your server.
 <br>
 
 #### stats commands
-Your TFT rank is shown on your [stats profile](/en/commands/stats/profile) card, under `Ranked Stats`. The other commands are not supported for TFT
+Your TFT rank is shown on your [stats profile](/en/commands/stats/profile) card, under `Ranked Stats`. The other commands are not supported for TFT.
 <br>
 
 #### Rank roles
