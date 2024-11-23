@@ -2,7 +2,7 @@
 title: FAQ - Frequently asked questions
 description: Find answers to frequently asked questions here.
 published: true
-date: 2024-07-03T07:26:34.595Z
+date: 2024-11-23T13:04:57.407Z
 tags: faq, frequently, asked, questions
 editor: markdown
 dateCreated: 2021-09-30T16:47:28.465Z
@@ -51,6 +51,12 @@ We have set up a special page to inform you about upcoming features. Feel free t
 
 ## Do I need to do anything to get Zoe to update the [infopanel](/en/features/infochannel), [gamecards](/en/features/gamecards) or [leaderboards](/en/features/leaderboards) etc?
 No, you don't have to do anything, but if you want to force a manual refresh you can use the [`/refresh`](/en/commands/basic/refresh/) command.
+<br>
+
+## Which features for TFT does Zoe offer?
+We've compiled a list of TFT-features for you here:
+- [TFT features](/en/troubleshooting) 
+{.links-list}
 
 <br>
 
