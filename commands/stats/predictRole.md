@@ -2,7 +2,7 @@
 title: /stats predictrole  - Command
 description: Information about the /stats predictrole command
 published: true
-date: 2024-04-26T15:53:50.513Z
+date: 2025-01-15T15:17:02.672Z
 tags: prediction, predict role, predictrole, stats predictrole, predict, role, lane, lanes
 editor: markdown
 dateCreated: 2021-07-13T10:51:09.340Z
