@@ -2,7 +2,7 @@
 title: Infochannel - Feature
 description: Information about the infochannel
 published: true
-date: 2024-05-02T12:39:01.026Z
+date: 2025-01-15T19:41:48.202Z
 tags: info, infochannel, info panel, infopanel, info channel
 editor: markdown
 dateCreated: 2021-07-06T09:41:09.360Z
@@ -10,7 +10,7 @@ dateCreated: 2021-07-06T09:41:09.360Z
 
 # Infochannel / Infopanel
 ## Information
-**In the infochannel, Zoe sends the so-called infopanel in which information about all the registered [players](/en/terms/player) (there is no limit), their accounts (showing the account names, only if there are multiple accounts added to one player) and (if enabled) their rank of a certain queue or the last game played is shown. Zoe also sends the [gamecards](/en/features/gamecards) to this channel (if enabled). You can also get champion tips for every champion played in a game. Read more here: [Champion analysis](/en/features/champion-analysis).**  
+**In the infochannel, Zoe sends the so-called infopanel in which information about all the registered [players](/en/terms/player) (there is no limit), their accounts (showing the account names, only if there are multiple accounts added to one player) and (if enabled) their rank of a certain queue or the last game played is shown. Zoe also sends the [gamecards](/en/features/gamecards) to this channel (if enabled). You can also get champion tips for every champion played in a game.**  
 <br>
 
 ## Example
