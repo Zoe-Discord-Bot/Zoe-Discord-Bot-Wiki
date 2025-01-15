@@ -2,7 +2,7 @@
 title: Stats commands
 description: Learn about what you can do with the /stats commands.
 published: true
-date: 2024-01-08T17:09:42.293Z
+date: 2025-01-15T15:17:20.427Z
 tags: stats, stats command, stats cmd, stats cmds, stats commands
 editor: markdown
 dateCreated: 2021-07-13T10:30:33.475Z
@@ -15,12 +15,12 @@ dateCreated: 2021-07-13T10:30:33.475Z
 
 <br> 
 
-  -  [/stats predictrole *Zoe predicts the role of 5 given accounts when they play together.*](/en/commands/stats/predictRole/) <br> <img src="/en_/en_predictrole_suggestion.png"  width="40%" img>
+  -  [/stats predictrole *Zoe predicts the role of 5 given accounts when they play together.*](/en/commands/stats/predictrole/) <br> <img src="/en_/en_predictrole_suggestion.png"  width="40%" img>
 {.links-list}
 
 <br>   
 
-  -  [/stats teamanalysis *Zoe predicts the role of 5 given accounts when they play together with possibe picks and ban recommendations.*](/en/commands/stats/teamAnalysis/) <br> <img src="/en_/en_stats_teamanalysis_picks.png"  width="40%" img>
+  -  [/stats teamanalysis *Zoe predicts the role of 5 given accounts when they play together with possibe picks and ban recommendations.*](/en/commands/stats/teamanalysis/) <br> <img src="/en_/en_stats_teamanalysis_picks.png"  width="40%" img>
 {.links-list}
 
 <br>   
