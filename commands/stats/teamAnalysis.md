@@ -2,7 +2,7 @@
 title: /stats teamanalysis - Command
 description: Information about the /stats teamanalysis command
 published: true
-date: 2024-04-26T16:32:34.587Z
+date: 2025-01-15T15:16:12.637Z
 tags: stats, analysis, team, team analysis, team stats, teamanalysis, stats teamanalysis, riotid
 editor: markdown
 dateCreated: 2021-07-13T11:00:45.454Z
