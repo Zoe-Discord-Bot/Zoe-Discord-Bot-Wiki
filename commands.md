@@ -2,7 +2,7 @@
 title: Zoe Commands
 description: In here you find all commands listed.
 published: true
-date: 2024-04-26T19:03:43.465Z
+date: 2025-01-15T15:17:53.225Z
 tags: commands, cmd, cmds, order, orders, command
 editor: markdown
 dateCreated: 2021-07-05T11:30:13.397Z
@@ -83,8 +83,8 @@ dateCreated: 2021-07-05T11:30:13.397Z
 
 # Stats Commands
 - [/stats profile *Zoe provides some information about the selected profile.*](/en/commands/stats/profile/)
-- [/stats predictrole *Zoe predicts the role of 5 given accounts when they play together.*](/en/commands/stats/predictRole/)
-- [/stats teamanalysis *Zoe predicts the role of 5 given accounts when they play together with pick and ban recommendations.*](/en/commands/stats/teamAnalysis/)
+- [/stats predictrole *Zoe predicts the role of 5 given accounts when they play together.*](/en/commands/stats/predictrole/)
+- [/stats teamanalysis *Zoe predicts the role of 5 given accounts when they play together with pick and ban recommendations.*](/en/commands/stats/teamanalysis/)
 - [/stats matchhistory *Allows you to browse the match history of LoL accounts and view match stats.*](/en/commands/stats/matchhistory)
 - [/stats rankupdate *Zoe sums up information about LP-gains and -losses in one day, one week and one month.*](/en/commands/stats/rankupdate)
 {.links-list}
