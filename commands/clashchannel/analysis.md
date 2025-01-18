@@ -2,7 +2,7 @@
 title: /clash analysis - Command
 description: Information about the /clash analysis command
 published: true
-date: 2024-04-26T18:35:55.150Z
+date: 2025-01-18T22:46:34.783Z
 tags: command, clash, analysis
 editor: markdown
 dateCreated: 2024-04-23T07:38:57.405Z
@@ -21,7 +21,34 @@ If you want to analyse an opposing team, you need a [gamename and tag (Riot ID)]
 <br>
 
 ## Usage
-![](/en_/en_clash_analysis.png)
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/clash analysis</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">region</span>
+                <span class="dcp-arg-value">EUW</span>
+            </div>
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">game-name</span>
+                <span class="dcp-arg-value">Star Guardian Ez</span>
+            </div>
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">tag</span>
+                <span class="dcp-arg-value">real</span>
+            </div>
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+###### Arguments
+| Argument | Required | Description |
+|----------|----------|-------------|
+| `region` | :heavy_check_mark: | The [region tag](/en/terms/region) of the [region](/en/terms/region) the player is in |
+| `game-name` | :heavy_check_mark: | The gamename of the player (first part of the [Riot ID](/en/terms/riotid)) |
+| `tag` | :heavy_check_mark: | The tag of the player (second part of the [Riot ID](/en/terms/riotid)) |
 <br>
  
 ## Example
