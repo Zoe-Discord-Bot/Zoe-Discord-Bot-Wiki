@@ -2,7 +2,7 @@
 title: /define rankchannel  - Command
 description: Information about the /define rankchannel command
 published: true
-date: 2024-04-26T18:36:45.857Z
+date: 2025-01-18T22:28:54.483Z
 tags: command, rankchannel, define
 editor: markdown
 dateCreated: 2024-04-23T07:13:19.421Z
@@ -19,7 +19,26 @@ dateCreated: 2024-04-23T07:13:19.421Z
 <br>
 
 ## Usage
-![](/new_define_rankchannel.gif)
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/define rankchannel</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">channelselected</span>
+                <span class="dcp-arg-value">
+              		<span class="dcp-mention">#lol-ranks</span>
+              	</span>
+            </div>
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+###### Arguments
+| Argument | Required | Description |
+|----------|----------|-------------|
+| `channelselected` | :heavy_check_mark: | Select a discord textchannel that should become the rankchannel |
 <br>
  
 ## Related commands/pages:
