@@ -2,7 +2,7 @@
 title: /create clashchannel - Command
 description: Information about the /create clashchannel command
 published: true
-date: 2025-01-18T22:40:27.234Z
+date: 2025-01-18T22:40:42.354Z
 tags: create, command, clashchannel
 editor: markdown
 dateCreated: 2024-04-23T07:29:57.900Z
@@ -15,15 +15,6 @@ dateCreated: 2024-04-23T07:29:57.900Z
 ### Permissions needed:
 >**Manage channels** - only users with this permission ("moderators"/"administrators") can use this command as it affects Zoe for the server more deeply {.is-warning}
 
-<br>
-
-## Usage
-:one: Start by creating the clashchannel with:
-<img src="/en_/en_create_clashchannel_riotid_1.png" width="60%"><br>
-:two: After that you need to give Zoe an account by their [region](/en/terms/region), [gamename and tag](/en/terms/riotid):
-<img src="/en_/en_create_clashchannel_riotid_2.png" width="40%"><br>
-:three: Finally give Zoe a timezone by number from a list Zoe provides:
-<img src="/en_/en_create_clashchannel_time.png" width="10%">
 <br>
 
 ## Usage
