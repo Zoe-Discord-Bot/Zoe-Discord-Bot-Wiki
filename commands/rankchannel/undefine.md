@@ -2,7 +2,7 @@
 title: /undefine rankchannel  - Command
 description: Information about the /undefine rankchannel command
 published: true
-date: 2024-04-26T18:36:34.449Z
+date: 2025-01-18T22:29:27.414Z
 tags: command, rankchannel, undefine
 editor: markdown
 dateCreated: 2024-04-23T07:15:30.694Z
@@ -18,7 +18,16 @@ dateCreated: 2024-04-23T07:15:30.694Z
 <br>
 
 ## Usage
-![](/new_undefine_rankchannel.gif)[]()
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/undefine rankchannel</span>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+###### Arguments
+*No arguments required*
 <br>
  
 ## Related commands/pages:
