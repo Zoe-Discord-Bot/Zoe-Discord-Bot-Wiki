@@ -2,7 +2,7 @@
 title: /setup - Command
 description: Information about the /setup command
 published: true
-date: 2024-04-26T18:42:27.291Z
+date: 2025-01-18T21:28:53.050Z
 tags: setup, command, start
 editor: markdown
 dateCreated: 2024-04-22T08:02:21.200Z
@@ -19,8 +19,18 @@ dateCreated: 2024-04-22T08:02:21.200Z
 <br>
 
 ## Usage
-![](/en_/en_setup_command.gif)
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/setup</span>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+###### Arguments
+*No arguments required*
 <br>
+ 
  
 ## Example
 ![](/en_/en_setup_command_example.png)
