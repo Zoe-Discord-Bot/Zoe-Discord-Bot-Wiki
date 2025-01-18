@@ -2,7 +2,7 @@
 title: /help - Command
 description: Information about the /help command
 published: true
-date: 2024-04-26T18:43:27.973Z
+date: 2025-01-18T21:27:40.110Z
 tags: command, help
 editor: markdown
 dateCreated: 2024-04-22T08:31:37.839Z
@@ -19,7 +19,15 @@ dateCreated: 2024-04-22T08:31:37.839Z
 <br>
 
 ## Usage
-![](/en_/en_help_command.gif)
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/help</span>
+  </div>
+</div>
+
+###### Arguments
+*No arguments required*
 <br>
  
 ## Example
