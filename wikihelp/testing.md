@@ -1,8 +1,8 @@
 ---
 title: Testing Page
 description: 
-published: true
-date: 2025-01-18T18:56:53.095Z
+published: false
+date: 2025-01-18T19:04:07.859Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-18T18:44:44.199Z
@@ -36,22 +36,3 @@ dateCreated: 2025-01-18T18:44:44.199Z
     </div>
 </div>
 
-<script>
-    document.addEventListener("DOMContentLoaded", () => {
-        const commandText = document.querySelector(".command-text");
-        const parameters = document.querySelector(".parameters");
-        const parameterValues = document.querySelectorAll(".typing-value");
-
-        // Show parameters after the command finishes typing
-        setTimeout(() => {
-            parameters.classList.remove("hidden");
-
-            // Animate each parameter value sequentially
-            parameterValues.forEach((value, index) => {
-                setTimeout(() => {
-                    value.style.visibility = "visible";
-                }, 2000 + index * 2000); // Delay for each parameter
-            });
-        }, 2000); // Delay matches the typing animation of the command
-    });
-</script>
