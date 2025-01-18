@@ -2,7 +2,7 @@
 title: Testing Page
 description: 
 published: false
-date: 2025-01-18T20:13:05.176Z
+date: 2025-01-18T20:43:21.520Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-18T18:44:44.199Z
@@ -10,28 +10,29 @@ dateCreated: 2025-01-18T18:44:44.199Z
 
 # Test
 
-<div class="chat-container">
-    <div class="chat-bar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" alt="Avatar" class="avatar">
-        <span class="command-text">/create player</span>
-        <div class="parameters">
-            <div class="parameter">
-                <span class="parameter-label">user</span>
-                <span class="parameter-value">test</span>
+
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/create player</span>
+        <div class="dcp-params">
+            <div class="dcp-param">
+                <span class="dcp-param-label">user</span>
+                <span class="dcp-param-value">test</span>
             </div>
-            <div class="parameter">
-                <span class="parameter-label">region</span>
-                <span class="parameter-value">test</span>
+            <div class="dcp-param">
+                <span class="dcp-param-label">region</span>
+                <span class="dcp-param-value">test</span>
             </div>
-            <div class="parameter">
-                <span class="parameter-label">game-name</span>
-                <span class="parameter-value">test</span>
+            <div class="dcp-param">
+                <span class="dcp-param-label">game-name</span>
+                <span class="dcp-param-value">test</span>
             </div>
-            <div class="parameter">
-                <span class="parameter-label">tag</span>
-                <span class="parameter-value">test</span>
+            <div class="dcp-param">
+                <span class="dcp-param-label">tag</span>
+                <span class="dcp-param-value">test</span>
             </div>
         </div>
-        <button class="send-btn">&#10148;</button> 
+        <button class="dcp-send-btn">&#10148;</button> 
     </div>
 </div>
