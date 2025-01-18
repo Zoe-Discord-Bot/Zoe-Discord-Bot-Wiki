@@ -2,7 +2,7 @@
 title: /create rankchannel - Command
 description: Information about the /create rankchannel command
 published: true
-date: 2024-04-26T18:37:05.215Z
+date: 2025-01-18T22:26:27.766Z
 tags: create, command, rankchannel
 editor: markdown
 dateCreated: 2024-04-23T07:10:21.567Z
@@ -19,7 +19,24 @@ dateCreated: 2024-04-23T07:10:21.567Z
 <br>
 
 ## Usage
-![](/en_/en_create_rankchannel.gif)
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/create rankchannel</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">rankchannel-name</span>
+                <span class="dcp-arg-value">lol-ranks</span>
+            </div>
+      	</div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+###### Arguments
+| Argument | Required | Description |
+|----------|----------|-------------|
+| `rankchannel-name` | :heavy_check_mark: | Select a channel for the rankchannel for example "lol-ranks" |
 <br>
  
 ## Related commands/pages:
