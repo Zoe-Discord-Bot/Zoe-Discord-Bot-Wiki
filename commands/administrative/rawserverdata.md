@@ -2,7 +2,7 @@
 title: /rawserverdata - Command
 description: Learn more about the /rawserverdata command.
 published: true
-date: 2025-01-18T22:01:47.297Z
+date: 2025-01-18T22:02:14.653Z
 tags: command, server, raw, data, rawserverdata
 editor: markdown
 dateCreated: 2024-04-22T13:38:08.723Z
@@ -11,7 +11,7 @@ dateCreated: 2024-04-22T13:38:08.723Z
 # /rawserverdata
 ## Information
 **When you execute this command, Zoe sends you a text message with the raw data of the [players](/en/terms/player) of your server. You will receive the following information about all of your [players](/en/terms/player):**
-- `Teamname` (if they were in a team)
+- `Teamname` (if they are in a team)
 - `Discord ID`
 - `Discord username`
 - `Server region`
