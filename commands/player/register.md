@@ -2,7 +2,7 @@
 title: /register- Command
 description: Information about the /register command
 published: true
-date: 2024-04-26T18:33:49.578Z
+date: 2025-01-18T23:42:47.350Z
 tags: command, register
 editor: markdown
 dateCreated: 2024-04-26T11:24:14.774Z
@@ -21,7 +21,34 @@ dateCreated: 2024-04-26T11:24:14.774Z
 <br>
 
 ## Usage
-![](/en_/en_register_riotid.png)
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/register</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">region</span>
+                <span class="dcp-arg-value">EUW</span>
+            </div>
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">game-name</span>
+                <span class="dcp-arg-value">Star Guardian Ez</span>
+            </div>
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">tag</span>
+                <span class="dcp-arg-value">real</span>
+            </div>
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+###### Arguments
+| Argument | Required | Description |
+|----------|----------|-------------|
+| `region` | :heavy_check_mark: | The  [regiontag](/en/terms/region) of the [region](/en/terms/region) the player is in |
+| `game-name` | :heavy_check_mark: | The first part of the players [Riot ID](/en/terms/riotid) |
+| `tag` | :heavy_check_mark: | The second part of the players [Riot ID](/en/terms/riotid) |
 <br>
  
 ## Related commands/pages:
