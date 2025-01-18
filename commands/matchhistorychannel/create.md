@@ -2,7 +2,7 @@
 title: /create matchhistorychannel - Command
 description: Information about the /create matchhistorychannel command
 published: true
-date: 2024-04-26T18:35:41.512Z
+date: 2025-01-18T22:51:55.837Z
 tags: create, command, matchhistorychannel
 editor: markdown
 dateCreated: 2024-04-23T07:41:42.526Z
@@ -20,6 +20,39 @@ dateCreated: 2024-04-23T07:41:42.526Z
 
 ## Usage
 ![](/en_/en_create_matchhistorychannel.gif)
+<br>
+
+## Usage
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/create matchhistorychannel</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">matchhistory-name</span>
+                <span class="dcp-arg-value">lol-history</span>
+            </div>
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+  <br>
+      <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/create matchhistorychannel</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">matchhistory-name</span>
+                <span class="dcp-arg-value">lol-history</span>
+            </div>
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+###### Arguments
+| Argument | Required | Description |
+|----------|----------|-------------|
+| `matchhistory-name` | :heavy_check_mark: | Choose a name for the matchhistorychannel, for example "lol-history" |
 <br>
  
 ## Related commands/pages:
