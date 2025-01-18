@@ -2,7 +2,7 @@
 title: /patchnotes  - Command
 description: Information about the /patchnotes command
 published: true
-date: 2024-04-26T18:44:32.384Z
+date: 2025-01-18T22:00:58.417Z
 tags: command, patchnotes
 editor: markdown
 dateCreated: 2024-04-22T13:46:02.928Z
@@ -19,9 +19,17 @@ dateCreated: 2024-04-22T13:46:02.928Z
 <br>
 
 ## Usage
-![](/en_/en_patchnotes.png)
-<br>
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/patchnotes</span>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
 
+###### Arguments
+*No arguments required*
+<br>
 ## Related commands/pages:
 - [Patchnotes](/en/patchnotes/)
 {.links-list}
