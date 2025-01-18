@@ -2,7 +2,7 @@
 title: /refresh - Command
 description: Information about the /refresh command
 published: true
-date: 2024-04-26T18:43:39.957Z
+date: 2025-01-18T21:24:44.933Z
 tags: command, refresh
 editor: markdown
 dateCreated: 2024-04-22T08:32:16.776Z
@@ -27,7 +27,16 @@ dateCreated: 2024-04-22T08:32:16.776Z
 <br>
 
 ## Usage
-![](/en_/en_refresh_command.gif)
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/refresh</span>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+###### Arguments
+*No arguments required*
 <br>
  
 ## Related commands/pages:
