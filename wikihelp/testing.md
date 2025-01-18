@@ -2,7 +2,7 @@
 title: Testing Page
 description: 
 published: false
-date: 2025-01-18T19:04:07.859Z
+date: 2025-01-18T19:04:36.411Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-18T18:44:44.199Z
@@ -12,7 +12,7 @@ dateCreated: 2025-01-18T18:44:44.199Z
 
 <div class="chat-container">
     <div class="chat-bar">
-        <img src="your-avatar-image-url.png" alt="Avatar" class="avatar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" alt="Avatar" class="avatar">
         <span class="command-text">/create player</span>
         <div class="parameters">
             <div class="parameter">
