@@ -2,7 +2,7 @@
 title: /define infochannel  - Command
 description: Information about the /define infochannel command
 published: true
-date: 2025-01-18T22:22:00.963Z
+date: 2025-01-18T22:22:09.444Z
 tags: command, infochannel, define
 editor: markdown
 dateCreated: 2024-04-23T06:41:58.423Z
@@ -38,7 +38,7 @@ dateCreated: 2024-04-23T06:41:58.423Z
 ###### Arguments
 | Argument | Required | Description |
 |----------|----------|-------------|
-| `argument` | :heavy_check_mark: | Select a discord textchannel that should become the infochannel |
+| `channelselected` | :heavy_check_mark: | Select a discord textchannel that should become the infochannel |
 <br>
  
  
