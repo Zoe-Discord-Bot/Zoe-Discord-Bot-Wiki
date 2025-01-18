@@ -2,7 +2,7 @@
 title: /config - Command
 description: Information about the /config command
 published: true
-date: 2024-04-26T18:43:18.305Z
+date: 2025-01-18T21:34:43.068Z
 tags: command, config, configuration
 editor: markdown
 dateCreated: 2024-04-22T08:06:24.618Z
@@ -19,13 +19,22 @@ dateCreated: 2024-04-22T08:06:24.618Z
 <br>
 
 ## Usage
-![](/en_/en_config_command.gif)
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/config</span>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+###### Arguments
+*No arguments required*
 <br>
  
+ 
 ## Example
-<img src="/en_/en_config_1.png" width="500">
-<img src="/configuration_choices.png" width="400">
-<br>
+<img src="/en_/en_config_1.png" width="500"><br>
+<img src="/configuration_choices.png" width="400"><br>
  
 ## Related commands/pages:
 -   [Configuration](/en/Zoe-Configuration/)
