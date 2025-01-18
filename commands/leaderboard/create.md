@@ -2,7 +2,7 @@
 title: /create leaderboard - Command
 description: Information about the /create leaderboard command
 published: true
-date: 2024-04-26T18:39:57.411Z
+date: 2025-01-18T23:01:23.264Z
 tags: create, leaderboard
 editor: markdown
 dateCreated: 2024-04-22T13:56:07.032Z
@@ -30,6 +30,31 @@ dateCreated: 2024-04-22T13:56:07.032Z
 
 ## Usage
 ![](/new_create_leaderboard.gif)
+<br>
+
+## Usage
+:one: Start by creating the leaderboard with:
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/create leaderboard</span>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+###### Arguments
+*No arguments required*
+<br>
+:two: Now select the objective you want to target on the leaderboard and select the size.
+
+:three: Finally give Zoe a channel in which you want the leaderboard to be in:
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <span class="dcp-mention">@Zoe</span>&nbsp;
+       <span class="dcp-mention">#lol-leaderboards</span>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
 <br>
  
 ## Related commands/pages:
