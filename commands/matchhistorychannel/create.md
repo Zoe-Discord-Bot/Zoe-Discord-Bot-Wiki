@@ -2,7 +2,7 @@
 title: /create matchhistorychannel - Command
 description: Information about the /create matchhistorychannel command
 published: true
-date: 2025-01-18T22:53:57.305Z
+date: 2025-01-18T22:54:07.718Z
 tags: create, command, matchhistorychannel
 editor: markdown
 dateCreated: 2024-04-23T07:41:42.526Z
@@ -16,10 +16,6 @@ dateCreated: 2024-04-23T07:41:42.526Z
 ### Permissions needed:
 >**Manage channels** - only users with this permission ("moderators"/"administrators") can use this command as it affects Zoe for the server more deeply {.is-warning}
 
-<br>
-
-## Usage
-![](/en_/en_create_matchhistorychannel.gif)
 <br>
 
 ## Usage
