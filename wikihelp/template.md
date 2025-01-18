@@ -2,7 +2,7 @@
 title: Template page
 description: Feature/Command template
 published: false
-date: 2024-04-26T15:42:49.117Z
+date: 2025-01-18T21:13:26.405Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-09T15:07:03.078Z
@@ -29,8 +29,25 @@ dateCreated: 2024-01-09T15:07:03.078Z
 <br>
 
 ## Usage
-![]()
-<img src="" width="">
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/command</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">argument</span>
+                <span class="dcp-arg-value">text</span>
+            </div>
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+###### Arguments
+| Argument | Required | Description |
+|----------|----------|-------------|
+| `argument` | :heavy_check_mark: |  |
+| `argument` | :x: |  |
 <br>
  
 ## Example
