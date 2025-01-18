@@ -2,7 +2,7 @@
 title: /delete rankchannel - Command
 description: Information about the /delete rankchannel command
 published: true
-date: 2024-04-26T18:36:55.817Z
+date: 2025-01-18T22:27:03.804Z
 tags: command, rankchannel, delete
 editor: markdown
 dateCreated: 2024-04-23T07:11:39.090Z
@@ -19,7 +19,16 @@ dateCreated: 2024-04-23T07:11:39.090Z
 <br>
 
 ## Usage
-![](/new_delete_rankchannel.gif)
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/delete rankchannel</span>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+###### Arguments
+*No arguments required*
 <br>
  
 ## Related commands/pages:
