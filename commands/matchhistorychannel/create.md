@@ -2,7 +2,7 @@
 title: /create matchhistorychannel - Command
 description: Information about the /create matchhistorychannel command
 published: true
-date: 2025-01-18T22:51:55.837Z
+date: 2025-01-18T22:53:57.305Z
 tags: create, command, matchhistorychannel
 editor: markdown
 dateCreated: 2024-04-23T07:41:42.526Z
@@ -41,8 +41,10 @@ dateCreated: 2024-04-23T07:41:42.526Z
         <span class="dcp-command">/create matchhistorychannel</span>
         <div class="dcp-args">
             <div class="dcp-arg">
-                <span class="dcp-arg-label">matchhistory-name</span>
-                <span class="dcp-arg-value">lol-history</span>
+                <span class="dcp-arg-label">matchhistory-assign</span>
+                <span class="dcp-arg-value">
+                <span class="dcp-mention">#lol-history</span>&nbsp;
+              </span>
             </div>
         </div>
         <button class="dcp-send-btn">&#10148;</button> 
@@ -52,7 +54,8 @@ dateCreated: 2024-04-23T07:41:42.526Z
 ###### Arguments
 | Argument | Required | Description |
 |----------|----------|-------------|
-| `matchhistory-name` | :heavy_check_mark: | Choose a name for the matchhistorychannel, for example "lol-history" |
+| `matchhistory-name` | :x: | Choose a name for the matchhistorychannel, for example "lol-history" |
+| `matchhistory-assign` | :x: | Choose a discord textchannel that should become the matchhistorychannel |
 <br>
  
 ## Related commands/pages:
