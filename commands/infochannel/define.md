@@ -2,7 +2,7 @@
 title: /define infochannel  - Command
 description: Information about the /define infochannel command
 published: true
-date: 2024-04-26T18:37:23.665Z
+date: 2025-01-18T22:22:00.963Z
 tags: command, infochannel, define
 editor: markdown
 dateCreated: 2024-04-23T06:41:58.423Z
@@ -19,7 +19,26 @@ dateCreated: 2024-04-23T06:41:58.423Z
 <br>
 
 ## Usage
-![](/new_define_infochannel.gif)
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/define infochannel</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">channelselected</span>
+                <span class="dcp-arg-value">
+                	<span class="dcp-mention">#lol-info</span>
+              </span>
+            </div>
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+###### Arguments
+| Argument | Required | Description |
+|----------|----------|-------------|
+| `argument` | :heavy_check_mark: | Select a discord textchannel that should become the infochannel |
 <br>
  
  
