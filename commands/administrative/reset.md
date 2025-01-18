@@ -2,7 +2,7 @@
 title: /reset - Command
 description: Information about the /reset command
 published: true
-date: 2025-01-18T21:56:47.595Z
+date: 2025-01-18T22:21:03.341Z
 tags: command, reset
 editor: markdown
 dateCreated: 2024-04-22T08:37:18.101Z
@@ -39,7 +39,7 @@ Try to use this command if something is not working properly.**
 <div class="discord-preview">
     <div class="dcp-chatbar">
       <span class="dcp-mention">@Zoe</span>
-      <span class="dcp-command">&nbsp;YES</span>
+      &nbsp;YES
       <button class="dcp-send-btn">&#10148;</button> 
     </div>
 </div>
