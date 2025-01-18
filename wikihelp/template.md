@@ -2,7 +2,7 @@
 title: Template page
 description: Feature/Command template
 published: false
-date: 2025-01-18T21:13:26.405Z
+date: 2025-01-18T22:00:09.036Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-09T15:07:03.078Z
@@ -38,6 +38,7 @@ dateCreated: 2024-01-09T15:07:03.078Z
                 <span class="dcp-arg-label">argument</span>
                 <span class="dcp-arg-value">text</span>
             </div>
+                <span class="dcp-mention">@Zoe</span>
         </div>
         <button class="dcp-send-btn">&#10148;</button> 
     </div>
@@ -48,6 +49,7 @@ dateCreated: 2024-01-09T15:07:03.078Z
 |----------|----------|-------------|
 | `argument` | :heavy_check_mark: |  |
 | `argument` | :x: |  |
+*No arguments required*
 <br>
  
 ## Example
