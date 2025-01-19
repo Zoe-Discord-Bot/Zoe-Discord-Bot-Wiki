@@ -2,7 +2,7 @@
 title: /create player - Command
 description: Information about the /create player command
 published: true
-date: 2025-01-19T00:25:28.857Z
+date: 2025-01-19T01:13:24.711Z
 tags: create, command, player
 editor: markdown
 dateCreated: 2024-04-22T15:54:53.356Z
@@ -29,7 +29,7 @@ dateCreated: 2024-04-22T15:54:53.356Z
             <div class="dcp-arg">
                 <span class="dcp-arg-label">user</span>
                 <span class="dcp-arg-value">
-              	<span class="dcp-mention">@timfernix</span>&nbsp;
+              	<span class="dcp-mention">@timfernix</span>
               </span>
             </div>
           <div class="dcp-arg">
