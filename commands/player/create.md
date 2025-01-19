@@ -2,7 +2,7 @@
 title: /create player - Command
 description: Information about the /create player command
 published: true
-date: 2024-04-26T18:39:30.565Z
+date: 2025-01-19T00:01:32.363Z
 tags: create, command, player
 editor: markdown
 dateCreated: 2024-04-22T15:54:53.356Z
@@ -22,6 +22,44 @@ dateCreated: 2024-04-22T15:54:53.356Z
 
 ## Usage
 ![](/en_/en_create_player_riotid.png)
+<br>
+
+## Usage
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/create player</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">user</span>
+                <span class="dcp-arg-value">
+              	<span class="dcp-mention">@timfernix</span>&nbsp;
+              </span>
+            </div>
+          <div class="dcp-arg">
+                <span class="dcp-arg-label">region</span>
+                <span class="dcp-arg-value">EUW</span>
+            </div>
+          <div class="dcp-arg">
+                <span class="dcp-arg-label">game-name</span>
+                <span class="dcp-arg-value">Star Guardian Ez</span>
+            </div>
+          <div class="dcp-arg">
+                <span class="dcp-arg-label">tag</span>
+                <span class="dcp-arg-value">real</span>
+            </div>
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+###### Arguments
+| Argument | Required | Description |
+|----------|----------|-------------|
+| `user` | :heavy_check_mark: |  |
+| `region` | :heavy_check_mark: |  |
+| `game-name` | :heavy_check_mark: |  |
+| `tag` | :heavy_check_mark: |  |
 <br>
  
 ## Related commands/pages:
