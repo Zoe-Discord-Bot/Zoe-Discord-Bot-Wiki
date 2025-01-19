@@ -2,7 +2,7 @@
 title: /stats matchhistory - Command
 description: Information about the /stats matchhistory command
 published: true
-date: 2024-04-26T16:33:02.854Z
+date: 2025-01-19T02:01:19.611Z
 tags: command, stats, statistics, matchhistory
 editor: markdown
 dateCreated: 2023-04-09T12:03:20.071Z
@@ -19,12 +19,57 @@ dateCreated: 2023-04-09T12:03:20.071Z
 <br>
 
 ## Usage
-For [players](/en/terms/player) which are registered on your server you can simply mention them: `/stats matchhistory @DiscordUser`
-<img src="/en_/en_stats_profile_user.png" width="500">
-<br>
-  
-For all other players fill in their [region](/en/terms/region), [gamename and tag (Riot ID)](/en/terms/riotid): `/stats matchhistory region gamename tag`
-<img src="/en_/en_stats_profile_riotid.png" width="900">
+<div class="discord-preview">
+  For yourself
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/stats matchhistory</span>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div><br>
+  		For registered players on your sever
+      <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/stats matchhistory</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">user</span>
+                <span class="dcp-arg-value">
+              	<span class="dcp-mention">@timfernix</span>
+              </span>
+            </div>
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div><br>
+  			For every other account
+        <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/stats matchhistory</span>
+        <div class="dcp-args">
+                <div class="dcp-arg">
+                <span class="dcp-arg-label">region</span>
+                <span class="dcp-arg-value">EUW</span>
+            </div>
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">game-name</span>
+                <span class="dcp-arg-value">Star Guardian Ez</span>
+            </div>
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">tag</span>
+                <span class="dcp-arg-value">real</span>
+            </div>
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+         
+###### Arguments
+| Argument | Required | Description |
+|----------|----------|-------------|
+| `user` | :x: | The Discord mention of the [player](/en/terms/player) you want to show the matchhistory of |
+| `region` | :x: | The [regiontag](/en/terms/region) of the [region](/en/terms/region) the account you want to show the statistics of |
+| `game-name` | :x: | The first part of the accounts [Riot ID](/en/terms/riotid) you want to show the matchhistory of |
+| `tag` | :x: | The second part of the accounts [Riot ID](/en/terms/riotid) you want to show the matchhistory of |
 <br>
  
 ## Example
