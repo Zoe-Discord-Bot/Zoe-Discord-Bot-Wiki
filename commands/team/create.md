@@ -2,7 +2,7 @@
 title: /create team - Command
 description: Information about the /create team command
 published: true
-date: 2024-04-26T18:38:36.477Z
+date: 2025-01-19T01:29:31.079Z
 tags: create, command, team
 editor: markdown
 dateCreated: 2024-04-22T17:16:51.262Z
@@ -19,7 +19,24 @@ dateCreated: 2024-04-22T17:16:51.262Z
 <br>
 
 ## Usage
-![](/en_/en_create_team.png)
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/create team</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">team-name</span>
+                <span class="dcp-arg-value">Zoe Staff</span>
+            </div>
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+###### Arguments
+| Argument | Required | Description |
+|----------|----------|-------------|
+| `argument` | :heavy_check_mark: | Choose a name for the team you want to create for example "Zoe Staff" |
 <br>
 
 ## Related commands/pages:
