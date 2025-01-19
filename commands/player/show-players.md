@@ -2,7 +2,7 @@
 title: /show players - Command
 description: Information about the /show players command
 published: true
-date: 2024-04-26T18:39:38.665Z
+date: 2025-01-19T01:00:23.439Z
 tags: command, players, show
 editor: markdown
 dateCreated: 2024-04-22T15:49:58.904Z
@@ -19,17 +19,44 @@ dateCreated: 2024-04-22T15:49:58.904Z
 <br>
 
 ## Usage
-To list every account on the server:
-![](/en_/en_show_players_all.png)
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/show players</span>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div><br>
+      <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/show players</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">user</span>
+                <span class="dcp-arg-value">
+              	<span class="dcp-mention">@timfernix</span>
+              </span>
+            </div>
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div><br>
+        <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/show players</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">discordid</span>
+                <span class="dcp-arg-value">589773984447463434</span>
+            </div>
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+###### Arguments
+| Argument | Required | Description |
+|----------|----------|-------------|
+| `user` | :x: | The Discord mention of the [player](/en/terms/player) you want to show the accounts of |
+| `discordid` | :x: | The Discord ID of the [player](/en/terms/player) you want to show the accounts of |
 <br>
 
-To list all accounts of one player you mention by their Discord name:
-![](/en_/en_show_players_user.png)
-<br>
-
-To list all accounts of one player by their Discord ID:
-![](/en_/en_show_players_id.png)
-<br>
- 
 ## Example
 ![](/en_/en_show_players_list.png)
