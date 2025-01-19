@@ -2,7 +2,7 @@
 title: /add playertoteam - Command
 description: Information about the /add playertoteam command
 published: true
-date: 2025-01-15T18:51:51.967Z
+date: 2025-01-19T01:33:04.449Z
 tags: command, add player to team
 editor: markdown
 dateCreated: 2024-04-22T17:21:20.687Z
@@ -19,7 +19,33 @@ dateCreated: 2024-04-22T17:21:20.687Z
 <br>
 
 ## Usage
-![](/en_/en_add_playertoteam.png)
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/add playertoteam</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">user</span>
+                <span class="dcp-arg-value">
+              	<span class="dcp-mention">@timfernix</span>
+              </span>
+            </div>
+        </div>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">team-name</span>
+                <span class="dcp-arg-value">Zoe Staff</span>
+            </div>
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+###### Arguments
+| Argument | Required | Description |
+|----------|----------|-------------|
+| `user` | :heavy_check_mark: | Mention the player you want to add to a team |
+| `team-name` | :heavy_check_mark: | Choose the name of the team you want to add the player to |
 <br>
  
 ## Related commands/pages:
