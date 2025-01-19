@@ -2,7 +2,7 @@
 title: /remove playerfromteam - Command
 description: Information about the /remove playerfromteam command
 published: true
-date: 2025-01-19T01:33:55.731Z
+date: 2025-01-19T01:34:04.362Z
 tags: command, remove player from team
 editor: markdown
 dateCreated: 2024-04-22T17:23:02.623Z
@@ -38,7 +38,7 @@ dateCreated: 2024-04-22T17:23:02.623Z
 ###### Arguments
 | Argument | Required | Description |
 |----------|----------|-------------|
-| `user` | :heavy_check_mark: | Mention the player you want to add to a team |
+| `user` | :heavy_check_mark: | Mention the player you want to remove from a team |
 <br>
 
 ## Related commands/pages:
