@@ -2,7 +2,7 @@
 title: /create player - Command
 description: Information about the /create player command
 published: true
-date: 2025-01-19T00:01:32.363Z
+date: 2025-01-19T00:25:28.857Z
 tags: create, command, player
 editor: markdown
 dateCreated: 2024-04-22T15:54:53.356Z
@@ -18,10 +18,6 @@ dateCreated: 2024-04-22T15:54:53.356Z
 ### Permissions needed:
 >**Manage channels** - only users with this permission ("moderators"/"administrators") can use this command as it affects Zoe for the server more deeply {.is-warning}
 
-<br>
-
-## Usage
-![](/en_/en_create_player_riotid.png)
 <br>
 
 ## Usage
@@ -56,10 +52,10 @@ dateCreated: 2024-04-22T15:54:53.356Z
 ###### Arguments
 | Argument | Required | Description |
 |----------|----------|-------------|
-| `user` | :heavy_check_mark: |  |
-| `region` | :heavy_check_mark: |  |
-| `game-name` | :heavy_check_mark: |  |
-| `tag` | :heavy_check_mark: |  |
+| `user` | :heavy_check_mark: | The Discord mention of the [player](/en/terms/player) you want to create |
+| `region` | :heavy_check_mark: | The [regiontag](/en/terms/region) of the [region](/en/terms/region) the player is in |
+| `game-name` | :heavy_check_mark: | The first part of the [players](/en/terms/player) [Riot ID](/en/terms/riotid) |
+| `tag` | :heavy_check_mark: | The second part of the [players](/en/terms/player) [Riot ID](/en/terms/riotid) |
 <br>
  
 ## Related commands/pages:
