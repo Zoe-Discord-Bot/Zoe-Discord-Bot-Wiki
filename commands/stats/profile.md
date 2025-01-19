@@ -2,7 +2,7 @@
 title: /stats profile - Command
 description: Information about the /stats profile command
 published: true
-date: 2024-05-05T18:29:49.397Z
+date: 2025-01-19T01:48:57.350Z
 tags: stats, stats profile, player stats, profile, riotid
 editor: markdown
 dateCreated: 2021-07-13T10:38:02.384Z
@@ -20,22 +20,57 @@ dateCreated: 2021-07-13T10:38:02.384Z
 
 
 ## Usage
-###### For yourself
-For your own profile you can simply use the command without parameters.
-**Usage:** `/stats profile`
-<img src="/en_/en_stats_profile_self.png" width="300">
-<br>
+<div class="discord-preview">
+  For yourself
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/stats profile</span>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div><br>
+  		For registered players on your sever
+      <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/stats profile</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">user</span>
+                <span class="dcp-arg-value">
+              	<span class="dcp-mention">@timfernix</span>
+              </span>
+            </div>
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div><br>
+  			For every other account
+        <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/stats profile</span>
+        <div class="dcp-args">
+                <div class="dcp-arg">
+                <span class="dcp-arg-label">region</span>
+                <span class="dcp-arg-value">EUW</span>
+            </div>
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">game-name</span>
+                <span class="dcp-arg-value">Star Guardian Ez</span>
+            </div>
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">tag</span>
+                <span class="dcp-arg-value">real</span>
+            </div>
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
 
-###### For registered players on your sever
-For [players](/en/terms/player) that are registered on your server you can simply mention them.
-**Usage:** `/stats profile @DiscordUser`
-<img src="/en_/en_stats_profile_user.png" width="500">
-<br>
-
-###### For every other account
-For all other profiles fill in their [region](/en/terms/region), [gamename and tag (Riot ID)](/en/terms/riotid).
-**Usage:** `/stats profile region gamename tag` 
-<img src="/en_/en_stats_profile_riotid.png" width="900">
+         
+###### Arguments
+| Argument | Required | Description |
+|----------|----------|-------------|
+| `user` | :x: | The Discord mention of the [player](/en/terms/player) you want to show the statistics of |
+| `region` | :x: | The [regiontag](/en/terms/region) of the [region](/en/terms/region) the account you want to show the statistics of |
+| `game-name` | :x: | The first part of the [players](/en/terms/player) [Riot ID](/en/terms/riotid) of the account you want to show the statistics of|
+| `tag` | :x: | The second part of the [players](/en/terms/player) [Riot ID](/en/terms/riotid) of the account you want to show the statistics of |
 <br>
 
 ## Example
