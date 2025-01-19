@@ -2,7 +2,7 @@
 title: /remove playerfromteam - Command
 description: Information about the /remove playerfromteam command
 published: true
-date: 2024-04-26T18:38:10.158Z
+date: 2025-01-19T01:33:55.731Z
 tags: command, remove player from team
 editor: markdown
 dateCreated: 2024-04-22T17:23:02.623Z
@@ -19,7 +19,26 @@ dateCreated: 2024-04-22T17:23:02.623Z
 <br>
 
 ## Usage
-![](/en_/en_remove_player.png)
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/remove playerfromteam</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">user</span>
+                <span class="dcp-arg-value">
+              	<span class="dcp-mention">@timfernix</span>
+              </span>
+            </div>
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+###### Arguments
+| Argument | Required | Description |
+|----------|----------|-------------|
+| `user` | :heavy_check_mark: | Mention the player you want to add to a team |
 <br>
 
 ## Related commands/pages:
