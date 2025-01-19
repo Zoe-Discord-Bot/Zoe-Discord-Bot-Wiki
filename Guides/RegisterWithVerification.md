@@ -2,14 +2,34 @@
 title: Registration with verification
 description: Here you can see how to register on a server with account verification enabled.
 published: true
-date: 2024-09-07T22:26:26.892Z
+date: 2025-01-19T02:13:37.827Z
 tags: registration, verification, riotid
 editor: markdown
 dateCreated: 2023-08-22T16:32:51.912Z
 ---
 
 :one: Start by entering the command ([`/register region gamename tag`](/en/commands/player/register/)), as shown below. Simply fill in the appropriate details for `region`, `gamename` and `tag`:
-<img src="/en_/en_register_riotid.png" width="80%" img>
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/register</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">region</span>
+                <span class="dcp-arg-value">EUW</span>
+            </div>
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">game-name</span>
+                <span class="dcp-arg-value">Star Guardian Ez</span>
+            </div>
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">tag</span>
+                <span class="dcp-arg-value">real</span>
+            </div>
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
 <br>
 
 :two: You will then see the confirmation message with a summoner icon that you need to set for the account you previously specified.
