@@ -2,7 +2,7 @@
 title: /delete player - Command
 description: Information about the /delete player command
 published: true
-date: 2024-04-26T18:39:21.928Z
+date: 2025-01-19T00:51:21.533Z
 tags: command, player, delete
 editor: markdown
 dateCreated: 2024-04-22T15:57:23.943Z
@@ -19,11 +19,39 @@ dateCreated: 2024-04-22T15:57:23.943Z
 <br>
 
 ## Usage
-To delete a player via player mention:
-![](/en_/en_delete_player_user.png)
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/delete player</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">user</span>
+                <span class="dcp-arg-value">
+                  <span class="dcp-mention">@timfernix</span>
+              </span>
+            </div> 
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div><br>
+  <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/delete player</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">discordid</span>
+                <span class="dcp-arg-value">589773984447463434
+              </span>
+            </div> 
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
 
-To delete a player via Discord ID:
-![](/en_/en_delete_player_id.png)
+###### Arguments
+| Argument | Required | Description |
+|----------|----------|-------------|
+| `user` | :heavy_check_mark: | Mention the player you want to delete |
+| `discordid` | :heavy_check_mark: | Paste the Discord ID of the player you want to delete (if no longer on the server) |
 <br>
  
 ## Related commands/pages:
