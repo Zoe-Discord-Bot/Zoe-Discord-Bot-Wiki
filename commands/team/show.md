@@ -2,7 +2,7 @@
 title: /show team - Command
 description: Learn more about the /show team command.
 published: true
-date: 2024-04-26T18:38:46.754Z
+date: 2025-01-19T01:36:58.976Z
 tags: command, show team
 editor: markdown
 dateCreated: 2024-04-22T17:09:01.349Z
@@ -20,7 +20,26 @@ dateCreated: 2024-04-22T17:09:01.349Z
 
 ## Usage
 You need to choose a team with the autocompletion in order for the command to work. <br>
-![](/en_/en_showteam.png)
+
+
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/show team</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">team-name</span>
+                <span class="dcp-arg-value">Zoe Staff</span>
+            </div>
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+###### Arguments
+| Argument | Required | Description |
+|----------|----------|-------------|
+| `team-name` | :heavy_check_mark: | Enter the name of the team you want to display the [players](/en/terms/player) accounts of |
 <br>
  
 ## Example
