@@ -2,7 +2,7 @@
 title: About the project
 description: Learn about Zoe and it's background.
 published: true
-date: 2025-01-19T02:49:31.986Z
+date: 2025-01-19T02:53:19.542Z
 tags: info, about, information, system, links
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
