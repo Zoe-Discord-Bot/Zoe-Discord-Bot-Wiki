@@ -2,7 +2,7 @@
 title: About the project
 description: Learn about Zoe and it's background.
 published: true
-date: 2024-10-03T16:26:29.008Z
+date: 2025-01-19T02:10:54.704Z
 tags: info, about, information, system, links
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
@@ -36,7 +36,7 @@ With Zoe you get statistics like champions played, [tips for every champion](/en
 ## Team
 
 - ![](https://cdn.discordapp.com/avatars/228541163966038016/da622447f7677a6c518919f39647a3ad.png?size=64 =18x)  &nbsp; **KaluNight** | Creator & Developer of Zoe
-- ![](https://cdn.discordapp.com/avatars/589773984447463434/bb159d2c8839d7d534132780c81b83f6.png?size=64 =18x) &nbsp; **timfernix** | Community Manager and Discord Head Moderator
+- ![](https://cdn.discordapp.com/avatars/589773984447463434/fe5a7d840e6841ba0e04c949ee5bb23f.png?size=64 =18x) &nbsp; **timfernix** | Community Manager and Discord Head Moderator
 - ![](https://cdn.discordapp.com/avatars/557297296526671872/a81038d05900dc2b3d6a55b9d0bf9aea.png?size=64 =18x) &nbsp; **pesooo** | Discord Moderator
 - ![](https://cdn.discordapp.com/avatars/323247267802906624/83c095fe271b0b1b80c2995518d1f794.png?size=64 =18x) &nbsp; **vandals** | Discord Moderator
 {.grid-list}
