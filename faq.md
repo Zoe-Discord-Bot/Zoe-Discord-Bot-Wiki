@@ -2,7 +2,7 @@
 title: FAQ - Frequently asked questions
 description: Find answers to frequently asked questions here.
 published: true
-date: 2024-11-23T13:04:57.407Z
+date: 2025-01-19T22:33:06.114Z
 tags: faq, frequently, asked, questions
 editor: markdown
 dateCreated: 2021-09-30T16:47:28.465Z
@@ -17,8 +17,7 @@ We are happy about anyone who wants to help us with the translation because in t
 <br>
 
 ## Can I define several channels in one text channel?
-Yes and no. This basically works, but not really, because all messages in Zoe's [infochannel](/en/features/infochannel) that do not belong there are deleted, including those from the [rankchannel](/en/features/rankchannel).  If you have the problem that the messages are deleted, you can undefine one of the two channels and define it again in another text channel.
-
+Yes and no. This works in theory, but not in practice, because all messages in Zoe's [infochannel](/en/features/infochannel) that do not belong there are deleted, including those from the [rankchannel](/en/features/rankchannel) or other channels. If you have the problem that the messages are deleted, you can undefine one of the two channels and define it again in another text channel.
 Please try to not mix these channels.
 <br>
 
