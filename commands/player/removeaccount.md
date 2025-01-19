@@ -2,7 +2,7 @@
 title: /remove account - Command
 description: Information about the /remove account command
 published: true
-date: 2025-01-19T01:15:46.998Z
+date: 2025-01-19T01:15:52.209Z
 tags: command, remove account
 editor: markdown
 dateCreated: 2024-04-22T16:19:55.082Z
@@ -16,10 +16,6 @@ dateCreated: 2024-04-22T16:19:55.082Z
 ### Permissions needed:
 >**Manage channels** - only users with this permission ("moderators"/"administrators") can use this command as it affects Zoe for the server more deeply {.is-warning}
 
-<br>
-
-## Usage
-![](/en_/en_remove_account_riotid.png)
 <br>
 
 ## Usage
