@@ -2,7 +2,7 @@
 title: /create team - Command
 description: Information about the /create team command
 published: true
-date: 2025-01-19T01:29:31.079Z
+date: 2025-01-19T01:29:59.689Z
 tags: create, command, team
 editor: markdown
 dateCreated: 2024-04-22T17:16:51.262Z
@@ -36,7 +36,7 @@ dateCreated: 2024-04-22T17:16:51.262Z
 ###### Arguments
 | Argument | Required | Description |
 |----------|----------|-------------|
-| `argument` | :heavy_check_mark: | Choose a name for the team you want to create for example "Zoe Staff" |
+| `team-name` | :heavy_check_mark: | Choose a name for the team you want to create for example "Zoe Staff" |
 <br>
 
 ## Related commands/pages:
