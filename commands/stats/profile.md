@@ -2,7 +2,7 @@
 title: /stats profile - Command
 description: Information about the /stats profile command
 published: true
-date: 2025-01-19T01:48:57.350Z
+date: 2025-01-19T01:49:46.535Z
 tags: stats, stats profile, player stats, profile, riotid
 editor: markdown
 dateCreated: 2021-07-13T10:38:02.384Z
@@ -69,8 +69,8 @@ dateCreated: 2021-07-13T10:38:02.384Z
 |----------|----------|-------------|
 | `user` | :x: | The Discord mention of the [player](/en/terms/player) you want to show the statistics of |
 | `region` | :x: | The [regiontag](/en/terms/region) of the [region](/en/terms/region) the account you want to show the statistics of |
-| `game-name` | :x: | The first part of the [players](/en/terms/player) [Riot ID](/en/terms/riotid) of the account you want to show the statistics of|
-| `tag` | :x: | The second part of the [players](/en/terms/player) [Riot ID](/en/terms/riotid) of the account you want to show the statistics of |
+| `game-name` | :x: | The first part of the accounts [Riot ID](/en/terms/riotid) you want to show the statistics of |
+| `tag` | :x: | The second part of the accounts [Riot ID](/en/terms/riotid) you want to show the statistics of |
 <br>
 
 ## Example
