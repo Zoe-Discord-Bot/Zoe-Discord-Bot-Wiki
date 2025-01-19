@@ -2,7 +2,7 @@
 title: /join - Command
 description: Information to the /join command.
 published: true
-date: 2024-04-26T18:38:01.334Z
+date: 2025-01-19T01:38:06.410Z
 tags: command, team, join
 editor: markdown
 dateCreated: 2024-04-22T17:33:33.724Z
@@ -21,7 +21,24 @@ dateCreated: 2024-04-22T17:33:33.724Z
 <br>
 
 ## Usage
-![](/en_/en_join_team.png)
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/join</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">team-name</span>
+                <span class="dcp-arg-value">Zoe Staff</span>
+            </div>
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+###### Arguments
+| Argument | Required | Description |
+|----------|----------|-------------|
+| `team-name` | :heavy_check_mark: | Enter the name of the team you want to join |
 <br>
 
 ## Related commands/pages:
