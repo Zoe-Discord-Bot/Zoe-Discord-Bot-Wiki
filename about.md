@@ -2,7 +2,7 @@
 title: About the project
 description: Learn about Zoe and it's background.
 published: true
-date: 2025-01-19T02:10:54.704Z
+date: 2025-01-19T02:45:12.035Z
 tags: info, about, information, system, links
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
@@ -42,6 +42,49 @@ With Zoe you get statistics like champions played, [tips for every champion](/en
 {.grid-list}
 
 <br>
+
+  <div class="profiles-wrapper">
+    <div class="profile-container">
+      <div class="banner" style="background-image: url('https://cdn.discordapp.com/banners/228541163966038016/a_94be0b6f71f6c8abf2ea8ed5162b4d12.gif?size=1024');"></div> 
+      <div class="profile-content">
+        <img class="profile-picture" src="https://cdn.discordapp.com/avatars/228541163966038016/da622447f7677a6c518919f39647a3ad.png?size=1024" alt="Profile Picture"> 
+        <div class="profile-info">
+          <h1>KaluNight</h1>
+          <p>Creator & Developer of Zoe</p>
+        </div>
+      </div>
+    </div>
+    <div class="profile-container">
+      <div class="banner" style="background-image: url('https://cdn.discordapp.com/banners/589773984447463434/34b80da188c5c0fb56c2f03eb224cc68.png?size=1024');"></div> 
+      <div class="profile-content">
+        <img class="profile-picture" src="https://cdn.discordapp.com/avatars/589773984447463434/fe5a7d840e6841ba0e04c949ee5bb23f.png?size=1024" alt="Profile Picture"> 
+        <div class="profile-info">
+          <h1>timfernix</h1>
+          <p>Community Manager and Discord Head Moderator</p>
+        </div>
+      </div>
+    </div>
+    <div class="profile-container">
+      <div class="banner" style="background-image: url('https://cdn.discordapp.com/banners/557297296526671872/a_b4ed82118b949ad8062d97c88dceb656.gif?size=1024');"></div> 
+      <div class="profile-content">
+        <img class="profile-picture" src="https://cdn.discordapp.com/avatars/557297296526671872/a81038d05900dc2b3d6a55b9d0bf9aea.png?size=1024" alt="Profile Picture"> 
+        <div class="profile-info">
+          <h1>pesooo</h1>
+          <p>Discord Moderator</p>
+        </div>
+      </div>
+    </div>
+    <div class="profile-container">
+      <div class="banner" style="background-image: url('banner4.jpg');"></div> 
+      <div class="profile-content">
+        <img class="profile-picture" src="https://cdn.discordapp.com/avatars/323247267802906624/4a4519bcd8d228504d91094d56a54123.png?size=1024" alt="Profile Picture"> 
+        <div class="profile-info">
+          <h1>Santi</h1>
+          <p>Discord Moderator</p>
+        </div>
+      </div>
+    </div>
+  </div>
 
 ## Birth of Zoe *(by KaluNight)*{.caption .grey--text}
 > To tell you the truth, Zoe was created by chance. There was a time when I had a League of Legends team and I wanted to give people who were interested in my team a little extra that would make them want to join.
