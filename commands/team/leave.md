@@ -2,7 +2,7 @@
 title: /leave - Command
 description: Information to the /leave command.
 published: true
-date: 2024-04-26T18:37:52.883Z
+date: 2025-01-19T01:39:03.743Z
 tags: command, team, leave
 editor: markdown
 dateCreated: 2024-04-22T17:44:17.770Z
@@ -21,7 +21,16 @@ dateCreated: 2024-04-22T17:44:17.770Z
 <br>
 
 ## Usage
-![](/en_/en_leave_team.png)
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/leave</span>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+###### Arguments
+*No arguments required*
 <br>
 
 ## Related commands/pages:
