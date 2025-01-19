@@ -2,7 +2,7 @@
 title: /banaccount - Command
 description: Information about the /banaccount command
 published: true
-date: 2024-04-26T18:38:56.031Z
+date: 2025-01-19T01:25:14.212Z
 tags: command, banaccount
 editor: markdown
 dateCreated: 2024-04-22T16:28:43.849Z
@@ -23,7 +23,34 @@ dateCreated: 2024-04-22T16:28:43.849Z
 ## Usage
 ###### :one: Command
 You start with issuing the command as seen below, just type your corresponding details for [region](/en/terms/region), [gamename and tag](/en/terms/riotid):
-<img src="/en_/en_banaccount_riotid.png" width="70%" img>
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/banaccount</span>
+        <div class="dcp-args">
+            </div>
+          <div class="dcp-arg">
+                <span class="dcp-arg-label">region</span>
+                <span class="dcp-arg-value">EUW</span>
+            </div>
+          <div class="dcp-arg">
+                <span class="dcp-arg-label">game-name</span>
+                <span class="dcp-arg-value">Star Guardian Ez</span>
+            </div>
+          <div class="dcp-arg">
+                <span class="dcp-arg-label">tag</span>
+                <span class="dcp-arg-value">real</span>
+            </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+###### Arguments
+| Argument | Required | Description |
+|----------|----------|-------------|
+| `region` | :heavy_check_mark: | The [regiontag](/en/terms/region) of the [region](/en/terms/region) the player is in |
+| `game-name` | :heavy_check_mark: | The first part of the [players](/en/terms/player) [Riot ID](/en/terms/riotid) |
+| `tag` | :heavy_check_mark: | The second part of the [players](/en/terms/player) [Riot ID](/en/terms/riotid) |
 <br>
 
 ###### :two: Verification prompt
@@ -47,31 +74,49 @@ After the icon is changed click on `Done` to verify your ownership of the accoun
 <br>
 
 ###### :six: Proceed further
-You can use the following commands: <br>
+You can now do the following things: <br>
 
 ## Commands {.tabset}
-### `@Zoe kick server-number`
+### Remove account from one server
 Example:
-<img src="/en_/en_ban_account_7.png" width="25%" img> <br>
->**Removes your account** from the corresponding sever.{.is-success} 
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+                <span class="dcp-mention">@Zoe</span>&nbsp;kick 3
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+>**Removes your account** from the corresponding sever (here ID 3).{.is-success} 
 
 >**Doesn't restrict** users from **adding** your account again.{.is-danger}
 
-### `@Zoe kick all`
+### Remove account from all servers
 Example:
-<img src="/en_/en_ban_account_8.png" width="20%" img> <br>
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+                <span class="dcp-mention">@Zoe</span>&nbsp;kick all
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
 >**Removes your account** from all servers.{.is-success} 
 
 >**Doesn't restrict** users from **adding** your account again.{.is-danger}
 
-### `@Zoe ban`
+### Restrict adding of the account
 Example:
-<img src="/en_/en_ban_account_9.png" width="20%" img> <br>
->**Restricts** everyone from **adding** your account on any server.{.is-success} 
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+                <span class="dcp-mention">@Zoe</span>&nbsp;ban
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+>**Restricts** everyone from **adding** your account to any server.{.is-success} 
 
 >Your account **isn't removed from any server** its currently on.{.is-danger}
 
 ## How to completely remove your account
 So if you want to completely remove your account from Zoe:
-- [x] Use @Zoe ban - To no longer allow adding the account on Zoe 
-- [x] Use @Zoe kick all - To remove it from all servers it is currently added to
+- [x] Use `@Zoe ban` - To no longer allow adding the account on Zoe 
+- [x] Use `@Zoe kick all` - To remove it from all servers it is currently added to
