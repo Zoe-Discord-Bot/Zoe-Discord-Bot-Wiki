@@ -2,7 +2,7 @@
 title: timfernix' Wiki/Markdown/HTML help
 description: 
 published: true
-date: 2024-04-26T15:38:48.673Z
+date: 2025-02-09T21:05:43.515Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-13T20:20:07.754Z
@@ -198,9 +198,41 @@ Tabset Description
 ```
 
 # Other
+Custom HTML/CSS
+<div class="discord-preview">
+    <div class="embed">
+        <div class="embed-title">Option 1</div>
+        <div>Option 2</div>
+        <div>Option 3</div>
+    </div>
+    <div class="reactions">
+        <div class="reaction">🔼 1</div>
+        <div class="reaction">✅ 1</div>
+        <div class="reaction">❎ 1</div>
+        <div class="reaction">🔽 1</div>
+    </div>
+</div>
+
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <span class="dcp-command">/command</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">argument</span>
+                <span class="dcp-arg-value">text</span>
+            </div>
+                <span class="dcp-mention">@Zoe</span>&nbsp;
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+
 Footnotes [^1]
 [^1]: Footnote 
 ```
 Footnotes [^1]
 [^1]: Footnote 
 ```
+
