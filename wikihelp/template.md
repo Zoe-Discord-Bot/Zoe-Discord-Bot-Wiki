@@ -2,7 +2,7 @@
 title: Template page
 description: Feature/Command template
 published: false
-date: 2025-01-18T23:02:22.439Z
+date: 2025-02-09T21:04:14.826Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-09T15:07:03.078Z
@@ -43,6 +43,7 @@ dateCreated: 2024-01-09T15:07:03.078Z
         <button class="dcp-send-btn">&#10148;</button> 
     </div>
 </div>
+<br>
 
 ###### Arguments
 | Argument | Required | Description |
