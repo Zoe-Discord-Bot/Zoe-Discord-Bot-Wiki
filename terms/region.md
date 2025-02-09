@@ -2,7 +2,7 @@
 title: Region
 description: Learn what a region is.
 published: true
-date: 2024-07-03T06:32:25.554Z
+date: 2025-02-09T18:42:17.283Z
 tags: server, region, server region, tag, region tag
 editor: markdown
 dateCreated: 2023-08-18T07:16:27.109Z
@@ -26,22 +26,20 @@ In order for Zoe to find your account on the right server, you must specify the 
 
 ## List of regions
 
-| Tag  | Region                          |
-|------|---------------------------------|
-| **BR**   | Brazil                          |
-| **EUNE** | Europe Nordic & East            |
-| **EUW**  | Europe West                     |
-| **LAN**  | Latin America North             |
-| **LAS**  | Latin America South             |
-| **NA**   | North America                   |
-| **ME**   | Middle East                         |
-| **OCE**  | Oceania                         |
-| **RU**   | Russia                          |
-| **TR**   | Turkey                          |
-| **JP**   | Japan                           |
-| **KR**   | Republic of Korea               |
-| **PH**   | The Philippines                 |
-| **SG**   | Singapore, Malaysia & Indonesia |
-| **TW**   | Taiwan, Hong Kong & Macao       |
-| **TH**   | Thailand                        |
-| **VN**   | Vietnam                         |
+| Tag | Region |
+| --- | ------ |
+|BR|Brazil|
+|EUNE|Europe Nordic & East|
+|EUW|Europe West|
+|LAN|Latin America North|
+|LAS|Latin America South|
+|ME|Middle East|
+|NA|North America|
+|OCE|Oceania|
+|RU|Russia|
+|TR|Turkey|
+|JP|Japan|
+|KR|Republic of Korea|
+|SEA|The Philippines <br> Singapore, Malaysia & Indonesia <br> Thailand|
+|TW|Taiwan, Hong Kong & Macao|
+|VN|Vietnam|
