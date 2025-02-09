@@ -2,7 +2,7 @@
 title: About the project
 description: Learn about Zoe and it's background.
 published: true
-date: 2025-01-19T12:17:31.810Z
+date: 2025-02-09T18:32:23.466Z
 tags: info, about, information, system, links
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
@@ -66,9 +66,9 @@ With Zoe you get statistics like champions played, [tips for every champion](/en
     </div>
   </div>
   <div class="profile-container">
-    <div class="banner" style="background-image: url('banner4.jpg');"></div> 
+    <div class="banner" style="background-image: url('');"></div> 
     <div class="profile-content">
-      <img class="profile-picture" src="https://cdn.discordapp.com/avatars/323247267802906624/4a4519bcd8d228504d91094d56a54123.png?size=1024" alt="Profile Picture"> 
+      <img class="profile-picture" src="https://cdn.discordapp.com/avatars/323247267802906624/b641b9d4070017405999bcb7f7ae17f1.png?size=1024" alt="Profile Picture"> 
       <div class="profile-info">
         <h1>Santi</h1>
         <p>Discord Moderator</p>
