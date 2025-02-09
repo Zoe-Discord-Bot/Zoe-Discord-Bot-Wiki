@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2024-07-18T23:16:31.760Z
+date: 2025-02-09T18:42:56.965Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -30,9 +30,24 @@ Then follows the first setting. You should select the language you want Zoe to s
 ![](/en_/en_setup_language.png)
 
 Directly after that, you have to select the standard [League of Legends server region](/en/terms/region). Available are the following tags:
-| Tag | BR  | EUNE | EUW | LAN | LAS | ME  | NA  | OCE | RU  | TR  | JP  | KR  | PH  | SG  | TW  | TH  | VN  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Region | Brazil | Europe Nordic & East | Europe West | Latin America North | Latin America South | Middle East | North America | Oceania | Russia | Turkey | Japan | Republic of Korea | The Philippines | Singapore, Malaysia & Indonesia | Taiwan, Hong Kong & Macao | Thailand | Vietnam |
+
+| Tag | Region |
+| --- | ------ |
+|BR|Brazil|
+|EUNE|Europe Nordic & East|
+|EUW|Europe West|
+|LAN|Latin America North|
+|LAS|Latin America South|
+|ME|Middle East|
+|NA|North America|
+|OCE|Oceania|
+|RU|Russia|
+|TR|Turkey|
+|JP|Japan|
+|KR|Republic of Korea|
+|SEA|The Philippines <br> Singapore, Malaysia & Indonesia <br> Thailand|
+|TW|Taiwan, Hong Kong & Macao|
+|VN|Vietnam|
 
 > Don't worry, you can always choose any region you want. Setting the default region will not lock any other regions.
 >{.is-warning}
