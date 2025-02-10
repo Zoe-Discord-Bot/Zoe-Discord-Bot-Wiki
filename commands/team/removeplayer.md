@@ -2,7 +2,7 @@
 title: /remove playerfromteam - Command
 description: Information about the /remove playerfromteam command
 published: true
-date: 2025-01-19T01:34:04.362Z
+date: 2025-02-10T19:38:47.400Z
 tags: command, remove player from team
 editor: markdown
 dateCreated: 2024-04-22T17:23:02.623Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-22T17:23:02.623Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/remove playerfromteam</span>
         <div class="dcp-args">
             <div class="dcp-arg">
