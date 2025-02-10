@@ -2,7 +2,7 @@
 title: /delete infochannel - Command
 description: Information about the /delete infochannel command
 published: true
-date: 2025-01-18T22:18:01.229Z
+date: 2025-02-10T19:35:10.071Z
 tags: command, infochannel, delete
 editor: markdown
 dateCreated: 2024-04-23T06:38:54.203Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-23T06:38:54.203Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/delete infochannel</span>
         <button class="dcp-send-btn">&#10148;</button> 
     </div>
