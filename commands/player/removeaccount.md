@@ -2,7 +2,7 @@
 title: /remove account - Command
 description: Information about the /remove account command
 published: true
-date: 2025-01-19T01:15:52.209Z
+date: 2025-02-10T19:38:09.297Z
 tags: command, remove account
 editor: markdown
 dateCreated: 2024-04-22T16:19:55.082Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-22T16:19:55.082Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/remove account</span>
         <div class="dcp-args">
             <div class="dcp-arg">
