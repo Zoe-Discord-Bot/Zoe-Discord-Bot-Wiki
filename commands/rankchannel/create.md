@@ -2,7 +2,7 @@
 title: /create rankchannel - Command
 description: Information about the /create rankchannel command
 published: true
-date: 2025-01-18T22:26:27.766Z
+date: 2025-02-10T19:35:32.424Z
 tags: create, command, rankchannel
 editor: markdown
 dateCreated: 2024-04-23T07:10:21.567Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-23T07:10:21.567Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/create rankchannel</span>
         <div class="dcp-args">
             <div class="dcp-arg">
