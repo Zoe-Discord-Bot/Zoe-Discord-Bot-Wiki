@@ -2,7 +2,7 @@
 title: /delete matchhistorychannel - Command
 description: Information about the /delete matchhistorychannel command
 published: true
-date: 2025-01-18T22:55:34.823Z
+date: 2025-02-10T19:36:43.837Z
 tags: command, delete, matchhistorychannel
 editor: markdown
 dateCreated: 2024-04-23T07:51:34.244Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-23T07:51:34.244Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/delete matchhistorychannel</span>
         <button class="dcp-send-btn">&#10148;</button> 
     </div>
