@@ -2,7 +2,7 @@
 title: /create infochannel - Command
 description: Information about the /create infochannel command
 published: true
-date: 2025-01-18T22:14:05.653Z
+date: 2025-02-10T19:35:01.601Z
 tags: create, command, infochannel
 editor: markdown
 dateCreated: 2024-04-23T06:34:54.293Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-23T06:34:54.293Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/create infochannel</span>
         <div class="dcp-args">
             <div class="dcp-arg">
