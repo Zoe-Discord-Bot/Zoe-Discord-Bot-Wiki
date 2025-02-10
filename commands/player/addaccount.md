@@ -2,7 +2,7 @@
 title: /add account  - Command
 description: Information about the /add account command
 published: true
-date: 2025-01-19T01:13:29.255Z
+date: 2025-02-10T19:38:01.719Z
 tags: command, account, add
 editor: markdown
 dateCreated: 2024-04-22T16:00:47.644Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-22T16:00:47.644Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/add account</span>
         <div class="dcp-args">
             <div class="dcp-arg">
