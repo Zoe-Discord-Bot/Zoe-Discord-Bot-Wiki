@@ -2,7 +2,7 @@
 title: /delete clashchannel - Command
 description: Information about the /delete clashchannel command
 published: true
-date: 2025-01-18T22:41:52.073Z
+date: 2025-02-10T19:36:10.379Z
 tags: command, clashchannel, delete
 editor: markdown
 dateCreated: 2024-04-23T07:33:26.760Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-23T07:33:26.760Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/delete clashchannel</span>
         <button class="dcp-send-btn">&#10148;</button> 
     </div>
