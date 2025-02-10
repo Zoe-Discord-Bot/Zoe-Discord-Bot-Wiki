@@ -2,7 +2,7 @@
 title: /create clashchannel - Command
 description: Information about the /create clashchannel command
 published: true
-date: 2025-01-18T22:40:42.354Z
+date: 2025-02-10T19:36:03.614Z
 tags: create, command, clashchannel
 editor: markdown
 dateCreated: 2024-04-23T07:29:57.900Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-23T07:29:57.900Z
 :one: Start by creating the clashchannel with:
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/create clashchannel</span>
         <div class="dcp-args">
             <div class="dcp-arg">
