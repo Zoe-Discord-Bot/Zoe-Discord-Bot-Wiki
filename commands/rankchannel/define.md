@@ -2,7 +2,7 @@
 title: /define rankchannel  - Command
 description: Information about the /define rankchannel command
 published: true
-date: 2025-01-18T22:28:54.483Z
+date: 2025-02-10T19:35:46.768Z
 tags: command, rankchannel, define
 editor: markdown
 dateCreated: 2024-04-23T07:13:19.421Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-23T07:13:19.421Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/define rankchannel</span>
         <div class="dcp-args">
             <div class="dcp-arg">
