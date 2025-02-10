@@ -2,7 +2,7 @@
 title: /stats rankupdate - Command
 description: Information about the /stats rankupdate command
 published: true
-date: 2025-01-19T02:03:51.309Z
+date: 2025-02-10T19:39:52.784Z
 tags: ranks, update, rank update, lps, lp gain, lp loss
 editor: markdown
 dateCreated: 2023-04-17T20:03:00.828Z
@@ -23,7 +23,7 @@ dateCreated: 2023-04-17T20:03:00.828Z
  ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/stats rankupdate</span>
         <div class="dcp-args">
             <div class="dcp-arg">
