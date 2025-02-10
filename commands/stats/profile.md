@@ -2,7 +2,7 @@
 title: /stats profile - Command
 description: Information about the /stats profile command
 published: true
-date: 2025-01-19T01:49:46.535Z
+date: 2025-02-10T19:39:18.116Z
 tags: stats, stats profile, player stats, profile, riotid
 editor: markdown
 dateCreated: 2021-07-13T10:38:02.384Z
@@ -23,13 +23,13 @@ dateCreated: 2021-07-13T10:38:02.384Z
 <div class="discord-preview">
   For yourself
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/stats profile</span>
         <button class="dcp-send-btn">&#10148;</button> 
     </div><br>
   		For registered players on your sever
       <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/stats profile</span>
         <div class="dcp-args">
             <div class="dcp-arg">
@@ -43,7 +43,7 @@ dateCreated: 2021-07-13T10:38:02.384Z
     </div><br>
   			For every other account
         <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/stats profile</span>
         <div class="dcp-args">
                 <div class="dcp-arg">
