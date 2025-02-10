@@ -2,7 +2,7 @@
 title: /delete player - Command
 description: Information about the /delete player command
 published: true
-date: 2025-01-19T00:51:21.533Z
+date: 2025-02-10T19:37:38.581Z
 tags: command, player, delete
 editor: markdown
 dateCreated: 2024-04-22T15:57:23.943Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-22T15:57:23.943Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/delete player</span>
         <div class="dcp-args">
             <div class="dcp-arg">
@@ -34,7 +34,7 @@ dateCreated: 2024-04-22T15:57:23.943Z
         <button class="dcp-send-btn">&#10148;</button> 
     </div><br>
   <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/delete player</span>
         <div class="dcp-args">
             <div class="dcp-arg">
