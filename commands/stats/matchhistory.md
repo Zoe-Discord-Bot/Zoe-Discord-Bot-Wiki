@@ -2,7 +2,7 @@
 title: /stats matchhistory - Command
 description: Information about the /stats matchhistory command
 published: true
-date: 2025-01-19T02:01:19.611Z
+date: 2025-02-10T19:39:45.625Z
 tags: command, stats, statistics, matchhistory
 editor: markdown
 dateCreated: 2023-04-09T12:03:20.071Z
@@ -22,13 +22,13 @@ dateCreated: 2023-04-09T12:03:20.071Z
 <div class="discord-preview">
   For yourself
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/stats matchhistory</span>
         <button class="dcp-send-btn">&#10148;</button> 
     </div><br>
   		For registered players on your sever
       <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/stats matchhistory</span>
         <div class="dcp-args">
             <div class="dcp-arg">
@@ -42,7 +42,7 @@ dateCreated: 2023-04-09T12:03:20.071Z
     </div><br>
   			For every other account
         <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/stats matchhistory</span>
         <div class="dcp-args">
                 <div class="dcp-arg">
