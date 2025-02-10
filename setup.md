@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2025-02-09T18:42:56.965Z
+date: 2025-02-10T11:46:52.245Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -27,7 +27,28 @@ Now you may have to log in to Discord, then select the server you want to add Zo
 When Zoe is added for the first time, it sends a short message to the default channel of the server.
 
 Then follows the first setting. You should select the language you want Zoe to speak on your server. (For more information, see [`/language`](/en/commands/administrative/language)). You can navigate with the reactions and then confirm the language you want Zoe to speak.
-![](/en_/en_setup_language.png)
+
+<div class="discord-preview">
+    <div class="embed">
+        <div class="embed-title">English (100%)</div>
+        <div>Arabic (31.9%)</div>
+        <div>Deutsch (100%)</div>
+      <div>Español (48.3%)</div>
+      <div>Français (73.4%)</div>
+      <div>Italiano (96%)</div>
+      <div>Polski (27.6%)</div>
+      <div>Português/BR (42.8%)</div>
+      <div>Русский (26.3%)</div>
+      <div>Turkish (20.9%)</div>
+    </div>
+    <div class="reactions">
+        <div class="reaction">🔼 1</div>
+        <div class="reaction">✅ 1</div>
+        <div class="reaction">❎ 1</div>
+        <div class="reaction">🔽 1</div>
+    </div>
+</div>
+<br>
 
 Directly after that, you have to select the standard [League of Legends server region](/en/terms/region). Available are the following tags:
 
@@ -54,12 +75,39 @@ Directly after that, you have to select the standard [League of Legends server r
 
 > You can change this setting later in the configuration if you wish (see [`/config`](/en/commands/important/config)).
 >{.is-info}
-  
-![](/en_/en_setup_region.png) 
-> Now Zoe sends another message about what you can do next. Read more in the next section.
->{.is-info}
+ 
+ 
+<div class="discord-preview">
+    <div class="embed">
+        <div class="embed-title">Region EUW</div>
+        <div>Region EUNE</div>
+        <div>Region BR</div>
+      	<div>Region JP</div>
+      	<div>Region KR</div>
+      	<div>Region LAN</div>
+      	<div>Region LAS</div>
+      	<div>Region NA</div>
+      	<div>Region OCE</div>
+      	<div>Region TR</div>
+				<div>Region RU</div>
+				<div>Region SEA</div>
+				<div>Region VN</div>
+				<div>Region TW</div>
+				<div>Region ME</div>
+				<div>Region Any (disabled)</div>      
+    </div>
+    <div class="reactions">
+        <div class="reaction">🔼 1</div>
+        <div class="reaction">✅ 1</div>
+        <div class="reaction">❎ 1</div>
+        <div class="reaction">🔽 1</div>
+    </div>
+</div>
+<br>
 
-> **You can now _follow this page_ (recommended) if you are not sure what you want and want to get an overview or continue with the [guide for a server with friends or for a team](/en/Guides/Team-Server) or the [guide for a  community server](/en/Guides/Community-Server) to see differentiated lists.**
+Now Zoe sends another message about what you can do next. Read more in the next section.
+
+**You can now _follow this page_ (recommended) if you are not sure what you want and want to get an overview or continue with the [guide for a server with friends or for a team](/en/Guides/Team-Server) or the [guide for a  community server](/en/Guides/Community-Server) to see differentiated lists.**
   
 <br>
 
