@@ -2,7 +2,7 @@
 title: /stats teamanalysis - Command
 description: Information about the /stats teamanalysis command
 published: true
-date: 2025-01-19T01:55:38.600Z
+date: 2025-02-10T19:39:35.564Z
 tags: stats, analysis, team, team analysis, team stats, teamanalysis, stats teamanalysis, riotid
 editor: markdown
 dateCreated: 2021-07-13T11:00:45.454Z
@@ -22,7 +22,7 @@ dateCreated: 2021-07-13T11:00:45.454Z
 *In this example only 1 out of 5 accounts is specified. In order for the command to work you need to specify 5 accounts.*
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/stats teamanalysis</span>
         <div class="dcp-args">
             <div class="dcp-arg">
