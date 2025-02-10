@@ -2,7 +2,7 @@
 title: /clash analysis - Command
 description: Information about the /clash analysis command
 published: true
-date: 2025-01-18T22:46:34.783Z
+date: 2025-02-10T19:36:25.774Z
 tags: command, clash, analysis
 editor: markdown
 dateCreated: 2024-04-23T07:38:57.405Z
@@ -23,7 +23,7 @@ If you want to analyse an opposing team, you need a [gamename and tag (Riot ID)]
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/clash analysis</span>
         <div class="dcp-args">
             <div class="dcp-arg">
