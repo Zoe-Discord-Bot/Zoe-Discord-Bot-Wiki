@@ -2,7 +2,7 @@
 title: /show team - Command
 description: Learn more about the /show team command.
 published: true
-date: 2025-01-19T01:36:58.976Z
+date: 2025-02-10T19:38:54.774Z
 tags: command, show team
 editor: markdown
 dateCreated: 2024-04-22T17:09:01.349Z
@@ -24,7 +24,7 @@ You need to choose a team with the autocompletion in order for the command to wo
 
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/show team</span>
         <div class="dcp-args">
             <div class="dcp-arg">
