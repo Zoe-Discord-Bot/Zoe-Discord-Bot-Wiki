@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2025-02-10T11:52:18.470Z
+date: 2025-02-10T12:02:09.219Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -30,9 +30,9 @@ Then follows the first setting. You should select the language you want Zoe to s
 
 <div class="discord-preview">
     <div class="embed">
-        <div class="embed-title">English (100%)</div>
-        <div>Arabic (31.9%)</div>
-        <div>Deutsch (100%)</div>
+      <div><b>English (100%)</b></div>
+       <div>Arabic (31.9%)</div>
+       <div>Deutsch (100%)</div>
       <div>Español (48.3%)</div>
       <div>Français (73.4%)</div>
       <div>Italiano (96%)</div>
@@ -61,7 +61,7 @@ Directly after that, you have to select the standard [League of Legends server r
  
 <div class="discord-preview">
     <div class="embed">
-        <div class="embed-title">Region EUW</div>
+        <div><b>Region EUW</b></div>
         <div>Region EUNE</div>
         <div>Region BR</div>
       	<div>Region JP</div>
