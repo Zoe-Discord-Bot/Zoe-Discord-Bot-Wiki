@@ -2,7 +2,7 @@
 title: /show players - Command
 description: Information about the /show players command
 published: true
-date: 2025-01-19T01:00:23.439Z
+date: 2025-02-10T19:37:51.758Z
 tags: command, players, show
 editor: markdown
 dateCreated: 2024-04-22T15:49:58.904Z
@@ -21,12 +21,12 @@ dateCreated: 2024-04-22T15:49:58.904Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/show players</span>
         <button class="dcp-send-btn">&#10148;</button> 
     </div><br>
       <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/show players</span>
         <div class="dcp-args">
             <div class="dcp-arg">
@@ -39,7 +39,7 @@ dateCreated: 2024-04-22T15:49:58.904Z
         <button class="dcp-send-btn">&#10148;</button> 
     </div><br>
         <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/show players</span>
         <div class="dcp-args">
             <div class="dcp-arg">
