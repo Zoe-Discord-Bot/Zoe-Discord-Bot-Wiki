@@ -2,7 +2,7 @@
 title: /undefine infochannel  - Command
 description: Information about the /undefine infochannel command
 published: true
-date: 2025-01-18T22:23:31.222Z
+date: 2025-02-10T19:35:24.759Z
 tags: command, infochannel, undefine
 editor: markdown
 dateCreated: 2024-04-23T07:05:32.693Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-23T07:05:32.693Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/undefine infochannel</span>
         <button class="dcp-send-btn">&#10148;</button> 
     </div>
