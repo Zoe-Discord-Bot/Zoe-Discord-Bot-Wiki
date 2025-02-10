@@ -2,7 +2,7 @@
 title: /banaccount - Command
 description: Information about the /banaccount command
 published: true
-date: 2025-01-19T01:25:14.212Z
+date: 2025-02-10T19:38:16.884Z
 tags: command, banaccount
 editor: markdown
 dateCreated: 2024-04-22T16:28:43.849Z
@@ -25,7 +25,7 @@ dateCreated: 2024-04-22T16:28:43.849Z
 You start with issuing the command as seen below, just type your corresponding details for [region](/en/terms/region), [gamename and tag](/en/terms/riotid):
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/banaccount</span>
         <div class="dcp-args">
             </div>
