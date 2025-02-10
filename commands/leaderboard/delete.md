@@ -2,7 +2,7 @@
 title: /delete leaderboard - Command
 description: Information about the /delete leaderboard command
 published: true
-date: 2025-01-18T23:02:00.502Z
+date: 2025-02-10T19:37:15.120Z
 tags: leaderboard, delete
 editor: markdown
 dateCreated: 2024-04-22T13:58:28.506Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-22T13:58:28.506Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/delete leaderboard</span>
         <button class="dcp-send-btn">&#10148;</button> 
     </div>
