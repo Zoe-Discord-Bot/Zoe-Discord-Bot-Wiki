@@ -2,7 +2,7 @@
 title: /define infochannel  - Command
 description: Information about the /define infochannel command
 published: true
-date: 2025-01-18T22:22:09.444Z
+date: 2025-02-10T19:35:17.537Z
 tags: command, infochannel, define
 editor: markdown
 dateCreated: 2024-04-23T06:41:58.423Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-23T06:41:58.423Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/define infochannel</span>
         <div class="dcp-args">
             <div class="dcp-arg">
