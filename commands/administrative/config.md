@@ -2,7 +2,7 @@
 title: /config - Command
 description: Information about the /config command
 published: true
-date: 2025-01-18T21:34:43.068Z
+date: 2025-02-10T19:34:27.922Z
 tags: command, config, configuration
 editor: markdown
 dateCreated: 2024-04-22T08:06:24.618Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-22T08:06:24.618Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/config</span>
         <button class="dcp-send-btn">&#10148;</button> 
     </div>
