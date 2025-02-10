@@ -2,7 +2,7 @@
 title: /create matchhistorychannel - Command
 description: Information about the /create matchhistorychannel command
 published: true
-date: 2025-01-18T22:54:07.718Z
+date: 2025-02-10T19:36:36.596Z
 tags: create, command, matchhistorychannel
 editor: markdown
 dateCreated: 2024-04-23T07:41:42.526Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-23T07:41:42.526Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/create matchhistorychannel</span>
         <div class="dcp-args">
             <div class="dcp-arg">
@@ -33,7 +33,7 @@ dateCreated: 2024-04-23T07:41:42.526Z
     </div>
   <br>
       <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/create matchhistorychannel</span>
         <div class="dcp-args">
             <div class="dcp-arg">
