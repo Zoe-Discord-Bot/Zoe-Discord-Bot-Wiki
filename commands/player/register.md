@@ -2,7 +2,7 @@
 title: /register- Command
 description: Information about the /register command
 published: true
-date: 2025-01-18T23:42:47.350Z
+date: 2025-02-10T19:37:22.068Z
 tags: command, register
 editor: markdown
 dateCreated: 2024-04-26T11:24:14.774Z
@@ -23,7 +23,7 @@ dateCreated: 2024-04-26T11:24:14.774Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/register</span>
         <div class="dcp-args">
             <div class="dcp-arg">
