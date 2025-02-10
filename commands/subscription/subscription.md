@@ -2,7 +2,7 @@
 title: /subscription - Command
 description: Information about the /subscription command
 published: true
-date: 2025-01-19T02:08:19.419Z
+date: 2025-02-10T19:40:09.793Z
 tags: command, subscription
 editor: markdown
 dateCreated: 2024-04-22T08:43:14.903Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-22T08:43:14.903Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/subscription</span>
         <button class="dcp-send-btn">&#10148;</button> 
     </div>
