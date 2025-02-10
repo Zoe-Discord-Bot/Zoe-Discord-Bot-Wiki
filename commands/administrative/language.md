@@ -2,7 +2,7 @@
 title: /language - Command
 description: Information about the /language command
 published: true
-date: 2025-01-18T21:33:11.498Z
+date: 2025-02-10T19:34:19.659Z
 tags: command, language, languages
 editor: markdown
 dateCreated: 2024-04-22T08:05:05.297Z
@@ -24,7 +24,7 @@ dateCreated: 2024-04-22T08:05:05.297Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/language</span>
         <div class="dcp-args">
             <div class="dcp-arg">
