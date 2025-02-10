@@ -2,7 +2,7 @@
 title: /patchnotes  - Command
 description: Information about the /patchnotes command
 published: true
-date: 2025-01-18T22:00:58.417Z
+date: 2025-02-10T19:34:44.805Z
 tags: command, patchnotes
 editor: markdown
 dateCreated: 2024-04-22T13:46:02.928Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-22T13:46:02.928Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/patchnotes</span>
         <button class="dcp-send-btn">&#10148;</button> 
     </div>
