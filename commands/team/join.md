@@ -2,7 +2,7 @@
 title: /join - Command
 description: Information to the /join command.
 published: true
-date: 2025-01-19T01:38:06.410Z
+date: 2025-02-10T19:39:01.562Z
 tags: command, team, join
 editor: markdown
 dateCreated: 2024-04-22T17:33:33.724Z
@@ -23,7 +23,7 @@ dateCreated: 2024-04-22T17:33:33.724Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/join</span>
         <div class="dcp-args">
             <div class="dcp-arg">
