@@ -2,7 +2,7 @@
 title: /rawserverdata - Command
 description: Learn more about the /rawserverdata command.
 published: true
-date: 2025-01-18T22:02:14.653Z
+date: 2025-02-10T19:34:53.450Z
 tags: command, server, raw, data, rawserverdata
 editor: markdown
 dateCreated: 2024-04-22T13:38:08.723Z
@@ -29,7 +29,7 @@ dateCreated: 2024-04-22T13:38:08.723Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/rawserverdata</span>
         <button class="dcp-send-btn">&#10148;</button> 
     </div>
