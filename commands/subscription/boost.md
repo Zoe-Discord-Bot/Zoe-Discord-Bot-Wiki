@@ -2,7 +2,7 @@
 title: /boost - Command
 description: Information about the /boost command
 published: true
-date: 2025-01-19T02:07:57.878Z
+date: 2025-02-10T19:40:02.528Z
 tags: command, boost
 editor: markdown
 dateCreated: 2024-04-22T08:40:33.152Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-22T08:40:33.152Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/boost</span>
         <button class="dcp-send-btn">&#10148;</button> 
     </div>
