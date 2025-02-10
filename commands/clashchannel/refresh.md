@@ -2,7 +2,7 @@
 title: /clash refresh - Command
 description: Information about the /clash refresh command
 published: true
-date: 2025-01-18T22:42:33.808Z
+date: 2025-02-10T19:36:17.119Z
 tags: command, clash, refresh
 editor: markdown
 dateCreated: 2024-04-23T07:36:52.658Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-23T07:36:52.658Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/clash refresh</span>
         <button class="dcp-send-btn">&#10148;</button> 
     </div>
