@@ -2,7 +2,7 @@
 title: /create player - Command
 description: Information about the /create player command
 published: true
-date: 2025-01-19T01:13:24.711Z
+date: 2025-02-10T19:37:29.391Z
 tags: create, command, player
 editor: markdown
 dateCreated: 2024-04-22T15:54:53.356Z
@@ -23,7 +23,7 @@ dateCreated: 2024-04-22T15:54:53.356Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/create player</span>
         <div class="dcp-args">
             <div class="dcp-arg">
