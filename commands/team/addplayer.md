@@ -2,7 +2,7 @@
 title: /add playertoteam - Command
 description: Information about the /add playertoteam command
 published: true
-date: 2025-01-19T01:33:04.449Z
+date: 2025-02-10T19:38:40.299Z
 tags: command, add player to team
 editor: markdown
 dateCreated: 2024-04-22T17:21:20.687Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-22T17:21:20.687Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/add playertoteam</span>
         <div class="dcp-args">
             <div class="dcp-arg">
