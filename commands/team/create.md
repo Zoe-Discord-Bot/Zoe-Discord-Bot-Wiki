@@ -2,7 +2,7 @@
 title: /create team - Command
 description: Information about the /create team command
 published: true
-date: 2025-01-19T01:29:59.689Z
+date: 2025-02-10T19:38:25.455Z
 tags: create, command, team
 editor: markdown
 dateCreated: 2024-04-22T17:16:51.262Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-22T17:16:51.262Z
 ## Usage
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/create team</span>
         <div class="dcp-args">
             <div class="dcp-arg">
