@@ -2,7 +2,7 @@
 title: /create leaderboard - Command
 description: Information about the /create leaderboard command
 published: true
-date: 2025-01-18T23:01:23.264Z
+date: 2025-02-10T19:37:07.085Z
 tags: create, leaderboard
 editor: markdown
 dateCreated: 2024-04-22T13:56:07.032Z
@@ -29,14 +29,10 @@ dateCreated: 2024-04-22T13:56:07.032Z
 <br>
 
 ## Usage
-![](/new_create_leaderboard.gif)
-<br>
-
-## Usage
 :one: Start by creating the leaderboard with:
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/create leaderboard</span>
         <button class="dcp-send-btn">&#10148;</button> 
     </div>
