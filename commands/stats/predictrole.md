@@ -2,7 +2,7 @@
 title: /stats predictrole  - Command
 description: Information about the /stats predictrole command
 published: true
-date: 2025-01-19T01:55:21.343Z
+date: 2025-02-10T19:39:26.888Z
 tags: prediction, predict role, predictrole, stats predictrole, predict, role, lane, lanes
 editor: markdown
 dateCreated: 2021-07-13T10:51:09.340Z
@@ -22,7 +22,7 @@ dateCreated: 2021-07-13T10:51:09.340Z
 *In this example only 1 out of 5 accounts is specified. In order for the command to work you need to specify 5 accounts.*
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/stats predictrole</span>
         <div class="dcp-args">
             <div class="dcp-arg">
