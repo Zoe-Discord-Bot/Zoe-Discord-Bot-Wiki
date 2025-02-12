@@ -2,7 +2,7 @@
 title: /config - Command
 description: Information about the /config command
 published: true
-date: 2025-02-12T18:32:12.992Z
+date: 2025-02-12T18:32:19.366Z
 tags: command, config, configuration
 editor: markdown
 dateCreated: 2024-04-22T08:06:24.618Z
@@ -69,6 +69,7 @@ dateCreated: 2024-04-22T08:06:24.618Z
             </div>
 </div>
 <br>
+
 ## Related commands/pages:
 -   [Configuration](/en/Zoe-Configuration/)
 -   [Zoe Setup](/en/setup/)
