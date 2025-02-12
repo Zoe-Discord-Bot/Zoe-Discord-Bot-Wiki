@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2025-02-10T12:02:09.219Z
+date: 2025-02-12T21:12:52.353Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -116,7 +116,7 @@ To use Zoe, you must first [register](/en/commands/player/register)/[create](/en
 ## Infochannel (read-only channel recommended)
 The [infochannel](/en/features/infochannel) contains stats on [players](/en/terms/player) as well as stats on games currently in progress.
 
-![](/en_/en_infochannel.png)
+![](/img/features/infopanel.jpg)
 ![](/en_/en_gamecard.png)
 
 - [Infochannel *For more information about the infochannel click here.*](/en/features/infochannel)
@@ -127,7 +127,7 @@ The [infochannel](/en/features/infochannel) contains stats on [players](/en/term
 ## Rankchannel (read-only channel recommended)
 The [rankchannel](/en/features/rankchannel) is, where a message will be sent after each ranked game of a [registered players](/en/terms/player). These messages contain the amount of won or lost LP and some stats on the [players](/en/terms/player) ingame performance like KDA, duration of the game and itembuild.
 
-![](/en_/en_rankchannel_message.png)
+![](/img/features/rankchannel_msg.png)
 
 - [Rankchannel *For more information about the rankchannel click here.*](/en/features/rankchannel)
 {.links-list}
