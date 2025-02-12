@@ -2,7 +2,7 @@
 title: Zoe Configuration
 description: Find out about how you can configure Zoe.
 published: true
-date: 2025-02-12T18:29:12.333Z
+date: 2025-02-12T18:30:45.577Z
 tags: config, configuration, setting, settings, option, options
 editor: markdown
 dateCreated: 2023-04-13T06:38:44.182Z
