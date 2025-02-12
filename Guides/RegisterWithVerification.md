@@ -2,7 +2,7 @@
 title: Registration with verification
 description: Here you can see how to register on a server with account verification enabled.
 published: true
-date: 2025-01-19T02:13:37.827Z
+date: 2025-02-12T18:42:41.730Z
 tags: registration, verification, riotid
 editor: markdown
 dateCreated: 2023-08-22T16:32:51.912Z
@@ -11,7 +11,7 @@ dateCreated: 2023-08-22T16:32:51.912Z
 :one: Start by entering the command ([`/register region gamename tag`](/en/commands/player/register/)), as shown below. Simply fill in the appropriate details for `region`, `gamename` and `tag`:
 <div class="discord-preview">
     <div class="dcp-chatbar">
-        <img src="https://zoe-discord-bot.ch/img/favicon.ico" class="dcp-avatar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/register</span>
         <div class="dcp-args">
             <div class="dcp-arg">
