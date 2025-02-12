@@ -2,7 +2,7 @@
 title: Rank roles - Feature
 description: Information about the automated rank roles.
 published: true
-date: 2025-01-11T22:58:01.318Z
+date: 2025-02-12T19:16:57.807Z
 tags: ranks, rank, role, roles, improved, improved rank roles, peak elo
 editor: markdown
 dateCreated: 2023-04-13T08:11:20.807Z
@@ -26,11 +26,63 @@ If a role is deleted, the feature still works with the remaining roles (you can 
 >{.is-success}
 
 To activate rank roles use the command [`/config`](/en/commands/administrative/config) and select the option `Automated rank-role features` in the dropdown menu.
-<img src="/basic_rankroles_1.png" width="40%"  />
 
+<div class="discord-preview">
+	 <div class="dropdown">
+                <div class="dropdown-selection">
+                    <span>Please select a category &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▾</span>
+                </div>
+                <div class="dropdown-item">
+                    <span>🌍 General settings</span>
+                    <div class="subtext">Settings that affect the entire server</div>
+                </div>
+                <div class="dropdown-item">
+                    <span>📃 Infochannel settings</span>
+                    <div class="subtext">Settings related to the infochannel</div>
+                </div>
+                <div class="dropdown-item">
+                    <span>🏆 Rankchannel settings</span>
+                    <div class="subtext">Settings related to the rankchannel</div>
+                </div>
+                <div class="dropdown-item">
+                    <span>🔧 Usermanagement settings</span>
+                    <div class="subtext">Settings concerning users and League accounts</div>
+                </div>
+                <div class="dropdown-item highlighted">
+                    <span>📈 Automated rank-role features</span>
+                    <div class="subtext">Specific settings for rank-roles</div>
+                </div>
+                <div class="dropdown-item">
+                    <span>✅ Additional features</span>
+                    <div class="subtext">Settings for additional features</div>
+                </div>
+                <div class="dropdown-item">
+                    <span>✨ Experimental features</span>
+                    <div class="subtext">This is where the magic happens</div>
+                </div>
+            </div>
+</div>
 
 In the next menu select Option :one:`Rank Role Feature`.
-<img src="/basic_rankroles_2.png" width="40%"  />
+<div class="discord-preview">
+	 <div class="dropdown">
+                <div class="dropdown-selection">
+                    <span>Please select an option</span>
+                </div>
+                <div class="dropdown-item highlighted">
+                    <span>1️ Rank Role Feature</span>
+                    <div class="subtext">Assigns roles depending of the rank of a player</div>
+                </div>
+                <div class="dropdown-item ">
+                    <span>2️⃣ Rank Role Improved</span>
+                    <div class="subtext">Assigns roles depending of the rank of a player</div>
+                </div>
+                <div class="dropdown-item ">
+                    <span>3️⃣ Peak Elo Rank Role </span>
+                    <div class="subtext">Assigns roles depending of the peak rank</div>
+                </div>
+            </div>
+</div>
 
 If necessary, read the description and confirm the activation with :white_check_mark:and then select for which queues/modes the roles should count. Use the buttons to activate or deactivate the categories. You have the choice between Solo/DuoQ, Flex and TFT. Then confirm this selection with `Activate`.
 ![](/basic_rankroles_3-4.png)
@@ -46,13 +98,84 @@ This takes a short moment, because Zoe has to create a role for each League of L
 >{.is-success}
 
 To activate improved rank roles use the command [`/config`](/en/commands/administrative/config) and select the option `Automated rank-role features` in the dropdown menu.
-<img src="/basic_rankroles_1.png" width="40%"  />
+<div class="discord-preview">
+	 <div class="dropdown">
+                <div class="dropdown-selection">
+                    <span>Please select a category &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▾</span>
+                </div>
+                <div class="dropdown-item">
+                    <span>🌍 General settings</span>
+                    <div class="subtext">Settings that affect the entire server</div>
+                </div>
+                <div class="dropdown-item">
+                    <span>📃 Infochannel settings</span>
+                    <div class="subtext">Settings related to the infochannel</div>
+                </div>
+                <div class="dropdown-item">
+                    <span>🏆 Rankchannel settings</span>
+                    <div class="subtext">Settings related to the rankchannel</div>
+                </div>
+                <div class="dropdown-item">
+                    <span>🔧 Usermanagement settings</span>
+                    <div class="subtext">Settings concerning users and League accounts</div>
+                </div>
+                <div class="dropdown-item highlighted">
+                    <span>📈 Automated rank-role features</span>
+                    <div class="subtext">Specific settings for rank-roles</div>
+                </div>
+                <div class="dropdown-item">
+                    <span>✅ Additional features</span>
+                    <div class="subtext">Settings for additional features</div>
+                </div>
+                <div class="dropdown-item">
+                    <span>✨ Experimental features</span>
+                    <div class="subtext">This is where the magic happens</div>
+                </div>
+            </div>
+</div>
 
 In the next menu select Option :two:`Rank Role Improved`.
-<img src="/improved_rankroles_1.png" width="40%"  />
+
+<div class="discord-preview">
+	 <div class="dropdown">
+                <div class="dropdown-selection">
+                    <span>Please select an option</span>
+                </div>
+                <div class="dropdown-item ">
+                    <span>1️ Rank Role Feature</span>
+                    <div class="subtext">Assigns roles depending of the rank of a player</div>
+                </div>
+                <div class="dropdown-item highlighted">
+                    <span>2️⃣ Rank Role Improved</span>
+                    <div class="subtext">Assigns roles depending of the rank of a player</div>
+                </div>
+                <div class="dropdown-item ">
+                    <span>3️⃣ Peak Elo Rank Role </span>
+                    <div class="subtext">Assigns roles depending of the peak rank</div>
+                </div>
+            </div>
+</div>
 
 You can also assign the improved rank roles by **peak elo**. Choose :three:`Peak Elo Rank Role` in this menu. One more step is required for peak elo rank roles: select the season/split. 
-<img src="/improved_rankroles_peakelo_1.png" width="40%"  />
+<div class="discord-preview">
+	 <div class="dropdown">
+                <div class="dropdown-selection">
+                    <span>Please select an option</span>
+                </div>
+                <div class="dropdown-item ">
+                    <span>1️ Rank Role Feature</span>
+                    <div class="subtext">Assigns roles depending of the rank of a player</div>
+                </div>
+                <div class="dropdown-item ">
+                    <span>2️⃣ Rank Role Improved</span>
+                    <div class="subtext">Assigns roles depending of the rank of a player</div>
+                </div>
+                <div class="dropdown-item highlighted">
+                    <span>3️⃣ Peak Elo Rank Role </span>
+                    <div class="subtext">Assigns roles depending of the peak rank</div>
+                </div>
+            </div>
+</div>
 <img src="/improved_rankroles_peakelo_2.png" width="80%"  />
 After that the creation is the same as for improved rank roles.
 
