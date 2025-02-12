@@ -2,19 +2,19 @@
 title: Zoe Features
 description: In here you find all core features explained.
 published: true
-date: 2024-04-26T19:05:55.042Z
+date: 2025-02-12T21:18:23.326Z
 tags: features, core, core features, feature
 editor: markdown
 dateCreated: 2021-07-06T09:25:25.035Z
 ---
 
 
--  [<i class="mdi mdi-information-outline"></i> Infochannel *Zoe provides an information panel with information about the players in a game and the current games with champions played, SoloQ rank or winrate with a champion played. You can also get champion tips for every champion played in a game.*](/en/features/infochannel) <br> <img src="/en_/en_infochannel.png" img>
+-  [<i class="mdi mdi-information-outline"></i> Infochannel *Zoe provides an information panel with information about the players in a game and the current games with champions played, SoloQ rank or winrate with a champion played. You can also get champion tips for every champion played in a game.*](/en/features/infochannel) <br> <img src="/img/features/infopanel.jpg" img>
 {.links-list}
 
 <br> 
   
--  [<i class="mdi mdi-trophy-outline"></i> Rankchannel *In the rankchannel it is possible to track the players' ranked progress.*](/en/features/rankchannel) <br> <img src="/en_/en_rankchannel_message.png" img>
+-  [<i class="mdi mdi-trophy-outline"></i> Rankchannel *In the rankchannel it is possible to track the players' ranked progress.*](/en/features/rankchannel) <br> <img src="/img/features/rankchannel_msg.png" img>
 {.links-list}
 
 <br> 
