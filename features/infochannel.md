@@ -2,7 +2,7 @@
 title: Infochannel - Feature
 description: Information about the infochannel
 published: true
-date: 2025-01-15T19:41:48.202Z
+date: 2025-02-12T21:19:39.714Z
 tags: info, infochannel, info panel, infopanel, info channel
 editor: markdown
 dateCreated: 2021-07-06T09:41:09.360Z
@@ -14,7 +14,7 @@ dateCreated: 2021-07-06T09:41:09.360Z
 <br>
 
 ## Example
-![](/en_/en_infochannel.png)
+![](/img/features/infopanel.jpg)
 <br>
  
 ## Related commands/pages:
