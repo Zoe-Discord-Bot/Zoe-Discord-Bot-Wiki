@@ -2,7 +2,7 @@
 title: Riot ID
 description: Learn what a Riot ID is including gamename and tagline.
 published: true
-date: 2025-02-13T14:37:15.814Z
+date: 2025-02-13T14:39:42.457Z
 tags: tag, riot, id, riot id, gamename, tagline, riotid
 editor: markdown
 dateCreated: 2023-11-23T07:53:57.640Z
@@ -43,8 +43,8 @@ If you want to learn more about Riot IDs you can check out the [Riot news articl
 <br>
 
 **Riot ID** <br>
--   [/stats predictrole](/en/commands/stats/predictRole)
--   [/stats teamanalysis](/en/commands/stats/teamAnalysis)
+-   [/stats predictrole](/en/commands/stats/predictrole)
+-   [/stats teamanalysis](/en/commands/stats/teamanalysis)
 {.links-list}
 
 <br>
