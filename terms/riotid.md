@@ -2,7 +2,7 @@
 title: Riot ID
 description: Learn what a Riot ID is including gamename and tagline.
 published: true
-date: 2024-07-03T06:40:18.934Z
+date: 2025-02-13T14:37:15.814Z
 tags: tag, riot, id, riot id, gamename, tagline, riotid
 editor: markdown
 dateCreated: 2023-11-23T07:53:57.640Z
@@ -54,4 +54,4 @@ You can easily find your gamename ingame and your Riot ID in the Riot Client as 
 League of Legends Client | Riot Client | Riot Account Page
 :--------: | :--------: | :--------:
 Only gamename   | Riot ID   | Riot ID
-![](/en_/en_riotid_gamename.png) | ![](/en_/en_riotid_riotclient.png) | ![](/en_/en_riotid_riotaccount.png)
+![](/img/general/riotid_gamename.png)| ![](/img/general/riotid_client.png) | ![](/img/general/riotid_account.png)
