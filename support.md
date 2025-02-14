@@ -2,7 +2,7 @@
 title: Support Zoe
 description: On this site you can learn about how you can support the project.
 published: true
-date: 2024-04-26T18:05:21.242Z
+date: 2025-02-14T08:25:36.441Z
 tags: support, membership, tier, tiers, subscription, abonnement
 editor: markdown
 dateCreated: 2021-08-07T08:35:31.575Z
@@ -14,7 +14,7 @@ dateCreated: 2021-08-07T08:35:31.575Z
 
 > Zoe is currently funded by [the subscribers to a premium subscription at Ko-fi](https://zoe-discord-bot.ch/donate.html) (Leaderboard: [Top 10](https://ko-fi.com/kalunight/leaderboard)).
 > 
->You can read this Guide: [Subscription Guide](/en/Guides/Subscription) or watch this video to assist you if you want to support Zoe's developement: [Kofi Donation Tutorial](https://www.youtube.com/watch?v=9DSwPOWHDd8)
+>You can read [the Subscription Guide](/en/Guides/Subscription) or watch [the Kofi donation tutorial video](https://www.youtube.com/watch?v=9DSwPOWHDd8) to assist you if you want to support Zoe's developement.
 >{.is-info}
 
 >Please note that you must remain on the Zoe Support & Development discord server to take benefit of your premium subscription.
