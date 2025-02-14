@@ -2,7 +2,7 @@
 title: Support Zoe
 description: On this site you can learn about how you can support the project.
 published: true
-date: 2025-02-14T08:25:36.441Z
+date: 2025-02-14T08:26:21.705Z
 tags: support, membership, tier, tiers, subscription, abonnement
 editor: markdown
 dateCreated: 2021-08-07T08:35:31.575Z
@@ -37,9 +37,6 @@ dateCreated: 2021-08-07T08:35:31.575Z
 <br>
 
 ## Overview over all donation/subscription types
->*If the buttons do not work for you when you click on the text, try clicking next to the text in the field*
->{.is-danger}
-
 
 # Tabs {.tabset}
 ## **One time donation**
