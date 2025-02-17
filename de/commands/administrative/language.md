@@ -2,7 +2,7 @@
 title: /language - Befehl
 description: Informationen zum /language Befehl
 published: true
-date: 2025-02-17T21:03:53.716Z
+date: 2025-02-17T21:03:58.508Z
 tags: language, sprache, sprachauswahl, sprachen
 editor: markdown
 dateCreated: 2023-08-21T09:46:11.496Z
