@@ -2,7 +2,7 @@
 title: Zoe Discord Bot Wiki Homepage - Deutsch
 description: Erfahre alles über Zoe, den League of Legends Discord-Bot.
 published: true
-date: 2024-01-08T11:58:18.005Z
+date: 2025-02-17T12:27:55.015Z
 tags: startseite, start, home
 editor: markdown
 dateCreated: 2021-07-14T09:13:23.860Z
@@ -18,18 +18,16 @@ dateCreated: 2021-07-14T09:13:23.860Z
 >Euer Zoe Team
 >{.is-info}
 
-
-
-
 <br><br>
 
-> **Willkommen im offiziellen Wiki für Zoe!  - [**Zoe hinzufügen**](https://zoe-discord-bot.ch/invite.html)** 
+# Willkommen im offiziellen Wiki für Zoe!
+**Du brauchst Hilfe mit Zoe?** Schaue dir diese Seiten zuerst an
+- [<i class="mdi mdi-comment-question-outline"></i>&nbsp; FAQ *Find the most asked questions here*](/en/faq)
+- [<i class="mdi mdi-tools"></i>&nbsp; Troubleshooting *Here is how you can solve small issues yourself*](/en/troubleshooting) 
+- [<i class="mdi mdi-book-open-page-variant-outline"></i>&nbsp; Quick Guides *Guides for specific usecases*](/en/Guides)
+{.links-list}
 
-> **Du brauchst Hilfe für Zoe?**  Schau dich hier um: [FAQ](/de/faq), [Fehlersuche](/de/troubleshooting) oder tritt unserem [Discord Server](https://discord.gg/4Rxrzsxb7d) bei und öffne einen Supportpost!
-> {.is-warning}
-
->   *Alternativ kannst du dir alle wichtigen Seiten im linken Menü ansehen oder in der Suchleiste oben suchen!*
-> {.is-info}
+und trete unserem [Discord Server](https://discord.gg/4Rxrzsxb7d) bei und öffne einen Support-Post!
 
 <br>
 
@@ -39,7 +37,7 @@ dateCreated: 2021-07-14T09:13:23.860Z
 
 <br>
 
-##### Zoe zu deinem Server hinzufügst:
+##### Zoe zu deinem Server hinzufügen:
 - [<i class="mdi mdi-power"></i> Einrichtung *Wie du Zoe auf deinem Server nutzen kannst*](/de/setup)
 - [<i class="mdi mdi-cog-outline"></i> Konfiguration *Konfigure Zoe für deine Nutzung*](/de/Zoe-Configuration)
 {.links-list}
@@ -53,6 +51,6 @@ dateCreated: 2021-07-14T09:13:23.860Z
 
 <br><br>
 
-- [<i class="mdi mdi-shield-check-outline"></i> Terms of Service *Lese unsere Terms of Service*](https://zoe-discord-bot.ch/terms-of-service.html)
-- [<i class="mdi mdi-shield-lock-outline"></i> Privacy Policy *Informiere dich über unsere Privacy Policy*](https://zoe-discord-bot.ch/privacy-policy.html)
+- [<i class="mdi mdi-shield-check-outline"></i> Terms of Service *Lese unsere Terms of Service*](https://zoe-discord-bot.ch/terms)
+- [<i class="mdi mdi-shield-lock-outline"></i> Privacy Policy *Informiere dich über unsere Privacy Policy*](https://zoe-discord-bot.ch/privacy)
 {.links-list}
