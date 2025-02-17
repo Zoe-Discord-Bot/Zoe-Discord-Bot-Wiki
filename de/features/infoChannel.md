@@ -2,7 +2,7 @@
 title: Infokanal - Feature
 description: Informationen über den Infokanal
 published: true
-date: 2024-01-09T14:27:06.510Z
+date: 2025-02-17T13:00:54.872Z
 tags: info, infokanal, kanal, infotafel
 editor: markdown
 dateCreated: 2023-08-12T18:27:13.433Z
