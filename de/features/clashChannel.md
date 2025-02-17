@@ -2,7 +2,7 @@
 title: Clashkanal - Feature
 description: Informationen über den Clashkanal
 published: true
-date: 2024-01-08T14:32:13.556Z
+date: 2025-02-17T13:02:47.225Z
 tags: clash, team, analyse, clash kanal, aktiv, inaktiv
 editor: markdown
 dateCreated: 2023-08-12T18:45:50.077Z
