@@ -2,7 +2,7 @@
 title: /setup - Befehl
 description: Informationen über den /setup Befehl.
 published: true
-date: 2025-02-17T20:54:14.613Z
+date: 2025-02-17T20:56:16.083Z
 tags: setup, einrichten, einrichtung
 editor: markdown
 dateCreated: 2023-08-21T09:38:33.870Z
