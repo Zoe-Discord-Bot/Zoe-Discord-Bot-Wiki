@@ -2,7 +2,7 @@
 title: Rangkanal - Feature
 description: Informationen über den Rangkanal
 published: true
-date: 2024-01-09T14:27:58.217Z
+date: 2025-02-17T13:01:46.667Z
 tags: kanal, rangkanal, rang, ränge
 editor: markdown
 dateCreated: 2023-08-12T18:35:58.064Z
