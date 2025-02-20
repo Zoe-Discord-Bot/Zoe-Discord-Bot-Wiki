@@ -2,7 +2,7 @@
 title: TFT Features
 description: Hier siehst du welche Features wir für TFT zur Verfügung stellen
 published: true
-date: 2025-02-17T13:12:23.879Z
+date: 2025-02-20T07:40:19.683Z
 tags: tft
 editor: markdown
 dateCreated: 2025-02-17T13:12:23.879Z
@@ -10,39 +10,39 @@ dateCreated: 2025-02-17T13:12:23.879Z
 
 # TFT Features
 
-> Due to the limitations of the API, it was not possible to implement TFT for all features that Zoe offers. It is still difficult for us to extend certain features for TFT, but we have it in mind, that much is said.
+> Aufgrund der Einschränkungen der API war es nicht möglich, TFT für alle Funktionen, die Zoe bietet, zu implementieren. Es ist immer noch schwierig für uns, bestimmte Funktionen für TFT zu erweitern, aber wir haben es im Hinterkopf.
 
 <br>
 
 
 
-## List of features
-- [x] **Infochannel** (partially)
-- [x] **Rankchannel**
+## Liste der Features
+- [x] **Infokanal** (teilweise)
+- [x] **Rangkanal**
 - [x] **Leaderboards**
-- [ ] Clashchannel
-- [x] **stats commands** (partially)
-- [ ] Matchhistorychannel
-- [x] **Rank roles**
+- [ ] Clashkanal
+- [x] **Stats Befehle** (teilweise)
+- [ ] Spielverlaufskanal
+- [x] **Rangrollen**
 <br>
 
-#### Infochannel
-The TFT rank is shown in the infopanel, when [the corresponding infochannel configuration](/de/Zoe-Configuration/Infochannel/Infochannel-Rankfilter) is set to `Show TFT rank only` or `Show latest rank change`. Gamecards are not generated for TFT matches.
+#### Infokanal
+Der TFT Rang der Spieler wird in der Infotafel angezeigt, wenn [die entsprechende Konfiguration des Infokanals](/de/Zoe-Configuration/Infochannel/Infochannel-Rankfilter) auf `Zeige nur TFT Rang` oder `Zeige letzte Rangänderung` gestellt ist. Spielkarten werde nicht für TFT Spiele generiert.
 <br>
 
-#### Rankchannel
-Your ranked TFT match results will be shown in the rankchannel, when [the corresponding rankchannel configuration](/de/Zoe-Configuration/Rankchannel/Rankchannel-Filter) is set to `Show all types` or `TFT only`.
+#### Rangkanal
+Die TFT Spielergebnis-Nachrichten werden im Rangkanal angezeigt, wenn [die entsprechende Konfiguration des Rangkanals](/de/Zoe-Configuration/Rankchannel/Rankchannel-Filter) auf `Zeige alle` or `nur TFT` gesetzt ist.
 <br>
 
 #### Leaderboards
-When creating a [leaderboard](/de/features/leaderboards) for a specific queue rank, you can select `TFT` to show the best ranked TFT players of your server.
+Beim Erstellen eines [Leaderboards](/de/features/leaderboards) für einen bestimmten Warteschlangen-Rang, kannst du `TFT` auswählen, um die höchstgeranktesten Spieler deines Servers zu zeigen.
 <br>
 
-#### stats commands
-Your TFT rank is shown on your [stats profile](/de/commands/stats/profile) card, under `Ranked Stats`. The other commands are not supported for TFT.
+#### Stats Befehle
+Dein TFT Rang wird dir in deinem [stats profile](/de/commands/stats/profile) Profil, unter `Ranked Stats` angezeigt. Die anderen Stats Befehle unterstützen aktuell kein TFT.
 <br>
 
-#### Rank roles
-For rank roles, your TFT rank is taken into account (if it's the highest rank of a player). 
-If you have a [premium subscription](/de/support), you can set `TFT` as the used queue in the configuration of the [improved rank roles](/de/features/rankroles).
+#### Rangrollen
+Für Rangrollen wird der TFT Rang angezeigt, wenn er der höchste Rang eines Spielers ist. 
+Wenn du ein [Premium Abbonement](/de/support) hast, kannst du `TFT` als die zu benutzende Warteschlange in den [verbesserten Rangrollen](/de/features/rankroles) wählen.
 <br>
