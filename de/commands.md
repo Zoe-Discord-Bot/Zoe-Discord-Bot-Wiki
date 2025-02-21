@@ -2,7 +2,7 @@
 title: Zoe Befehle
 description: Hier findest du alle Befehle aufgelistet.
 published: true
-date: 2025-02-21T22:57:48.289Z
+date: 2025-02-21T23:44:43.777Z
 tags: commands, cmd, cmds, command, befehl, befehle
 editor: markdown
 dateCreated: 2023-08-12T20:13:29.760Z
@@ -70,11 +70,13 @@ dateCreated: 2023-08-12T20:13:29.760Z
 {.links-list}
 
 # Teambefehle
-- [/create team *Dieser Befehl erstellt ein neues Team mit dem angegebenen Namen. Dies ermöglicht die Gruppierung von Spielern in der Infotafel.*](/de/commands/create/team/)
-- [/delete team *Verwende diesen Befehl, um das genannte Team aus dem System deines Servers zu löschen.*](/de/commands/delete/team/)
-- [/add playertoteam *Dieser Befehl fügt den erwähnten Spieler zum genannten Team hinzu.*](/de/commands/add/playerToTeam/)
-- [/remove playerfromteam *Entfernt den genannten Spieler aus dem genannten Team.*](/de/commands/remove/playerToTeam/)
-- [/show team *Mit diesem Befehl bekommst du eine kurze Übersicht über alle Spieler eines Teams angezeigt.*](/de/commands/important/show-team)
+- [/create team *Dieser Befehl erstellt ein neues Team mit dem angegebenen Namen. Dies ermöglicht die Gruppierung von Spielern in der Infotafel.*](/de/commands/team/create)
+- [/delete team *Verwende diesen Befehl, um das genannte Team aus dem System deines Servers zu löschen.*](/de/commands/team/delete)
+- [/add playertoteam *Dieser Befehl fügt den erwähnten Spieler zum genannten Team hinzu.*](/de/commands/team/addplayer)
+- [/remove playerfromteam *Entfernt den genannten Spieler aus dem genannten Team.*](/de/commands/team/removeplayer)
+- [/show team *Mit diesem Befehl bekommst du eine kurze Übersicht über alle Spieler eines Teams angezeigt.*](/de/commands/team/show)
+- [/join *Erlaub einem Spieler selbststänig einem Team beizutreten.*](/en/commands/team/join)
+- [/leave *Erlaub einem Spieler selbststänig ein Team verlassen.*](/en/commands/team/leave)
 {.links-list}
 
 <br>
