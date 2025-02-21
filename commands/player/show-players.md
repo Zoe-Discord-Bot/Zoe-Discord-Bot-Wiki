@@ -2,7 +2,7 @@
 title: /show players - Command
 description: Information about the /show players command
 published: true
-date: 2025-02-10T19:37:51.758Z
+date: 2025-02-21T18:24:48.117Z
 tags: command, players, show
 editor: markdown
 dateCreated: 2024-04-22T15:49:58.904Z
@@ -59,4 +59,4 @@ dateCreated: 2024-04-22T15:49:58.904Z
 <br>
 
 ## Example
-![](/en_/en_show_players_list.png)
+![](/img/commands/show_players.png)
