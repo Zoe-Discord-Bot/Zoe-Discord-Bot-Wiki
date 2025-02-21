@@ -2,7 +2,7 @@
 title: Zoe Befehle
 description: Hier findest du alle Befehle aufgelistet.
 published: true
-date: 2025-02-21T12:37:57.733Z
+date: 2025-02-21T18:25:58.268Z
 tags: commands, cmd, cmds, command, befehl, befehle
 editor: markdown
 dateCreated: 2023-08-12T20:13:29.760Z
@@ -64,9 +64,6 @@ dateCreated: 2023-08-12T20:13:29.760Z
 - [/create player *Dieser Befehl erstellt einen neuen Spieler mit den angegebenen Informationen.*](/de/commands/create/player/)
 - [/delete player *Mit diesem Befehl löschen Sie den genannten Spieler aus dem System auf deinem Server.*](/de/commands/delete/player/)
 - [/show players *Mit diesem Befehl bekommst du alle Spieler auf deinem Server mit all ihren Accounts angezeigt.*](/de/commands/important/show-players/)
-{.links-list}
-
-# Kontobefehle
 - [/add account *Dieser Befehl wird verwendet, um einen anderen/sekundären League of Legends-Kontos mit einem Spieler in Discord zu verbinden.*](/de/commands/add/account/)
 - [/remove account *Entfernt das genannte Konto von dem genannten Spieler.*](/de/commands/remove/account/)
 - [/banaccount *Startet den Verbotsliste-Assistenten. Damit kannst du (ein LoL-Kontoinhaber) sein Konto von anderen Servern löschen und es zur Verbotsliste hinzufügen, um es für andere unmöglich zu machen, es hinzuzufügen.*](/de/commands/other/banAccount/)
