@@ -2,7 +2,7 @@
 title: Zoe Befehle
 description: Hier findest du alle Befehle aufgelistet.
 published: true
-date: 2025-02-21T12:30:46.994Z
+date: 2025-02-21T12:37:57.733Z
 tags: commands, cmd, cmds, command, befehl, befehle
 editor: markdown
 dateCreated: 2023-08-12T20:13:29.760Z
@@ -91,7 +91,7 @@ dateCreated: 2023-08-12T20:13:29.760Z
 - [/stats rankupdate *Zoe fasst Informationen über LP-Gewinne und -Verluste in einem Tag, einer Woche und einem Monat zusammen.*](/de/commands/stats/rankupdate)
 {.links-list}
 
-# Ander Befehle
+# Andere Befehle
 - [/boost *Mit diesem Befehl kannst du den von dir verwendeten Server auf einen Premium-Server boosten.*](/de/commands/important/boost)
 - [/subscription *Dieser Befehl zeigt dir den aktuellen Status deines Zoe-Abonnements an.*](/de/commands/important/subscription)
 
