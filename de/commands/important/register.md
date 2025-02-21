@@ -2,7 +2,7 @@
 title: /register- Befehl
 description: Informationen über den Befehl /register
 published: true
-date: 2025-02-21T18:04:27.908Z
+date: 2025-02-21T18:04:46.631Z
 tags: register, registrierung, neu, neuer spieler, benutzer
 editor: markdown
 dateCreated: 2023-08-22T08:45:41.344Z
