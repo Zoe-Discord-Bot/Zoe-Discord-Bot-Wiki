@@ -2,7 +2,7 @@
 title: Zoe Commands
 description: In here you find all commands listed.
 published: true
-date: 2025-01-15T15:17:53.225Z
+date: 2025-02-21T10:57:25.310Z
 tags: commands, cmd, cmds, order, orders, command
 editor: markdown
 dateCreated: 2021-07-05T11:30:13.397Z
@@ -40,6 +40,11 @@ dateCreated: 2021-07-05T11:30:13.397Z
 - [/undefine rankchannel *Undefines the current rankchannel. This does not delete the text channel, Zoe will just not send anything in it anymore.*](/en/commands/rankchannel/undefine)
 {.links-list}
 
+## Leaderboards
+- [/create leaderboard *This command starts the wizard for creating leaderboards.*](/en/commands/leaderboard/create)
+- [/delete leaderboard *This command starts the wizard for deleting existing leaderboards.*](/en/commands/leaderboard/delete)
+{.links-list}
+
 ## Clashchannel
 - [/create clashchannel *This command creates a new clashchannel in which Zoe can send information about the current and upcoming clash for a specific league account.*](/en/commands/clashchannel/create)
 - [/delete clashchannel *Use this command to delete an existing clashchannel.*](/en/commands/clashchannel/delete)
@@ -50,11 +55,6 @@ dateCreated: 2021-07-05T11:30:13.397Z
 ## Matchhistorychannel
 - [/create matchhistorychannel *This command creates a matchhistorychannel in which Zoe sends all played games of the selected players.*](/en/commands/matchhistorychannel/create)
 - [/delete matchhistorychannel *Using this command deletes the matchhistorychannel of your server.*](/en/commands/matchhistorychannel/delete)
-{.links-list}
-
-## Leaderboards
-- [/create leaderboard *This command starts the wizard for creating leaderboards.*](/en/commands/leaderboard/create)
-- [/delete leaderboard *This command starts the wizard for deleting existing leaderboards.*](/en/commands/leaderboard/delete)
 {.links-list}
 
 <br>
