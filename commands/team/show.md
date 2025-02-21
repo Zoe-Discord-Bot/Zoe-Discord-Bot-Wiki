@@ -2,7 +2,7 @@
 title: /show team - Command
 description: Learn more about the /show team command.
 published: true
-date: 2025-02-10T19:38:54.774Z
+date: 2025-02-21T23:33:50.556Z
 tags: command, show team
 editor: markdown
 dateCreated: 2024-04-22T17:09:01.349Z
@@ -20,7 +20,6 @@ dateCreated: 2024-04-22T17:09:01.349Z
 
 ## Usage
 You need to choose a team with the autocompletion in order for the command to work. <br>
-
 
 <div class="discord-preview">
     <div class="dcp-chatbar">
@@ -43,4 +42,4 @@ You need to choose a team with the autocompletion in order for the command to wo
 <br>
  
 ## Example
-![](/en_/en_showteam_result.png)
+![](/img/commands/show_team.png)
