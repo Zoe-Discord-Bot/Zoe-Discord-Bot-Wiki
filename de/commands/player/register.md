@@ -2,7 +2,7 @@
 title: /register- Befehl
 description: Informationen über den Befehl /register
 published: true
-date: 2025-02-21T18:04:46.631Z
+date: 2025-02-21T18:05:18.684Z
 tags: register, registrierung, neu, neuer spieler, benutzer
 editor: markdown
 dateCreated: 2023-08-22T08:45:41.344Z
@@ -10,7 +10,7 @@ dateCreated: 2023-08-22T08:45:41.344Z
 
 # /register region gamename tag
 ## Informationen
-**Mit diesem Befehl können sich [Spieler](/de/terms/player) selbst zu Zoe hinzufügen. Dazu musst du die [`Region`](/de/terms/region), den [`Gametag und Tag (Riot ID)`](/de/terms/riotid) angeben. Dies funktioniert nur, wenn [die Option in der Konfiguration](/de/Zoe-Konfiguration/Benutzermanagement/Register) aktiviert ist ([`/config`](/de/commands/administrative/config)).**
+**Mit diesem Befehl können sich [Spieler](/de/terms/player) selbst zu Zoe hinzufügen. Dazu musst du die [`Region`](/de/terms/region), den [`Gametag und Tag (Riot ID)`](/de/terms/riotid) angeben. Dies funktioniert nur, wenn [die Option in der Konfiguration](/en/Zoe-Configuration/Usermanagment/Register) aktiviert ist ([`/config`](/de/commands/administrative/config)).**
 <br>
 
 ### Erforderliche Berechtigungen:
