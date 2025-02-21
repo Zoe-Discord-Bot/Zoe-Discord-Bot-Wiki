@@ -2,7 +2,7 @@
 title: Zoe Befehle
 description: Hier findest du alle Befehle aufgelistet.
 published: true
-date: 2025-02-21T22:22:20.599Z
+date: 2025-02-21T22:23:35.668Z
 tags: commands, cmd, cmds, command, befehl, befehle
 editor: markdown
 dateCreated: 2023-08-12T20:13:29.760Z
@@ -60,13 +60,13 @@ dateCreated: 2023-08-12T20:13:29.760Z
 <br>
 
 # Spielerbefehle
-- [/register *Mit diesem Befehl können sich Spieler auf deinem Server für Zoe registrieren (muss zuerst aktiviert werden).*](/de/commands/important/register/)
-- [/create player *Dieser Befehl erstellt einen neuen Spieler mit den angegebenen Informationen.*](/de/commands/create/player/)
-- [/delete player *Mit diesem Befehl löschen Sie den genannten Spieler aus dem System auf deinem Server.*](/de/commands/delete/player/)
-- [/show players *Mit diesem Befehl bekommst du alle Spieler auf deinem Server mit all ihren Accounts angezeigt.*](/de/commands/important/show-players/)
-- [/add account *Dieser Befehl wird verwendet, um einen anderen/sekundären League of Legends-Kontos mit einem Spieler in Discord zu verbinden.*](/de/commands/add/account/)
-- [/remove account *Entfernt das genannte Konto von dem genannten Spieler.*](/de/commands/remove/account/)
-- [/banaccount *Startet den Verbotsliste-Assistenten. Damit kannst du (ein LoL-Kontoinhaber) sein Konto von anderen Servern löschen und es zur Verbotsliste hinzufügen, um es für andere unmöglich zu machen, es hinzuzufügen.*](/de/commands/other/banAccount/)
+- [/register *Mit diesem Befehl können sich Spieler auf deinem Server für Zoe registrieren (muss zuerst aktiviert werden).*](/de/commands/player/register/)
+- [/create player *Dieser Befehl erstellt einen neuen Spieler mit den angegebenen Informationen.*](/de/commands/player/create/)
+- [/delete player *Mit diesem Befehl löschen Sie den genannten Spieler aus dem System auf deinem Server.*](/de/commands/player/delete/)
+- [/show players *Mit diesem Befehl bekommst du alle Spieler auf deinem Server mit all ihren Accounts angezeigt.*](/de/commands/player/show-players/)
+- [/add account *Dieser Befehl wird verwendet, um einen anderen/sekundären League of Legends-Kontos mit einem Spieler in Discord zu verbinden.*](/de/commands/player/addaccount/)
+- [/remove account *Entfernt das genannte Konto von dem genannten Spieler.*](/de/commands/player/removeaccount/)
+- [/banaccount *Startet den Verbotsliste-Assistenten. Damit kannst du (ein LoL-Kontoinhaber) sein Konto von anderen Servern löschen und es zur Verbotsliste hinzufügen, um es für andere unmöglich zu machen, es hinzuzufügen.*](/de/commands/player/banaccount/)
 {.links-list}
 
 # Teambefehle
