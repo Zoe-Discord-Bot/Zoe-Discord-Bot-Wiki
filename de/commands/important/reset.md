@@ -2,7 +2,7 @@
 title: /reset - Befehl
 description: Informationen über den /reset Befehl
 published: true
-date: 2025-02-21T09:01:18.449Z
+date: 2025-02-21T09:04:13.838Z
 tags: reset, zurücksetzen
 editor: markdown
 dateCreated: 2023-08-21T12:56:24.150Z
