@@ -2,40 +2,60 @@
 title: /show players - Befehl
 description: Lerne mehr über den /show players Befehl.
 published: true
-date: 2024-01-09T17:28:27.771Z
+date: 2025-02-21T18:25:01.106Z
 tags: players, show, show players
 editor: markdown
 dateCreated: 2024-01-08T20:11:25.059Z
 ---
 
 # /show players
+## Informationen
+**Mit diesem Befehl erhältst du alle [Spieler](/de/terms/player) auf deinem Server mit allen hinzugefügten Accounts in einer Nachricht angezeigt.**
 
->### Informationen
->**Mit diesem Befehl erhältst du alle [Spieler](/de/terms/player) auf deinem Server mit allen hinzugefügten Accounts in einer Nachricht angezeigt.**
->{.is-info}
-
->### Erforderliche Berechtigungen:
->*keine*
->{.is-success}
-
->### Verwandte Befehle/Seiten:
->*keine*
+### Erforderliche Berechtigungen:
+>**Keine** - jeder Benutzer des Servers kann diesen Befehl nutzen (solang nicht weiter durch Berechtigungen eingeschränkt) {.is-success}
 
 <br>
 
 ## Nutzung
-So listest du alle Konten auf dem Server auf:
-![](/en_/en_show_players_all.png)
-<br>
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
+        <span class="dcp-command">/show players</span>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div><br>
+      <div class="dcp-chatbar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
+        <span class="dcp-command">/show players</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">user</span>
+                <span class="dcp-arg-value">
+              	<span class="dcp-mention">@timfernix</span>
+              </span>
+            </div>
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div><br>
+        <div class="dcp-chatbar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
+        <span class="dcp-command">/show players</span>
+        <div class="dcp-args">
+            <div class="dcp-arg">
+                <span class="dcp-arg-label">discordid</span>
+                <span class="dcp-arg-value">589773984447463434</span>
+            </div>
+        </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
 
-Um alle Konten eines Spielers aufzulisten, gib dessen Discord-Namen an:
-![](/en_/en_show_players_user.png)
-<br>
-
-Zur Auflistung aller Konten eines Spielers anhand seiner Discord-ID:
-![](/en_/en_show_players_id.png)
-
+###### Argumente
+| Argument | Notwendig | Beschreibung |
+|----------|----------|-------------|
+| `user` | :heavy_check_mark: | Erwähne den Spieler, von welchem du die Konten sehen möchtest |
+| `discordid` | :heavy_check_mark: | Füge die Discord-ID des Spielers ein, dessen Konten du sehen möchtest |
 <br>
 
 ## Beispiel
-![](/en_/en_show_players_list.png)
+![](/img/commands/show_players.png)
