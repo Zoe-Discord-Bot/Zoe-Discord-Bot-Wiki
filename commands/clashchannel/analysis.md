@@ -2,7 +2,7 @@
 title: /clash analysis - Command
 description: Information about the /clash analysis command
 published: true
-date: 2025-02-10T19:36:25.774Z
+date: 2025-02-21T11:56:34.662Z
 tags: command, clash, analysis
 editor: markdown
 dateCreated: 2024-04-23T07:38:57.405Z
@@ -52,7 +52,7 @@ If you want to analyse an opposing team, you need a [gamename and tag (Riot ID)]
 <br>
  
 ## Example
-![](/en_/en_clashchannel_active.png)
+![](/img/features/clashchannel_active.png)
 <br>
  
 ## Related commands/pages:
