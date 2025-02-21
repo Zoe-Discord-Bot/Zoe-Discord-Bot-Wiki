@@ -2,7 +2,7 @@
 title: /patchnotes  - Command
 description: Information about the /patchnotes command
 published: true
-date: 2025-02-10T19:34:44.805Z
+date: 2025-02-21T09:25:44.842Z
 tags: command, patchnotes
 editor: markdown
 dateCreated: 2024-04-22T13:46:02.928Z
@@ -30,6 +30,7 @@ dateCreated: 2024-04-22T13:46:02.928Z
 ###### Arguments
 *No arguments required*
 <br>
+
 ## Related commands/pages:
 - [Patchnotes](/en/patchnotes/)
 {.links-list}
