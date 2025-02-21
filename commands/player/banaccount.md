@@ -2,14 +2,13 @@
 title: /banaccount - Command
 description: Information about the /banaccount command
 published: true
-date: 2025-02-10T19:38:16.884Z
-tags: command, banaccount
+date: 2025-02-21T20:38:15.686Z
+tags: command, remove account, banaccount, hide
 editor: markdown
 dateCreated: 2024-04-22T16:28:43.849Z
 ---
 
 # /banaccount
-
 ## Information
 **This command launches the banlist wizard. This allows you (an account owner) to delete their account from other servers and add it to the banlist to make it impossible for others to add, completely removing it from Zoe.**
 
@@ -55,22 +54,22 @@ You start with issuing the command as seen below, just type your corresponding d
 
 ###### :two: Verification prompt
 After that you will see the verification message with an summoner icon which you must set for the account specified before.
-<img src="/en_/en_banaccount_riotid_2.png" width="50%" img>
+![](/img/commands/verification_promt.png)
 <br>
 
 ###### :three: Open the game client
 Open the League of Legends client and log in if necessary. Click on your profile and summoner icon to change it.
-<img src="/en_/en_banaccount_riotid_3.png" width="60%" img>
+![](/img/commands/client_profile.png)
 <br>
 
 ###### :four: Select the icon
 Scroll down to the bottom of the icons list, choose the one shown in the embed and exit the icon selection to save your icon.
-<img src="/en_/en_banaccount_riotid_4.png" width="60%" img>
+![](/img/commands/client_icons.png)
 <br>
 
 ###### :five: Confirm verification
 After the icon is changed click on `Done` to verify your ownership of the account. The next message contains a list with all server in which your account is added. With the corresponding servername if youre a member, else with the servers ID.
-<img src="/en_/en_ban_account_6.png" width="35%" img>
+![](/img/commands/banaccount_servers.png)
 <br>
 
 ###### :six: Proceed further
