@@ -2,7 +2,7 @@
 title: Zoe Befehle
 description: Hier findest du alle Befehle aufgelistet.
 published: true
-date: 2025-02-21T18:25:58.268Z
+date: 2025-02-21T22:22:20.599Z
 tags: commands, cmd, cmds, command, befehl, befehle
 editor: markdown
 dateCreated: 2023-08-12T20:13:29.760Z
@@ -70,7 +70,6 @@ dateCreated: 2023-08-12T20:13:29.760Z
 {.links-list}
 
 # Teambefehle
-
 - [/create team *Dieser Befehl erstellt ein neues Team mit dem angegebenen Namen. Dies ermöglicht die Gruppierung von Spielern in der Infotafel.*](/de/commands/create/team/)
 - [/delete team *Verwende diesen Befehl, um das genannte Team aus dem System deines Servers zu löschen.*](/de/commands/delete/team/)
 - [/add playertoteam *Dieser Befehl fügt den erwähnten Spieler zum genannten Team hinzu.*](/de/commands/add/playerToTeam/)
