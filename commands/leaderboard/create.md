@@ -2,15 +2,14 @@
 title: /create leaderboard - Command
 description: Information about the /create leaderboard command
 published: true
-date: 2025-02-10T19:37:07.085Z
-tags: create, leaderboard
+date: 2025-02-21T11:09:02.135Z
+tags: create, leaderboard, create leaderboard
 editor: markdown
 dateCreated: 2024-04-22T13:56:07.032Z
 ---
 
 # /create leaderboard
 ## Information
-
 **If you use this command, the creation wizard for a [leaderboard](/en/features/leaderboards) will start. You can create [leaderboards](/en/features/leaderboards) that show the top 10 (on premium servers: 100) registered [players](/en/terms/player) in a category of your choice. Categories to choose are:**
 - **Total Mastery points**
 - **Mastery points on a specific champion**
