@@ -2,7 +2,7 @@
 title: /reset - Command
 description: Information about the /reset command
 published: true
-date: 2025-02-10T19:34:37.376Z
+date: 2025-02-21T09:01:17.026Z
 tags: command, reset
 editor: markdown
 dateCreated: 2024-04-22T08:37:18.101Z
@@ -35,7 +35,7 @@ Try to use this command if something is not working properly.**
 <br>
  
 #### Confirmation
-![](/en_/en_reset_command_3.png)
+![](/img/commands/reset.png)
 <div class="discord-preview">
     <div class="dcp-chatbar">
       <span class="dcp-mention">@Zoe</span>
