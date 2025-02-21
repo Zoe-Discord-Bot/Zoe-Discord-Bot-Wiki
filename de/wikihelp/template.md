@@ -2,7 +2,7 @@
 title: Vorlageseite
 description: 
 published: false
-date: 2025-02-21T09:24:33.580Z
+date: 2025-02-21T09:45:13.188Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-21T09:24:33.580Z
@@ -43,7 +43,6 @@ dateCreated: 2025-02-21T09:24:33.580Z
         <button class="dcp-send-btn">&#10148;</button> 
     </div>
 </div>
-<br>
 
 ###### Argumente
 | Argument | Notwendig | Beschreibung |
