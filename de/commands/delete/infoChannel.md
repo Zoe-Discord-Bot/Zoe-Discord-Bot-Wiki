@@ -2,7 +2,7 @@
 title: /delete infochannel - Befehl
 description: Informationen über den Befehl /delete infochannel
 published: true
-date: 2025-02-21T10:05:31.586Z
+date: 2025-02-21T10:05:47.983Z
 tags: delete infochannel, infokanal, infokanal löschen, löschen
 editor: markdown
 dateCreated: 2023-08-22T06:14:52.188Z
