@@ -2,61 +2,120 @@
 title: /banaccount - Befehl
 description: Lerne wie du deinen Account von Zoe entfernen kannst.
 published: true
-date: 2024-01-09T14:16:29.089Z
+date: 2025-02-21T20:38:16.421Z
 tags: account, ban, banaccount
 editor: markdown
 dateCreated: 2024-01-09T14:16:29.089Z
 ---
 
 # /banaccount
+## Informationen
+**Dieser Befehl startet den Bannlisten-Assistenten. Dies ermöglicht es dir (einem Kontobesitzer), sein Konto von anderen Servern zu löschen und es zur Verbotsliste hinzuzufügen, um es für andere unmöglich zu machen, es hinzuzufügen, und es vollständig von Zoe zu entfernen.**
 
-> ### Informationen
-> **Startet den Sperrlisten-Assistenten. Damit kannst du (ein Kontobesitzer) sein Konto von anderen Servern löschen und es zur Verbotsliste hinzufügen, um es für andere unmöglich zu machen, es hinzuzufügen.**
->{.is-info}
+### Erforderliche Berechtigungen:
+>**Keine** - jeder Benutzer des Servers kann diesen Befehl nutzen (solang nicht weiter durch Berechtigungen eingeschränkt) {.is-success}
 
-> ### Erforderliche Berechtigungen:
-> *keine*
->{.is-success}
-
-> ### Verwandte Befehle:
-> *keine*
+>**Kontoinhaberschaft** - dieser Befehl erfordert die Überprüfung des Besitzes eines League-Kontos (nicht discordbezogen) {.is-info}
 
 <br>
 
 ## Nutzung
-> :one:Beginne mit der Eingabe des unten gezeigten Befehls, gib einfach die entsprechenden Angaben für [Region](/de/terms/region), [Gamename und Tag](/de/terms/riotid):
-<img src="/en_/en_banaccount_riotid.png" width="70%" img>
->{.is-info} 
+###### :one: Befehl
+Beginne damit, den Befehl wie unten aufgeführt auszuführen und füge deine passenden Details für die [Region](/de/terms/region), [Gamename und Tag](/de/terms/riotid):
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
+        <span class="dcp-command">/banaccount</span>
+        <div class="dcp-args">
+            </div>
+          <div class="dcp-arg">
+                <span class="dcp-arg-label">region</span>
+                <span class="dcp-arg-value">EUW</span>
+            </div>
+          <div class="dcp-arg">
+                <span class="dcp-arg-label">game-name</span>
+                <span class="dcp-arg-value">Star Guardian Ez</span>
+            </div>
+          <div class="dcp-arg">
+                <span class="dcp-arg-label">tag</span>
+                <span class="dcp-arg-value">real</span>
+            </div>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
 
-> :two:Danach siehst du die Bestätigungsnachricht mit einem Beschwörersymbol, das du für den zuvor angegebenen Account einstellen musst.
-<img src="/en_/en_banaccount_riotid_2.png" width="55%" img>
->{.is-info} 
+###### Argumente
+| Argument | Notwendig | Beschreibung |
+|----------|----------|-------------|
+| `region` | :heavy_check_mark: | Der [Regiontag](/de/terms/region) der [Region](/de/terms/region) in dem der Spieler ist |
+| `game-name` | :heavy_check_mark: | Der erste Teil der  [Spieler](/de/terms/player) [Riot ID](/de/terms/riotid) |
+| `tag` | :heavy_check_mark: | Der zweite Teil der [Spieler](/de/terms/player) [Riot ID](/de/terms/riotid) |
+<br>
 
-> :three:Öffne den League of Legends-Client und logge dich ein, falls nötig. Klicke auf dein Profil und dann dein Beschwörersymbol, um es zu ändern.
-<img src="/en_/en_banaccount_riotid_3.png" width="60%" img>
->{.is-info} 
+###### :two: Verifikation
+Danach siehst du die Bestätigungsnachricht mit einem Beschwörersymbol, das du für das zuvor angegebene Konto einstellen musst.
+![](/img/commands/verification_promt.png)
+<br>
 
-> :four:Scrolle bis zum Ende der Symbolliste, wähle das Symbol, welches Zoe dir vorgibt, aus und verlasse die Symbolauswahl, um das vorgegebene Beschwörersymbol zu speichern.
-<img src="/en_/en_banaccount_riotid_4.png" width="60%" img>
->{.is-info} 
+###### :three: Öffne den Spielclient
+Öffne den League of Legends-Client und logge dich ein, falls nötig. Klicke auf Dein Profil und das Beschwörersymbol, um es zu ändern.
+![](/img/commands/client_profile.png)
+<br>
 
-> :five:Nach der Verifizierung klicke auf `Fertig`. Die nächste Nachricht enthält eine Liste mit allen Servern, bei denen dein Konto hinzugefügt wurde. Mit einem Namen, wenn du ein Mitglied bist, sonst mit der Server-ID.
-<img src="/en_/en_ban_account_6.png" width="35%" img>
->{.is-info} 
+###### :four: Wähle das Symbol aus
+Blättere bis zum Ende der Symbolliste, wähle das eingebettete Symbol aus und verlasse die Symbolauswahl, um das neue Symbol zu speichern.
+![](/img/commands/client_icons.png)
+<br>
 
-> :six:__Du kannst die folgenden Befehle verwenden:__ <br>
-> ## Commands {.tabset}
-> ### `@Zoe kick server-number`
->Löscht deinen Spieler vom Server mit der entsprechenden Nummer.
-<img src="/en_/en_ban_account_7.png" width="25%" img> <br>
-> ### `@Zoe kick all`
->Löscht deinen Spieler von allen Servern auf einmal.
-<img src="/en_/en_ban_account_8.png" width="20%" img> <br>
-> ### `@Zoe ban`
->Verhindert, dass andere Personen dein Konto hinzufügen, aber es wird nicht von den Servern gelöscht (wenn es bereits hinzugefügt wurde).
-<img src="/en_/en_ban_account_9.png" width="20%" img> <br>
-> ## Wie du dein Konto vollständig löschst
-> Wenn du also dein Konto vollständig aus Zoe entfernen möchtest, verwende `@Zoe ban` (um das Hinzufügen des Kontos auf Zoe nicht mehr zu erlauben) und `@Zoe kick all` (um es von allen Servern zu entfernen, denen es derzeit hinzugefügt ist).
->{.is-info} 
+###### :five: Bestätige die Verifikation
+Nachdem das Symbol geändert wurde, klicke auf „Fertig“, um zu bestätigen, dass du der Besitzer des Kontos bist. Die nächste Nachricht enthält eine Liste mit allen Servern, auf denen Dein Konto hinzugefügt wurde. Mit dem entsprechenden Servernamen, wenn Du ein Mitglied bist, sonst mit der Server-ID.
+![](/img/commands/banaccount_servers.png)
+<br>
 
+###### :six: Fahre fort
+Nun kannst du die folgenden Dinge tun: <br>
 
+## Befehle {.tabset}
+### Entferne dein Konto von einem Server
+Beispiel:
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+                <span class="dcp-mention">@Zoe</span>&nbsp;kick 3
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+>**Entfernt dein Konto** von dem ausgewählten Server (hier ID 3). {.is-success}
+
+>Dies **verhindert nicht das Hinzufügen** von diesem Konto {.is-danger}
+
+### Entferne dein Konto von allen Servern
+Beispiel:
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+                <span class="dcp-mention">@Zoe</span>&nbsp;kick all
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+
+>**Entfernt dein Konto** von allen Servern. {.is-success}
+
+>Dies **verhindert nicht das Hinzufügen** von diesem Konto {.is-danger}
+
+### Verhindern des Hinzufügen deines Kontos
+Beispiel:
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+                <span class="dcp-mention">@Zoe</span>&nbsp;ban
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
+ 
+>**Verhindert das Hinzufügen** deines Kontos zu jeden Server. {.is-success}
+
+>Dein Konto **wird nicht von Servern entfernt** auf denen es hinzugefügt ist. {.is-danger}
+
+## Wie entfernst du dein Konto komplett?
+Wenn du dein Konto komplett von Zoe entfernen willst nutze die folgenden Befehle:
+- [x] `@Zoe ban` - um das Hinzufügen des Kontos zu verhindern
+- [x] `@Zoe kick all` - um das Konto von allen Servern zu entfernen, auf denen es hinzugefügt ist 
