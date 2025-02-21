@@ -2,7 +2,7 @@
 title: /create matchhistorychannel - Command
 description: Information about the /create matchhistorychannel command
 published: true
-date: 2025-02-10T19:36:36.596Z
+date: 2025-02-21T12:05:02.145Z
 tags: create, command, matchhistorychannel
 editor: markdown
 dateCreated: 2024-04-23T07:41:42.526Z
@@ -50,8 +50,8 @@ dateCreated: 2024-04-23T07:41:42.526Z
 ###### Arguments
 | Argument | Required | Description |
 |----------|----------|-------------|
-| `matchhistory-name` | :x: | Choose a name for the matchhistorychannel, for example "lol-history" |
-| `matchhistory-assign` | :x: | Choose a discord textchannel that should become the matchhistorychannel |
+| `matchhistory-name` | :heavy_check_mark: | Choose a name for the matchhistorychannel, for example "lol-history" |
+| `matchhistory-assign` | :heavy_check_mark: | Choose a discord textchannel that should become the matchhistorychannel |
 <br>
  
 ## Related commands/pages:
