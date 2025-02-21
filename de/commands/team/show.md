@@ -2,13 +2,13 @@
 title: /show team - Befehl
 description: Lies mehr zum /show team Befehl
 published: true
-date: 2025-02-21T23:33:57.312Z
+date: 2025-02-21T23:34:11.355Z
 tags: team, show, show team
 editor: markdown
 dateCreated: 2025-02-21T23:33:57.311Z
 ---
 
-# /command
+# /show team
 ## Informationen
 **Mit diesem Befehl erhältst du eine kurze Übersicht über alle [Spieler](/de/terms/player) in einem deinem Teams, die du in einer Nachricht ausgewählt hast, mit Angabe ihres Rangs, der gespielten Champions und der Winrate.**
 <br>
