@@ -2,7 +2,7 @@
 title: Vorlageseite
 description: 
 published: false
-date: 2025-02-21T09:45:13.188Z
+date: 2025-02-21T12:44:10.598Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-21T09:24:33.580Z
@@ -51,12 +51,12 @@ dateCreated: 2025-02-21T09:24:33.580Z
 | `Argument` | :x: |  |
 *Keine Argumente notwendig*
 <br>
- 
+
 ## Beispiel
 ![]()
 <img src="" width="">
 <br>
- 
+
 ## Verwandte Befehle/Seiten:
 - [Seite]()
 {.links-list}
