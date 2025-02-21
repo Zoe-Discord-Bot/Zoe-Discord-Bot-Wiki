@@ -2,7 +2,7 @@
 title: /remove account - Befehl
 description: Lerne wie man einen Account von einem Spieler entfernt.
 published: true
-date: 2025-02-21T18:38:06.347Z
+date: 2025-02-21T18:38:35.838Z
 tags: player, remove, remove player
 editor: markdown
 dateCreated: 2024-01-08T21:15:12.017Z
@@ -51,7 +51,7 @@ dateCreated: 2024-01-08T21:15:12.017Z
 | Argument | Notwendig | Beschreibung |
 |----------|----------|-------------|
 | `user` | :heavy_check_mark: | Die Discord-Erwähnung des [Spielers](/de/terms/player) von welchem du ein Konto entfernen willst |
-| `region` | :heavy_check_mark: | Der [regiontag](/de/terms/region) der [region](/de/terms/region), in der sich das Konto befindet |
+| `region` | :heavy_check_mark: | Der [Regiontag](/de/terms/region) der [Region](/de/terms/region), in der sich das Konto befindet |
 | `game-name` | :heavy_check_mark: | Der erste Teil des Kontos [Riot ID](/de/terms/riotid) |
 | `tag` | :heavy_check_mark: | Der zweite Teil des Kontos [Riot ID](/de/terms/riotid) |
 <br>
