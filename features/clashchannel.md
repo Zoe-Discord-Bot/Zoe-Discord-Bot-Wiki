@@ -2,7 +2,7 @@
 title: Clashchannel - Feature
 description: Information about the clashchannel
 published: true
-date: 2024-05-02T12:52:29.250Z
+date: 2025-02-21T11:28:26.874Z
 tags: clashchannel, clash, analysis, tournament, team, inactive, active
 editor: markdown
 dateCreated: 2021-07-06T10:25:54.954Z
@@ -14,15 +14,15 @@ dateCreated: 2021-07-06T10:25:54.954Z
 <br>
 
 ## Example of an inactive clashchannel
-![](/en_/en_clashchannel_inactive.png)
+![](/img/features/clashchannel_inactive.png)
 
 <br>
 
 ## Example of an active clashchannel
 #### Automatic anaylsis of your team (picks)
-![](/en_/en_clashchannel_active.png)
+![](/img/features/clashchannel_active.png)
 #### Bans of enemy team analysis (picks same as seen above)
-![](/en_/en_clashchannel_active_bans.png)
+![](/img/features/clashchannel_bans.png)
 
 <br>
  
