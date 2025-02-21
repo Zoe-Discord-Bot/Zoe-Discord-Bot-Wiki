@@ -2,28 +2,36 @@
 title: /delete infochannel - Befehl
 description: Informationen über den Befehl /delete infochannel
 published: true
-date: 2024-01-09T17:24:50.433Z
+date: 2025-02-21T10:05:31.586Z
 tags: delete infochannel, infokanal, infokanal löschen, löschen
 editor: markdown
 dateCreated: 2023-08-22T06:14:52.188Z
 ---
 
 # /delete infochannel
+## Informationen
+**Dieser Befehl löscht den Infokanal deines Servers nach einer Aktualisierung.**
+<br>
 
->### Informationen
->**Dieser Befehl löscht den Infokanal deines Servers nach einer Aktualisierung.**
->{.is-info}
-
->### Erforderliche Berechtigungen: 
->Kanäle verwalten
->{.is-success}
-
->### Verwandte Befehle:
->-   [/create infochannel](/de/commands/create/infoChannel/)
->-   [Infokanal (feature)](/de/features/infoChannel/)
+### Erforderliche Berechtigungen:
+>**Kanäle verwalten** - nur Benutzer mit dieser Berechtigung („Moderatoren“/„Administratoren“) können diesen Befehl verwenden, da er Zoe für den Server tiefergehend beeinflusst {.is-warning}
 
 <br>
 
 ## Nutzung
+<div class="discord-preview">
+    <div class="dcp-chatbar">
+        <img src="/zoe_logo.png" class="dcp-avatar">
+        <span class="dcp-command">/delete infochannel</span>
+        <button class="dcp-send-btn">&#10148;</button> 
+    </div>
+</div>
 
-![](/new_delete_infochannel.gif)
+###### Argumente
+*Keine Argumente notwendig*
+<br>
+ 
+## Verwandte Befehle/Seiten:
+-   [/create infochannel](/de/commands/infochannel/create)
+-   [Infokanal (Feature)](/de/features/infochannel/)
+{.links-list}
