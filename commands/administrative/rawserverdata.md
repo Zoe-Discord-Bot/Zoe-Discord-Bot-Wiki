@@ -2,7 +2,7 @@
 title: /rawserverdata - Command
 description: Learn more about the /rawserverdata command.
 published: true
-date: 2025-02-10T19:34:53.450Z
+date: 2025-02-21T09:47:48.839Z
 tags: command, server, raw, data, rawserverdata
 editor: markdown
 dateCreated: 2024-04-22T13:38:08.723Z
@@ -40,4 +40,4 @@ dateCreated: 2024-04-22T13:38:08.723Z
 <br>
  
 ## Example
-![](/en_/en_rawserverdata_output.png)
+![](/img/commands/rawserverdata.png)
