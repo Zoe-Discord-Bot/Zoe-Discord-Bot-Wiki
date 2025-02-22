@@ -2,7 +2,7 @@
 title: /stats matchhistory - Befehl
 description: Informationen über den Befehl /stats matchhistory
 published: true
-date: 2025-02-22T00:51:19.037Z
+date: 2025-02-22T00:51:56.298Z
 tags: stats, matchhistory, spielverlauf, stats matchhistory
 editor: markdown
 dateCreated: 2023-08-17T11:51:59.584Z
@@ -20,13 +20,13 @@ dateCreated: 2023-08-17T11:51:59.584Z
 
 ## Nutzung
 <div class="discord-preview">
-  For yourself
+  For dich selbst
     <div class="dcp-chatbar">
         <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/stats matchhistory</span>
         <button class="dcp-send-btn">&#10148;</button> 
     </div><br>
-  		For registered players on your sever
+  		Für auf dem Server registrierte Spieler
       <div class="dcp-chatbar">
         <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/stats matchhistory</span>
@@ -40,7 +40,7 @@ dateCreated: 2023-08-17T11:51:59.584Z
         </div>
         <button class="dcp-send-btn">&#10148;</button> 
     </div><br>
-  			For every other account
+  			Für alle anderen Konten
         <div class="dcp-chatbar">
         <img src="/zoe_logo.png" class="dcp-avatar">
         <span class="dcp-command">/stats matchhistory</span>
