@@ -2,7 +2,7 @@
 title: /stats teamanalysis - Befehl
 description: Informationen über den Befehl /stats teamanalysis
 published: true
-date: 2025-02-22T00:32:46.704Z
+date: 2025-02-22T00:33:11.484Z
 tags: team, team analysis, analyse, team analyse
 editor: markdown
 dateCreated: 2023-08-17T11:42:57.913Z
@@ -10,8 +10,7 @@ dateCreated: 2023-08-17T11:42:57.913Z
 
 # /stats teamanalysis
 ## Informationen
-**Wenn du diesen Befehl ausführst, musst du 5 Konten mit ihrer [`Riot ID`](/de/terms/riotid) angeben und optional eine Position hinzufügen, damit Zoe eine Analyse starten kann. Es wird ausgewertet, wer welchen Champion auf welcher Position spielen könnte (falls nicht bereits definiert).** <br>
-**Funktioniert ähnlich wie [`/clash analysis`](/de/commands/clash/analysis) aber ohne das Clashteam.**
+**Wenn du diesen Befehl ausführst, musst du 5 Konten mit ihrer [`Riot ID`](/de/terms/riotid) angeben und optional eine Position hinzufügen, damit Zoe eine Analyse starten kann. Es wird ausgewertet, wer welchen Champion auf welcher Position spielen könnte (falls nicht bereits definiert).**
 <br>
 
 ### Erforderliche Berechtigungen:
