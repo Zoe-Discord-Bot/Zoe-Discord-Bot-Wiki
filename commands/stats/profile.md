@@ -2,7 +2,7 @@
 title: /stats profile - Command
 description: Information about the /stats profile command
 published: true
-date: 2025-02-10T19:39:18.116Z
+date: 2025-02-22T00:03:15.610Z
 tags: stats, stats profile, player stats, profile, riotid
 editor: markdown
 dateCreated: 2021-07-13T10:38:02.384Z
@@ -74,8 +74,8 @@ dateCreated: 2021-07-13T10:38:02.384Z
 <br>
 
 ## Example
-<img src="/en_/en_stats_profile.png" width="400">
- <br>
+![](/img/commands/stats_profile.png)
+<br>
  
 ## Related commands/pages:
 - [All stats commands](/en/commands/stats)
