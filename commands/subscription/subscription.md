@@ -2,7 +2,7 @@
 title: /subscription - Command
 description: Information about the /subscription command
 published: true
-date: 2025-02-10T19:40:09.793Z
+date: 2025-02-22T01:07:54.969Z
 tags: command, subscription
 editor: markdown
 dateCreated: 2024-04-22T08:43:14.903Z
@@ -32,7 +32,7 @@ dateCreated: 2024-04-22T08:43:14.903Z
 <br>
  
 ## Example
-![](/en_/en_subscription.png)
+![](/img/commands/subscription.png)
 <br>
  
 ## Related commands/pages:
