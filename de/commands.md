@@ -2,7 +2,7 @@
 title: Zoe Befehle
 description: Hier findest du alle Befehle aufgelistet.
 published: true
-date: 2025-02-22T01:10:54.090Z
+date: 2025-02-22T01:12:44.392Z
 tags: commands, cmd, cmds, command, befehl, befehle
 editor: markdown
 dateCreated: 2023-08-12T20:13:29.760Z
@@ -92,5 +92,4 @@ dateCreated: 2023-08-12T20:13:29.760Z
 # Abbonement Befehle
 - [/boost *Mit diesem Befehl kannst du den von dir verwendeten Server auf einen Premium-Server boosten.*](/de/commands/subscription/boost)
 - [/subscription *Dieser Befehl zeigt dir den aktuellen Status deines Zoe-Abonnements an.*](/de/commands/subscription/subscription)
-
 {.links-list}
