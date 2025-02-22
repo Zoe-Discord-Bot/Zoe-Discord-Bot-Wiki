@@ -2,7 +2,7 @@
 title: /stats teamanalysis - Command
 description: Information about the /stats teamanalysis command
 published: true
-date: 2025-02-10T19:39:35.564Z
+date: 2025-02-22T00:32:45.984Z
 tags: stats, analysis, team, team analysis, team stats, teamanalysis, stats teamanalysis, riotid
 editor: markdown
 dateCreated: 2021-07-13T11:00:45.454Z
@@ -50,12 +50,11 @@ dateCreated: 2021-07-13T11:00:45.454Z
  
 ## Example
 #### Picks for your team
-![](/en_/en_stats_teamanalysis_picks.png)
+![](/img/commands/stats_teamanalysis_picks.png)
 <br>
 
 #### Bans against your team
-![](/en_/en_stats_teamanalysis_bans.png)
-
+![](/img/commands/stats_teamanalysis_bans.png)
  <br>
  
 ## Related commands/pages:
