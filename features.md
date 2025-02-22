@@ -2,7 +2,7 @@
 title: Zoe Features
 description: In here you find all core features explained.
 published: true
-date: 2025-02-22T18:43:17.085Z
+date: 2025-02-22T18:47:11.856Z
 tags: features, core, core features, feature
 editor: markdown
 dateCreated: 2021-07-06T09:25:25.035Z
@@ -37,14 +37,14 @@ dateCreated: 2021-07-06T09:25:25.035Z
       <a href="/en/features/clashchannel">Learn More</a>
     </div>
     <div class="feature">
-      <img src="/img/commands/stats_profile.png" alt="Stats Profile" height="50%"/>
+      <img src="/img/commands/stats_profile.png" alt="Stats Profile"/>
       <h2><i class="mdi mdi-card-account-details-outline"></i> Stats Profile</h2>
       <p>Zoe provides information about a profile, including the top 3 highest champions, a summary of all masteries,
         the last 3 games played, ranking statistics of the player and a chart with the 6 highest mastery champions.</p>
       <a href="/en/commands/stats/profile">Learn More</a>
     </div>
     <div class="feature">
-      <img src="/en_/en_stats_teamanalysis_picks.png" alt="Stats Team Analysis" height="50%"/>
+      <img src="/en_/en_stats_teamanalysis_picks.png" alt="Stats Team Analysis"/>
       <h2><i class="mdi mdi-account-group-outline"></i> Stats Team Analysis</h2>
       <p>Zoe starts an analysis for picked and banned champions and lanes.</p>
       <a href="/en/commands/stats/teamanalysis">Learn More</a>
