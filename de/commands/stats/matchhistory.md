@@ -2,7 +2,7 @@
 title: /stats matchhistory - Befehl
 description: Informationen über den Befehl /stats matchhistory
 published: true
-date: 2025-02-22T00:51:03.214Z
+date: 2025-02-22T00:51:19.037Z
 tags: stats, matchhistory, spielverlauf, stats matchhistory
 editor: markdown
 dateCreated: 2023-08-17T11:51:59.584Z
@@ -11,6 +11,7 @@ dateCreated: 2023-08-17T11:51:59.584Z
 # /stats matchhistory
 ## Informationen
 **Der Befehl ermöglicht es, den Spielverlauf von League of Legends-Konten zu durchsuchen und grundlegende Statistiken wie Spielmodus, Champion und KDA einzusehen. Dieses Feature beinhaltet eine neue experimentelle KI-basierte Funktion, die euer Spiel in einer Zeile zusammenfasst. Ihr könnt ein Spiel auswählen, um mehr Details über das Spiel wie CS, Ränge und Killpartizipation anzuzeigen.**
+<br>
 
 ### Erforderliche Berechtigungen:
 >**Keine** - jeder Benutzer des Servers kann diesen Befehl nutzen (solang nicht weiter durch Berechtigungen eingeschränkt) {.is-success}
