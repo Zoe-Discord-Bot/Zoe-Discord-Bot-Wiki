@@ -2,7 +2,7 @@
 title: /boost - Befehl
 description: Informationen über den /boost Befehl
 published: true
-date: 2025-02-22T01:02:26.533Z
+date: 2025-02-22T01:12:24.330Z
 tags: abonnement, premium, boost, server boost, boosten
 editor: markdown
 dateCreated: 2023-08-21T13:03:03.771Z
