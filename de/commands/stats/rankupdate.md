@@ -2,7 +2,7 @@
 title: /stats rankupdate - Befehl
 description: Informationen über den Befehl /stats rankupdate
 published: true
-date: 2025-02-22T00:57:50.349Z
+date: 2025-02-22T00:58:02.018Z
 tags: rank update, rang, rangaktualisierung, lp gewinn, lp verlust
 editor: markdown
 dateCreated: 2023-08-17T11:58:01.339Z
@@ -17,6 +17,7 @@ dateCreated: 2023-08-17T11:58:01.339Z
 
 ### Erforderliche Berechtigungen:
 >**Keine** - jeder Benutzer des Servers kann diesen Befehl nutzen (solang nicht weiter durch Berechtigungen eingeschränkt) {.is-success}
+
 <br>
 
 ## Nutzung
