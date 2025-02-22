@@ -2,7 +2,7 @@
 title: Zoe Befehle
 description: Hier findest du alle Befehle aufgelistet.
 published: true
-date: 2025-02-21T23:44:43.777Z
+date: 2025-02-22T01:10:36.139Z
 tags: commands, cmd, cmds, command, befehl, befehle
 editor: markdown
 dateCreated: 2023-08-12T20:13:29.760Z
@@ -83,14 +83,14 @@ dateCreated: 2023-08-12T20:13:29.760Z
 
 # Stats-Befehle
 - [/stats profile *Zoe liefert einige Informationen über das ausgewählte Profil.*](/de/commands/stats/profile/)
-- [/stats predictrole *Zoe sagt die Rolle von 5 bestimmten Konten voraus, wenn sie zusammen spielen.*](/de/commands/stats/predictRole/)
-- [/stats teamanalysis *Zoe sagt die Rolle von 5 bestimmten Konten voraus, wenn sie zusammen spielen, und gibt Empfehlungen zum Auswählen und Bannen.*](/de/commands/stats/teamAnalysis/)
+- [/stats predictrole *Zoe sagt die Rolle von 5 bestimmten Konten voraus, wenn sie zusammen spielen.*](/de/commands/stats/predictrole/)
+- [/stats teamanalysis *Zoe sagt die Rolle von 5 bestimmten Konten voraus, wenn sie zusammen spielen, und gibt Empfehlungen zum Auswählen und Bannen.*](/de/commands/stats/teamanalysis/)
 - [/stats matchhistory *Ermöglicht es, den Spielverlauf von LoL-Konten zu durchsuchen und Spielstatistiken anzuzeigen.*](/de/commands/stats/matchhistory)
 - [/stats rankupdate *Zoe fasst Informationen über LP-Gewinne und -Verluste in einem Tag, einer Woche und einem Monat zusammen.*](/de/commands/stats/rankupdate)
 {.links-list}
 
 # Andere Befehle
-- [/boost *Mit diesem Befehl kannst du den von dir verwendeten Server auf einen Premium-Server boosten.*](/de/commands/important/boost)
-- [/subscription *Dieser Befehl zeigt dir den aktuellen Status deines Zoe-Abonnements an.*](/de/commands/important/subscription)
+- [/boost *Mit diesem Befehl kannst du den von dir verwendeten Server auf einen Premium-Server boosten.*](/de/commands/subscription/boost)
+- [/subscription *Dieser Befehl zeigt dir den aktuellen Status deines Zoe-Abonnements an.*](/de/commands/subscription/subscription)
 
 {.links-list}
