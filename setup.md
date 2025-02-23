@@ -2,26 +2,25 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2025-02-12T21:12:52.353Z
+date: 2025-02-23T17:19:24.219Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
 ---
 
-# Zoe Discord Bot Setup
+# Zoe Setup
 > Be aware that to set up Zoe you need the `Manage channels` permission on your server (if you are not the administrator anyway).
 {.is-warning}
 
 <br>
 
 ## Adding Zoe 
-You can add Zoe to your server by clicking on [<kbd>Add the bot</kbd>](https://zoe-discord-bot.ch/invite.html) on the homepage, on sites like [top.gg](https://top.gg/de/bot/550737379460382752) or [bots.ondiscord.xyz](https://bots.ondiscord.xyz/bots/550737379460382752) and here on the Wiki in the bottom left in the menu bar.
-
+You can add Zoe to your server by clicking on [<kbd>Add to Discord</kbd>/<kbd>Invite Zoe</kbd>](https://zoe-discord-bot.ch) on the homepage, on sites like [top.gg](https://top.gg/de/bot/550737379460382752) or [bots.ondiscord.xyz](https://bots.ondiscord.xyz/bots/550737379460382752) and here on the Wiki in the bottom left in the menu bar.
 <br>
   
 ## Authorizing Zoe
 Now you may have to log in to Discord, then select the server you want to add Zoe to and confirm Zoe's permissions. You may have to solve a captcha and then you can start.
-![](/en_/en_add_zoe_full.png)
+![](/img/general/discord_setup.png)
 
 ## Setup
 When Zoe is added for the first time, it sends a short message to the default channel of the server.
@@ -55,9 +54,8 @@ Directly after that, you have to select the standard [League of Legends server r
 > Don't worry, you can always choose any region you want. Setting the default region will not lock any other regions.
 >{.is-warning}
 
-> You can change this setting later in the configuration if you wish (see [`/config`](/en/commands/important/config)).
+> You can change this setting later in the configuration if you wish (see [`/config`](/en/commands/administrative/config)).
 >{.is-info}
- 
  
 <div class="discord-preview">
     <div class="embed">
@@ -117,7 +115,7 @@ To use Zoe, you must first [register](/en/commands/player/register)/[create](/en
 The [infochannel](/en/features/infochannel) contains stats on [players](/en/terms/player) as well as stats on games currently in progress.
 
 ![](/img/features/infopanel.jpg)
-![](/en_/en_gamecard.png)
+![](/img/features/gamecard.png)
 
 - [Infochannel *For more information about the infochannel click here.*](/en/features/infochannel)
 {.links-list}
@@ -137,7 +135,7 @@ The [rankchannel](/en/features/rankchannel) is, where a message will be sent aft
 ## Clashchannel
 This channel will send stats about an account in relation to clash. It will contain schedules of future clashes in your timezone as well as stats about your team. You will also be able to do an detailed analysis of enemy teams with ban recommendations.
 
-![](/en_/en_stats_teamanalysis_picks.png)
+![](/img/commands/stats_teamanalysis_picks.png)
 
 - [Clashchannel *For more information about the clashchannel click here.*](/en/features/clashchannel)
 {.links-list}
@@ -156,7 +154,7 @@ This feature allows you to create leaderboards that refresh automatically. Sever
 -   Best Champion ("OTP")
 -   Account Level
 
-![](/en_/en_leaderboard_championmasterypoints.png)
+![](/img/features/leaderboard_championmastery.png)
 
 - [Leaderboards *For more information about leaderboards click here.*](/en/features/leaderboards)
 {.links-list}
@@ -166,7 +164,7 @@ This feature allows you to create leaderboards that refresh automatically. Sever
 ## Automated Discord roles by League rank
 You can set up an automatic rank system with Zoe easily. The roles will be refreshed regularly automatically. The premium version of this feature offers more options (filter by server region, display of each division, full control over each role and more).
 
-![](/improved_rankroles_5.png)
+![](/img/features/rankroles.jpg)
 
 - [Rankroles *For more information about rankroles click here.*](/en/features/rankroles)
 {.links-list}
@@ -178,9 +176,8 @@ Once your features are set up correctly, they will update automatically as soon 
 <br>
   
 # 3\. Customize these features (because every server is different)
-> To manage Zoe and all the different settings it offers, use this command: [`/config`](/en/commands/administrative/config). 
+To manage Zoe and all the different settings it offers, use this command: [`/config`](/en/commands/administrative/config). 
  Read everything about the configuration here: [**Configuration**](/en/Zoe-Configuration/).
->{.is-info}
 
 <br>
   
@@ -188,14 +185,14 @@ Once your features are set up correctly, they will update automatically as soon 
 Zoe has many more features. You can have a look at all commands if you click [HERE](/en/commands).
 One example being [`/stats profile`](/en/commands/stats/profile) letting you view a players profile:
 
-![](/en_/en_stats_profile.png)
-
+![](/img/commands/stats_profile.png)
 <br>
   
 # Setup - Final words
-> Zoe is an actively developed bot that offers a ⭐[premium subscription](/en/support)⭐ to support its development. This subscription offers some additional options but is by far not mandatory. 
-For more information: [Subscription Wiki page](/en/support), [Boosting](/en/Zoe-Points-And-Boosting), [`/subscription`](/en/commands/subscription/subscription) and [`/boost`](/en/commands/subscription/boost)  
+Zoe is an actively developed bot that offers a [<kbd>⭐ premium subscription ⭐</kbd>](/en/support) to support its development. This subscription offers some additional options but is by far not mandatory. 
+For more information: [Support us](/en/support), [Boosting](/en/Zoe-Points-And-Boosting), [`/subscription`](/en/commands/subscription/subscription) and [`/boost`](/en/commands/subscription/boost) 
+
 - [Commands *If you want to see the list of commands: `/help` or click here.*](/en/commands)
 - [Discord Server *If you have any questions, suggestions or need help, please come here*](https://discord.gg/whc5PrC)
-- [Setup *To review the setup help message, do the command: `/setup`*](/en/commands/administrative/setup)
+- [Setup *To review the setup help message, use `/setup`*](/en/commands/administrative/setup)
 {.links-list}
