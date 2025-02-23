@@ -2,7 +2,7 @@
 title: Zoe Einrichtung
 description: Auf dieser Seite erfährst du, wie du Zoe auf deinem Discord-Server einrichten kannst.
 published: true
-date: 2025-02-23T17:19:25.221Z
+date: 2025-02-23T17:20:23.534Z
 tags: setup, einrichten, einrichtung, start
 editor: markdown
 dateCreated: 2021-08-16T13:05:23.601Z
@@ -87,7 +87,7 @@ Direkt danach musst du die Standard League of Legends [Serverregion](/de/terms/r
 
 Jetzt sendet Zoe eine neue Nachricht über das nächste Vorgehen. Lies dazu mehr in der nächsten Sektion.
 
-**Du kannst jetzt _dieser Seite_ folgen (empfohlen), wenn du dir nicht sicher bist, was du willst und dir einen Überblick verschaffen willst, oder mit dem [Leitfaden für einen Server mit Freunden oder für ein Team](/en/Guides/Team-Server) oder dem [Leitfaden für einen Community-Server](/de/Guides/Community-Server) fortfahren, um differenzierte Listen zu sehen.**
+**Du kannst jetzt _dieser Seite_ folgen (empfohlen), wenn du dir nicht sicher bist, was du willst und dir einen Überblick verschaffen willst, oder mit dem [Leitfaden für einen Server mit Freunden oder für ein Team](/en/Guides/Team-Server) oder dem [Leitfaden für einen Community-Server](/en/Guides/Community-Server) fortfahren, um differenzierte Listen zu sehen.**
 
 <br>
 
