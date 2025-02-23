@@ -2,7 +2,7 @@
 title: Zoe Features
 description: In here you find all core features explained.
 published: true
-date: 2025-02-22T19:06:04.237Z
+date: 2025-02-23T17:49:20.340Z
 tags: features, core, core features, feature
 editor: markdown
 dateCreated: 2021-07-06T09:25:25.035Z
@@ -25,13 +25,13 @@ dateCreated: 2021-07-06T09:25:25.035Z
       <a href="/en/features/rankchannel">Learn More</a>
     </div>
     <div class="feature">
-      <img src="/en_/en_leaderboard_championmasterypoints.png" alt="Leaderboards"/>
+      <img src="/img/features/leaderboard_championmastery.png" alt="Leaderboards"/>
       <h2><i class="mdi mdi-dice-d10-outline"></i> Leaderboards</h2>
       <p>With leaderboards up to 100 players can compare themselves in a selected category.</p>
       <a href="/en/features/leaderboards">Learn More</a>
     </div>
     <div class="feature">
-      <img src="/en_/en_clashchannel_active.png" alt="Clashchannel"/>
+      <img src="/img/features/clashchannel_active.png" alt="Clashchannel"/>
       <h2><i class="mdi mdi-tournament"></i> Clashchannel</h2>
       <p>Zoe performs an analysis of a team to help with pick and ban decisions.</p>
       <a href="/en/features/clashchannel">Learn More</a>
@@ -44,25 +44,25 @@ dateCreated: 2021-07-06T09:25:25.035Z
       <a href="/en/commands/stats/profile">Learn More</a>
     </div>
     <div class="feature">
-      <img src="/en_/en_stats_teamanalysis_picks.png" alt="Stats Team Analysis"/>
+      <img src="/img/commands/stats_teamanalysis_picks.png" alt="Stats Team Analysis"/>
       <h2><i class="mdi mdi-account-group-outline"></i> Stats Team Analysis</h2>
       <p>Zoe starts an analysis for picked and banned champions and lanes.</p>
       <a href="/en/commands/stats/teamanalysis">Learn More</a>
     </div>
     <div class="feature">
-      <img src="/en_/en_stats_rankupdate.png" alt="Stats Rank Update"/>
+      <img src="/img/commands/stats_rankupdate.png" alt="Stats Rank Update"/>
       <h2><i class="mdi mdi-chart-timeline-variant-shimmer"></i> Stats Rank Update</h2>
       <p>Shows won and lost LP of players in a day, a week or a month.</p>
       <a href="/en/commands/stats/rankupdate">Learn More</a>
     </div>
     <div class="feature">
-      <img src="/en_/en_matchhistorychannel_message_extended.png" alt="Matchhistorychannel"/>
+      <img src="/img/features/matchhistorychannel_extended.png" alt="Matchhistorychannel"/>
       <h2><i class="mdi mdi-history"></i> Matchhistorychannel</h2>
       <p>Allows you to browse games of a player with information about every game.</p>
       <a href="/en/features/matchhistorychannel">Learn More</a>
     </div>
     <div class="feature">
-      <img src="/improved_rankroles_5.png"  alt="Rankroles"/>
+      <img src="/img/features/rankroles.jpg"  alt="Rankroles"/>
       <h2><i class="mdi mdi-account-outline"></i> Rankroles</h2>
       <p>Zoe creates Discord roles for every rank or division (premium) for all registered players.</p>
       <a href="/en/features/rankroles">Learn More</a>
