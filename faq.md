@@ -2,7 +2,7 @@
 title: FAQ - Frequently asked questions
 description: Find answers to frequently asked questions here.
 published: true
-date: 2025-01-19T22:33:06.114Z
+date: 2025-02-25T17:14:35.525Z
 tags: faq, frequently, asked, questions
 editor: markdown
 dateCreated: 2021-09-30T16:47:28.465Z
@@ -54,7 +54,7 @@ No, you don't have to do anything, but if you want to force a manual refresh you
 
 ## Which features for TFT does Zoe offer?
 We've compiled a list of TFT-features for you here:
-- [TFT features](/en/troubleshooting) 
+- [TFT features](/en/features/tft) 
 {.links-list}
 
 <br>
