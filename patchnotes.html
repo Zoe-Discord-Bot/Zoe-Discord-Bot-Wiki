@@ -2,7 +2,7 @@
 title: Zoe Patchnotes
 description: Here you can have a look at Zoe's patchnotes.
 published: true
-date: 2025-03-20T08:38:36.279Z
+date: 2025-04-21T14:50:06.090Z
 tags: patch, patch notes, version, patch note
 editor: ckeditor
 dateCreated: 2021-07-13T11:20:02.526Z
@@ -18,15 +18,15 @@ dateCreated: 2021-07-13T11:20:02.526Z
     <tbody>
       <tr>
         <th><strong>Current version:</strong></th>
-        <td><strong>v1.13.15</strong></td>
+        <td><strong>v1.14.0</strong></td>
       </tr>
       <tr>
         <th><strong>Main novelty(s):</strong></th>
-        <td><strong>Leaderboard Team Filters</strong></td>
+        <td><strong>Refresh System per Account Rework</strong></td>
       </tr>
       <tr>
         <th><strong>Date of update:</strong></th>
-        <td><strong>19/03/2025</strong></td>
+        <td><strong>21/04/2025</strong></td>
       </tr>
       <tr>
         <th>&nbsp;</th>
@@ -34,7 +34,7 @@ dateCreated: 2021-07-13T11:20:02.526Z
       </tr>
       <tr>
         <th>Next update:</th>
-        <td>v1.14 (<a href="https://wiki.zoe-discord-bot.ch/en/Development-Status">Dev status</a>)</td>
+        <td>v1.14.1 (<a href="https://wiki.zoe-discord-bot.ch/en/Development-Status">Dev status</a>)</td>
       </tr>
     </tbody>
   </table>
@@ -58,6 +58,38 @@ dateCreated: 2021-07-13T11:20:02.526Z
       </tr>
     </thead>
     <tbody>
+      <tr>
+        <td>V1.14.0</td>
+        <td>21/04/2025</td>
+        <td>
+          <h2>Refresh System Per Account Rework &amp; QOL&nbsp;</h2>
+          <h3>V1.13.15 → V1.14.0</h3>
+          <p>Hello everyone! I'm thrilled to announce a major update focused on <strong>reliability, accuracy and responsiveness</strong> of Zoe. These issues have been a pain point for a long time, and it's long overdue for something to be done. Zoe should be way quicker to send messages related to the start of games, rank changes and end of games, especially after the first game of a session. <strong>Large servers now have a new "Player Activity Hub" Infopanel</strong>, to avoid the unreadable wall of text which sometimes was close to 300 messages in some huge servers.</p>
+          <p>Some QOL and bugfixes have also been added, the add command can now be used on Discord user which are not already registered on Zoe and some Clash bug fix have been made.</p>
+          <p>&nbsp;</p>
+          <p>Changelist:</p>
+          <p><strong>Reworked Refresh System</strong></p>
+          <p>Accounts are now refreshed independently every 20 minutes (with premium servers enjoying faster refresh rates of 10 minutes or 5 minutes based on their size). Zoe intelligently detects games and adjusts the refresh schedule <i>per account </i>accordingly:</p>
+          <ul>
+            <li>One refresh between 7-8 minutes into the game.</li>
+            <li>Every 2 minutes after 15 minutes into an ongoing game.</li>
+            <li>Every 2 minutes after a game finishes for 5 minutes. (for a duration of 20 minutes, assuming that a player is likely to replay a game after completing one.)</li>
+          </ul>
+          <p>Additionally, the infopanel and leaderboard will now refresh only when changes occur, which coupled with a lot of internal optimization drastically reduce the Discord API requests by a factor of 5!</p>
+          <p>This should greatly improve refresh latency and accuracy.</p>
+          <p>&nbsp;</p>
+          <ul>
+            <li>&nbsp;<strong>NEW FEATURE</strong> A new type of infopanel has been created for huge servers (more than 120 leagues accounts) called "Player Activity Hub", showing the players currently in a game and the last 10 rank changes (with the team on the left). If a huge amount of smaller servers asks for this type of infopanel for smaller servers, this will be added as an option in the future.</li>
+            <li><strong>QOL</strong> The <code>/add account</code> command can now be used with users without any registered accounts!</li>
+            <li><strong>QOL </strong>The infopanel has been decluttered to be more readable (no need to say that Diamond 4 is a rank :p)</li>
+            <li><strong>Bug Fix</strong> Fixed performance issues related to master rank in EUW slowing down the whole app (more than 10.000 poeple are master in EUW which caused a lot of issues)</li>
+            <li><strong>Bug Fix</strong> Clash Channel issues related to a change in the API, Clash channel should now work as inteeded (if Riot's servers are not exploding).</li>
+            <li>&nbsp;</li>
+          </ul>
+          <p><i>As always, if you encounter any bugs or have suggestions, please report them through the appropriate channels. If you'd like to support Zoe’s continued development and gain early access to exciting new features, you can support here: https://ko-fi.com/kalunight/tiers (Thank you so much!).</i></p>
+          <p><strong>Special thanks to all our incredible supporters, including ThaNightHawk, KHY, Fabian B., Pierre P., PhoenixXJ, EloHunters Baz, aclcdarktronic, SUNBOOP, and all our supporters in the lower tiers!</strong></p>
+        </td>
+      </tr>
       <tr>
         <td>V1.13.15</td>
         <td>19/03/2025</td>
