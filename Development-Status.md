@@ -2,7 +2,7 @@
 title: Zoe Development Status
 description: If you are interested in what features await you in the future, you can get an insight here.
 published: true
-date: 2025-04-21T15:58:09.677Z
+date: 2025-04-21T16:00:22.961Z
 tags: dev, status, dev status, development, development status, future, next features
 editor: markdown
 dateCreated: 2023-05-11T20:07:22.784Z
@@ -14,9 +14,9 @@ Generally, the changes listed on this page are implemented. However, we do not g
 
 <fieldset>
   <legend>Status Indicators</legend>
-      <span class="status status-scheduled">⚪</span> <b>Scheduled</b> – We are aware of this feature/change and have it planned for a patch.<br>
-      <span class="status status-development">🔵</span> <b>In Development</b> – The feature/change is currently being worked on<br>
-      <span class="status status-deployed">🟢</span> <b>Deployed</b> – The feature/change is made available to all Zoe users
+      ⚪ <b>Scheduled</b> – We are aware of this feature/change and have it planned for a patch<br>
+      🔵 <b>In Development</b> – The feature/change is currently being worked on<br>
+      🟢 <b>Deployed</b> – The feature/change is made available to all Zoe users
   </fieldset>
   
   <br>
