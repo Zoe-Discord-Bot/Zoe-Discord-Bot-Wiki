@@ -2,7 +2,7 @@
 title: Zoe Development Status
 description: If you are interested in what features await you in the future, you can get an insight here.
 published: true
-date: 2025-04-21T16:48:38.829Z
+date: 2025-04-21T16:49:05.026Z
 tags: dev, status, dev status, development, development status, future, next features
 editor: markdown
 dateCreated: 2023-05-11T20:07:22.784Z
@@ -40,10 +40,10 @@ Generally, the changes listed on this page are implemented. However, we do not g
   </ul>
  </div>
  
- <div class="version version-development">
+ <div class="version version-scheduled">
   <h3>Version 1.16 - Early Game Advice</h3>
   <ul>
-    <li>🔵 <b>Feature</b>: Gives you advice for your enemy player and champion at the start of a game</li>
+    <li>⚪ <b>Feature</b>: Gives you advice for your enemy player and champion at the start of a game</li>
   </ul><br>Version 1.16.1<br>
   <ul>
     <li>⚪ <b>Command</b>: Adding Champion analysis as separate command</li>
@@ -54,15 +54,15 @@ Generally, the changes listed on this page are implemented. However, we do not g
   <ul>
     <li>⚪ <b>QoL (Feature)</b>: Add lane icons to clashchannel, predictrole and team-analysis</li>
     <li>⚪ <b>QoL (Feature)</b>: New layout for /stats predictrole</li>
-    <li>🔵 <b>Feature</b>: Lane roles – assigned based on recent lane history</li>
+    <li>⚪ <b>Feature</b>: Lane roles – assigned based on recent lane history</li>
     <li>⚪ <b>QoL (Feature)</b>: Rank Roles (Free & Premium): Add "Unranked/In Placements" role for start of season & unranked players</li>
   </ul>
   </div>
   
-   <div class="version version-development">  
+   <div class="version version-scheduled">  
   <h3>Version 1.17 - Patchnotes</h3>
   <ul>
-    <li>🔵 <b>Feature</b>: Provides Patchnotes in a channel of your choice</li>
+    <li>⚪ <b>Feature</b>: Provides Patchnotes in a channel of your choice</li>
   </ul><br>Version 1.17.1<br>
   <ul>
     <li>⚪ <b>Feature</b>: Winrate leaderboard (general, per champion or per queue – last 30 days)</li>
