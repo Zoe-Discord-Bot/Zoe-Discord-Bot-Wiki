@@ -2,7 +2,7 @@
 title: Zoe Development Status
 description: If you are interested in what features await you in the future, you can get an insight here.
 published: true
-date: 2024-10-03T16:32:19.578Z
+date: 2025-04-21T15:03:12.484Z
 tags: dev, status, dev status, development, development status, future, next features
 editor: markdown
 dateCreated: 2023-05-11T20:07:22.784Z
@@ -31,15 +31,6 @@ dateCreated: 2023-05-11T20:07:22.784Z
 
 ### <span style="color:#1565c0">1.14</span> &nbsp; <span style="color:#757575"> AI Match Summary and Quality of Life</span>
 
--   🏁 **QoL (Config)**: Add a setting that allows to enable the command to add a player to a team for everyone
--   🏁 **QoL (Feature)**: Leaderboards will stop showing calls for action in the middle of larger leaderboards.
--   🏁 **QoL (Feature)**: Improve team-analysis to add several players in one command
--   🏁 **QoL (Feature)**: Infochannel Sorting by rank will also affect accounts of players
-
--   🔴 **Feature**: AI Match Summary (summarizes a game in text in a way that you can choose)
--   🔴 **Feature**: SoloQ Teammate finder
--   🟡 **QoL (Feature)**: Small change to matchhistorychannel and command to increase visibility of KDA
--   🟡 **QoL (Feature)**: Clean up champion analysis
 -   ⚪ **QoL (Feature)**: Show killparticipation in rankchannel messages
 -   ⚪ **QoL (Config)**: Adding server region filtering option for the rankchannel
 -   ⚪ **QoL (Feature)**: Show Riot Tags for every player in Infopanel (Replaces "Currently not ingame")
