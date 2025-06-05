@@ -2,7 +2,7 @@
 title: Leaderboards - Feature
 description: Information about all leaderboards.
 published: true
-date: 2025-02-10T19:25:42.608Z
+date: 2025-06-05T18:48:05.756Z
 tags: leaderboard, leader, leaderboards, top 10, top 20, top 50, top 100, best player
 editor: markdown
 dateCreated: 2021-07-06T10:11:35.527Z
@@ -23,12 +23,14 @@ The following goals can be aimed at: Total Mastery Points, Mastery Points on a c
 
 | **Leaderboard** | **Details** | **Example** |
 | --- | --- | --- |
-| **Total Mastery Points** | Account with highest total mastery points is shown. The mastery points are not summarised. | ![](/en_/en_leaderboard_totalmasterypoints.png) |
-| **Mastery Points (Champion)** | Account with highest mastery points on the champion is shown. The mastery points are not summarised. | ![](/en_/en_leaderboard_championmasterypoints.png) |
-| **Rank in Queue (Solo/DuoQ)** | Account with highest rank is shown. | ![](/en_/en_leaderboard_rank.png) |
-| **Average KDA** | All summoners rift games (Quickplay & Draft, Ranked Solo/Duo & Flex) in the last month are taken into account. Only the account with the highest KDA is shown. | ![](/en_/en_leaderboard_kda.png) |
-| **Best Champion** | Account and champion with highest mastery points on the champion is shown is shown. The mastery points are not summarised. | ![](/en_/en_leaderboard_otp.png) |
-| **Account Level** | Account with highest level is shown. The levels are not summarised. | ![](/en_/en_leaderboard_accountlevel.png) |
+| **Total Mastery Points** | Account with highest total mastery points is shown. The mastery points are not summarised. | ![](/img/features/leaderboard_totalmastery.png) |
+| **Mastery Points (Champion)** | Account with highest mastery points on the champion is shown. The mastery points are not summarised. | ![](/img/features/leaderboard_championmastery.png) |
+| **Rank (Highest)** | Highest rank of all accounts is shown. | ![](/img/features/leaderboard_allrank.png) |
+| **Rank in Queue (Solo/DuoQ)** | Account with highest Solo/DuoQ rank is shown. | ![](/img/features/leaderboard_rank.png) |
+| **Average KDA** | All summoners rift games (Quickplay & Draft, Ranked Solo/Duo & Flex) in the last month are taken into account. Only the account with the highest KDA is shown. | ![](/img/features/leaderboard_kda.png) |
+| **Best Champion** | Account and champion with highest mastery points on the champion is shown is shown. The mastery points are not summarised. | ![](/img/features/leaderboard_otp.png) |
+| **Account Level** | Account with highest level is shown. The levels are not summarised. | ![](/img/features/leaderboard_accountlevel.png) |
+| **Betting points** | Current amount of betting points on one server only. | ![](/img/features/leaderboard_betting.png) |
 
 <br>
 
