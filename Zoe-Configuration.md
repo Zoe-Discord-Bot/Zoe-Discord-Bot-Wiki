@@ -2,7 +2,7 @@
 title: Zoe Configuration
 description: Find out about how you can configure Zoe.
 published: true
-date: 2025-02-12T18:30:45.577Z
+date: 2025-06-09T12:48:06.692Z
 tags: config, configuration, setting, settings, option, options
 editor: markdown
 dateCreated: 2023-04-13T06:38:44.182Z
@@ -94,4 +94,5 @@ When you enter the command [`/config`](/en/commands/administrative/config) a mes
 
 ## ✅ Additional features
 -  [:one: Clean channel*Creates a “clean channel” in which Zoe commands/all messages can be deleted automatically after a few seconds.*](/en/Zoe-Configuration/Additional/Cleanchannel)
+-  [:two: Betting system*Enables/Disables the betting messages in the rankchannel.*](/en/Zoe-Configuration/Additional/Betting)
 {.links-list}
