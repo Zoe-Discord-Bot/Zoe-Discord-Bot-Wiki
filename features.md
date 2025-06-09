@@ -2,7 +2,7 @@
 title: Zoe Features
 description: In here you find all core features explained.
 published: true
-date: 2025-02-23T17:49:20.340Z
+date: 2025-06-09T12:48:25.003Z
 tags: features, core, core features, feature
 editor: markdown
 dateCreated: 2021-07-06T09:25:25.035Z
@@ -23,6 +23,12 @@ dateCreated: 2021-07-06T09:25:25.035Z
       <h2><i class="mdi mdi-trophy-outline"></i> Rankchannel</h2>
       <p>In the rankchannel it is possible to track the players' ranked progress.</p>
       <a href="/en/features/rankchannel">Learn More</a>
+    </div>
+    <div class="feature">
+      <img src="/img/features/betting.png" alt="Betting"/>
+      <h2><i class="mdi mdi-slot-machine"></i> Betting</h2>
+      <p>In the rankchannel you can bet on other players' game outcomes.</p>
+      <a href="/en/features/betting">Learn More</a>
     </div>
     <div class="feature">
       <img src="/img/features/leaderboard_championmastery.png" alt="Leaderboards"/>
