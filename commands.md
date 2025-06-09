@@ -2,7 +2,7 @@
 title: Zoe Commands
 description: In here you find all commands listed.
 published: true
-date: 2025-02-21T10:57:25.310Z
+date: 2025-06-09T12:41:02.059Z
 tags: commands, cmd, cmds, order, orders, command
 editor: markdown
 dateCreated: 2021-07-05T11:30:13.397Z
@@ -67,6 +67,7 @@ dateCreated: 2021-07-05T11:30:13.397Z
 - [/add account *This command is used to connect another/secondary League of Legends account with a player in discord.*](/en/commands/player/addaccount)
 - [/remove account *Removes the named account from the mentioned player.*](/en/commands/player/removeaccount)
 - [/banaccount *Launches the banlist wizard. This allows you (an lol account owner) to delete their account from other servers and add it to the banlist to make it impossible for others to add it.*](/en/commands/player/banaccount)
+- [/show bet-points *Shows how many bet-points you or another player has.*](/en/commands/player/show-betpoints)
 {.links-list}
 
 # Team Commands
