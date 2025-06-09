@@ -2,7 +2,7 @@
 title: Zoe Setup
 description: On this site you can learn about how to setup Zoe in your Discord Server.
 published: true
-date: 2025-02-23T17:19:24.219Z
+date: 2025-06-09T13:02:38.163Z
 tags: setup, initialise, set up
 editor: markdown
 dateCreated: 2021-07-05T11:16:55.742Z
@@ -153,6 +153,7 @@ This feature allows you to create leaderboards that refresh automatically. Sever
 -   Average KDA on a champion
 -   Best Champion ("OTP")
 -   Account Level
+- 	Betting points
 
 ![](/img/features/leaderboard_championmastery.png)
 
