@@ -2,7 +2,7 @@
 title: Zoe Commands
 description: In here you find all commands listed.
 published: true
-date: 2025-06-09T12:41:02.059Z
+date: 2025-08-18T19:43:26.254Z
 tags: commands, cmd, cmds, order, orders, command
 editor: markdown
 dateCreated: 2021-07-05T11:30:13.397Z
@@ -23,6 +23,9 @@ dateCreated: 2021-07-05T11:30:13.397Z
 - [/reset *The command performs a reset for your server. It resets the current configuration of your server. Try using this command when something is not going right.*](/en/commands/administrative/reset/)
 - [/patchnotes *This command sends you the current Zoe patchnotes which are in English.*](/en/commands/administrative/patchnotes/)
 - [/rawserverdata *When you execute this command, Zoe sends you the raw data of the players of your server.*](/en/commands/administrative/rawserverdata)
+- [/ *.*](/en/commands/administrative/)
+- [/ *.*](/en/commands/administrative/)
+- [/ *.*](/en/commands/administrative/)
 {.links-list}
 
 # Channel Feature Commands
@@ -67,7 +70,8 @@ dateCreated: 2021-07-05T11:30:13.397Z
 - [/add account *This command is used to connect another/secondary League of Legends account with a player in discord.*](/en/commands/player/addaccount)
 - [/remove account *Removes the named account from the mentioned player.*](/en/commands/player/removeaccount)
 - [/banaccount *Launches the banlist wizard. This allows you (an lol account owner) to delete their account from other servers and add it to the banlist to make it impossible for others to add it.*](/en/commands/player/banaccount)
-- [/show bet-points *Shows how many bet-points you or another player has.*](/en/commands/player/show-betpoints)
+- [/show bet-points & /bets show *Shows how many bet-points you or another player has.*](/en/commands/player/show-betpoints)
+- [/bets give *This command allows you to give a specific number of your points to a specific user.*](/en/commands/player/betsgive)
 {.links-list}
 
 # Team Commands
