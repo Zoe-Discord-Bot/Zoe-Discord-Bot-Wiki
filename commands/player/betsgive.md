@@ -2,7 +2,7 @@
 title: /bets give- Command
 description: Information about the /show bet-points command
 published: true
-date: 2025-08-18T19:29:32.373Z
+date: 2025-08-18T19:29:40.937Z
 tags: betting, bet points, points, give, bets give
 editor: markdown
 dateCreated: 2025-08-18T19:29:32.373Z
@@ -32,7 +32,7 @@ dateCreated: 2025-08-18T19:29:32.373Z
             </div>
               <div class="dcp-arg">
                 <span class="dcp-arg-label">amount</span>
-                <span class="dcp-arg-value"> 5000</span>
+                <span class="dcp-arg-value"> 1000</span>
             </div>
         </div>
         <button class="dcp-send-btn">&#10148;</button> 
