@@ -2,7 +2,7 @@
 title: Zoe Patchnotes
 description: Here you can have a look at Zoe's patchnotes.
 published: true
-date: 2025-06-06T09:46:20.605Z
+date: 2025-08-18T19:04:15.995Z
 tags: patch, patch notes, version, patch note
 editor: ckeditor
 dateCreated: 2021-07-13T11:20:02.526Z
@@ -18,15 +18,15 @@ dateCreated: 2021-07-13T11:20:02.526Z
     <tbody>
       <tr>
         <th><strong>Current version:</strong></th>
-        <td><strong>v1.15.0</strong></td>
+        <td><strong>v1.15.1</strong></td>
       </tr>
       <tr>
         <th><strong>Main novelty(s):</strong></th>
-        <td><strong>Betting system</strong></td>
+        <td><strong>Betting system improvements</strong></td>
       </tr>
       <tr>
         <th><strong>Date of update:</strong></th>
-        <td><strong>06/06/2025</strong></td>
+        <td><strong>16/08/2025</strong></td>
       </tr>
       <tr>
         <th>&nbsp;</th>
@@ -34,7 +34,7 @@ dateCreated: 2021-07-13T11:20:02.526Z
       </tr>
       <tr>
         <th>Next update:</th>
-        <td>v1.15.1 (<a href="https://wiki.zoe-discord-bot.ch/en/Development-Status">Dev status</a>)</td>
+        <td>v1.15.2 (<a href="https://wiki.zoe-discord-bot.ch/en/Development-Status">Dev status</a>)</td>
       </tr>
     </tbody>
   </table>
@@ -59,6 +59,32 @@ dateCreated: 2021-07-13T11:20:02.526Z
     </thead>
     <tbody>
       <tr>
+        <td>V1.5.1</td>
+        <td>16/08/2025</td>
+        <td>
+          <h2>Betting system improvements</h2>
+          <h3>V1.15.0 → V1.15.1</h3>
+          <p><strong>Hello!</strong></p>
+          <p>We are adding commands that are frequently requested by users so that they can use the points system as they wish! Commands that allow you to reset the points for the entire server (admin command), transfer your points to a friend, and easily delete or create points for specific players (admin commands). We are also adding the ability to place bets in the infochannel! This makes the feature accessible without overloading the rankchannel.&nbsp;</p>
+          <p>Here is the complete list of changes:.</p>
+          <p><br><strong>Changelist:</strong></p>
+          <ul>
+            <li><strong>NEW COMMAND</strong> - <code>/bets give</code> This command allows you to give a specific number of your points to a specific user. Anyone can use it.,</li>
+            <li><strong>NEW COMMAND</strong> -<code>/bets reset</code> This command allows you to reset all users' scores to a specific value (1000 by default). With a premium subscription, you can set a custom value. You need the <i>Manage Channel</i> permission to use it.</li>
+            <li><strong>NEW PREMIUM COMMAND&nbsp;</strong> <code>/bets remove</code> With this command, you can deduct a certain number of points from a player. You need the <i>Manage Channel</i> permission to use it</li>
+            <li><strong>NEW PREMIUM COMMAND </strong><code><strong>/</strong>bets grant</code> This command allows you to give a player a certain number of points without changing your own points. You need the <i>Manage Channel</i> permission to use it.</li>
+            <li><strong>NEW FEATURE</strong> - Rank channel messages now show kill participation!,</li>
+            <li><strong>QOL</strong> - Each player's full Riot ID is now always displayed in the infochannel.,</li>
+            <li><strong>QOL</strong> - Using the command <code>/register</code>, <code>/create player</code> and <code>/add account</code> now triggers an update to the infochannel.,</li>
+            <li><strong>QOL</strong> - You can now bet points directly on gamecards in the infochannel!,</li>
+            <li><strong>QOL</strong> - A new <code>/bets show</code> command has been added, allowing you to view the bet points of a specific user. This is an alias for <code>/show bet-points</code>.</li>
+          </ul>
+          <p>&nbsp;</p>
+          <p><i>As always, if you encounter any bugs or have suggestions, please report them through the appropriate channels.</i> If you'd like to support Zoe’s continued development and gain access to exciting new features, you can support here: <a href="https://ko-fi.com/kalunight/tiers">https://ko-fi.com/kalunight/tiers</a> (Thank you so much!).&nbsp;</p>
+          <p><strong>Special thanks to all our incredible supporters, including BANKAILEESIN, ThaNightHawk, KHY, Fabian B., Pierre P., PhoenixXJ, EloHunters Baz, aclcdarktronic, SUNBOOP, and all our supporters in the lower tiers!</strong></p>
+        </td>
+      </tr>
+      <tr>
         <td>V1.15.0</td>
         <td>06/06/2025</td>
         <td>
@@ -72,7 +98,7 @@ dateCreated: 2021-07-13T11:20:02.526Z
             <li><strong>NEW FEATURE</strong> – The betting system is now live! New messages will begin appearing in the <strong>Rankchannel</strong>, allowing users to bet on games. To place bets, users must be registered with at least one League of Legends account.</li>
             <li><strong>NEW COMMAND</strong> – Use /show bet-points to check how many points you (or another user) currently have. This command also shows how many points you've earned from League games.</li>
             <li><strong>NEW LEADERBOARD</strong> – A new "Bet Points" leaderboard is now available! See who the top bettors on the server are.</li>
-            <li><strong>NEW OPTION</strong> – Don’t want to use the betting system? You can disable it via <code>/config</code> → <code>Additional Features</code> → <code>Betting system.&nbsp;</code><br><strong>Note:</strong> If a user is deleted, all of their points will be lost within the server!</li>
+            <li><strong>NEW OPTION</strong> – Don’t want to use the betting system? You can disable it via <code>/config</code> → <code>Additional Features</code> → <code>Betting system</code><br><strong>Note:</strong> If a user is deleted, all of their points will be lost within the server!</li>
           </ul>
           <p><i>As always, if you encounter any bugs or have suggestions, please report them through the appropriate channels.</i> If you'd like to support Zoe’s continued development and gain access to exciting new features, you can support here: <a href="https://ko-fi.com/kalunight/tiers">https://ko-fi.com/kalunight/tiers</a> (Thank you so much!).&nbsp;</p>
           <p><strong>Special thanks to all our incredible supporters, including The One, Unrealrange, ThaNightHawk, Fabian B., Pierre P., PhoenixXJ, aclcdarktronic, SUNBOOP, and all our supporters in the lower tiers!</strong></p>
