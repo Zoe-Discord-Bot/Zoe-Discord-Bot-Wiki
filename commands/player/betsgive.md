@@ -1,8 +1,8 @@
 ---
-title: /bets give- Command
+title: /bets give - Command
 description: Information about the /show bet-points command
 published: true
-date: 2025-08-18T19:29:40.937Z
+date: 2025-08-18T19:30:28.359Z
 tags: betting, bet points, points, give, bets give
 editor: markdown
 dateCreated: 2025-08-18T19:29:32.373Z
