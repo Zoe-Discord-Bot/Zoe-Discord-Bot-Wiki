@@ -2,7 +2,7 @@
 title: About the project
 description: Learn about Zoe and it's background.
 published: true
-date: 2025-09-07T11:29:18.500Z
+date: 2025-09-07T11:29:35.084Z
 tags: info, about, information, system, links
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
@@ -90,7 +90,7 @@ With Zoe you get statistics like champions played, [tips for every champion](/en
 <br>
 
 ## Our mission *(by timfernix)*{.caption .grey--text}
-> I am currently pursuing the goal of enriching the League of Legends community, helping players maximize their experience, making it possible to learn as much as possible from the encounters and have fun. Whether you're an ambitious competitive player or a casual gamer, Zoe is here to provide you with valuable information and support.
+> I am pursuing the goal of enriching the League of Legends community, helping players maximize their experience, making it possible to learn as much as possible from the encounters and have fun. Whether you're an ambitious competitive player or a casual gamer, Zoe is here to provide you with valuable information and support.
 >
 > Zoe is your faithful companion on all adventures on the rift and will make sure you always have the data and information you need to achieve your goals.
 Whether it's seeing what's most important in your stats and monitoring your performance over time, or comparing yourself competitively (or for fun) with other players and your friends.
