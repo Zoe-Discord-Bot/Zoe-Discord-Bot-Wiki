@@ -2,7 +2,7 @@
 title: Zoe Features
 description: In here you find all core features explained.
 published: true
-date: 2025-06-09T12:48:25.003Z
+date: 2025-09-07T11:40:38.585Z
 tags: features, core, core features, feature
 editor: markdown
 dateCreated: 2021-07-06T09:25:25.035Z
@@ -72,6 +72,12 @@ dateCreated: 2021-07-06T09:25:25.035Z
       <h2><i class="mdi mdi-account-outline"></i> Rankroles</h2>
       <p>Zoe creates Discord roles for every rank or division (premium) for all registered players.</p>
       <a href="/en/features/rankroles">Learn More</a>
+    </div>
+    <div class="feature">
+      <img src="/img/features/betting.png"  alt="Betting"/>
+      <h2><i class="mdi mdi-account-outline"></i> Betting</h2>
+      <p>Lets you bet on the outcome of your friends games.</p>
+      <a href="/en/features/betting">Learn More</a>
     </div>
   </div>
 </div>
