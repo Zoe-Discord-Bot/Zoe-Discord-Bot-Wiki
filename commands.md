@@ -2,7 +2,7 @@
 title: Zoe Commands
 description: In here you find all commands listed.
 published: true
-date: 2025-08-18T19:43:26.254Z
+date: 2025-09-07T11:25:02.112Z
 tags: commands, cmd, cmds, order, orders, command
 editor: markdown
 dateCreated: 2021-07-05T11:30:13.397Z
@@ -23,9 +23,9 @@ dateCreated: 2021-07-05T11:30:13.397Z
 - [/reset *The command performs a reset for your server. It resets the current configuration of your server. Try using this command when something is not going right.*](/en/commands/administrative/reset/)
 - [/patchnotes *This command sends you the current Zoe patchnotes which are in English.*](/en/commands/administrative/patchnotes/)
 - [/rawserverdata *When you execute this command, Zoe sends you the raw data of the players of your server.*](/en/commands/administrative/rawserverdata)
-- [/ *.*](/en/commands/administrative/)
-- [/ *.*](/en/commands/administrative/)
-- [/ *.*](/en/commands/administrative/)
+- [/bets grant *Use this command to grant a specific number of bet-points to a player without reducing your own.*](/en/commands/administrative/betsgrant)
+- [/bets remove *Use this command to deduct a specific number of bet-points from a player.*](/en/commands/administrative/betsremove)
+- [/bets reset *se this command to reset all users’ bet-points on a server to a specific value.*](/en/commands/administrative/betsreset)
 {.links-list}
 
 # Channel Feature Commands
