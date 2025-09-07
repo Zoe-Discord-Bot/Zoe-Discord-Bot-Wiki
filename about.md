@@ -2,7 +2,7 @@
 title: About the project
 description: Learn about Zoe and it's background.
 published: true
-date: 2025-02-10T19:05:01.920Z
+date: 2025-09-07T11:29:18.500Z
 tags: info, about, information, system, links
 editor: markdown
 dateCreated: 2023-09-15T18:12:02.890Z
@@ -56,9 +56,9 @@ With Zoe you get statistics like champions played, [tips for every champion](/en
     </div>
   </div>
   <div class="profile-container">
-    <div class="banner" style="background-image: url('https://cdn.discordapp.com/banners/557297296526671872/a_b4ed82118b949ad8062d97c88dceb656.gif?size=1024');"></div> 
+    <div class="banner" style="background-image: url('');"></div> 
     <div class="profile-content">
-      <img class="profile-picture" src="https://cdn.discordapp.com/avatars/557297296526671872/a81038d05900dc2b3d6a55b9d0bf9aea.png?size=1024" alt="Profile Picture"> 
+      <img class="profile-picture" src="https://cdn.discordapp.com/avatars/557297296526671872/15d3980d81ea4b34f69798f149aeee52.png?size=1024" alt="Profile Picture"> 
       <div class="profile-info">
         <h1>pesooo</h1>
         <p>Discord Moderator</p>
@@ -68,7 +68,7 @@ With Zoe you get statistics like champions played, [tips for every champion](/en
   <div class="profile-container">
     <div class="banner" style="background-image: url('');"></div> 
     <div class="profile-content">
-      <img class="profile-picture" src="https://cdn.discordapp.com/avatars/323247267802906624/b641b9d4070017405999bcb7f7ae17f1.png?size=1024" alt="Profile Picture"> 
+      <img class="profile-picture" src="https://cdn.discordapp.com/avatars/323247267802906624/13aa77961291cd2d29325caa9305cda7.png?size=1024" alt="Profile Picture"> 
       <div class="profile-info">
         <h1>Santi</h1>
         <p>Discord Moderator</p>
