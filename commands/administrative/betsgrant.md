@@ -1,9 +1,9 @@
 ---
-title: Untitled Page
-description: 
+title: /bets grant - Command
+description: Information about the /bets grant command
 published: true
-date: 2025-09-07T11:17:28.089Z
-tags: 
+date: 2025-09-07T11:18:20.995Z
+tags: betting, bet points, points, grant, bets grant
 editor: markdown
 dateCreated: 2025-09-07T11:17:28.089Z
 ---
