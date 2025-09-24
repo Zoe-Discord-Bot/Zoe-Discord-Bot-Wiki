@@ -2,7 +2,7 @@
 title: Zoe Development Status
 description: If you are interested in what features await you in the future, you can get an insight here.
 published: true
-date: 2025-08-09T16:35:52.856Z
+date: 2025-09-24T22:07:05.323Z
 tags: dev, status, dev status, development, development status, future, next features
 editor: markdown
 dateCreated: 2023-05-11T20:07:22.784Z
@@ -31,7 +31,11 @@ Generally, the changes listed on this page are implemented. However, we do not g
     <li>⚪ <b>QoL (Config)</b>: Adding server region filtering option for the rankchannel</li>
     <li>🟢 <b>QoL (Feature)</b>: Show Riot Tags for every player in Infopanel (Replaces "Currently not ingame")</li>
     <li>🟢 <b>QoL (Command)</b>: Auto refresh after /register was done to instantly add the registered player to infopanel and give their rank</li>
-  </ul><br>Version 1.15.2<br>
+  </ul>
+  <br>Version 1.15.2<br>
+  <ul>
+    <li>🟢 <b>Feature</b>: Feature to detect players you already played with</li>
+  </ul><br>Version 1.15.3<br>
   <ul>
     <li>⚪ <b>QoL</b>: Add new mastery emojis</li>
     <li>⚪ <b>QoL (Feature)</b>: Add another digit to make average KDA more detailed on leaderboards</li>
